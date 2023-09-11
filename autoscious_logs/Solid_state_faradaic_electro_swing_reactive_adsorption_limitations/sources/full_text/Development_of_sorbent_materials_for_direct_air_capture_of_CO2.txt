@@ -1,0 +1,392 @@
+Development of sorbent materials for direct air capture of CO2
+https://link.springer.com/article/10.1557/s43577-022-00320-7
+We use cookies to make sure that our website works properly, as well as some optional cookies to personalise content and advertising, provide social media features and analyse how people use our site. By accepting some or all optional cookies you give consent to the processing of your personal data, including transfer to third parties, some in countries outside of the European Economic Area that do not offer the same data protection standards as the country where you live. You can decide which optional cookies to accept by clicking on "Manage preferences", where you can also find more information about how your personal data is processed.
+Further information can be found in our privacy policy.
+Accept all cookies
+Manage preferences
+Skip to main content
+Advertisement
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Home
+MRS Bulletin
+Article
+AbstractBuilding a carbon–neutral world requires the removal of excess CO2 that has already been dumped into the atmosphere. The technologies have been well established to remove carbon dioxide directly from ambient air, or “direct air capture” (DAC). DAC is still in its infancy, with many challenges remaining. Sorbents are central to the capture of CO2 from ambient air. Many sorbents have been reported to take up CO2, but they all have advantages and disadvantages. Recent advances in material synthesis and surface chemistry have resulted in new generations of CO2 sorbents. Development needs to progress quickly, because global warming will not wait. We summarize recent progress on designed sorbents for CO2 capture from ambient air. There are mainly six typical technologies for DAC, including physical sorption, sorption by strong bases, sorption by amine-modified materials, sorption by aqueous amino acid solution followed by precipitation with a guanidine compound, moisture-swing sorption, and electrochemical-swing sorption. Existing research works have put forward future perspectives and directions of sorbent materials for DAC technologies.Graphical abstract
+This is a preview of subscription content, access via
+your institution.
+Access options
+Buy single article
+Instant access to the full article PDF.
+USD 39.95
+Price excludes VAT (USA)
+Tax calculation will be finalised during checkout.
+Rent this article via DeepDyve.
+Learn more about Institutional subscriptions
+Figure 1Figure 2Figure 3Figure 4Figure 5Figure 6Figure 7Figure 8
+Data availability
+All data generated or analyzed during this study are included in this published article (and its supplementary information files).
+ReferencesT.F. Stocker, A. Schmittner, Nature 388, 862 (1997). https://doi.org/10.1038/42224Article
+CAS
+Google Scholar
+R.K. Pachauri, Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC, Geneva, 2014)S. Choi, J.H. Drese, C.W. Jones, ChemSusChem 2, 796 (2009). https://doi.org/10.1002/cssc.200900036Article
+CAS
+Google Scholar
+Y. Xu, C. Luo, H. Sang, B. Lu, F. Wu, X. Li, L. Zhang, Chem. Eng. J. 435 (Pt. 2), 134960 (2022). https://doi.org/10.1016/j.cej.2022.134960Article
+CAS
+Google Scholar
+Y. Xu, C. Shen, B. Lu, C. Luo, F. Wu, X. Li. L. Zhang, Carbon Capture Sci. Technol. 1, 100015 (2021). https://doi.org/10.1016/j.ccst.2021.100015Article
+CAS
+Google Scholar
+X. Shi, H. Xiao, H. Azarabadi, J. Song, X. Wu, X. Chen, K.S. Lackner, Angew. Chem. Int. Ed. 59(18), 6984 (2020). https://doi.org/10.1002/anie.201906756Article
+CAS
+Google Scholar
+K. Lackner, H.-J. Ziock, P. Grimes, Carbon Dioxide Extraction from Air: Is It An Option? (Los Alamos National Lab, New Mexico, 1999)
+Google Scholar
+D.W. Keith, M. Ha-Duong, J.K. Stolaroff, Clim. Change 74, 17 (2006). https://doi.org/10.1007/s10584-005-9026-xArticle
+CAS
+Google Scholar
+K.S. Lackner, Eur. Phys. J. Spec. Top. 176, 93 (2009). https://doi.org/10.1140/epjst/e2009-01150-3Article
+Google Scholar
+V.A. Tuan, C.H. Lee, Vietnam J. Chem. 56, 197 (2018). https://doi.org/10.1002/vjch.201800013Article
+CAS
+Google Scholar
+International Energy Agency (IEA), Special Report on Carbon Capture Utilisation and Storage, CCUS in Clean Energy Transitions (IEA, Paris, 2020). https://www.iea.org/reports/ccus-in-clean-energy-transitionsK.S. Lackner, H. Azarabadi, Ind. Eng. Chem. Res. 60, 8196 (2021). https://doi.org/10.1021/acs.iecr.0c04839Article
+CAS
+Google Scholar
+K.S. Lackner, S. Brennan, J.M. Matter, A.-H.A. Park, A. Wright, B. van der Zwaan, Proc. Natl. Acad. Sci. U.S.A. 109(33), 13156 (2012). https://doi.org/10.1073/pnas.1108765109Article
+Google Scholar
+O. Shekhah, Y. Belmabkhout, Z. Chen, V. Guillerm, A. Cairns, K. Adil, M. Eddaoudi, Nat. Commun. 5, 4228 (2014). https://doi.org/10.1038/ncomms5228Article
+CAS
+Google Scholar
+M. Oschatz, M. Antonietti, Energy Environ. Sci. 11, 57 (2018). https://doi.org/10.1039/C7EE02110KArticle
+CAS
+Google Scholar
+V. Presser, J. McDonough, S.-H. Yeon, Y. Gogotsi, Energy Environ. Sci. 4, 3059 (2011). https://doi.org/10.1039/C1EE01176FArticle
+CAS
+Google Scholar
+D.W. Keith, M. Ha-Duong, J.K. Stolaroff, Clim. Change 74, 17 (2006)Article
+CAS
+Google Scholar
+R. Baciocchi, G. Storti, M. Mazzotti, Chem. Eng. Process. 45, 1047 (2006)Article
+CAS
+Google Scholar
+W. Chaikittisilp, H.-J. Kim, C.W. Jones, Energy Fuels 25, 5528 (2011)Article
+CAS
+Google Scholar
+S.A. Didas, A.R. Kulkarni, D.S. Sholl, C.W. Jones, ChemSusChem 5, 2058 (2012)Article
+CAS
+Google Scholar
+M.A. Sakwa-Novak, C.W. Jones, ACS Appl. Mater. Interfaces 6, 9245 (2014)Article
+CAS
+Google Scholar
+A. Holewinski, M.A. Sakwa-Novak, C.W. Jones, J. Am. Chem. Soc. 137, 11749 (2015). https://doi.org/10.1021/jacs.5b06823Article
+CAS
+Google Scholar
+C.A. Seipp, N.J. Williams, M.K. Kidder, R. Custelcean, Angew. Chem. Int. Ed. 56, 1042 (2017). https://doi.org/10.1002/anie.201610916Article
+CAS
+Google Scholar
+F.M. Brethomé, N.J. Williams, C.A. Seipp, M.K. Kidder, R. Custelcean, Nat. Energy 51, 23338 (2018)
+Google Scholar
+R. Custelcean, Chem. Sci. (2021). https://doi.org/10.1039/D1SC04097AArticle
+Google Scholar
+R. Custelcean, K.A. Garrabrant, P. Agullo, N.J. Williams, Cell Rep. Phys. Sci. 2, 100385 (2021). https://doi.org/10.1016/j.xcrp.2021.100385Article
+CAS
+Google Scholar
+R. Custelcean, N.J. Williams, K.A. Garrabrant, P. Agullo, F.M. Brethomé, H.J. Martin, M.K. Kidder, Ind. Eng. Chem. Res. 58(51), 23338 (2019). https://doi.org/10.1021/acs.iecr.9b04800Article
+CAS
+Google Scholar
+N.J. Williams, C.A. Seipp, F.M. Brethomé, Y.-Z. Ma, A.S. Ivanov, V.S. Bryantsev, M.K. Kidder, H.J. Martin,  E. Holguin, K.A. Garrabrant, R. Custelcean, Chemistry 5(3), 719 (2019). https://doi.org/10.1016/j.chempr.2018.12.025Article
+CAS
+Google Scholar
+T. Wang, K.S. Lackner, A. Wright, Environ. Sci. Technol. 45, 6670 (2011). https://doi.org/10.1021/es201180vArticle
+CAS
+Google Scholar
+X. Shi, Q. Li, T. Wang, K.S. Lackner, PLoS One 12, e0179828 (2017). https://doi.org/10.1371/journal.pone.0179828Article
+CAS
+Google Scholar
+J. Song, J. Liu, W. Zhao, Y. Chen, H. Xiao, X. Shi, Y. Liu, X. Chen, Ind. Eng. Chem. Res. 57(14), 4941 (2018). https://doi.org/10.1021/acs.iecr.8b00064Article
+CAS
+Google Scholar
+X. Shi, H. Xiao, X. Chen, K.S. Lackner, Chem. Eur. J. 22, 18326 (2016)Article
+CAS
+Google Scholar
+X. Shi, H. Xiao, K. Kanamori, A. Yonezu, K.S. Lackner, X. Chen, Joule 4(8), 1823 (2020). https://doi.org/10.1016/j.joule.2020.07.005Article
+CAS
+Google Scholar
+J. Song, L. Zhu, X. Shi, Y. Liu, H. Xiao, X. Chen, Energy Fuels 33(7), 6562 (2019). https://doi.org/10.1021/acs.energyfuels.9b00863Article
+CAS
+Google Scholar
+M. Armstrong, X. Shi, B. Shan, K. Lackner, B. Mu, AIChE J. 65, 214 (2019). https://doi.org/10.1002/aic.16418Article
+CAS
+Google Scholar
+X. Shi, H. Xiao, X. Liao, M. Armstrong, X. Chen, K.S. Lackner, J. Chem. Phys. 149, 164708 (2018). https://doi.org/10.1063/1.5027105Article
+CAS
+Google Scholar
+S. Voskian, T.A. Hatton, Energy Environ. Sci. 12, 3530 (2019). https://doi.org/10.1039/C9EE02412CArticle
+CAS
+Google Scholar
+P. Singh, J.H. Rheinhardt, J.Z. Olson, P. Tarakeshwar, V. Mujica, D.A. Buttry, J. Am. Chem. Soc. 139(3), 1033 (2017). https://doi.org/10.1021/jacs.6b10806Article
+CAS
+Google Scholar
+D.H. Apaydin, M. Gora, E. Portenkirchner, K.T. Oppelt, H. Neugebauer, M. Jakesova, E.D. Głowacki, J. Kunze-Liebhäuser, M. Zagorska, J. Mieczkowski, N.S. Sariciftci, ACS Appl. Mater. Interfaces 9, 12919 (2017). https://doi.org/10.1021/acsami.7b01875Article
+CAS
+Google Scholar
+J.H. Rheinhardt, P. Singh, P. Tarakeshwar, D.A. Buttry, ACS Energy Lett. 2, 454 (2017). https://doi.org/10.1021/acsenergylett.6b00608Article
+CAS
+Google Scholar
+A. Kumar, D.G. Madden, M. Lusi, K.-J. Chen, E.A. Daniels, T. Curtin, J.J. Perry IV, M.J. Zaworotko, Angew. Chem. Int. Ed. 54(48), 14372 (2015)Article
+CAS
+Google Scholar
+D.G. Madden, H.S. Scott, A. Kumar, K.-J. Chen, R. Sanii, A. Bajpai, M. Lusi, T. Curtin, J.J. Perry, M.J. Zaworotko, Philos. Trans. R. Soc. A 375, 20160025 (2017)Article
+Google Scholar
+N. Masoud, G. Bordanaba-Florit, T. van Haasterecht, J.H. Bitter, Ind. Eng. Chem. Res. (2021). https://doi.org/10.1021/acs.iecr.1c01229Article
+Google Scholar
+J. Wang, H. Huang, M. Wang, L. Yao, W. Qiao, D. Long, L. Ling, Ind. Eng. Chem. Res. 54(19), 5319 (2015). https://doi.org/10.1021/acs.iecr.5b01060Article
+CAS
+Google Scholar
+K.S. Lackner, P. Grimes, H. Ziock, SourceBook-The Energy Ind. J. Issues 57, 6 (1999)
+Google Scholar
+D.W. Keith, G. Holmes, D. St. Angelo, K. Heidel, Joule 2, 1573 (2018). https://doi.org/10.1016/j.joule.2018.05.006Article
+CAS
+Google Scholar
+N. McQueen, P. Kelemen, G. Dipple, P. Renforth, J. Wilcox, Nat. Commun. 11, 3299 (2020). https://doi.org/10.1038/s41467-020-16510-3Article
+CAS
+Google Scholar
+D.J. Beerling, E.P. Kantzas, M.R. Lomas, P. Wade, R.M. Eufrasio, P. Renforth, B. Sarkar, M.G. Andrews, R.H. James, C.R. Pearce, J.-F. Mercure, H. Pollitt, P.B. Holden, N.R. Edwards, M. Khanna, L. Koh, S. Ouegan, N.F. Pidgeon, I.A. Janssens, J. Hansen, S.A. Banwart, Nature 583, 242 (2020). https://doi.org/10.1038/s41586-020-2448-9Article
+CAS
+Google Scholar
+K.A. Mumford, Y. Wu, K.H. Smith, G.W. Stevens, Front. Chem. Sci. Eng. 9, 125 (2015). https://doi.org/10.1007/s11705-015-1514-6Article
+CAS
+Google Scholar
+A. Goeppert, S. Meth, G.S. Prakash, G.A. Olah, Energy Environ. Sci. 3, 1949 (2010)Article
+CAS
+Google Scholar
+M.B. Yue, L.B. Sun, Y. Cao, Y. Wang, Z.J. Wang, J.H. Zhu, Chem. A Eur. J. 14(11), 3442 (2008)Article
+CAS
+Google Scholar
+S. Choi, M.L. Gray, C.W. Jones, ChemSusChem 4, 628 (2011). https://doi.org/10.1002/cssc.201000355Article
+CAS
+Google Scholar
+Y. Belmabkhout, R. Serna-Guerrero, A. Sayari, Ind. Eng. Chem. Res. 49, 359 (2010). https://doi.org/10.1021/ie900837tArticle
+CAS
+Google Scholar
+X. Xu, C. Song, J.M. Andresen, B.G. Miller, A.W. Scaroni, Energy Fuels 16, 1463 (2002)Article
+CAS
+Google Scholar
+S. Choi, M.L. Gray, C.W. Jones, ChemSusChem 4, 628 (2011)Article
+CAS
+Google Scholar
+Y. Belmabkhout, R. Serna-Guerrero, A. Sayari, Chem. Eng. Sci. 65, 3695 (2010)Article
+CAS
+Google Scholar
+J.A. Wurzbacher, C. Gebald, A. Steinfeld, Energy Environ. Sci. 4, 3584 (2011)Article
+CAS
+Google Scholar
+C. Gebald, J.A. Wurzbacher, P. Tingaut, T. Zimmermann, A. Steinfeld, Environ. Sci. Technol. 45, 9101 (2011). https://doi.org/10.1021/es202223pArticle
+CAS
+Google Scholar
+M.A. Sakwa-Novak, S. Tan, C.W. Jones, ACS Appl. Mater. Interfaces 7, 24748 (2015). https://doi.org/10.1021/acsami.5b07545Article
+CAS
+Google Scholar
+M.E. Potter, K.M. Cho, J.J. Lee, C.W. Jones, ChemSusChem 10, 2192 (2017). https://doi.org/10.1002/cssc.201700115Article
+CAS
+Google Scholar
+B. Wang, R.-B. Lin, Z. Zhang, S. Xiang, B. Chen, J. Am. Chem. Soc. 142, 14399 (2020). https://doi.org/10.1021/jacs.0c06473Article
+CAS
+Google Scholar
+H. He, W. Li, M. Lamson, M. Zhong, D. Konkolewicz, C.M. Hui, K. Yaccato, T. Rappold, G. Sugar, N.E. David, K. Damodaran, S. Natesakhawat, H. Nulwala, K. Matyjaszewski, Polymer 55(1), 385 (2014). https://doi.org/10.1016/j.polymer.2013.08.002Article
+CAS
+Google Scholar
+L. Legrand, O. Schaetzle, R.C.F. de Kler, H.V.M. Hamelers, Environ. Sci. Technol. 52, 9478 (2018). https://doi.org/10.1021/acs.est.8b00980Article
+CAS
+Google Scholar
+M. Mahmoudkhani, D.W. Keith, Int. J. Greenh. Gas Control. 3, 376 (2009). https://doi.org/10.1016/j.ijggc.2009.02.003Article
+CAS
+Google Scholar
+V. Nikulshina, N. Ayesa, M.E. Gálvez, A. Steinfeld, Chem. Eng. J. 140, 62 (2008). https://doi.org/10.1016/j.cej.2007.09.007Article
+CAS
+Google Scholar
+K.Z. House, A.C. Baclig, M. Ranjan, E.A. van Nierop, J. Wilcox, H.J. Herzog, Proc. Natl. Acad. Sci. U.S.A. 108(51), 20428 (2011)Article
+CAS
+Google Scholar
+A. Goeppert, M. Czaun, R.B. May, G.K. Surya Prakash, G.A. Olah, S.R. Narayanan, J. Am. Chem. Soc. 133(50), 20164 (2011). https://doi.org/10.1021/ja2100005Article
+CAS
+Google Scholar
+S. Meth, A. Goeppert, G.K.S. Prakash, G.A. Olah, Energy Fuels 26, 3082 (2012). https://doi.org/10.1021/ef300289kArticle
+CAS
+Google Scholar
+X. Wang, X. Ma, V. Schwartz, J.C. Clark, S.H. Overbury, S. Zhao, X. Xu, C. Song, Phys. Chem. Chem. Phys. 14, 1485 (2012). https://doi.org/10.1039/C1CP23366AArticle
+CAS
+Google Scholar
+Y. Kuwahara, D.-Y. Kang, J.R. Copeland, P. Bollini, C. Sievers, T. Kamegawa, H. Yamashita, C.W. Jones, Chem. Eur. J. 18(52), 16649 (2012)Article
+CAS
+Google Scholar
+S.H. Pang, L.-C. Lee, M.A. Sakwa-Novak, R.P. Lively, C.W. Jones, J. Am. Chem. Soc. 139, 3627 (2017). https://doi.org/10.1021/jacs.7b00235Article
+CAS
+Google Scholar
+S.H. Pang, R.P. Lively, C.W. Jones, ChemSusChem 11, 2628 (2018). https://doi.org/10.1002/cssc.201800438Article
+CAS
+Google Scholar
+D. Brilman, R. Veneman, Energy Procedia 37, 6070 (2013)Article
+CAS
+Google Scholar
+W. Chaikittisilp, R. Khunsupat, T.T. Chen, C.W. Jones, Ind. Eng. Chem. Res. 50, 14203 (2011)Article
+CAS
+Google Scholar
+Z. Chen, S. Deng, H. Wei, B. Wang, J. Huang, G. Yu, A.C.S. Appl, Mater. Interfaces 5(15), 6937 (2013). https://doi.org/10.1021/am400661bArticle
+CAS
+Google Scholar
+L. Keller, B. Ohs, J. Lenhart, L. Abduly, P. Blanke, M. Wessling, Carbon 126, 338 (2018). https://doi.org/10.1016/j.carbon.2017.10.023Article
+CAS
+Google Scholar
+Y. Miao, Z. He, X. Zhu, D. Izikowitz, J. Li, Chem. Eng. J. 426, 131875 (2021). https://doi.org/10.1016/j.cej.2021.131875Article
+CAS
+Google Scholar
+A. Sayari, Y. Belmabkhout, J. Am. Chem. Soc. 132, 6312 (2010)Article
+CAS
+Google Scholar
+C. Gebald, J.A. Wurzbacher, A. Borgschulte, T. Zimmermann, A. Steinfeld, Environ. Sci. Technol. 48, 2497 (2014). https://doi.org/10.1021/es404430gArticle
+CAS
+Google Scholar
+L. He, M. Fan, B. Dutcher, S. Cui, X. Shen, Y. Kong, A.G. Russell, P. McCurdy, Chem. Eng. J. 189–190, 13 (2012). https://doi.org/10.1016/j.cej.2012.02.013Article
+CAS
+Google Scholar
+W. Lu, J.P. Sculley, D. Yuan, R. Krishna, H.-C. Zhou, J. Phys. Chem. C 117, 4057 (2013)Article
+CAS
+Google Scholar
+W.R. Lee, S.Y. Hwang, D.W. Ryu, K.S. Lim, S.S. Han, D. Moon, J. Choi, C.S. Hong, Energy Environ. Sci. 7, 744 (2014)Article
+CAS
+Google Scholar
+S. Choi, T. Watanabe, T.-H. Bae, D.S. Sholl, C.W. Jones, J. Phys. Chem. Lett. 3, 1136 (2012)Article
+CAS
+Google Scholar
+P.-Q. Liao et al., Chem. Sci. 7, 6528 (2016). https://doi.org/10.1039/C6SC00836DArticle
+CAS
+Google Scholar
+H. Li, K. Wang, D. Feng, Y.-P. Chen, W. Verdegaal, H.-C. Zhou, ChemSusChem 9(19), 2832 (2016). https://doi.org/10.1002/cssc.201600768Article
+CAS
+Google Scholar
+S. Choi, J.H. Drese, P.M. Eisenberger, C.W. Jones, Environ. Sci. Technol. 45, 2420 (2011)Article
+CAS
+Google Scholar
+W. Chaikittisilp, J.D. Lunn, D.F. Shantz, C.W. Jones, Chem. A Eur. J. 17, 10556 (2011)Article
+CAS
+Google Scholar
+X. Wang, J. Song, Y. Chen, H. Xiao, X. Shi, Y. Liu, L. Zhu, Y.-L. He, X. Chen, Ind. Eng. Chem. Res. 59(38), 16507 (2020). https://doi.org/10.1021/acs.iecr.0c03189Article
+CAS
+Google Scholar
+Download referencesAcknowledgmentsThis work is supported from the Earth Engineering Center and Center for Advanced Materials for Energy and Environment, Columbia University.
+Conflict of interest
+All authors declare no competing interests.
+Author informationAuthors and AffiliationsEarth Engineering Center, Center for Advanced Materials for Energy and Environment, Department of Earth and Environmental Engineering, Columbia University, New York, USAXiaoyang Shi, Yuanchunyu Lin & Xi ChenAuthorsXiaoyang ShiView author publicationsYou can also search for this author in
+PubMed Google ScholarYuanchunyu LinView author publicationsYou can also search for this author in
+PubMed Google ScholarXi ChenView author publicationsYou can also search for this author in
+PubMed Google ScholarCorresponding authorCorrespondence to
+Xi Chen.Supplementary informationBelow is the link to the electronic supplementary material.Supplementary file1 (DOCX 23 kb)Rights and permissionsReprints and PermissionsAbout this articleCite this articleShi, X., Lin, Y. & Chen, X. Development of sorbent materials for direct air capture
+of CO2.
+MRS Bulletin 47, 405–415 (2022). https://doi.org/10.1557/s43577-022-00320-7Download citationAccepted: 24 March 2022Published: 16 June 2022Issue Date: April 2022DOI: https://doi.org/10.1557/s43577-022-00320-7Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+KeywordsDirect air captureNegative missionCO2 captureCarbon managementClimate changeGlobal warmingSorbent
+Access via your institution
+Access options
+Buy single article
+Instant access to the full article PDF.
+USD 39.95
+Price excludes VAT (USA)
+Tax calculation will be finalised during checkout.
+Rent this article via DeepDyve.
+Learn more about Institutional subscriptions
+SectionsFiguresReferencesAbstractData availabilityReferencesAcknowledgmentsAuthor informationSupplementary informationRights and permissionsAbout this article
+Advertisement
+Figure 1View in articleFigure 2View in articleFigure 3View in articleFigure 4View in articleFigure 5View in articleFigure 6View in articleFigure 7View in articleFigure 8View in article
+T.F. Stocker, A. Schmittner, Nature 388, 862 (1997). https://doi.org/10.1038/42224Article CAS
+Google Scholar R.K. Pachauri, Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC, Geneva, 2014)S. Choi, J.H. Drese, C.W. Jones, ChemSusChem 2, 796 (2009). https://doi.org/10.1002/cssc.200900036Article CAS
+Google Scholar Y. Xu, C. Luo, H. Sang, B. Lu, F. Wu, X. Li, L. Zhang, Chem. Eng. J. 435 (Pt. 2), 134960 (2022). https://doi.org/10.1016/j.cej.2022.134960Article CAS
+Google Scholar Y. Xu, C. Shen, B. Lu, C. Luo, F. Wu, X. Li. L. Zhang, Carbon Capture Sci. Technol. 1, 100015 (2021). https://doi.org/10.1016/j.ccst.2021.100015Article CAS
+Google Scholar X. Shi, H. Xiao, H. Azarabadi, J. Song, X. Wu, X. Chen, K.S. Lackner, Angew. Chem. Int. Ed. 59(18), 6984 (2020). https://doi.org/10.1002/anie.201906756Article CAS
+Google Scholar K. Lackner, H.-J. Ziock, P. Grimes, Carbon Dioxide Extraction from Air: Is It An Option? (Los Alamos National Lab, New Mexico, 1999)
+Google Scholar D.W. Keith, M. Ha-Duong, J.K. Stolaroff, Clim. Change 74, 17 (2006). https://doi.org/10.1007/s10584-005-9026-xArticle CAS
+Google Scholar K.S. Lackner, Eur. Phys. J. Spec. Top. 176, 93 (2009). https://doi.org/10.1140/epjst/e2009-01150-3Article
+Google Scholar V.A. Tuan, C.H. Lee, Vietnam J. Chem. 56, 197 (2018). https://doi.org/10.1002/vjch.201800013Article CAS
+Google Scholar International Energy Agency (IEA), Special Report on Carbon Capture Utilisation and Storage, CCUS in Clean Energy Transitions (IEA, Paris, 2020). https://www.iea.org/reports/ccus-in-clean-energy-transitionsK.S. Lackner, H. Azarabadi, Ind. Eng. Chem. Res. 60, 8196 (2021). https://doi.org/10.1021/acs.iecr.0c04839Article CAS
+Google Scholar K.S. Lackner, S. Brennan, J.M. Matter, A.-H.A. Park, A. Wright, B. van der Zwaan, Proc. Natl. Acad. Sci. U.S.A. 109(33), 13156 (2012). https://doi.org/10.1073/pnas.1108765109Article
+Google Scholar O. Shekhah, Y. Belmabkhout, Z. Chen, V. Guillerm, A. Cairns, K. Adil, M. Eddaoudi, Nat. Commun. 5, 4228 (2014). https://doi.org/10.1038/ncomms5228Article CAS
+Google Scholar M. Oschatz, M. Antonietti, Energy Environ. Sci. 11, 57 (2018). https://doi.org/10.1039/C7EE02110KArticle CAS
+Google Scholar V. Presser, J. McDonough, S.-H. Yeon, Y. Gogotsi, Energy Environ. Sci. 4, 3059 (2011). https://doi.org/10.1039/C1EE01176FArticle CAS
+Google Scholar D.W. Keith, M. Ha-Duong, J.K. Stolaroff, Clim. Change 74, 17 (2006)Article CAS
+Google Scholar R. Baciocchi, G. Storti, M. Mazzotti, Chem. Eng. Process. 45, 1047 (2006)Article CAS
+Google Scholar W. Chaikittisilp, H.-J. Kim, C.W. Jones, Energy Fuels 25, 5528 (2011)Article CAS
+Google Scholar S.A. Didas, A.R. Kulkarni, D.S. Sholl, C.W. Jones, ChemSusChem 5, 2058 (2012)Article CAS
+Google Scholar M.A. Sakwa-Novak, C.W. Jones, ACS Appl. Mater. Interfaces 6, 9245 (2014)Article CAS
+Google Scholar A. Holewinski, M.A. Sakwa-Novak, C.W. Jones, J. Am. Chem. Soc. 137, 11749 (2015). https://doi.org/10.1021/jacs.5b06823Article CAS
+Google Scholar C.A. Seipp, N.J. Williams, M.K. Kidder, R. Custelcean, Angew. Chem. Int. Ed. 56, 1042 (2017). https://doi.org/10.1002/anie.201610916Article CAS
+Google Scholar F.M. Brethomé, N.J. Williams, C.A. Seipp, M.K. Kidder, R. Custelcean, Nat. Energy 51, 23338 (2018)
+Google Scholar R. Custelcean, Chem. Sci. (2021). https://doi.org/10.1039/D1SC04097AArticle
+Google Scholar R. Custelcean, K.A. Garrabrant, P. Agullo, N.J. Williams, Cell Rep. Phys. Sci. 2, 100385 (2021). https://doi.org/10.1016/j.xcrp.2021.100385Article CAS
+Google Scholar R. Custelcean, N.J. Williams, K.A. Garrabrant, P. Agullo, F.M. Brethomé, H.J. Martin, M.K. Kidder, Ind. Eng. Chem. Res. 58(51), 23338 (2019). https://doi.org/10.1021/acs.iecr.9b04800Article CAS
+Google Scholar N.J. Williams, C.A. Seipp, F.M. Brethomé, Y.-Z. Ma, A.S. Ivanov, V.S. Bryantsev, M.K. Kidder, H.J. Martin,  E. Holguin, K.A. Garrabrant, R. Custelcean, Chemistry 5(3), 719 (2019). https://doi.org/10.1016/j.chempr.2018.12.025Article CAS
+Google Scholar T. Wang, K.S. Lackner, A. Wright, Environ. Sci. Technol. 45, 6670 (2011). https://doi.org/10.1021/es201180vArticle CAS
+Google Scholar X. Shi, Q. Li, T. Wang, K.S. Lackner, PLoS One 12, e0179828 (2017). https://doi.org/10.1371/journal.pone.0179828Article CAS
+Google Scholar J. Song, J. Liu, W. Zhao, Y. Chen, H. Xiao, X. Shi, Y. Liu, X. Chen, Ind. Eng. Chem. Res. 57(14), 4941 (2018). https://doi.org/10.1021/acs.iecr.8b00064Article CAS
+Google Scholar X. Shi, H. Xiao, X. Chen, K.S. Lackner, Chem. Eur. J. 22, 18326 (2016)Article CAS
+Google Scholar X. Shi, H. Xiao, K. Kanamori, A. Yonezu, K.S. Lackner, X. Chen, Joule 4(8), 1823 (2020). https://doi.org/10.1016/j.joule.2020.07.005Article CAS
+Google Scholar J. Song, L. Zhu, X. Shi, Y. Liu, H. Xiao, X. Chen, Energy Fuels 33(7), 6562 (2019). https://doi.org/10.1021/acs.energyfuels.9b00863Article CAS
+Google Scholar M. Armstrong, X. Shi, B. Shan, K. Lackner, B. Mu, AIChE J. 65, 214 (2019). https://doi.org/10.1002/aic.16418Article CAS
+Google Scholar X. Shi, H. Xiao, X. Liao, M. Armstrong, X. Chen, K.S. Lackner, J. Chem. Phys. 149, 164708 (2018). https://doi.org/10.1063/1.5027105Article CAS
+Google Scholar S. Voskian, T.A. Hatton, Energy Environ. Sci. 12, 3530 (2019). https://doi.org/10.1039/C9EE02412CArticle CAS
+Google Scholar P. Singh, J.H. Rheinhardt, J.Z. Olson, P. Tarakeshwar, V. Mujica, D.A. Buttry, J. Am. Chem. Soc. 139(3), 1033 (2017). https://doi.org/10.1021/jacs.6b10806Article CAS
+Google Scholar D.H. Apaydin, M. Gora, E. Portenkirchner, K.T. Oppelt, H. Neugebauer, M. Jakesova, E.D. Głowacki, J. Kunze-Liebhäuser, M. Zagorska, J. Mieczkowski, N.S. Sariciftci, ACS Appl. Mater. Interfaces 9, 12919 (2017). https://doi.org/10.1021/acsami.7b01875Article CAS
+Google Scholar J.H. Rheinhardt, P. Singh, P. Tarakeshwar, D.A. Buttry, ACS Energy Lett. 2, 454 (2017). https://doi.org/10.1021/acsenergylett.6b00608Article CAS
+Google Scholar A. Kumar, D.G. Madden, M. Lusi, K.-J. Chen, E.A. Daniels, T. Curtin, J.J. Perry IV, M.J. Zaworotko, Angew. Chem. Int. Ed. 54(48), 14372 (2015)Article CAS
+Google Scholar D.G. Madden, H.S. Scott, A. Kumar, K.-J. Chen, R. Sanii, A. Bajpai, M. Lusi, T. Curtin, J.J. Perry, M.J. Zaworotko, Philos. Trans. R. Soc. A 375, 20160025 (2017)Article
+Google Scholar N. Masoud, G. Bordanaba-Florit, T. van Haasterecht, J.H. Bitter, Ind. Eng. Chem. Res. (2021). https://doi.org/10.1021/acs.iecr.1c01229Article
+Google Scholar J. Wang, H. Huang, M. Wang, L. Yao, W. Qiao, D. Long, L. Ling, Ind. Eng. Chem. Res. 54(19), 5319 (2015). https://doi.org/10.1021/acs.iecr.5b01060Article CAS
+Google Scholar K.S. Lackner, P. Grimes, H. Ziock, SourceBook-The Energy Ind. J. Issues 57, 6 (1999)
+Google Scholar D.W. Keith, G. Holmes, D. St. Angelo, K. Heidel, Joule 2, 1573 (2018). https://doi.org/10.1016/j.joule.2018.05.006Article CAS
+Google Scholar N. McQueen, P. Kelemen, G. Dipple, P. Renforth, J. Wilcox, Nat. Commun. 11, 3299 (2020). https://doi.org/10.1038/s41467-020-16510-3Article CAS
+Google Scholar D.J. Beerling, E.P. Kantzas, M.R. Lomas, P. Wade, R.M. Eufrasio, P. Renforth, B. Sarkar, M.G. Andrews, R.H. James, C.R. Pearce, J.-F. Mercure, H. Pollitt, P.B. Holden, N.R. Edwards, M. Khanna, L. Koh, S. Ouegan, N.F. Pidgeon, I.A. Janssens, J. Hansen, S.A. Banwart, Nature 583, 242 (2020). https://doi.org/10.1038/s41586-020-2448-9Article CAS
+Google Scholar K.A. Mumford, Y. Wu, K.H. Smith, G.W. Stevens, Front. Chem. Sci. Eng. 9, 125 (2015). https://doi.org/10.1007/s11705-015-1514-6Article CAS
+Google Scholar A. Goeppert, S. Meth, G.S. Prakash, G.A. Olah, Energy Environ. Sci. 3, 1949 (2010)Article CAS
+Google Scholar M.B. Yue, L.B. Sun, Y. Cao, Y. Wang, Z.J. Wang, J.H. Zhu, Chem. A Eur. J. 14(11), 3442 (2008)Article CAS
+Google Scholar S. Choi, M.L. Gray, C.W. Jones, ChemSusChem 4, 628 (2011). https://doi.org/10.1002/cssc.201000355Article CAS
+Google Scholar Y. Belmabkhout, R. Serna-Guerrero, A. Sayari, Ind. Eng. Chem. Res. 49, 359 (2010). https://doi.org/10.1021/ie900837tArticle CAS
+Google Scholar X. Xu, C. Song, J.M. Andresen, B.G. Miller, A.W. Scaroni, Energy Fuels 16, 1463 (2002)Article CAS
+Google Scholar S. Choi, M.L. Gray, C.W. Jones, ChemSusChem 4, 628 (2011)Article CAS
+Google Scholar Y. Belmabkhout, R. Serna-Guerrero, A. Sayari, Chem. Eng. Sci. 65, 3695 (2010)Article CAS
+Google Scholar J.A. Wurzbacher, C. Gebald, A. Steinfeld, Energy Environ. Sci. 4, 3584 (2011)Article CAS
+Google Scholar C. Gebald, J.A. Wurzbacher, P. Tingaut, T. Zimmermann, A. Steinfeld, Environ. Sci. Technol. 45, 9101 (2011). https://doi.org/10.1021/es202223pArticle CAS
+Google Scholar M.A. Sakwa-Novak, S. Tan, C.W. Jones, ACS Appl. Mater. Interfaces 7, 24748 (2015). https://doi.org/10.1021/acsami.5b07545Article CAS
+Google Scholar M.E. Potter, K.M. Cho, J.J. Lee, C.W. Jones, ChemSusChem 10, 2192 (2017). https://doi.org/10.1002/cssc.201700115Article CAS
+Google Scholar B. Wang, R.-B. Lin, Z. Zhang, S. Xiang, B. Chen, J. Am. Chem. Soc. 142, 14399 (2020). https://doi.org/10.1021/jacs.0c06473Article CAS
+Google Scholar H. He, W. Li, M. Lamson, M. Zhong, D. Konkolewicz, C.M. Hui, K. Yaccato, T. Rappold, G. Sugar, N.E. David, K. Damodaran, S. Natesakhawat, H. Nulwala, K. Matyjaszewski, Polymer 55(1), 385 (2014). https://doi.org/10.1016/j.polymer.2013.08.002Article CAS
+Google Scholar L. Legrand, O. Schaetzle, R.C.F. de Kler, H.V.M. Hamelers, Environ. Sci. Technol. 52, 9478 (2018). https://doi.org/10.1021/acs.est.8b00980Article CAS
+Google Scholar M. Mahmoudkhani, D.W. Keith, Int. J. Greenh. Gas Control. 3, 376 (2009). https://doi.org/10.1016/j.ijggc.2009.02.003Article CAS
+Google Scholar V. Nikulshina, N. Ayesa, M.E. Gálvez, A. Steinfeld, Chem. Eng. J. 140, 62 (2008). https://doi.org/10.1016/j.cej.2007.09.007Article CAS
+Google Scholar K.Z. House, A.C. Baclig, M. Ranjan, E.A. van Nierop, J. Wilcox, H.J. Herzog, Proc. Natl. Acad. Sci. U.S.A. 108(51), 20428 (2011)Article CAS
+Google Scholar A. Goeppert, M. Czaun, R.B. May, G.K. Surya Prakash, G.A. Olah, S.R. Narayanan, J. Am. Chem. Soc. 133(50), 20164 (2011). https://doi.org/10.1021/ja2100005Article CAS
+Google Scholar S. Meth, A. Goeppert, G.K.S. Prakash, G.A. Olah, Energy Fuels 26, 3082 (2012). https://doi.org/10.1021/ef300289kArticle CAS
+Google Scholar X. Wang, X. Ma, V. Schwartz, J.C. Clark, S.H. Overbury, S. Zhao, X. Xu, C. Song, Phys. Chem. Chem. Phys. 14, 1485 (2012). https://doi.org/10.1039/C1CP23366AArticle CAS
+Google Scholar Y. Kuwahara, D.-Y. Kang, J.R. Copeland, P. Bollini, C. Sievers, T. Kamegawa, H. Yamashita, C.W. Jones, Chem. Eur. J. 18(52), 16649 (2012)Article CAS
+Google Scholar S.H. Pang, L.-C. Lee, M.A. Sakwa-Novak, R.P. Lively, C.W. Jones, J. Am. Chem. Soc. 139, 3627 (2017). https://doi.org/10.1021/jacs.7b00235Article CAS
+Google Scholar S.H. Pang, R.P. Lively, C.W. Jones, ChemSusChem 11, 2628 (2018). https://doi.org/10.1002/cssc.201800438Article CAS
+Google Scholar D. Brilman, R. Veneman, Energy Procedia 37, 6070 (2013)Article CAS
+Google Scholar W. Chaikittisilp, R. Khunsupat, T.T. Chen, C.W. Jones, Ind. Eng. Chem. Res. 50, 14203 (2011)Article CAS
+Google Scholar Z. Chen, S. Deng, H. Wei, B. Wang, J. Huang, G. Yu, A.C.S. Appl, Mater. Interfaces 5(15), 6937 (2013). https://doi.org/10.1021/am400661bArticle CAS
+Google Scholar L. Keller, B. Ohs, J. Lenhart, L. Abduly, P. Blanke, M. Wessling, Carbon 126, 338 (2018). https://doi.org/10.1016/j.carbon.2017.10.023Article CAS
+Google Scholar Y. Miao, Z. He, X. Zhu, D. Izikowitz, J. Li, Chem. Eng. J. 426, 131875 (2021). https://doi.org/10.1016/j.cej.2021.131875Article CAS
+Google Scholar A. Sayari, Y. Belmabkhout, J. Am. Chem. Soc. 132, 6312 (2010)Article CAS
+Google Scholar C. Gebald, J.A. Wurzbacher, A. Borgschulte, T. Zimmermann, A. Steinfeld, Environ. Sci. Technol. 48, 2497 (2014). https://doi.org/10.1021/es404430gArticle CAS
+Google Scholar L. He, M. Fan, B. Dutcher, S. Cui, X. Shen, Y. Kong, A.G. Russell, P. McCurdy, Chem. Eng. J. 189–190, 13 (2012). https://doi.org/10.1016/j.cej.2012.02.013Article CAS
+Google Scholar W. Lu, J.P. Sculley, D. Yuan, R. Krishna, H.-C. Zhou, J. Phys. Chem. C 117, 4057 (2013)Article CAS
+Google Scholar W.R. Lee, S.Y. Hwang, D.W. Ryu, K.S. Lim, S.S. Han, D. Moon, J. Choi, C.S. Hong, Energy Environ. Sci. 7, 744 (2014)Article CAS
+Google Scholar S. Choi, T. Watanabe, T.-H. Bae, D.S. Sholl, C.W. Jones, J. Phys. Chem. Lett. 3, 1136 (2012)Article CAS
+Google Scholar P.-Q. Liao et al., Chem. Sci. 7, 6528 (2016). https://doi.org/10.1039/C6SC00836DArticle CAS
+Google Scholar H. Li, K. Wang, D. Feng, Y.-P. Chen, W. Verdegaal, H.-C. Zhou, ChemSusChem 9(19), 2832 (2016). https://doi.org/10.1002/cssc.201600768Article CAS
+Google Scholar S. Choi, J.H. Drese, P.M. Eisenberger, C.W. Jones, Environ. Sci. Technol. 45, 2420 (2011)Article CAS
+Google Scholar W. Chaikittisilp, J.D. Lunn, D.F. Shantz, C.W. Jones, Chem. A Eur. J. 17, 10556 (2011)Article CAS
+Google Scholar X. Wang, J. Song, Y. Chen, H. Xiao, X. Shi, Y. Liu, L. Zhu, Y.-L. He, X. Chen, Ind. Eng. Chem. Res. 59(38), 16507 (2020). https://doi.org/10.1021/acs.iecr.0c03189Article CAS
+Google Scholar

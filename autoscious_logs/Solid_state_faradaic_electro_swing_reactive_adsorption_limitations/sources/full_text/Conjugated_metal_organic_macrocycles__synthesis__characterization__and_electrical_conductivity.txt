@@ -1,0 +1,122 @@
+Conjugated metal–organic macrocycles: synthesis, characterization, and electrical conductivity
+https://pubs.acs.org/doi/abs/10.1021/jacs.1c12596
+Download Hi-Res ImageDownload to MS-PowerPointCite This:J. Am. Chem. Soc. 2022, 144, 10, 4515-4521
+ADVERTISEMENT
+RETURN TO ISSUEPREVArticleNEXTGet e-AlertscloseConjugated Metal–Organic Macrocycles: Synthesis, Characterization, and Electrical ConductivityLeo B. ZasadaLeo B. ZasadaDepartment of Chemistry, University of Washington, Seattle, Washington 98195, United StatesMore by Leo B. Zasadahttps://orcid.org/0000-0001-5566-7441, Lorenzo GuioLorenzo GuioDepartment of Materials Science and Engineering, University of Washington, Seattle, Washington 98195, United StatesMore by Lorenzo Guio, Ashlyn A. KaminAshlyn A. KaminDepartment of Chemistry, University of Washington, Seattle, Washington 98195, United StatesMore by Ashlyn A. Kaminhttps://orcid.org/0000-0001-7694-927X, Diwash DhakalDiwash DhakalDepartment of Materials Science and Engineering, University of Washington, Seattle, Washington 98195, United StatesMore by Diwash Dhakal, Madison MonahanMadison MonahanDepartment of Chemistry, University of Washington, Seattle, Washington 98195, United StatesMore by Madison Monahan, Gerald T. SeidlerGerald T. SeidlerDepartment of Physics, University of Washington, Seattle, Washington 98195, United StatesMore by Gerald T. Seidlerhttps://orcid.org/0000-0001-6738-7930, Christine K. LuscombeChristine K. LuscombeDepartment of Chemistry  and  Department of Materials Science and Engineering, University of Washington, Seattle, Washington 98195, United StatesOkinawa Institute of Science and Technology Graduate University, Onna-son, Okinawa 904-0495, JapanMore by Christine K. Luscombehttps://orcid.org/0000-0001-7456-1343, and Dianne J. Xiao*Dianne J. XiaoDepartment of Chemistry, University of Washington, Seattle, Washington 98195, United States*Email: djxiao@uw.eduMore by Dianne J. Xiaohttps://orcid.org/0000-0002-5623-9585Cite this: J. Am. Chem. Soc. 2022, 144, 10, 4515–4521Publication Date (Web):March 7, 2022Publication History
+Published online7 March 2022Published inissue 16 March 2022https://doi.org/10.1021/jacs.1c12596Copyright © 2022 American Chemical SocietyRequest reuse permissionsArticle Views7761Altmetric31Citations10LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.
+Share
+Add toView InAdd Full Text with ReferenceAdd Description
+ExportRISCitationCitation and abstractCitation and referencesMore Options
+Share onFacebookTwitterWechatLinked InReddit
+Read OnlinePDF (3 MB)
+Get e-AlertscloseSupporting Info (1)»Supporting Information
+Supporting Information
+Get e-Alertsclose
+Journal of the American Chemical Society
+Get e-AlertsAbstractThe dimensional reduction of solids into smaller fragments provides a route to achieve new physical properties and gain deeper insight into the extended parent structures. Here, we report the synthesis of CuTOTP-OR (TOTPn– = 2,3,6,7-tetraoxidotriphenylene), a family of copper-based macrocycles that resemble truncated fragments of the conductive two-dimensional (2D) metal–organic framework Cu3(HHTP)2 (HHTP = 2,3,6,7,10,11-hexahydroxytriphenylene). The planar metal–organic macrocycles self-assemble into ordered nanotubes with internal diameters of ∼2 nm and short interlayer distances of ∼3.20 Å. Strong π–π stacking interactions between macrocycles facilitate out-of-plane charge transport, and pressed pellet conductivities as high as 2(1) × 10–3 S cm–1 are observed. Peripheral alkyl functionalization enhances solution processability and enables the fabrication of thin-film field-effect transistor devices. Ambipolar charge transport is observed, suggesting that similar behavior may be operative in Cu3(HHTP)2. By coupling the attractive features of metal–organic frameworks with greater processability, these macrocycles enable facile device integration and a more nuanced understanding of out-of-plane charge transport in 2D conductive metal–organic frameworks.Supporting InformationARTICLE SECTIONSJump ToAbstractSupporting InformationThe Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/jacs.1c12596.Additional experimental details, synthetic procedures, and characterization data (PXRD, XAS, XPS, EPR, UV–Vis, and NMR) (PDF)ja1c12596_si_001.pdf (7.22 MB)
+Terms & Conditions
+Most electronic Supporting Information files are available without a subscription to ACS Web Editions. Such files may be downloaded by article for research use (if there is a public use license linked to the relevant article, that license may permit other uses). Permission may be obtained from ACS for other uses through requests via the RightsLink permission system: http://pubs.acs.org/page/copyright/permissions.html.
+Cited By
+Citation StatementsbetaSmart citations by scite.ai include citation statements extracted from the full text of the citing article. The number of the statements may be higher than the number of citations provided by ACS Publications if one paper cites another multiple times or lower if scite has not yet processed some of the citing articles.SupportingSupporting5MentioningMentioning33ContrastingContrasting0Explore this article's citation statements on scite.aipowered by
+This article is cited by 10 publications.Xinyue Tian, Yao Xiao, Shuoyingjie Wang, Guanghua Liu, Wenhao Zhang, Laiyun Zhou, Jianye Gong, Xuejin Zhang, Xiang Li, He Meng, Jianguo Wang, Gaole Dai, Qing Wang. Bowl-Shaped Bispyrrole-Fused Perylene-diimide and Its Anions. Organic Letters 2023, 25
+(10)
+, 1605-1610. https://doi.org/10.1021/acs.orglett.2c04220Shayan Louie, Yu Zhong, Si Tong Bao, Cedric Schaack, Alvaro Montoya, Zexin Jin, Nicholas M. Orchanian, Yang Liu, Wenrui Lei, Kelsey Harrison, James Hone, Alexander Angerhofer, Austin M. Evans, Colin P. Nuckolls. Coaxially Conductive Organic Wires Through Self-Assembly. Journal of the American Chemical Society 2023, 145
+(9)
+, 4940-4945. https://doi.org/10.1021/jacs.2c12437Kai Niu, Pengcheng Sun, Jiping Chen, Xianbo Lu. Dense Conductive Metal–Organic Frameworks as Robust Electrocatalysts for Biosensing. Analytical Chemistry 2022, 94
+(49)
+, 17177-17185. https://doi.org/10.1021/acs.analchem.2c03766Jiacheng
+Yin, Na
+Li, Ming
+Liu, Zhigang
+Li, Xuemin
+Wang, Mingren
+Cheng, Ming
+Zhong, Wei
+Li, Yunhua
+Xu, Xian‐He
+Bu. Stabilizing Redox‐Active Hexaazatriphenylene in a 2D Conductive Metal–Organic Framework for Improved Lithium Storage Performance. Advanced Functional Materials 2023, 30 , 2211950. https://doi.org/10.1002/adfm.202211950Jianning
+Lv, Wenrui
+Li, Jiani
+Li, Zhejiaji
+Zhu, Anwang
+Dong, Huixia
+Lv, Pengfei
+Li, Bo
+Wang. A Triptycene‐Based 2D MOF with Vertically Extended Structure for Improving the Electrocatalytic Performance of CO
+2
+to Methane. Angewandte Chemie 2023, 135
+(11)
+https://doi.org/10.1002/ange.202217958Jianning
+Lv, Wenrui
+Li, Jiani
+Li, Zhejiaji
+Zhu, Anwang
+Dong, Huixia
+Lv, Pengfei
+Li, Bo
+Wang. A Triptycene‐Based 2D MOF with Vertically Extended Structure for Improving the Electrocatalytic Performance of CO
+2
+to Methane. Angewandte Chemie International Edition 2023, 62
+(11)
+https://doi.org/10.1002/anie.202217958Damian
+Motz, Sebastian
+Praetz, Christopher
+Schlesiger, Jonathan
+Henniges, Florian
+Böttcher, Bernhard
+Hesse, Hiram
+Castillo-Michel, Steven
+Mijatz, Wolfgang
+Malzer, Birgit
+Kanngießer, Carla
+Vogt. Examining iron complexes with organic ligands by laboratory XAFS. Journal of Analytical Atomic Spectrometry 2023, 38
+(2)
+, 391-402. https://doi.org/10.1039/D2JA00351ANing
+Li, Gang
+Wu, Shibo
+Xi, Fengxia
+Wei, Ming
+Lin, Jinjun
+Qiu, Jin‐Cheng
+Zheng, Jiabao
+Yi, Debbie Hwee Leng
+Seng, Coryl Jing Jun
+Lee, D. V. Maheswar
+Repaka, Xiaoming
+Liu, Zicong Marvin
+Wong, Qiang
+Zhu, Shuo‐Wang
+Yang, He‐Kuan
+Luo. Cu(I)/Cu(II) Creutz–Taube Mixed‐Valence 2D Coordination Polymers. Small Methods 2023, 7
+(1)
+, 2201166. https://doi.org/10.1002/smtd.202201166Kathleen M.
+Snook, Leo B.
+Zasada, Dina
+Chehada, Dianne J.
+Xiao. Oxidative control over the morphology of Cu
+3
+(HHTP)
+2
+, a 2D conductive metal–organic framework. Chemical Science 2022, 13
+(35)
+, 10472-10478. https://doi.org/10.1039/D2SC03648GAriane
+Vartanian. Macrocycles channelling MOFs. Nature Reviews Materials 2022, 7
+(4)
+, 257-257. https://doi.org/10.1038/s41578-022-00438-9Download PDFback
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+You’ve supercharged your research process with ACS and Mendeley!
+ContinueSTEP 1:Login with ACS IDLogged in SuccessClick to create an ACS IDSTEP 2:Login with MendeleyLogged in SuccessCreate a Mendeley account
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please login with your ACS ID before connecting to your Mendeley account.Login with ACS ID
+MENDELEY PAIRING EXPIREDReconnectYour Mendeley pairing has expired. Please reconnect
+This website uses cookies to improve your user experience. By continuing to use the site, you are accepting our use of cookies. Read the ACS privacy policy.
+CONTINUE
+Recently Viewedclose modalRecently ViewedYou have not visited any articles yet, Please visit some articles to see contents here.
+✓Thanks for sharing!AddToAnyMore…Live Chat

@@ -1,0 +1,36 @@
+Assessing the Kinetics of Quinone–CO2 Adduct Formation for Electrochemically Mediated Carbon Capture
+https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.3c03321
+Download Hi-Res ImageDownload to MS-PowerPointCite This:ACS Sustainable Chem. Eng. 2023, 11, 30, 11333-11341
+ADVERTISEMENT
+RETURN TO ISSUEPREVResearch ArticleNEXTGet e-AlertscloseAssessing the Kinetics of Quinone–CO2 Adduct Formation for Electrochemically Mediated Carbon CaptureYu XuYu XuDepartment of Chemical and Biomolecular Engineering, Johns Hopkins University, Baltimore, Maryland 21218, United StatesMore by Yu Xu, Mingze ZhengMingze ZhengDepartment of Chemical and Biomolecular Engineering, Johns Hopkins University, Baltimore, Maryland 21218, United StatesMore by Mingze Zheng, Charles B. Musgrave IIICharles B. Musgrave, IIIMaterials and Process Simulation Center, California Institute of Technology, Pasadena, California 91125, United StatesMore by Charles B. Musgrave, IIIhttps://orcid.org/0000-0002-3432-0817, Lingyu ZhangLingyu ZhangDepartment of Chemical and Biomolecular Engineering, Johns Hopkins University, Baltimore, Maryland 21218, United StatesMore by Lingyu Zhang, William A. Goddard IIIWilliam A. Goddard, IIIMaterials and Process Simulation Center, California Institute of Technology, Pasadena, California 91125, United StatesMore by William A. Goddard, III, Brandon C. BukowskiBrandon C. BukowskiDepartment of Chemical and Biomolecular Engineering, Johns Hopkins University, Baltimore, Maryland 21218, United StatesMore by Brandon C. Bukowskihttps://orcid.org/0000-0002-2626-8908, and Yayuan Liu*Yayuan LiuDepartment of Chemical and Biomolecular Engineering, Johns Hopkins University, Baltimore, Maryland 21218, United States*Email: yayuanliu@jhu.eduMore by Yayuan Liuhttps://orcid.org/0000-0002-0718-4784Cite this: ACS Sustainable Chem. Eng. 2023, 11, 30, 11333–11341Publication Date (Web):July 14, 2023Publication History
+Received3 June 2023Revised3 July 2023Published online14 July 2023Published inissue 31 July 2023https://doi.org/10.1021/acssuschemeng.3c03321Copyright © 2023 American Chemical SocietyRequest reuse permissionsArticle Views665Altmetric6Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.
+Share
+Add toView InAdd Full Text with ReferenceAdd Description
+ExportRISCitationCitation and abstractCitation and referencesMore Options
+Share onFacebookTwitterWechatLinked InReddit
+Read OnlinePDF (3 MB)
+Get e-AlertscloseSupporting Info (1)»Supporting Information
+Supporting Information
+SUBJECTS:Anions,Cations,Show MoreGet e-Alertsclose
+ACS Sustainable Chemistry & Engineering
+Get e-AlertsAbstractCarbon capture driven by renewable electricity represents a promising approach to mitigate carbon dioxide (CO2) emissions and combat climate change. Electrochemically mediated carbon capture can be achieved by developing redox-active Lewis bases, with quinones being the most representative chemistry. In aprotic electrolytes, a subset of quinoid species can selectively uptake CO2 from a dilute feed upon electro-reduction via a nucleophilic addition reaction and release a concentrated CO2 product stream upon oxidation. However, there is a lack of quantitative understanding of the reaction kinetics landscape of redox-active CO2 sorbents, especially considering the complex nature of the multi-component electrolyte media they must be deployed in. To bridge this knowledge gap, we investigate the bimolecular reaction rate constant between CO2 and radical anions of various quinones in a range of electrolytes using an electroanalytical technique. Combined with molecular dynamics and density functional theory calculations, we provide insights into the complex interplay between quinone chemistry, supporting salt composition, and electrolyte solvents on the intrinsic CO2 adduct formation kinetics. To summarize some key observations, we found that the reaction rate is affected by both the identity and concentration of the cationic and anionic species in the supporting electrolyte, the presence of hydrogen-bonding additives may accelerate the kinetics, and ortho-isomers of quinones have a faster reaction rate than para-isomers. We believe the work can help guide the rational design of electrochemical microenvironments for enhanced electrochemically mediated carbon capture performance.KEYWORDS:carbon capture electrochemical separation quinones reaction kineticsSupporting InformationARTICLE SECTIONSJump ToAbstractSupporting InformationThe Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acssuschemeng.3c03321.Detailed experimental and computational methods, additional electrochemical data, additional MD and DFT results, and experimental results (PDF)sc3c03321_si_001.pdf (10.36 MB)
+Terms & Conditions
+Most electronic Supporting Information files are available without a subscription to ACS Web Editions. Such files may be downloaded by article for research use (if there is a public use license linked to the relevant article, that license may permit other uses). Permission may be obtained from ACS for other uses through requests via the RightsLink permission system: http://pubs.acs.org/page/copyright/permissions.html.
+Cited ByThis article has not yet been cited by other publications.Download PDFback
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+You’ve supercharged your research process with ACS and Mendeley!
+ContinueSTEP 1:Login with ACS IDLogged in SuccessClick to create an ACS IDSTEP 2:Login with MendeleyLogged in SuccessCreate a Mendeley account
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please login with your ACS ID before connecting to your Mendeley account.Login with ACS ID
+MENDELEY PAIRING EXPIREDReconnectYour Mendeley pairing has expired. Please reconnect
+This website uses cookies to improve your user experience. By continuing to use the site, you are accepting our use of cookies. Read the ACS privacy policy.
+CONTINUE
+Recently Viewedclose modalRecently ViewedYou have not visited any articles yet, Please visit some articles to see contents here.
+✓Thanks for sharing!AddToAnyMore…Live Chat

@@ -1,0 +1,801 @@
+Carbon Capture Beyond Amines: CO2 Sorption at Nucleophilic Oxygen Sites in Materials
+https://onlinelibrary.wiley.com/doi/abs/10.1002/cnma.202200436
+Opens in a new window Opens an external website Opens an external website in a new window
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising purposes. To learn more, view the following link:
+Privacy Policy
+Skip to Article Content
+Skip to Article Information
+ChemNanoMatVolume 9, Issue 1 e202200436
+Review
+Carbon Capture Beyond Amines: CO2 Sorption at Nucleophilic Oxygen Sites in Materials
+Mary E. Zick,
+Mary E. Zick
+orcid.org/0000-0002-3819-5347
+Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14850 USASearch for more papers by this authorDonovan Cho,
+Donovan Cho
+Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14850 USA
+Contributed equally to this work.Search for more papers by this authorJianheng Ling,
+Jianheng Ling
+Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14850 USA
+Contributed equally to this work.Search for more papers by this authorProf. Phillip J. Milner,
+Corresponding Author
+Prof. Phillip J. Milner
+pjm347@cornell.edu
+orcid.org/0000-0002-2618-013X
+Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14850 USASearch for more papers by this author
+Mary E. Zick,
+Mary E. Zick
+orcid.org/0000-0002-3819-5347
+Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14850 USASearch for more papers by this authorDonovan Cho,
+Donovan Cho
+Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14850 USA
+Contributed equally to this work.Search for more papers by this authorJianheng Ling,
+Jianheng Ling
+Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14850 USA
+Contributed equally to this work.Search for more papers by this authorProf. Phillip J. Milner,
+Corresponding Author
+Prof. Phillip J. Milner
+pjm347@cornell.edu
+orcid.org/0000-0002-2618-013X
+Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY 14850 USASearch for more papers by this author
+First published: 09 November 2022
+https://doi.org/10.1002/cnma.202200436
+Read the
+full textAboutReferencesRelatedInformationPDFPDF
+ToolsRequest permissionExport citationAdd to favoritesTrack citation
+ShareShare
+Give accessShare full text accessClose modalShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues. Learn more.Copy URL
+Share a linkShare onEmailFacebookTwitterLinkedInRedditWechat
+Graphical Abstract
+Herein, we review recent developments in carbon-capture at nucleophilic oxygen sites in materials, focusing on metal oxides and hydroxides, polymers, and metal–organic frameworks. Limitations and opportunities compared to traditional amine-based sorbent materials are discussed.
+Abstract
+Carbon capture and utilization or sequestration and direct air capture will be needed to reduce atmospheric levels of greenhouse gases over the next century. Current amine-based technologies bind CO2 with high selectivities but suffer from poor oxidative and thermal stabilities. Herein, we discuss understudied sorbents based on oxygen nucleophiles, including metal oxides and hydroxides, hydroxide-containing polymers, and hydroxide-based metal–organic frameworks. In general, these materials display improved oxidative stabilities compared to traditional amine-based sorbents. We outline the challenges and opportunities offered by these alternative sorbents for carbon capture applications.
+Conflict of interest
+PJM and MEZ are listed as co-inventors on (provisional) patents related to carbon dioxide capture using metal-organic frameworks.
+Open Research
+Data Availability Statement
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
+References
+1V. Masson-Delmotte, P. Zhai, A. Pirani, S. L. Connors, C. Péan, S. Berger, N. Caud, Y. Chen, L. Goldfarb, M. I. Gomis, M. Huang, K. Leitzell, E. Lonnoy, J. B. R. Matthews, T. K. Maycock, T. Waterfield, Ö. Yelekçi, R. Yu, B. Zhou, Eds., Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, Cambridge University Press, 2021.
+2US EPA, “Global Greenhouse Gas Emissions Data,” can be found under https://www.epa.gov/ghgemissions/global-greenhouse-gas-emissions-data, 2016.
+3“World Energy Outlook 2021 – Analysis,” can be found under https://www.iea.org/reports/world-energy-outlook-2021.
+4S. Chu, Science 2009,
+325,
+1599–1599.
+5M. Bui, C. S. Adjiman, A. Bardow, E. J. Anthony, A. Boston, S. Brown, P. S. Fennell, S. Fuss, A. Galindo, L. A. Hackett, J. P. Hallett, H. J. Herzog, G. Jackson, J. Kemper, S. Krevor, G. C. Maitland, M. Matuszewski, I. S. Metcalfe, C. Petit, G. Puxty, J. Reimer, D. M. Reiner, E. S. Rubin, S. A. Scott, N. Shah, B. Smit, J. P. M. Trusler, P. Webley, J. Wilcox, N. Mac Dowell, Energy Environ. Sci. 2018,
+11,
+1062–1176.
+6D. J. Barker, S. A. Turner, P. A. Napier-Moore, M. Clark, J. E. Davison, Energy Procedia 2009,
+1,
+87–94.
+7“Climate change and the production of iron and steel,“ can be found under https://worldsteel.org/publications/policy-papers/climate-change-policy-paper/.
+8X. Zhu, W. Xie, J. Wu, Y. Miao, C. Xiang, C. Chen, B. Ge, Z. Gan, F. Yang, M. Zhang, D. O'Hare, J. Li, T. Ge, R. Wang, Chem. Soc. Rev. 2022,
+51,
+6574–6651.
+9X. Shi, Y. Lin, X. Chen, MRS Bull. 2022,
+47,
+405–415.
+10M. Erans, E. S. Sanz-Pérez, D. P. Hanak, Z. Clulow, D. M. Reiner, G. A. Mutch, Energy Environ. Sci. 2022,
+15,
+1360–1405.
+11N. McQueen, K. V. Gomes, C. McCormick, K. Blumanthal, M. Pisciotta, J. Wilcox, Prog. Energy 2021,
+3, 032001.
+12Y. Deng, J. Li, Y. Miao, D. Izikowitz, Energy Reports 2021,
+7,
+3506–3516.
+13X. Shi, H. Xiao, H. Azarabadi, J. Song, X. Wu, X. Chen, K. S. Lackner, Angew. Chem. Int. Ed. 2020,
+59,
+6984–7006;
+Angew. Chem. 2020,
+132,
+7048–7072.
+14H. Azarabadi, K. S. Lackner, Appl. Energy 2019,
+250,
+959–975.
+15M. Yang, C. Ma, M. Xu, S. Wang, L. Xu, Curr. Pollution Rep. 2019,
+5,
+272–293.
+16E. S. Sanz-Pérez, C. R. Murdock, S. A. Didas, C. W. Jones, Chem. Rev. 2016,
+116,
+11840–11876.
+17K. S. Lackner, Eur. Phys. J. Spec. Top. 2009,
+176,
+93–106.
+18D. W. Keith, M. Ha-Duong, J. K. Stolaroff, Clim. Change 2006,
+74,
+17–45.
+19E. S. Rubin, J. E. Davison, H. J. Herzog, Int. J. Greenhouse Gas Control 2015,
+40,
+378–400.
+20A. S. Bhown, Energy Procedia 2014,
+63,
+542–549.
+21K. Z. House, C. F. Harvey, M. J. Aziz, D. P. Schrag, Energy Environ. Sci. 2009,
+2,
+193.
+22R. L. Siegelman, E. J. Kim, J. R. Long, Nat. Mater. 2021,
+20,
+1060–1072.
+23D. S. Sholl, R. P. Lively, Nature 2016,
+532,
+435–437.
+24W. Gao, S. Liang, R. Wang, Q. Jiang, Y. Zhang, Q. Zheng, B. Xie, C. Y. Toe, X. Zhu, J. Wang, L. Huang, Y. Gao, Z. Wang, C. Jo, Q. Wang, L. Wang, Y. Liu, B. Louis, J. Scott, A.-C. Roger, R. Amal, H. He, S.-E. Park, Chem. Soc. Rev. 2020,
+49,
+8584–8686.
+25I. M. Bernhardsen, H. K. Knuutila, Int. J. Greenhouse Gas Control 2017,
+61,
+27–48.
+26R. Idem, T. Supap, H. Shi, D. Gelowitz, M. Ball, C. Campbell, P. Tontiwachwuthikul, Int. J. Greenhouse Gas Control 2015,
+40,
+6–25.
+27G. T. Rochelle, Science 2009,
+325,
+1647–1652.
+28Y. Peng, B. Zhao, L. Li, Energy Procedia 2012,
+14,
+1515–1522.
+29T. C. Drage, C. E. Snape, L. A. Stevens, J. Wood, J. Wang, A. I. Cooper, R. Dawson, X. Guo, C. Satterley, R. Irons, J. Mater. Chem. 2012,
+22,
+2815–2823.
+30X. Chen, G. Huang, C. An, Y. Yao, S. Zhao, Chem. Eng. J. 2018,
+335,
+921–935.
+31S. A. Mazari, B. Si Ali, B. M. Jan, I. M. Saeed, S. Nizamuddin, Int. J. Greenhouse Gas Control 2015,
+34,
+129–140.
+32S. B. Fredriksen, K.-J. Jens, Energy Procedia 2013,
+37,
+1770–1777.
+33C. Gouedard, D. Picq, F. Launay, P.-L. Carrette, Int. J. Greenhouse Gas Control 2012,
+10,
+244–270.
+34H. Lepaumier, D. Picq, P.-L. Carrette, Ind. Eng. Chem. Res. 2009,
+48,
+9068–9075.
+35S. Chi, G. T. Rochelle, Ind. Eng. Chem. Res. 2002,
+41,
+4178–4186.
+36D. J. Heldebrant, P. K. Koech, V.-A. Glezakou, R. Rousseau, D. Malhotra, D. C. Cantu, Chem. Rev. 2017,
+117,
+9594–9624.
+37L. B. Hamdy, C. Goel, J. A. Rudd, A. R. Barron, E. Andreoli, Mater Adv 2021,
+2,
+5843–5880.
+38A. M. Varghese, G. N. Karanikolos, Int. J. Greenhouse Gas Control 2020,
+96, 103005.
+39A. J. Emerson, A. Chahine, S. R. Batten, D. R. Turner, Coord. Chem. Rev. 2018,
+365,
+1–22.
+40E. E. Ünveren, B. Ö. Monkul, Ş. Sarıoğlan, N. Karademir, E. Alper, Petroleum 2017,
+3,
+37–50.
+41Y. Lin, C. Kong, L. Chen, RSC Adv. 2016,
+6,
+32598–32614.
+42R. Veneman, W. Zhao, Z. Li, N. Cai, D. W. F. Brilman, Energy Procedia 2014,
+63,
+2336–2345.
+43P. Bollini, S. A. Didas, C. W. Jones, J. Mater. Chem. 2011,
+21,
+15100.
+44C.-J. Yoo, S. J. Park, C. W. Jones, Ind. Eng. Chem. Res. 2020,
+59,
+7061–7071.
+45R. L. Siegelman, P. J. Milner, A. C. Forse, J.-H. Lee, K. A. Colwell, J. B. Neaton, J. A. Reimer, S. C. Weston, J. R. Long, J. Am. Chem. Soc. 2019,
+141,
+13171–13186.
+46M. Jahandar Lashaki, S. Khiavi, A. Sayari, Chem. Soc. Rev. 2019,
+48,
+3320–3405.
+47Ignacio Luz, Mustapha Soukri, Marty Lail, Chem. Sci. 2018,
+9,
+4859–4599.
+48A. Ahmadalinezhad, A. Sayari, Phys. Chem. Chem. Phys. 2014,
+16,
+1529–1535.
+49S. A. Didas, R. Zhu, N. A. Brunelli, D. S. Sholl, C. W. Jones, J. Phys. Chem. C 2014,
+118,
+12302–12311.
+50A. Ahmadalinezhad, R. Tailor, A. Sayari, Chem. Eur. J. 2013,
+19,
+10543–10550.
+51S. Bali, T. T. Chen, W. Chaikittisilp, C. W. Jones, Energy Fuels 2013,
+27,
+1547–1554.
+52F. Rezaei, C. W. Jones, Ind. Eng. Chem. Res. 2013,
+52,
+12192–12201.
+53P. Bollini, S. Choi, J. H. Drese, C. W. Jones, Energy Fuels 2011,
+25,
+2416–2425.
+54A. Heydari-Gorji, Y. Belmabkhout, A. Sayari, Microporous Mesoporous Mater. 2011,
+145,
+146–149.
+55A. C. Forse, P. J. Milner, Chem. Sci. 2021,
+12,
+508–516.
+56A. Gambhir, M. Tavoni, One Earth 2019,
+1,
+405–409.
+57P. Scovazzo, J. Poshusta, D. DuBois, C. Koval, R. Noble, J. Electrochem. Soc. 2003,
+150,
+D91.
+58V. Y. Mao, P. J. Milner, J.-H. Lee, A. C. Forse, E. Kim, R. L. Siegelman, C. M. McGuirk, L. Porter-Zasada, J. B. Neaton, J. A. Reimer, J. R. Long, Angew. Chem. Int. Ed. 2019,
+59,
+19468–19477.
+59S. Y. Hong, J. S. Lee, M. Cheong, H. S. Kim, Energy Procedia 2014,
+63,
+2190–2198.
+60Y.-S. Choi, J. Im, J. K. Jeong, S. Y. Hong, H. G. Jang, M. Cheong, J. S. Lee, H. S. Kim, Environ. Sci. Technol. 2014,
+48,
+4163–4170.
+61Y. Cheon, Y. M. Jung, J. Lee, H. Kim, J. Im, M. Cheong, H. S. Kim, H. S. Park, ChemPhysChem 2012,
+13,
+3365–3369.
+62J. Im, S. Y. Hong, Y. Cheon, J. Lee, J. S. Lee, H. S. Kim, M. Cheong, H. Park, Energy Environ. Sci. 2011,
+4,
+4284.
+63C. A. Seipp, N. J. Williams, M. K. Kidder, R. Custelcean, Angew. Chem. Int. Ed. 2017,
+56,
+1042–1045;
+Angew. Chem. 2017,
+129,
+1062–1065.
+64P. Pollet, C. A. Eckert, C. L. Liotta, Chem. Sci. 2011,
+2,
+609.
+65C. Wang, H. Luo, D. Jiang, H. Li, S. Dai, Angew. Chem. Int. Ed. 2010,
+49,
+5978–5981;
+Angew. Chem. 2010,
+122,
+6114–6117.
+66L. Phan, D. Chiu, D. J. Heldebrant, H. Huttenhower, E. John, X. Li, P. Pollet, R. Wang, C. A. Eckert, C. L. Liotta, P. G. Jessop, Ind. Eng. Chem. Res. 2008,
+47,
+539–545.
+67X. Luo, Y. Guo, F. Ding, H. Zhao, G. Cui, H. Li, C. Wang, Angew. Chem. Int. Ed. 2014,
+53,
+7053–7057;
+Angew. Chem. 2014,
+126,
+7173–7177.
+68X. Suo, Z. Yang, Y. Fu, C. Do-Thanh, H. Chen, H. Luo, D. Jiang, S. M. Mahurin, H. Xing, S. Dai, ChemSusChem 2021,
+14,
+2854–2859.
+69N. Kundu, S. Sarkar, J. Environ. Chem. Eng. 2021,
+9, 105090.
+70J. Wang, Q. Pu, P. Ning, S. Lu, Greenh. Gases 2021,
+11,
+377–393.
+71B. Ray, S. R. Churipard, S. C. Peter, J. Mater. Chem. A 2021,
+9,
+26498–26527.
+72R. Liu, X. Shi, C. Wang, Y. Gao, S. Xu, G. Hao, S. Chen, A. Lu, ChemSusChem 2021,
+14,
+1428–1471.
+73S. Ghosh, A. Modak, A. Samanta, K. Kole, S. Jana, Mater Adv 2021,
+2,
+3161–3187.
+74A. Modak, S. Jana, Microporous Mesoporous Mater. 2019,
+276,
+107–132.
+75J. Liu, Y. Wei, Y. Zhao, ACS Sustainable Chem. Eng. 2019,
+7,
+82–93.
+76M. Ding, R. W. Flaig, H.-L. Jiang, O. M. Yaghi, Chem. Soc. Rev. 2019,
+48,
+2783–2828.
+77R. L. Siegelman, P. J. Milner, E. J. Kim, S. C. Weston, J. R. Long, Energy Environ. Sci. 2019,
+12,
+2161–2173.
+78M. Pardakhti, T. Jafari, Z. Tobin, B. Dutta, E. Moharreri, N. S. Shemshaki, S. Suib, R. Srivastava, ACS Appl. Mater. Interfaces 2019,
+11,
+34533–34559.
+79C. A. Trickett, A. Helal, B. A. Al-Maythalony, Z. H. Yamani, K. E. Cordova, O. M. Yaghi, Nat. Rev. Mater. 2017,
+2,
+17045.
+80J. Yu, L.-H. Xie, J.-R. Li, Y. Ma, J. M. Seminario, P. B. Balbuena, Chem. Rev. 2017,
+117,
+9674–9754.
+81Y. Lin, C. Kong, Q. Zhang, L. Chen, Adv. Energy Mater. 2017,
+7, 1601296.
+82M. Younas, M. Sohail, L. K. Leong, M. J. Bashir, S. Sumathi, Int. J. Environ. Sci. Technol. 2016,
+13,
+1839–1860.
+83S.-Y. Lee, S.-J. Park, J. Ind. Eng. Chem. 2015,
+23,
+1–11.
+84N. Sun, Z. Tang, W. Wei, C. E. Snape, Y. Sun, Front. Energy Res. 2015,
+3, DOI 10.3389/fenrg.2015.00009.
+85R. Sabouni, H. Kazemian, S. Rohani, Environ. Sci. Pollut. Res. Int. 2014,
+21,
+5427–5449.
+86S. D. Kenarsari, D. Yang, G. Jiang, S. Zhang, J. Wang, A. G. Russell, Q. Wei, M. Fan, RSC Adv. 2013,
+3,
+22739.
+87C.-H. Yu, Aerosol Air Qual. Res. 2012,
+12,
+745–769.
+88Y. Liu, Z. U. Wang, H.-C. Zhou, Greenh. Gases 2012,
+2,
+239–259.
+89K. Sumida, D. L. Rogow, J. A. Mason, T. M. McDonald, E. D. Bloch, Z. R. Herm, T.-H. Bae, J. R. Long, Chem. Rev. 2012,
+112,
+724–781.
+90Q. Wang, J. Luo, Z. Zhong, A. Borgna, Energy Environ. Sci. 2011,
+4,
+42–55.
+91S. Keskin, T. M. van Heest, D. S. Sholl, ChemSusChem 2010,
+3,
+879–891.
+92Z. Wang, A. Bilegsaikhan, R. T. Jerozal, T. A. Pitt, P. J. Milner, ACS Appl. Mater. Interfaces 2021,
+13,
+17517–17531.
+93L. Feng, K.-Y. Wang, G. S. Day, M. R. Ryder, H.-C. Zhou, Chem. Rev. 2020,
+120 13087–13133.
+94N. C. Burtch, H. Jasuja, K. S. Walton, Chem. Rev. 2014,
+114,
+10575–10612.
+95A. L.-T. Pham, D. L. Sedlak, F. M. Doyle, Appl. Catal. B 2012,
+126,
+258–264.
+96N. H. Khdary, A. S. Alayyar, L. M. Alsarhan, S. Alshihri, M. Mokhtar, Catalysts 2022,
+12,
+300.
+97R. Chang, X. Wu, O. Cheung, W. Liu, J. Mater. Chem. A 2022,
+10,
+1682–1705.
+98M. T. Dunstan, F. Donat, A. H. Bork, C. P. Grey, C. R. Müller, Chem. Rev. 2021,
+121,
+12681–12745.
+99J. Chen, L. Duan, Z. Sun, Energy Fuels 2020,
+34,
+7806–7836.
+100G. Ji, H. Yang, M. Z. Memon, Y. Gao, B. Qu, W. Fu, G. Olguin, M. Zhao, A. Li, Appl. Energy 2020,
+267, 114874.
+101S. A. Salaudeen, B. Acharya, A. Dutta, J. CO2 Util. 2018,
+23,
+179–199.
+102L. K. G. Bhatta, S. Subramanyam, M. D. Chengala, S. Olivera, K. Venkatesh, J. Cleaner Prod. 2015,
+103,
+171–196.
+103W. Liu, H. An, C. Qin, J. Yin, G. Wang, B. Feng, M. Xu, Energy Fuels 2012,
+26,
+2751–2767.
+104A. Silaban, D. P. Harrison, Chem. Eng. Commun. 1995,
+137,
+177–190.
+105T. Shimizu, T. Hirama, H. Hosoda, K. Kitano, M. Inagaki, K. Tejima, Chem. Eng. Res. Des. 1999,
+77,
+62–68.
+106P. Sahoo, S. Ishihara, K. Yamada, K. Deguchi, S. Ohki, M. Tansho, T. Shimizu, N. Eisaku, R. Sasai, J. Labuta, D. Ishikawa, J. P. Hill, K. Ariga, B. P. Bastakoti, Y. Yamauchi, N. Iyi, ACS Appl. Mater. Interfaces 2014,
+6,
+18352–18359.
+107M. Ramezani, P. Tremain, E. Doroodchi, B. Moghtaderi, Energy Procedia 2017,
+114,
+259–270.
+108A. MacKenzie, D. L. Granatstein, E. J. Anthony, J. C. Abanades, Energy Fuels 2007,
+21,
+920–926.
+109T. P. Hills, M. Sceats, D. Rennie, P. Fennell, Energy Procedia 2017,
+114,
+6166–6170.
+110M. Samari, F. Ridha, V. Manovic, A. Macchi, E. J. Anthony, Mitig. Adapt. Strateg. Glob. Change 2020,
+25,
+25–41.
+111Y. Duan, D. C. Sorescu, J. Chem. Phys. 2010,
+133, 074508.
+112E. P. Reddy, P. G. Smirniotis, J. Phys. Chem. B 2004,
+108,
+7794–7800.
+113M. Broda, A. M. Kierzkowska, C. R. Müller, ChemSusChem 2012,
+5,
+411–418.
+114J. M. Valverde, P. E. Sanchez-Jimenez, L. A. Perez-Maqueda, J. Phys. Chem. C 2015,
+119,
+1623–1641.
+115A. H. Ruhaimi, M. A. A. Aziz, A. A. Jalil, J. CO2 Util. 2021,
+43, 101357.
+116Y. Hu, Y. Guo, J. Sun, H. Li, W. Liu, J. Mater. Chem. A 2019,
+7,
+20103–20120.
+117W. Gao, T. Zhou, Y. Gao, B. Louis, D. O'Hare, Q. Wang, J. Eng. Chem. 2017,
+26,
+830–838.
+118M. Bhagiyalakshmi, J. Y. Lee, H. T. Jang, Int. J. Greenhouse Gas Control 2010,
+4,
+51–56.
+119J. Chen, L. Duan, F. Donat, C. R. Müller, ACS Sustainable Chem. Eng. 2021,
+9,
+6659–6672.
+120Y. Zhang, Y. Gao, H. Pfeiffer, B. Louis, L. Sun, D. O'Hare, Q. Wang, J. Mater. Chem. A 2019,
+7,
+7962–8005.
+121Y. Hu, W. Liu, Y. Yang, M. Qu, H. Li, Chem. Eng. J. 2019,
+359,
+604–625.
+122S. Wang, C. An, Q.-H. Zhang, J. Mater. Chem. A 2013,
+1,
+3540–3550.
+123H. Sun, J. Wang, X. Liu, B. Shen, C. M. A. Parlett, G. O. Adwek, E. John Anthony, P. T. Williams, C. Wu, J. Mater. Chem. A 2019,
+7,
+9977–9987.
+124B. Feng, H. An, E. Tan, Energy Fuels 2007,
+21,
+426–434.
+125Y. Duan, B. Zhang, D. C. Sorescu, J. K. Johnson, J. Solid State Chem. 2011,
+184,
+304–311.
+126H. A. Mosqueda, C. Vazquez, P. Bosch, H. Pfeiffer, Chem. Mater. 2006,
+18,
+2307–2310.
+127J. P. Harrouz, K. Ghali, M. Hmadeh, N. Ghaddar, S. Ghani, Energy and Buildings 2022,
+255, 111666.
+128D. A. Boryta, A. J. Maas, Ind. Eng. Chem. Process Des. Dev. 1971,
+10,
+489–494.
+129Z. Zho, V. A. Chashchin, A. V. Vishnyakov, Theor. Found. Chem. Eng. 2007,
+41,
+577–584.
+130Y. Cho, J.-Y. Lee, A. D. Bokare, S.-B. Kwon, D.-S. Park, W.-S. Jung, J.-S. Choi, Y.-M. Yang, J.-Y. Lee, W. Choi, J. Ind. Eng. Chem. 2015,
+22,
+350–356.
+131V. Indira, K. Abhitha, Iop. Conf. Ser. Mater. Sci. Eng. 2021,
+1114, 012081.
+132H. He, W. Li, M. Zhong, D. Konkolewicz, D. Wu, K. Yaccato, T. Rappold, G. Sugar, N. E. David, K. Matyjaszewski, Energy Environ. Sci. 2013,
+6,
+488–493.
+133A. K. Qaroush, H. S. Alshamaly, S. S. Alazzeh, R. H. Abeskhron, K. I. Assaf, A. F. Eftaiha, Chem. Sci. 2018,
+9,
+1088–1100.
+134K. N. Onwukamike, S. Grelier, E. Grau, H. Cramail, M. A. R. Meier, ACS Sustainable Chem. Eng. 2019,
+7,
+1826–1840.
+135J.-H. Kim, B. S. Shim, H. S. Kim, Y.-J. Lee, S.-K. Min, D. Jang, Z. Abas, J. Kim, Int. J. Precis. Eng. 2015,
+2,
+197–213.
+136Q. Zhang, N. S. Ozketin, J. Barrault, K. De Oliveira Vigier, F. Jerome, ChemSusChem 2013,
+6,
+593–596.
+137M. Gunnarsson, D. Bernin, Å. Östlund, M. Hasani, Green Chem. 2018,
+20,
+3279–3286.
+138J. L. Shamshina, P. Berton, R. D. Rogers, ACS Sustainable Chem. Eng. 2019,
+7,
+6444–6457.
+139A. F. Eftaiha, F. Alsoubani, K. I. Assaf, W. M. Nau, C. Troll, A. K. Qaroush, RSC Adv. 2016,
+6,
+22090–22093.
+140A. F. Eftaiha, F. Alsoubani, K. I. Assaf, C. Troll, B. Rieger, A. H. Khaled, A. K. Qaroush, Carbohydr. Polym. 2016,
+152,
+163–169.
+141A. S. Bhown, B. C. Freeman, Environ. Sci. Technol. 2011,
+45,
+8624–8632.
+142M. Mahmoudkhani, D. W. Keith, Int. J. Greenhouse Gas Control 2009,
+3,
+376–384.
+143T. Wang, K. S. Lackner, A. Wright, Environ. Sci. Technol. 2011,
+45,
+6670–6675.
+144C. van der Giesen, C. J. Meinrenken, R. Kleijn, B. Sprecher, K. S. Lackner, G. J. Kramer, Environ. Sci. Technol. 2017,
+51,
+1024–1034.
+145K. S. Lackner, Energy 2013,
+50,
+38–46.
+146T. Wang, K. S. Lackner, A. B. Wright, Phys. Chem. Chem. Phys. 2013,
+15,
+504–514.
+147D. S. Goldberg, K. S. Lackner, P. Han, A. L. Slagle, T. Wang, Environ. Sci. Technol. 2013,
+47,
+7521–7529.
+148J. M. Kolle, M. Fayaz, A. Sayari, Chem. Rev. 2021,
+121,
+7280–7345.
+149H. Yang, M. Singh, J. Schaefer, Chem. Commun. 2018,
+54,
+4915–4918.
+150Y. Kaneko, K. S. Lackner, Phys. Chem. Chem. Phys. 2022,
+24,
+14763–14771.
+151F. Li, Y. Zhang, S. Zheng, K. Wang, J. Ni, L. Zhu, X. Chen, Asia-Pac. J. Chem. Eng. 2022, e2816.
+152X. Shi, H. Xiao, X. Chen, K. S. Lackner, Chem. Eur. J. 2016,
+22,
+18326–18330.
+153A. Prajapati, R. Sartape, T. Rojas, N. K. Dandu, P. Dhakal, A. S. Thorat, J. Xie, I. Bessa, M. T. Galante, M. H. S. Andrade, R. T. Somich, M. V. Rebouças, G. T. Hutras, N. Diniz, A. T. Ngo, J. Shah, M. R. Singh, Energy Environ. Sci. 2022,
+15,
+680–692.
+154P. G. Parzuchowski, A. Świderska, M. Roguszewska, K. Rolińska, D. Wołosz, Energy Fuels 2020,
+34,
+12822–12832.
+155S. Srebnik, S. Pusara, D. R. Dekel, J. Phys. Chem. C 2019,
+123,
+15956–15962.
+156X. Shi, H. Xiao, X. Liao, M. Armstrong, X. Chen, K. S. Lackner, J. Chem. Phys. 2018,
+149, 164708.
+157H. Xiao, X. Shi, Y. Zhang, X. Liao, F. Hao, K. S. Lackner, X. Chen, Phys. Chem. Chem. Phys. 2017,
+19,
+27435–27441.
+158X. Shi, H. Xiao, K. S. Lackner, X. Chen, Angew. Chem. Int. Ed. 2016,
+55,
+4026–4029;
+Angew. Chem. 2016,
+128,
+4094–4097.
+159T. Wang, J. Liu, K. S. Lackner, X. Shi, M. Fang, Z. Luo, Greenhouse Gas Sci. Technol. 2016,
+6,
+138–149.
+160T. Wang, J. Liu, H. Huang, M. Fang, Z. Luo, Chem. Eng. J. 2016,
+284,
+679–686.
+161T. Wang, J. Liu, M. Fang, Z. Luo, Energy Procedia 2013,
+37,
+6096–6104.
+162X. Shi, Q. Li, T. Wang, K. S. Lackner, PLoS One 2017,
+12, e0179828.
+163H. He, M. Zhong, D. Konkolewicz, K. Yacatto, T. Rappold, G. Sugar, N. E. David, K. Matyjaszewski, J. Mater. Chem. A 2013,
+1,
+6810.
+164M. Armstrong, X. Shi, B. Shan, K. Lackner, B. Mu, AIChE J. 2019,
+65,
+214–220.
+165C. Hou, D. R. Kumar, Y. Jin, Y. Wu, J. J. Lee, C. W. Jones, T. Wang, Chem. Eng. J. 2021,
+413, 127532.
+166H. He, M. Zhong, D. Konkolewicz, K. Yacatto, T. Rappold, G. Sugar, N. E. David, J. Gelb, N. Kotwal, A. Merkle, K. Matyjaszewski, Adv. Funct. Mater. 2013,
+23,
+4720–4728.
+167H. He, W. Li, M. Lamson, M. Zhong, D. Konkolewicz, C. M. Hui, K. Yaccato, T. Rappold, G. Sugar, N. E. David, K. Damodaran, S. Natesakhawat, H. Nulwala, K. Matyjaszewski, Polymer 2014,
+55,
+385–394.
+168T. Wang, X. Wang, C. Hou, J. Liu, Sci. Rep. 2020,
+10,
+21429.
+169X. Shi, H. Xiao, K. Kanamori, A. Yonezu, K. S. Lackner, X. Chen, Joule 2020,
+4,
+1823–1837.
+170R. Rodríguez-Mosqueda, E. A. Bramer, G. Brem, Chem. Eng. Sci. 2018,
+189,
+114–122.
+171R. Rodríguez-Mosqueda, E. A. Bramer, T. Roestenberg, G. Brem, Ind. Eng. Chem. Res. 2018,
+57,
+3628–3638.
+172T. Wang, C. Hou, K. Ge, K. S. Lackner, X. Shi, J. Liu, M. Fang, Z. Luo, J. Phys. Chem. Lett. 2017,
+8,
+3986–3990.
+173T. Wang, K. Ge, Y. Wu, K. Chen, M. Fang, Z. Luo, Energy Fuels 2017,
+31,
+11127–11133.
+174T. Wang, K. Ge, K. Chen, C. Hou, M. Fang, Phys. Chem. Chem. Phys. 2016,
+18,
+13084–13091.
+175R. Quinn, Sep. Sci. Technol. 2003,
+38,
+3385–3407.
+176J. Song, J. Liu, W. Zhao, Y. Chen, H. Xiao, X. Shi, Y. Liu, X. Chen, Ind. Eng. Chem. Res. 2018,
+57,
+4941–4948.
+177C. Hou, Y. Wu, T. Wang, X. Wang, X. Gao, Energy Fuels 2019,
+33,
+1745–1752.
+178J. Song, L. Zhu, X. Shi, Y. Liu, H. Xiao, X. Chen, Energy Fuels 2019,
+33,
+6562–6567.
+179X. Wang, J. Song, Y. Chen, H. Xiao, X. Shi, Y. Liu, L. Zhu, Y.-L. He, X. Chen, Ind. Eng. Chem. Res. 2020,
+59,
+16507–16515.
+180J. H. Rheinhardt, P. Singh, P. Tarakeshwar, D. A. Buttry, ACS Energy Lett. 2017,
+2,
+454–461.
+181A. M. Appel, R. Newell, D. L. DuBois, M. Rakowski DuBois, Inorg. Chem. 2005,
+44,
+3046–3056.
+182M. B. Mizen, M. S. Wrighton, J. Electrochem. Soc. 1989,
+136,
+6.
+183B. Gurkan, F. Simeon, T. A. Hatton, ACS Sustainable Chem. Eng. 2015,
+3,
+1394–1405.
+184Y. Liu, H.-Z. Ye, K. M. Diederichsen, T. Van Voorhis, T. A. Hatton, Nat. Commun. 2020,
+11,
+2278.
+185Z. Song, Y. Qian, M. L. Gordin, D. Tang, T. Xu, M. Otani, H. Zhan, H. Zhou, D. Wang, Angew. Chem. 2015,
+127,
+14153–14157;
+Angew. Chem. Int. Ed. 2015,
+54,
+13947–13951.
+186Y. Zhou, B. Wang, C. Liu, N. Han, X. Xu, F. Zhao, J. Fan, Y. Li, Nano Energy 2015,
+15,
+654–661.
+187D. Wielend, D. H. Apaydin, N. S. Sariciftci, J. Mater. Chem. A 2018,
+6,
+15095–15101.
+188Z. Wang, J. Feng, X. Liu, H. Guo, Atmosphere 2022,
+13,
+543.
+189A. Hemmatifar, J. S. Kang, N. Ozbek, K. Tan, T. A. Hatton, ChemSusChem 2022,
+15, e202102533.
+190S. Voskian, T. A. Hatton, Energy Environ. Sci. 2019,
+12,
+3530–3547.
+191D. H. Apaydin, E. D. Głowacki, E. Portenkirchner, N. S. Sariciftci, Angew. Chem. Int. Ed. 2014,
+53,
+6819–6822;
+Angew. Chem. 2014,
+126,
+6937–6940.
+192Q. Shu, M. Haug, M. Tedesco, P. Kuntke, H. V. M. Hamelers, Environ. Sci. Technol. 2022,
+56,
+11559–11566.
+193J. M. Barlow, J. Y. Yang, J. Am. Chem. Soc. 2022,
+144,
+14161–14169.
+194H. Furukawa, K. E. Cordova, M. O'Keeffe, O. M. Yaghi, Science 2013,
+341, 1230444.
+195R. Aniruddha, I. Sreedhar, B. M. Reddy, J. CO2 Util. 2020,
+42, 101297.
+196Z. Li, P. Liu, C. Ou, X. Dong, ACS Sustainable Chem. Eng. 2020,
+8,
+15378–15404.
+197C. Pettinari, A. Tombesi, MRS Energy Sustainability 2020,
+7,
+35.
+198L. Li, W. Wong-Ng, K. Huang, L. P. Cook, Eds.,
+Materials and Processes for CO2 Capture, Conversion, and Sequestration, John Wiley & Sons, Inc., Hoboken, NJ, USA, 2018.
+199A. J. Rieth, A. M. Wright, M. Dincă, Nat. Rev. Mater. 2019,
+4,
+708–725.
+200S. Yuan, L. Feng, K. Wang, J. Pang, M. Bosch, C. Lollar, Y. Sun, J. Qin, X. Yang, P. Zhang, Q. Wang, L. Zou, Y. Zhang, L. Zhang, Y. Fang, J. Li, H. Zhou, Adv. Mater. 2018,
+30, 1704303.
+201J. R. Bour, A. M. Wright, X. He, M. Dincă, Chem. Sci. 2020,
+11,
+1728–1737.
+202M. Verma, G. A. Bhaduri, V. S. Phani Kumar, P. A. Deshpande, Ind. Eng. Chem. Res. 2021,
+60,
+4777–4793.
+203Q. Sun, B. Aguila, S. Ma, Chem 2018,
+4,
+2736–2738.
+204X. Huang, S. Zhang, Y. Tang, X. Zhang, Y. Bai, H. Pang, Coord. Chem. Rev. 2021,
+449, 214216.
+205F. Wang, L. Chen, D. Liu, W. Ma, P. Dramou, H. He, TrAC Trends Anal. Chem. 2020,
+133, 116080.
+206Y. He, X. Hou, Y. Liu, N. Feng, J. Mater. Chem. B 2019,
+7,
+5602–5619.
+207I. Roy, J. F. Stoddart, Acc. Chem. Res. 2021,
+54,
+1440–1453.
+208J. Feng, M. Tan, S. Zhang, B. Li, Macromol. Rapid Commun. 2021,
+42, 2100497.
+209T. Rajkumar, D. Kukkar, K.-H. Kim, J. R. Sohn, A. Deep, J. Ind. Eng. Chem. 2019,
+72,
+50–66.
+210R. A. Smaldone, R. S. Forgan, H. Furukawa, J. J. Gassensmith, A. M. Z. Slawin, O. M. Yaghi, J. F. Stoddart, Angew. Chem. Int. Ed. 2010,
+49,
+8630–8634;
+Angew. Chem. 2010,
+122,
+8812–8816.
+211J. J. Gassensmith, H. Furukawa, R. A. Smaldone, R. S. Forgan, Y. Y. Botros, O. M. Yaghi, J. F. Stoddart, J. Am. Chem. Soc. 2011,
+133,
+15312–15315.
+212D. Wu, J. J. Gassensmith, D. Gouvêa, S. Ushakov, J. F. Stoddart, A. Navrotsky, J. Am. Chem. Soc. 2013,
+135,
+6790–6793.
+213K. J. Hartlieb, A. W. Peters, T. C. Wang, P. Deria, O. K. Farha, J. T. Hupp, J. F. Stoddart, Chem. Commun. 2017,
+53,
+7561–7564.
+214R. S. Forgan, R. A. Smaldone, J. J. Gassensmith, H. Furukawa, D. B. Cordes, Q. Li, C. E. Wilmer, Y. Y. Botros, R. Q. Snurr, A. M. Z. Slawin, J. F. Stoddart, J. Am. Chem. Soc. 2012,
+134,
+406–417.
+215L. Li, J. Wang, Z. Zhang, Q. Yang, Y. Yang, B. Su, Z. Bao, Q. Ren, ACS Appl. Mater. Interfaces 2019,
+11,
+2543–2550.
+216T. K. Yan, A. Nagai, W. Michida, K. Kusakabe, S. binti Yusup, Procedia Eng. 2016,
+148,
+30–34.
+217A. Hamedi, A. Anceschi, F. Trotta, M. Hasanzadeh, F. Caldera, J. Inclusion Phenom. Macrocyclic Chem. 2021,
+99,
+245–253.
+218H. A. Patel, T. Islamoglu, Z. Liu, S. K. M. Nalluri, A. Samanta, O. Anamimoghadam, C. D. Malliakas, O. K. Farha, J. F. Stoddart, J. Am. Chem. Soc. 2017,
+139,
+11020–11023.
+219M. E. Zick, S. M. Pugh, J.-H. Lee, A. C. Forse, P. Milner, Angew. Chem. Int. Ed. 2022,
+61, e202206718.
+220H. D. M. Pham, R. Z. Khaliullin, J. Phys. Chem. C 2021,
+125,
+24719–24727.
+221S.-T. Fan, Z.-J. Qiu, R.-Y. Xu, S.-X. Zhang, Z.-H. Chen, Z.-J. Nie, H.-R. Shu, K. Guo, S. Zhang, B.-J. Li, ACS Appl. Mater. Interfaces 2021,
+13,
+13034–13043.
+222B. Zhang, H. Chen, Q. Hu, L. Jiang, Y. Shen, D. Zhao, Z. Zhou, Adv. Funct. Mater. 2021,
+31, 2105395.
+223D. Shen, G. Wang, Z. Liu, P. Li, K. Cai, C. Cheng, Y. Shi, J.-M. Han, C.-W. Kung, X. Gong, Q.-H. Guo, H. Chen, A. C.-H. Sue, Y. Y. Botros, A. Facchetti, O. K. Farha, T. J. Marks, J. F. Stoddart, J. Am. Chem. Soc. 2018,
+140,
+11402–11407.
+224J. J. Gassensmith, J. Y. Kim, J. M. Holcroft, O. K. Farha, J. F. Stoddart, J. T. Hupp, N. C. Jeong, J. Am. Chem. Soc. 2014,
+136,
+8277–8282.
+225Q. Huang, Q. Li, J. Liu, Y. Wang, R. Wang, L. Dong, Y. Xia, J. Wang, Y.-Q. Lan, Matter 2019,
+1,
+1656–1668.
+226P.-Q. Liao, H. Chen, D.-D. Zhou, S.-Y. Liu, C.-T. He, Z. Rui, H. Ji, J.-P. Zhang, X.-M. Chen, Energy Environ. Sci. 2015,
+8,
+1011–1016.
+227J. Oktawiec, H. Z. H. Jiang, J. G. Vitillo, D. A. Reed, L. E. Darago, B. A. Trump, V. Bernales, H. Li, K. A. Colwell, H. Furukawa, C. M. Brown, L. Gagliardi, J. R. Long, Nat. Commun. 2020,
+11,
+3087.
+228C. E. Bien, K. K. Chen, S.-C. Chien, B. R. Reiner, L.-C. Lin, C. R. Wade, W. S. W. Ho, J. Am. Chem. Soc. 2018,
+140,
+12662–12666.
+229C. E. Bien, Q. Liu, C. R. Wade, Chem. Mater. 2020,
+32,
+489–497.
+230A. M. Wright, Z. Wu, G. Zhang, J. L. Mancuso, R. J. Comito, R. W. Day, C. H. Hendon, J. T. Miller, M. Dincă, Chem 2018,
+4,
+2894–2901.
+231Z. Cai, C. E. Bien, Q. Liu, C. R. Wade, Chem. Mater. 2020,
+32,
+4257–4264.
+232R. Röß-Ohlenroth, B. Bredenkötter, D. Volkmer, Organometallics 2019,
+38,
+3444–3452.
+233S. Lindskog, Pharmacol. Ther. 1997,
+74,
+1–20.
+234C. Jin, S. Zhang, Z. Zhang, Y. Chen, Inorg. Chem. 2018,
+57,
+2169–2174.
+235S. Sun, Y. Xiang, H. Xu, M. Cao, D. Yu, Colloids Surf., A Physiochem. Eng. Asp. 2022,
+648, 129103.
+236S. Liang, X.-L. Wu, M.-H. Zong, W.-Y. Lou, Chem. Eng. J. 2020,
+398, 125530.
+237S. Sun, Z. Zhang, Y. Xiang, M. Cao, D. Yu, Langmuir 2022,
+38,
+1621–1630.
+238J. Chen, L. Huang, Q. Wang, W. Wu, H. Zhang, Y. Fang, S. Dong, Nanoscale 2019,
+11,
+5960–5966.
+239C.-H. Chen, D. Shimon, J. J. Lee, F. Mentink-Vigier, I. Hung, C. Sievers, C. W. Jones, S. E. Hayes, J. Am. Chem. Soc. 2018,
+140,
+8648–8651.
+Volume9, Issue1January 2023e202200436
+ReferencesRelatedInformation
+Close Figure ViewerReturn to FigurePrevious FigureNext FigureCaption
+Download PDF
+The full text of this article hosted at iucr.org is unavailable due to technical difficulties.
+Log in to Wiley Online Library
+Email or Customer ID
+Password
+Forgot password?
+NEW USER >
+INSTITUTIONAL LOGIN >
+Change Password
+Old Password
+New Password
+Too Short
+Weak
+Medium
+Strong
+Very Strong
+Too Long
+Password Changed Successfully
+Your password has been changed
+Create a new account
+Email
+Returning user
+Forgot your password?
+Enter your email address below.
+Email
+Please check your email for instructions on resetting your password.
+If you do not receive an email within 10 minutes, your email address may not be registered,
+and you may need to create a new Wiley Online Library account.
+Request Username
+Can't sign in? Forgot your username?
+Enter your email address below and we will send you your username
+Email
+Close
+If the address matches an existing account you will receive an email with instructions to retrieve your username
+✓Thanks for sharing!AddToAnyMore…

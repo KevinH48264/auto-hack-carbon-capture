@@ -1,0 +1,36 @@
+Mechanochemical Impregnation of a Redox-Active Guest into a Metal–Organic Framework for Electrochemical Capture of CO2
+https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.3c00133
+Download Hi-Res ImageDownload to MS-PowerPointCite This:ACS Sustainable Chem. Eng. 2023, 11, 23, 8442-8449
+ADVERTISEMENT
+RETURN TO ISSUEPREVResearch ArticleNEXTGet e-AlertscloseMechanochemical Impregnation of a Redox-Active Guest into a Metal–Organic Framework for Electrochemical Capture of CO2Samuel R. WengerSamuel R. WengerSchool of Chemical and Biomolecular Engineering, Faculty of Engineering, The University of Sydney, Darlington, New South Wales 2008, AustraliaSchool of Chemistry, Faculty of Science, The University of Sydney, Camperdown, New South Wales 2006, AustraliaMore by Samuel R. Wenger, Lyndon A. HallLyndon A. HallSchool of Chemical and Biomolecular Engineering, Faculty of Engineering, The University of Sydney, Darlington, New South Wales 2008, AustraliaMore by Lyndon A. Hall, and Deanna M. D’Alessandro*Deanna M. D’AlessandroSchool of Chemical and Biomolecular Engineering, Faculty of Engineering, The University of Sydney, Darlington, New South Wales 2008, AustraliaSchool of Chemistry, Faculty of Science, The University of Sydney, Camperdown, New South Wales 2006, Australia*Email: deanna.dalessandro@sydney.edu.auMore by Deanna M. D’Alessandrohttps://orcid.org/0000-0002-1497-2543Cite this: ACS Sustainable Chem. Eng. 2023, 11, 23, 8442–8449Publication Date (Web):June 2, 2023Publication History
+Received9 January 2023Revised22 May 2023Published online2 June 2023Published inissue 12 June 2023https://doi.org/10.1021/acssuschemeng.3c00133Copyright © 2023 American Chemical SocietyRequest reuse permissionsArticle Views378Altmetric3Citations-LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.
+Share
+Add toView InAdd Full Text with ReferenceAdd Description
+ExportRISCitationCitation and abstractCitation and referencesMore Options
+Share onFacebookTwitterWechatLinked InReddit
+Read OnlinePDF (3 MB)
+Get e-AlertscloseSupporting Info (1)»Supporting Information
+Supporting Information
+SUBJECTS:Adsorption,Materials,Show MoreGet e-Alertsclose
+ACS Sustainable Chemistry & Engineering
+Get e-AlertsAbstractConventional adsorbents for CO2 capture typically utilize swings in temperature and/or pressure to adsorb and desorb CO2. These mechanisms can be energy-intensive, which has inspired further research on alternative capture mechanisms such as electro-swing CO2 capture. For this, metal–organic frameworks (MOFs) have been suggested as a potential adsorbent owing to their stability, ultrahigh surface areas, and ability to facilitate redox reactions. However, MOFs have not yet been utilized for the electrochemical capture of CO2. In this work, we demonstrate the facile synthesis of a redox-active MOF-based adsorbent for the electrochemical capture of CO2, and we employ spectroelectrochemistry to understand the adsorbent’s interaction with CO2. This represents an advancement toward the scalable production of electro-swing adsorbents and signals that MOFs can be successfully employed for this process.KEYWORDS:carbon capture MOFs electrochemistry carbon dioxide removal electro-swing redox activity mechanochemistrySupporting InformationARTICLE SECTIONSJump ToAbstractSupporting InformationThe Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/acssuschemeng.3c00133.Synthesis conditions for mechanochemical impregnations, Pawley refinement data for PXRD, FTIR, N2 sorption, CV, and EPR simulation data (PDF)sc3c00133_si_001.pdf (421.36 kb)
+Terms & Conditions
+Most electronic Supporting Information files are available without a subscription to ACS Web Editions. Such files may be downloaded by article for research use (if there is a public use license linked to the relevant article, that license may permit other uses). Permission may be obtained from ACS for other uses through requests via the RightsLink permission system: http://pubs.acs.org/page/copyright/permissions.html.
+Cited ByThis article has not yet been cited by other publications.Download PDFback
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+You’ve supercharged your research process with ACS and Mendeley!
+ContinueSTEP 1:Login with ACS IDLogged in SuccessClick to create an ACS IDSTEP 2:Login with MendeleyLogged in SuccessCreate a Mendeley account
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please login with your ACS ID before connecting to your Mendeley account.Login with ACS ID
+MENDELEY PAIRING EXPIREDReconnectYour Mendeley pairing has expired. Please reconnect
+This website uses cookies to improve your user experience. By continuing to use the site, you are accepting our use of cookies. Read the ACS privacy policy.
+CONTINUE
+Recently Viewedclose modalRecently ViewedYou have not visited any articles yet, Please visit some articles to see contents here.
+✓Thanks for sharing!AddToAnyMore…Live Chat

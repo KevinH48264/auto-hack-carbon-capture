@@ -1,0 +1,693 @@
+Biomass Energy Conversion Using Thermochemical and Biochemical Technologies
+https://link.springer.com/chapter/10.1007/978-981-16-9135-5_5
+We use cookies to make sure that our website works properly, as well as some optional cookies to personalise content and advertising, provide social media features and analyse how people use our site. By accepting some or all optional cookies you give consent to the processing of your personal data, including transfer to third parties, some in countries outside of the European Economic Area that do not offer the same data protection standards as the country where you live. You can decide which optional cookies to accept by clicking on "Manage preferences", where you can also find more information about how your personal data is processed.
+Further information can be found in our privacy policy.
+Accept all cookies
+Manage preferences
+Skip to main content
+Advertisement
+Search
+Search by keyword or author
+Search
+Navigation
+Find a journal
+Publish with us
+Home
+Sustainable and Clean Energy Production Technologies
+Chapter
+AbstractIncreasing oil prices, energy security and rising greenhouse gas concentrations necessitate the need for the development of biomass-based energy conversion technologies. Extensive lab-scale scientific studies have been performed on the conversion of various biomass feedstocks to energy in the form of electricity, heat and fuels/chemicals in solid, liquid and gases. The current review gives an overview of different thermal and biochemical technologies (incineration, gasification, pyrolysis, liquefaction, carbonization, cogeneration, anaerobic digestion, ethanol fermentation, transesterification, etc.) for bioenergy generation. The advantages and limitations of primary conversion technologies like thermochemical and biochemical conversion techniques have also been discussed here. Different type of biomass-based feedstocks, their pretreatment requirements, are reviewed. The health and environmental hazards of biomass energy conversion plants and their advantages over conventional fuel sources are discussed in detail. The review also discusses air pollution hazards related to different pollutants and diverse preventive measures taken to mitigate the problem. The current study also discusses the potential and limitations of biomass energy generation projects considering process economy, technological limitation, socio-political aspect and the role of government policies from the Indian context. The extended discussion on the aforementioned criteria further reaffirms the necessity of the current review.KeywordsBiomassBioenergyThermochemical-biochemical conversionBiogasEconomical aspectsIndia
+This is a preview of subscription content, access via your institution.
+Buying options
+Chapter
+USD   29.95
+Price excludes VAT (USA)
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy Chapter
+eBook
+USD   149.00
+Price excludes VAT (USA)
+Available as EPUB and PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook
+Softcover Book
+USD   199.99
+Price excludes VAT (USA)
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book
+Hardcover Book
+USD   199.99
+Price excludes VAT (USA)
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book
+Tax calculation will be finalised at checkout
+Purchases are for personal use onlyLearn about institutional subscriptions
+AbbreviationsBOD:
+Biological oxygen demand
+CDM:
+Clean Development Mechanism
+CPCB:
+Central Pollution Control Board
+ESP:
+Electrostatic precipitators
+GHG:
+Greenhouse gas
+IPP:
+Independent power producer
+LCA:
+Life cycle analysis
+MSW:
+Municipal solid waste
+MNRE:
+Ministry of New and Renewable Energy
+MW:
+Megawatt
+NNBOMP:
+New National Biogas and Organic Manure Programme
+NGCC:
+Natural Gas Combined Cycle
+TWh:
+Terawatt hour
+ReferencesAbbaszaadeh, A., et al. (2012). Current biodiesel production technologies: A comparative review. Energy Conversion and Management, 63, 138–148.CrossRef
+CAS
+Google Scholar
+Abowei, M. F. N., Ayotamuno, M. J., and Eze, C. L. (2009). Comparative evaluation of batch and continuous anaerobic digesters in biogas production from municipal solid waste using mathematical models. Agricultural Engineering International: CIGR Journal.
+Google Scholar
+Agbor, E., Zhang, X., & Kumar, A. (2014). A review of biomass co-firing in North America. Renewable and Sustainable Energy Reviews, 40, 930–943.CrossRef
+CAS
+Google Scholar
+Aghbashlo, M., et al. (2016). Exergy analysis for decision making on operational condition of a continuous photobioreactor for hydrogen production via WGS reaction. International Journal of Hydrogen Energy, 41(4), 2354–2366.CrossRef
+CAS
+Google Scholar
+Akkerman, I., et al. (2002). Photobiological hydrogen production: photochemical efficiency and bioreactor design. International Journal of Hydrogen Energy, 27(11-12), 1195–1208.CrossRef
+CAS
+Google Scholar
+Almutairi, K., Thoma, G., & Durand-Morat, A. (2018). Ex-ante analysis of economic, social and environmental impacts of large-scale renewable and nuclear energy targets for global electricity generation by 2030. Sustainability, 10(8), 2884.CrossRef
+Google Scholar
+Anastasakis, K., et al. (2018). Continuous hydrothermal liquefaction of biomass in a novel pilot plant with heat recovery and hydraulic oscillation. Energies, 11(10), 2695.CrossRef
+CAS
+Google Scholar
+Anderson, E., et al. (2016). Economic screening of renewable energy technologies: Incineration, anaerobic digestion, and biodiesel as applied to waste water scum. Bioresource Technology, 222, 202–209.CrossRef
+CAS
+PubMed
+Google Scholar
+Archer, E., et al. (2005). MBT: A Guide for Decision Makers-Processes, Policies and Markets. Juniper Consulting Ltd.
+Google Scholar
+Bacenetti, J. (2020). Economic and environmental impact assessment of renewable energy from biomass. 5619.
+Google Scholar
+Balagurumurthy, B., Singh, R., & Bhaskar, T. (2015). Catalysts for thermochemical conversion of biomass. In
+Recent Advances in Thermo-Chemical Conversion of Biomass (pp. 109–132). Elsevier. Retrieved from https://doi.org/10.1016/B978-0-444-63289-0.00004-1CrossRef
+Google Scholar
+Bansal, M., Saini, R. P., & Khatod, D. K. (2013). Development of cooking sector in rural areas in India—A review. Renewable and Sustainable Energy Reviews, 17, 44–53.CrossRef
+Google Scholar
+Barik, D. (Ed.). (2018). Energy from toxic organic waste for heat and power generation. Woodhead Publishing.
+Google Scholar
+Basu, P. (2010). Biomass gasification and pyrolysis: practical design and theory. Academic press.
+Google Scholar
+Basu, P. (2018). Biomass gasification, pyrolysis and torrefaction: practical design and theory. Academic press.
+Google Scholar
+Bello, B. Z., Nwokoagbara, E., & Wang, M. (2012). Comparative techno-economic analysis of biodiesel production from microalgae via transesterification methods. Computer Aided Chemical Engineering, 30. Elsevier, 132–136.CrossRef
+CAS
+Google Scholar
+Berstad, D. O., Stang, J. H., & Nekså, P. (2010). Large-scale hydrogen liquefier utilising mixed-refrigerant pre-cooling. International Journal of Hydrogen Energy, 35(10), 4512–4523. https://doi.org/10.1016/j.ijhydene.2010.02.001CrossRef
+CAS
+Google Scholar
+Bhatia, R. (1990). Diffusion of renewable energy technologies in developing countries: A case study of biogas engines in India. World Development, 18(4), 575–590.CrossRef
+Google Scholar
+Bhatia, S. C. (Ed.). (2014). Advanced renewable energy systems,(Part 1 and 2). CRC Press.
+Google Scholar
+Blenkinsopp, T., Coles, S. R., & Kirwan, K. (2013). Renewable energy for rural communities in Maharashtra, India. Energy Policy, 60, 192–199.CrossRef
+Google Scholar
+Boardman, R. D., et al. (2014) Logistics, costs, and GHG impacts of utility scale cofiring with 20% biomass. No. PNNL-23492. Pacific Northwest National Lab.(PNNL), Richland, WA (United States).
+Google Scholar
+C.P.C. BOARD (Ed.) (2013). Ministry of Environment Forests & Climate Change, New Delhi.
+Google Scholar
+Canter, L. W. (1996). Environmental impact assessment (2nd ed.). McGraw-Hill. (McGraw-Hill series in water resources and environmental engineering).
+Google Scholar
+Capellán-Pérez, I., et al. (2014). Fossil fuel depletion and socio-economic scenarios: An integrated approach. Energy, 77, 641–666.CrossRef
+Google Scholar
+Carneiro, M. L. N. M., et al. (2017). Potential of biofuels from algae: Comparison with fossil fuels, ethanol and biodiesel in Europe and Brazil through life cycle assessment (LCA). Renewable and Sustainable Energy Reviews, 73, 632–653.CrossRef
+CAS
+Google Scholar
+Castello, D., Pedersen, T. H., & Rosendahl, L. A. (2018). Continuous hydrothermal liquefaction of biomass: A critical review. Energies, 11(11), 3165.CrossRef
+CAS
+Google Scholar
+Chen, D., et al. (2014). Pyrolysis technologies for municipal solid waste: a review. Waste Management, 34(12), 2466–2486.CrossRef
+CAS
+PubMed
+Google Scholar
+Chen, H., & Wang, L. (2016). Technologies for biochemical conversion of biomass. Academic Press.
+Google Scholar
+Cheng, H., & Yuanan, H. (2010). Curbing dioxin emissions from municipal solid waste incineration in China: Re-thinking about management policies and practices. Environmental Pollution, 158(9), 2809–2814.CrossRef
+CAS
+PubMed
+Google Scholar
+Cherubini, F., et al. (2009). Energy-and greenhouse gas-based LCA of biofuel and bioenergy systems: Key issues, ranges and recommendations. Resources, Conservation and Recycling, 53(8), 434–447.CrossRef
+Google Scholar
+Chundawat, S. P. S., Beckham, G. T., Himmel, M. E., & Dale, B. E. (2011). Deconstruction of lignocellulosic biomass to fuels and chemicals. Annual Review of Chemical and Biomolecular Engineering, 2(1), 121–145. https://doi.org/10.1146/annurev-chembioeng-061010-114205CrossRef
+CAS
+PubMed
+Google Scholar
+Czajczyńska, D., et al. (2017). Potential of pyrolysis processes in the waste management sector. Thermal Science and Engineering Progress, 3, 171–197.CrossRef
+Google Scholar
+da Silva, C., & Vladimir Oliveira, J. (2014). Biodiesel production through non-catalytic supercritical transesterification: current state and perspectives. Brazilian Journal of Chemical Engineering, 31(2), 271–285.CrossRef
+Google Scholar
+Dasgupta, C. N., et al. (2010). Recent trends on the development of photobiological processes and photobioreactors for the improvement of hydrogen production. International Journal of Hydrogen Energy, 35(19), 10218–10238.CrossRef
+CAS
+Google Scholar
+De Boer, K., & Bahri, P. A. (2011). Supercritical methanol for fatty acid methyl ester production: A review. Biomass and Bioenergy, 35(3), 983–991.CrossRef
+CAS
+Google Scholar
+de Luna, Mark Daniel, G., et al. (2017). Transesterification of soybean oil using a novel heterogeneous base catalyst: synthesis and characterization of Na-pumice catalyst, optimization of transesterification conditions, studies on reaction kinetics and catalyst reusability. Fuel, 209, 246–253.CrossRef
+CAS
+Google Scholar
+De Mes, T. Z. D., et al. (2003). Methane production by anaerobic digestion of wastewater and solid wastes. Bio-Methane & Bio-Hydrogen, 58–102.
+Google Scholar
+de Titto, E., & Savino, A. (2019). Environmental and health risks related to waste incineration. Waste Management & Research, 37(10), 976–986.CrossRef
+Google Scholar
+Delivand, M. K., Barz, M., & Gheewala, S. H. (2011). Logistics cost analysis of rice straw for biomass power generation in Thailand. Energy, 36(3), 1435–1441.CrossRef
+Google Scholar
+Demirbas, A. (2008). Liquefaction of biomass using glycerol. Energy Sources, Part A, 30(12), 1120–1126.CrossRef
+CAS
+Google Scholar
+Deshpande, A., et al. (2010). Supercritical biodiesel production and power cogeneration: technical and economic feasibilities. Bioresource Technology, 101(6), 1834–1843.CrossRef
+CAS
+PubMed
+Google Scholar
+Donoso-Bravo, A., et al. (2011). Model selection, identification and validation in anaerobic digestion: a review. Water Research, 45(17), 5347–5364.CrossRef
+CAS
+PubMed
+Google Scholar
+Duan, N., et al. (2012). High-solid anaerobic digestion of sewage sludge under mesophilic conditions: feasibility study. Bioresource Technology, 104, 150–156.CrossRef
+CAS
+PubMed
+Google Scholar
+Edjabou, M. E., et al. (2015). Municipal solid waste composition: Sampling methodology, statistical analyses, and case study evaluation. Waste Management, 36, 12–23.CrossRef
+PubMed
+Google Scholar
+Energy Statistics, C.S. Office (Ed.) (2014), Ministry of Statistics and Programme Implementation,
+Google Scholar
+Erdinc, O., & Uzunoglu, M. (2012). Optimum design of hybrid renewable energy systems: Overview of different approaches. Renewable and Sustainable Energy Reviews, 16(3), 1412–1425.CrossRef
+Google Scholar
+Fillion, E., et al. (2005). Meldrum's acids as acylating agents in the catalytic intramolecular Friedel−Crafts reaction. The Journal of Organic Chemistry, 70(4), 1316–1327.CrossRef
+CAS
+PubMed
+Google Scholar
+Foong, S. Y., et al. (2020). Valorization of biomass waste to engineered activated biochar by microwave pyrolysis: progress, challenges, and future directions. Chemical Engineering Journal, 389, 124401.CrossRef
+CAS
+Google Scholar
+Foston, M., & Ragauskas, A. J. (2012). Biomass characterization: recent progress in understanding biomass recalcitrance. Industrial Biotechnology, 8(4), 191–208.CrossRef
+CAS
+Google Scholar
+Freedman, B. E. H. P., Pryde, E. H., & Mounts, T. L. (1984). Variables affecting the yields of fatty esters from transesterified vegetable oils. Journal of the American Oil Chemists Society, 61(10), 1638–1643.CrossRef
+CAS
+Google Scholar
+Garhyan, P., & Elnashaie, S. S. E. H. (2004). Utilization of mathematical models to investigate the bifurcation and chaotic behavior of ethanol fermentors. Mathematical and Computer Modelling, 39(4-5), 381–427.CrossRef
+Google Scholar
+Gautam, V., Thapar, R., & Sharma, M. (2010). Biomedical waste management: Incineration vs. environmental safety. Indian Journal of Medical Microbiology, 28(3), 191.CrossRef
+CAS
+PubMed
+Google Scholar
+Ghimire, P. C. (2013). SNV supported domestic biogas programmes in Asia and Africa. Renewable Energy, 49, 90–94.CrossRef
+Google Scholar
+Ghirardi, M. L., et al. (2009). Photobiological hydrogen-producing systems. Chemical Society Reviews, 38(1), 52–61.CrossRef
+CAS
+PubMed
+Google Scholar
+Gollakota, A. R. K., Kishore, N., & Sai, G. (2018). A review on hydrothermal liquefaction of biomass. Renewable and Sustainable Energy Reviews, 81, 1378–1392.CrossRef
+Google Scholar
+Goodrich, P. R., and Schmidt, D. (2002). Anaerobic digestion for energy and pollution control. 2002 ASAE Annual Meeting. American Society of Agricultural and Biological Engineers.
+Google Scholar
+Hermansen, J. E., et al. (2017). Green biomass-protein production through bio-refining. DCA-Nationalt Center for Fødevarer og Jordbrug.
+Google Scholar
+Hiloidhari, M., & Baruah, D. C. (2011). Crop residue biomass for decentralized electrical power generation in rural areas (part 1): Investigation of spatial availability. Renewable and Sustainable Energy Reviews, 15(4), 1885–1892.CrossRef
+Google Scholar
+Hiloidhari, M., Baruah, D. C., Kumari, M., Kumari, S., & Thakur, I. S. (2019). Prospect and potential of biomass power to mitigate climate change: A case study in India. Journal of Cleaner Production, 220, 931–944.CrossRef
+Google Scholar
+Hjelmar, O., Johnson, A., & Comans, R. (2010). Incineration: solid residues. Solid Waste Technology & Management, 1, 430–462.CrossRef
+Google Scholar
+Hofbauer, H., & Materazzi, M. (2019). Waste gasification processes for SNG production. In Substitute natural gas from waste (pp. 105–160). Academic Press.CrossRef
+Google Scholar
+Iso, M., et al. (2001). Production of biodiesel fuel from triglycerides and alcohol using immobilized lipase. Journal of Molecular Catalysis B: Enzymatic, 16(1), 53–58.CrossRef
+CAS
+Google Scholar
+Jadhao, S. B., et al. (2017). Bury, burn, or gasify: assessing municipal solid waste management options in Indian megacities by exergy analysis. Clean Technologies and Environmental Policy, 19(5), 1403–1412.CrossRef
+CAS
+Google Scholar
+Jahirul, M. I., et al. (2012). Biofuels production through biomass pyrolysis—a technological review. Energies, 5(12), 4952–5001.CrossRef
+CAS
+Google Scholar
+Jana, K., Mahanta, P., & De, S. (2018). Role of biomass for sustainable energy solution in India. In Sustainable energy and transportation (pp. 209–233). Springer.CrossRef
+Google Scholar
+Jena, U., & Das, K. C. (2011). Comparative evaluation of thermochemical liquefaction and pyrolysis for bio-oil production from microalgae. Energy & Fuels, 25(11), 5472–5482.CrossRef
+CAS
+Google Scholar
+Ji, L., et al. (2016). Levels and profiles of dioxins from circulating fluidised bed incineration. International Journal of Environment and Pollution, 60(1-4), 136–155.CrossRef
+CAS
+Google Scholar
+Jiao, F., et al. (2016). Study on the species of heavy metals in MSW incineration fly ash and their leaching behavior. Fuel Processing Technology, 152, 108–115.CrossRef
+CAS
+Google Scholar
+Kachrimanidou, V., et al. (2020). Increasing the volumetric productivity of fermentative ethanol production using a fed-batch vacuferm process. Biomass Conversion and Biorefinery, 1–8.
+Google Scholar
+Kandasamy, R., et al. (2020). Anaerobic biovalorization of leather industry solid waste and production of high value-added biomolecules and biofuels. Biovalorisation of Wastes to Renewable Chemicals and Biofuels. Elsevier, 3–25.
+Google Scholar
+Kaniyamparambil, J. S., & Krantzberg, D. G. (2011). A look at India's biogas energy development programafter three decades, is it useful (doing what it should) and should it be continued. McMaster University.
+Google Scholar
+Karavalakis, G., et al. (2012). Impacts of ethanol fuel level on emissions of regulated and unregulated pollutants from a fleet of gasoline light-duty vehicles. Fuel, 93, 549–558.CrossRef
+CAS
+Google Scholar
+Kardos, L., et al. (2011). Comparing of mesophilic and thermophilic anaerobic fermented sewage sludge based on chemical and biochemical tests. Applied Ecology and Environmental Research, 9(3), 293–302.CrossRef
+Google Scholar
+Katakojwala, R., et al. (2020). Hydrothermal liquefaction of biogenic municipal solid waste under reduced H2 atmosphere in biorefinery format. Bioresource Technology, 310, 123369.CrossRef
+CAS
+PubMed
+Google Scholar
+Köse, Ö., Tüter, M., & Ayşe Aksoy, H. (2002). Immobilized Candida antarctica lipase-catalyzed alcoholysis of cotton seed oil in a solvent-free medium. Bioresource Technology, 83(2), 125–129.CrossRef
+PubMed
+Google Scholar
+Kruse, O., et al. (2005). Improved photobiological H2 production in engineered green algal cells. Journal of Biological Chemistry, 280(40), 34170–34177.CrossRef
+CAS
+PubMed
+Google Scholar
+Kurella, S., Bhukya, P. K., & Meikap, B. C. (2017). Removal of H2S pollutant from gasifier syngas by a multistage dual-flow sieve plate column wet scrubber. Journal of Environmental Science and Health, Part A, 52(6), 515–523.CrossRef
+CAS
+Google Scholar
+Laciak, M., et al. (2016). The analysis of the underground coal gasification in experimental equipment. Energy, 114, 332–343.CrossRef
+CAS
+Google Scholar
+Lam, C. H. K., et al. (2010). Use of incineration MSW ash: a review. Sustainability, 2(7), 1943–1968.CrossRef
+CAS
+Google Scholar
+Libra, J. A., et al. (2011). Hydrothermal carbonization of biomass residuals: a comparative review of the chemistry, processes and applications of wet and dry pyrolysis. Biofuels, 2(1), 71–106.CrossRef
+CAS
+Google Scholar
+Lin, Y., et al. (2012). Factors affecting ethanol fermentation using Saccharomyces cerevisiae BY4742. Biomass and Bioenergy, 47, 395–401.CrossRef
+CAS
+Google Scholar
+Lin, Y., et al. (2017). Hydrothermal carbonization of typical components of municipal solid waste for deriving hydrochars and their combustion behavior. Bioresource Technology, 243, 539–547.CrossRef
+CAS
+PubMed
+Google Scholar
+Liu, L., Li, J., & Xie, J. (2017). The role of biomass in deeply decarbonizing China's power generation: implications for policy design and implementation. Carbon Management, 8(2), 191–205.CrossRef
+CAS
+Google Scholar
+Liu, Y., et al. (2020). Electrochemically mediated carbon dioxide separation with quinone chemistry in salt-concentrated aqueous media. Nature Communications, 11(1), 1–11.CAS
+Google Scholar
+Lohri, C. R., Sweeney, D., & Rajabu, H. M. (2015). Carbonizing urban biowaste for low-cost char production in developing countries. A review of knowledge, practices and technologies. Retrieved from http://hdl.handle.net/20.500.11810/3161Lu, X., Jordan, B., & Berge, N. D. (2012). Thermal conversion of municipal solid waste via hydrothermal carbonization: Comparison of carbonization products to products from current waste management techniques. Waste Management, 32(7), 1353–1365.CrossRef
+CAS
+PubMed
+Google Scholar
+Lüschen, A., and Madlener, R. (2010). Economics of biomass co-firing in new hard coal power plants in Germany.
+Google Scholar
+Madanayake, B. N., et al. (2017). Biomass as an energy source in coal co-firing and its feasibility enhancement via pre-treatment techniques. Fuel Processing Technology, 159, 287–305.CrossRef
+CAS
+Google Scholar
+Mahmoudi, A. H. (2015). Prediction of heat-up, drying and gasification of fixed and moving beds by the Discrete Particle Method (DPM). Diss. University of Luxembourg, Luxembourg.
+Google Scholar
+Mamun, A., Rashed, M., & Torii, S. (2017). Enhancement of methane concentration by removing contaminants from biogas mixtures using combined method of absorption and adsorption. International Journal of Chemical Engineering, 2017, 7906859.CrossRef
+CAS
+Google Scholar
+Manisalidis, I., et al. (2020). Environmental and health impacts of air pollution: a review. Frontiers in Public Health, 8, 14.CrossRef
+PubMed
+PubMed Central
+Google Scholar
+Mannucci, P. M., & Franchini, M. (2017). Health effects of ambient air pollution in developing countries. International Journal of Environmental Research and Public Health, 14(9), 1048.CrossRef
+PubMed Central
+CAS
+Google Scholar
+Marchuk, А., Likhanov, V. A., & Lopatin, O. P. (2019). Alternative energy: methanol, ethanol and alcohol esters of rapeseed oil as eco-friendly biofuel. Теоретическая и прикладная экология, 3, 80–86.
+Google Scholar
+McKinlay, J. B., & Harwood, C. S. (2010). Photobiological production of hydrogen gas as a biofuel. Current Opinion in Biotechnology, 21(3), 244–251.CrossRef
+CAS
+PubMed
+Google Scholar
+Menon, V., & Rao, M. (2012). Trends in bioconversion of lignocellulose: biofuels, platform chemicals & biorefinery concept. Progress in Energy and Combustion Science, 38(4), 522–550.CrossRef
+CAS
+Google Scholar
+Milieu en Natuur Planbureau, & Shukla, P. R. (2007). Biomass energy strategies for aligning development and climate goals in India. MNP.
+Google Scholar
+Mittal, S., Ahlgren, E. O., & Shukla, P. R. (2018). Barriers to biogas dissemination in India: A review. Energy Policy, 112, 361–370.CrossRef
+CAS
+Google Scholar
+MNRE (2015). Annual Report, 2015–16. In: Energy, M.O.N.A.R. (Ed.), New Delhi.
+Google Scholar
+Moh, Y. C., & Manaf, L. A. (2014). Overview of household solid waste recycling policy status and challenges in Malaysia. Resources, Conservation and Recycling, 82, 50–61.CrossRef
+Google Scholar
+Muhtadin, M., et al. (2020). Investigation of biomass combustion and conceptual design of a fluidized-bed. Journal of Advanced Research in Fluid Mechanics and Thermal Sciences, 74(1), 81–97.CrossRef
+Google Scholar
+Mwirigi, J., et al. (2014). Socio-economic hurdles to widespread adoption of small-scale biogas digesters in Sub-Saharan Africa: A review. Biomass and Bioenergy, 70, 17–25.CrossRef
+Google Scholar
+National Research Council (2000). Incineration processes and environmental releases. Waste Incineration & Public Health. National Academies Press (US).
+Google Scholar
+Nur, M., Sumariyah, S., and Suseno, A. (2019). Removal of emission gas COx, NOx and SOx from automobile using non-thermal plasma. IOP Conference Series: Materials Science and Engineering. 509. 1. IOP Publishing.
+Google Scholar
+Ortuño, N., et al. (2014). Pollutant emissions during pyrolysis and combustion of waste printed circuit boards, before and after metal removal. Science of the Total Environment, 499, 27–35.CrossRef
+PubMed
+CAS
+Google Scholar
+Pandiyan, K., et al. (2019). Technological interventions for utilization of crop residues and weedy biomass for second generation bio-ethanol production. Renewable Energy, 132, 723–741.CrossRef
+Google Scholar
+Patel, N. K., et al. (2017). Engine performance, emission and fluorescence study of fuel from plant oils. Journal of Mechanical Engineering Research and Developments, 40(4), 673–691.
+Google Scholar
+Pena, M. S. B., & Rollins, A. (2017). Environmental exposures and cardiovascular disease: a challenge for health and development in low-and middle-income countries. Cardiology Clinics, 35(1), 71–86.CrossRef
+Google Scholar
+Phillips, J. (2006). Different types of gasifiers and their integration with gas turbines. The Gas Turbine Handbook 1
+Google Scholar
+Planning Commission. (2012). Twelfth Five Year Plan (2012–2017). Economic Sectors (Vol. II). Retrieved from http://14.139.60.153/bitstream/123456789/1456/1/12th%205%20year%20plan_vol_2.pdfPoe, N. E., et al. (2020). Compositional variability of food wastes and its effects on acetone-butanol-ethanol fermentation. Waste Management, 107, 150–158.CrossRef
+CAS
+PubMed
+Google Scholar
+Primo, A., and García, H. (2013). New and future developments in catalysis: 425–449.
+Google Scholar
+Prince, R. C., & Kheshgi, H. S. (2005). The photobiological production of hydrogen: potential efficiency and effectiveness as a renewable fuel. Critical Reviews in Microbiology, 31(1), 19–31.CrossRef
+CAS
+PubMed
+Google Scholar
+Puig-Arnavat, M., Bruno, J. C., & Coronas, A. (2010). Review and analysis of biomass gasification models. Renewable and Sustainable Energy Reviews, 14(9), 2841–2851.CrossRef
+CAS
+Google Scholar
+Raha, D., Mahanta, P., & Clarke, M. L. (2014). The implementation of decentralised biogas plants in Assam, NE India: The impact and effectiveness of the National Biogas and Manure Management Programme. Energy Policy, 68, 80–91.CrossRef
+Google Scholar
+Rahimi, M., et al. (2020). Carbon dioxide capture using an electrochemically driven proton concentration process. Cell Reports Physical Science, 1(4), 100033. https://doi.org/10.1016/j.xcrp.2020.100033CrossRef
+Google Scholar
+Rao, M., Narayana, et al. (2016). Solid and hazardous waste management: science and engineering. Butterworth-Heinemann.
+Google Scholar
+Reay, D. S., et al. (2018). Methane and global environmental change. Annual Review of Environment and Resources, 43, 165–192.CrossRef
+Google Scholar
+Rivera, E. C., et al. (2017). Effect of temperature on sugarcane ethanol fermentation: Kinetic modeling and validation under very-high-gravity fermentation conditions. Biochemical Engineering Journal, 119, 42–51.CrossRef
+CAS
+Google Scholar
+Roni, M. S., et al. (2017). Biomass co-firing technology with policies, challenges, and opportunities: A global review. Renewable and Sustainable Energy Reviews, 78, 1089–1101.CrossRef
+CAS
+Google Scholar
+Roopnarain, A., & Adeleke, R. (2017). Current status, hurdles and future prospects of biogas digestion technology in Africa. Renewable and Sustainable Energy Reviews, 67, 1162–1179.CrossRef
+CAS
+Google Scholar
+Rupf, G. V., et al. (2015). Barriers and opportunities of biogas dissemination in Sub-Saharan Africa and lessons learned from Rwanda, Tanzania, China, India, and Nepal. Renewable and Sustainable Energy Reviews, 52, 468–476.CrossRef
+Google Scholar
+Sakurai, H., et al. (2013). Photobiological hydrogen production: bioenergetics and challenges for its practical application. Journal of Photochemistry and Photobiology C: Photochemistry Reviews, 17, 1–25.CrossRef
+CAS
+Google Scholar
+Samar, E. K. K., & Meena, E. G. L. (2016). The solid state biogas plant: A boon for water scarce areas. Akshay Urja, 9, 4.
+Google Scholar
+Seepana, S., et al. (2018). Evaluation of feasibility of pelletized wood co-firing with high ash Indian coals. Journal of the Energy Institute, 91(6), 1126–1135.CrossRef
+CAS
+Google Scholar
+Sharifian, R., et al. (2021). Electrochemical carbon dioxide capture to close the carbon cycle. Energy & Environmental Science, 14(2), 781–814. https://doi.org/10.1039/D0EE03382KCrossRef
+CAS
+Google Scholar
+Sharma, A., and Arya, S. K. (2019). Photobiological production of biohydrogen: Recent advances and strategy. Prospects of Renewable Bioprocessing in Future Energy Systems. 89–116.
+Google Scholar
+Shelef, M. (1995). Selective catalytic reduction of NOx with N-free reductants. Chemical Reviews, 95(1), 209–225.CrossRef
+CAS
+Google Scholar
+Sivan, A. (2011). New perspectives in plastic biodegradation. Current Opinion in Biotechnology, 22(3), 422–426.CrossRef
+CAS
+PubMed
+Google Scholar
+Speight, J. G. (2015). Waste gasification for synthetic liquid fuel production. In Gasification for Synthetic Fuel Production (pp. 277–301). Woodhead Publishing.CrossRef
+Google Scholar
+Speight, J. G. (2019). Handbook of industrial hydrocarbon processes. Gulf Professional Publishing.
+Google Scholar
+Szwaja, S., et al. (2019). Theoretical and experimental analysis on co-gasification of sewage sludge with energetic crops. Energies, 12(9), 1750.CrossRef
+CAS
+Google Scholar
+Tabatabaei, M., et al. (2010). Importance of the methanogenic archaea populations in anaerobic wastewater treatments. Process Biochemistry, 45(8), 1214–1225.CrossRef
+CAS
+Google Scholar
+Taheri, M., et al. (2014). Environmental impact assessment of municipal solid waste disposal site in Tabriz, Iran using rapid impact assessment matrix. Impact Assessment and Project Appraisal, 32(2), 162–169.CrossRef
+Google Scholar
+Teter, S. A., Brandon Sutton, K., & Emme, B. (2014). Enzymatic processes and enzyme development in biorefining. Advances in Biorefineries (pp. 199–233). Woodhead Publishing.
+Google Scholar
+Theegala, C. S., & Midgett, J. S. (2012). Hydrothermal liquefaction of separated dairy manure for production of bio-oils with simultaneous waste treatment. Bioresource Technology, 107, 456–463.CrossRef
+CAS
+PubMed
+Google Scholar
+Tian, H., et al. (2012). Temporal trends and spatial variation characteristics of hazardous air pollutant emission inventory from municipal solid waste incineration in China. Environmental Science & Technology, 46(18), 10364–10371.CrossRef
+CAS
+Google Scholar
+Tradler, S. B., et al. (2018). Hydrothermal carbonization as an all-inclusive process for food-waste conversion. Bioresource Technology Reports, 2, 77–83.CrossRef
+Google Scholar
+Tumuluru, J. S., et al. (2012). Formulation, pretreatment, and densification options to improve biomass specifications for co-firing high percentages with coal. Industrial Biotechnology, 8(3), 113–132.CrossRef
+CAS
+Google Scholar
+Vedaraman, N., et al. (2011). Preparation of palm oil biodiesel and effect of various additives on NOx emission reduction in B20: An experimental study. International Journal of Green Energy, 8(3), 383–397.CrossRef
+CAS
+Google Scholar
+Verma, M., et al. (2012). Biofuels production from biomass by thermochemical conversion technologies. International Journal of Chemical Engineering, 2012, 542426.CrossRef
+CAS
+Google Scholar
+Verma, M., et al. (2017). Drying of biomass for utilising in co-firing with coal and its impact on environment–A review. Renewable and Sustainable Energy Reviews, 71, 732–741.CrossRef
+CAS
+Google Scholar
+Virmond, E., et al. (2013). Valorization of agroindustrial solid residues and residues from biofuel production chains by thermochemical conversion: a review, citing Brazil as a case study. Brazilian Journal of Chemical Engineering, 30(2), 197–230.CrossRef
+CAS
+Google Scholar
+Voskian, S., and Alan Hatton, T. (2018). "Faradaic electro-swing reactive adsorption for carbon capture at low concentrations." 14th Greenhouse Gas Control Technologies Conference Melbourne.
+Google Scholar
+Wang, W.-j., & You, X.-y. (2021). Benefits analysis of classification of municipal solid waste based on system dynamics. Journal of Cleaner Production, 279, 123686.CrossRef
+Google Scholar
+Wang, Z., et al. (2018). Study on the thermal liquefaction of Xilinguole lignite in solvent at high temperature. Fuel Processing Technology, 176, 167–173.CrossRef
+CAS
+Google Scholar
+Williams, C. L., et al. (2016). Sources of biomass feedstock variability and the potential impact on biofuels production. BioEnergy Research, 9(1), 1–14.CrossRef
+CAS
+Google Scholar
+Williams, C. L., Emerson, R. M., and Tumuluru, J. S. (2017). Biomass compositional analysis for conversion to renewable fuels and chemicals. Biomass Volume Estimation and Valorization for Energy: 251–270.
+Google Scholar
+Wu, Y., et al. (2018). Bioenergy production and environmental impacts. Geoscience Letters, 5(1), 1–9.CrossRef
+CAS
+Google Scholar
+Yang, J., & Yang, L. (2019). A review on hydrothermal co-liquefaction of biomass. Applied Energy, 250, 926–945.CrossRef
+CAS
+Google Scholar
+Yousuf, A., et al. (2016). Financial sustainability of biogas technology: Barriers, opportunities, and solutions. Energy Sources, Part B: Economics, Planning, and Policy, 11(9), 841–848.CrossRef
+Google Scholar
+Yuan, X., et al. (2020). Environmental impact of the natural gas liquefaction process: An example from China. Applied Sciences, 10(5), 1701. https://doi.org/10.3390/app10051701CrossRef
+CAS
+Google Scholar
+Zaman, C. Z., et al. (2017). Pyrolysis: a sustainable way to generate energy from waste (p. 1). Pyrolysis; IntechOpen.
+Google Scholar
+Zhang, L., et al. (2013). Upgrading of bio-oil from biomass fast pyrolysis in China: A review. Renewable and Sustainable Energy Reviews, 24, 66–72.CrossRef
+CAS
+Google Scholar
+Zhang, Y., et al. (2019). Gasification technologies and their energy potentials. In Sustainable resource recovery and zero waste approaches (pp. 193–206). Elsevier.
+Google Scholar
+Zhou, H., et al. (2014). Classification and comparison of municipal solid waste based on thermochemical characteristics. Journal of the Air & Waste Management Association, 64(5), 597–616.CrossRef
+CAS
+Google Scholar
+Ziemiński, K., & Frąc, M. (2012). Methane fermentation process as anaerobic digestion of biomass: Transformations, stages and microorganisms. African Journal of Biotechnology, 11(18), 4127–4139.
+Google Scholar
+Download references Author informationAuthors and AffiliationsColloids and Polymer & Mass Transfer Research Group, School of Chemical Engineering, Vellore Institute of Technology, Vellore, Tamil Nadu, IndiaS. Aishwarya, G. Sruthi, M. N. Aditya, K. Sivagami & Samarshi ChakrabortyAuthorsS. AishwaryaView author publicationsYou can also search for this author in
+PubMed Google ScholarG. SruthiView author publicationsYou can also search for this author in
+PubMed Google ScholarM. N. AdityaView author publicationsYou can also search for this author in
+PubMed Google ScholarK. SivagamiView author publicationsYou can also search for this author in
+PubMed Google ScholarSamarshi ChakrabortyView author publicationsYou can also search for this author in
+PubMed Google ScholarCorresponding authorCorrespondence to
+Samarshi Chakraborty . Editor informationEditors and AffiliationsDepartment of Chemical Engineering, Birla Institute of Technology, Mesra, Ranchi, Jharkhand, IndiaDr. Dan Bahadur PalDepartment of Chemical Engineering, Maulana Azad National Institute of Technology, Bhopal, Madhya Pradesh, IndiaDr. Jay Mant Jha Rights and permissionsReprints and Permissions Copyright information© 2022 The Author(s), under exclusive license to Springer Nature Singapore Pte Ltd. About this chapterCite this chapterAishwarya, S., Sruthi, G., Aditya, M.N., Sivagami, K., Chakraborty, S. (2022).
+Biomass Energy Conversion Using Thermochemical and Biochemical Technologies.
+In: Pal, D.B., Jha, J.M. (eds) Sustainable and Clean Energy Production Technologies . Clean Energy Production Technologies. Springer, Singapore. https://doi.org/10.1007/978-981-16-9135-5_5Download citation.RIS.ENW.BIBDOI: https://doi.org/10.1007/978-981-16-9135-5_5Published: 01 July 2022
+Publisher Name: Springer, Singapore
+Print ISBN: 978-981-16-9134-8
+Online ISBN: 978-981-16-9135-5eBook Packages: Biomedical and Life SciencesBiomedical and Life Sciences (R0)Share this chapterAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Access via your institution
+Buying options
+Chapter
+USD   29.95
+Price excludes VAT (USA)
+Available as PDF
+Read on any device
+Instant download
+Own it forever
+Buy Chapter
+eBook
+USD   149.00
+Price excludes VAT (USA)
+Available as EPUB and PDF
+Read on any device
+Instant download
+Own it forever
+Buy eBook
+Softcover Book
+USD   199.99
+Price excludes VAT (USA)
+Compact, lightweight edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Softcover Book
+Hardcover Book
+USD   199.99
+Price excludes VAT (USA)
+Durable hardcover edition
+Dispatched in 3 to 5 business days
+Free shipping worldwide - see info
+Buy Hardcover Book
+Tax calculation will be finalised at checkout
+Purchases are for personal use onlyLearn about institutional subscriptions
+SectionsReferences Abstract Abbreviations References Author information Editor information Rights and permissions Copyright information About this chapter
+Abbaszaadeh, A., et al. (2012). Current biodiesel production technologies: A comparative review. Energy Conversion and Management, 63, 138–148.CrossRef CAS
+Google Scholar Abowei, M. F. N., Ayotamuno, M. J., and Eze, C. L. (2009). Comparative evaluation of batch and continuous anaerobic digesters in biogas production from municipal solid waste using mathematical models. Agricultural Engineering International: CIGR Journal.
+Google Scholar Agbor, E., Zhang, X., & Kumar, A. (2014). A review of biomass co-firing in North America. Renewable and Sustainable Energy Reviews, 40, 930–943.CrossRef CAS
+Google Scholar Aghbashlo, M., et al. (2016). Exergy analysis for decision making on operational condition of a continuous photobioreactor for hydrogen production via WGS reaction. International Journal of Hydrogen Energy, 41(4), 2354–2366.CrossRef CAS
+Google Scholar Akkerman, I., et al. (2002). Photobiological hydrogen production: photochemical efficiency and bioreactor design. International Journal of Hydrogen Energy, 27(11-12), 1195–1208.CrossRef CAS
+Google Scholar Almutairi, K., Thoma, G., & Durand-Morat, A. (2018). Ex-ante analysis of economic, social and environmental impacts of large-scale renewable and nuclear energy targets for global electricity generation by 2030. Sustainability, 10(8), 2884.CrossRef
+Google Scholar Anastasakis, K., et al. (2018). Continuous hydrothermal liquefaction of biomass in a novel pilot plant with heat recovery and hydraulic oscillation. Energies, 11(10), 2695.CrossRef CAS
+Google Scholar Anderson, E., et al. (2016). Economic screening of renewable energy technologies: Incineration, anaerobic digestion, and biodiesel as applied to waste water scum. Bioresource Technology, 222, 202–209.CrossRef CAS PubMed
+Google Scholar Archer, E., et al. (2005). MBT: A Guide for Decision Makers-Processes, Policies and Markets. Juniper Consulting Ltd.
+Google Scholar Bacenetti, J. (2020). Economic and environmental impact assessment of renewable energy from biomass. 5619.
+Google Scholar Balagurumurthy, B., Singh, R., & Bhaskar, T. (2015). Catalysts for thermochemical conversion of biomass. In
+Recent Advances in Thermo-Chemical Conversion of Biomass (pp. 109–132). Elsevier. Retrieved from https://doi.org/10.1016/B978-0-444-63289-0.00004-1CrossRef
+Google Scholar Bansal, M., Saini, R. P., & Khatod, D. K. (2013). Development of cooking sector in rural areas in India—A review. Renewable and Sustainable Energy Reviews, 17, 44–53.CrossRef
+Google Scholar Barik, D. (Ed.). (2018). Energy from toxic organic waste for heat and power generation. Woodhead Publishing.
+Google Scholar Basu, P. (2010). Biomass gasification and pyrolysis: practical design and theory. Academic press.
+Google Scholar Basu, P. (2018). Biomass gasification, pyrolysis and torrefaction: practical design and theory. Academic press.
+Google Scholar Bello, B. Z., Nwokoagbara, E., & Wang, M. (2012). Comparative techno-economic analysis of biodiesel production from microalgae via transesterification methods. Computer Aided Chemical Engineering, 30. Elsevier, 132–136.CrossRef CAS
+Google Scholar Berstad, D. O., Stang, J. H., & Nekså, P. (2010). Large-scale hydrogen liquefier utilising mixed-refrigerant pre-cooling. International Journal of Hydrogen Energy, 35(10), 4512–4523. https://doi.org/10.1016/j.ijhydene.2010.02.001CrossRef CAS
+Google Scholar Bhatia, R. (1990). Diffusion of renewable energy technologies in developing countries: A case study of biogas engines in India. World Development, 18(4), 575–590.CrossRef
+Google Scholar Bhatia, S. C. (Ed.). (2014). Advanced renewable energy systems,(Part 1 and 2). CRC Press.
+Google Scholar Blenkinsopp, T., Coles, S. R., & Kirwan, K. (2013). Renewable energy for rural communities in Maharashtra, India. Energy Policy, 60, 192–199.CrossRef
+Google Scholar Boardman, R. D., et al. (2014) Logistics, costs, and GHG impacts of utility scale cofiring with 20% biomass. No. PNNL-23492. Pacific Northwest National Lab.(PNNL), Richland, WA (United States).
+Google Scholar C.P.C. BOARD (Ed.) (2013). Ministry of Environment Forests & Climate Change, New Delhi.
+Google Scholar Canter, L. W. (1996). Environmental impact assessment (2nd ed.). McGraw-Hill. (McGraw-Hill series in water resources and environmental engineering).
+Google Scholar Capellán-Pérez, I., et al. (2014). Fossil fuel depletion and socio-economic scenarios: An integrated approach. Energy, 77, 641–666.CrossRef
+Google Scholar Carneiro, M. L. N. M., et al. (2017). Potential of biofuels from algae: Comparison with fossil fuels, ethanol and biodiesel in Europe and Brazil through life cycle assessment (LCA). Renewable and Sustainable Energy Reviews, 73, 632–653.CrossRef CAS
+Google Scholar Castello, D., Pedersen, T. H., & Rosendahl, L. A. (2018). Continuous hydrothermal liquefaction of biomass: A critical review. Energies, 11(11), 3165.CrossRef CAS
+Google Scholar Chen, D., et al. (2014). Pyrolysis technologies for municipal solid waste: a review. Waste Management, 34(12), 2466–2486.CrossRef CAS PubMed
+Google Scholar Chen, H., & Wang, L. (2016). Technologies for biochemical conversion of biomass. Academic Press.
+Google Scholar Cheng, H., & Yuanan, H. (2010). Curbing dioxin emissions from municipal solid waste incineration in China: Re-thinking about management policies and practices. Environmental Pollution, 158(9), 2809–2814.CrossRef CAS PubMed
+Google Scholar Cherubini, F., et al. (2009). Energy-and greenhouse gas-based LCA of biofuel and bioenergy systems: Key issues, ranges and recommendations. Resources, Conservation and Recycling, 53(8), 434–447.CrossRef
+Google Scholar Chundawat, S. P. S., Beckham, G. T., Himmel, M. E., & Dale, B. E. (2011). Deconstruction of lignocellulosic biomass to fuels and chemicals. Annual Review of Chemical and Biomolecular Engineering, 2(1), 121–145. https://doi.org/10.1146/annurev-chembioeng-061010-114205CrossRef CAS PubMed
+Google Scholar Czajczyńska, D., et al. (2017). Potential of pyrolysis processes in the waste management sector. Thermal Science and Engineering Progress, 3, 171–197.CrossRef
+Google Scholar da Silva, C., & Vladimir Oliveira, J. (2014). Biodiesel production through non-catalytic supercritical transesterification: current state and perspectives. Brazilian Journal of Chemical Engineering, 31(2), 271–285.CrossRef
+Google Scholar Dasgupta, C. N., et al. (2010). Recent trends on the development of photobiological processes and photobioreactors for the improvement of hydrogen production. International Journal of Hydrogen Energy, 35(19), 10218–10238.CrossRef CAS
+Google Scholar De Boer, K., & Bahri, P. A. (2011). Supercritical methanol for fatty acid methyl ester production: A review. Biomass and Bioenergy, 35(3), 983–991.CrossRef CAS
+Google Scholar de Luna, Mark Daniel, G., et al. (2017). Transesterification of soybean oil using a novel heterogeneous base catalyst: synthesis and characterization of Na-pumice catalyst, optimization of transesterification conditions, studies on reaction kinetics and catalyst reusability. Fuel, 209, 246–253.CrossRef CAS
+Google Scholar De Mes, T. Z. D., et al. (2003). Methane production by anaerobic digestion of wastewater and solid wastes. Bio-Methane & Bio-Hydrogen, 58–102.
+Google Scholar de Titto, E., & Savino, A. (2019). Environmental and health risks related to waste incineration. Waste Management & Research, 37(10), 976–986.CrossRef
+Google Scholar Delivand, M. K., Barz, M., & Gheewala, S. H. (2011). Logistics cost analysis of rice straw for biomass power generation in Thailand. Energy, 36(3), 1435–1441.CrossRef
+Google Scholar Demirbas, A. (2008). Liquefaction of biomass using glycerol. Energy Sources, Part A, 30(12), 1120–1126.CrossRef CAS
+Google Scholar Deshpande, A., et al. (2010). Supercritical biodiesel production and power cogeneration: technical and economic feasibilities. Bioresource Technology, 101(6), 1834–1843.CrossRef CAS PubMed
+Google Scholar Donoso-Bravo, A., et al. (2011). Model selection, identification and validation in anaerobic digestion: a review. Water Research, 45(17), 5347–5364.CrossRef CAS PubMed
+Google Scholar Duan, N., et al. (2012). High-solid anaerobic digestion of sewage sludge under mesophilic conditions: feasibility study. Bioresource Technology, 104, 150–156.CrossRef CAS PubMed
+Google Scholar Edjabou, M. E., et al. (2015). Municipal solid waste composition: Sampling methodology, statistical analyses, and case study evaluation. Waste Management, 36, 12–23.CrossRef PubMed
+Google Scholar Energy Statistics, C.S. Office (Ed.) (2014), Ministry of Statistics and Programme Implementation,
+Google Scholar Erdinc, O., & Uzunoglu, M. (2012). Optimum design of hybrid renewable energy systems: Overview of different approaches. Renewable and Sustainable Energy Reviews, 16(3), 1412–1425.CrossRef
+Google Scholar Fillion, E., et al. (2005). Meldrum's acids as acylating agents in the catalytic intramolecular Friedel−Crafts reaction. The Journal of Organic Chemistry, 70(4), 1316–1327.CrossRef CAS PubMed
+Google Scholar Foong, S. Y., et al. (2020). Valorization of biomass waste to engineered activated biochar by microwave pyrolysis: progress, challenges, and future directions. Chemical Engineering Journal, 389, 124401.CrossRef CAS
+Google Scholar Foston, M., & Ragauskas, A. J. (2012). Biomass characterization: recent progress in understanding biomass recalcitrance. Industrial Biotechnology, 8(4), 191–208.CrossRef CAS
+Google Scholar Freedman, B. E. H. P., Pryde, E. H., & Mounts, T. L. (1984). Variables affecting the yields of fatty esters from transesterified vegetable oils. Journal of the American Oil Chemists Society, 61(10), 1638–1643.CrossRef CAS
+Google Scholar Garhyan, P., & Elnashaie, S. S. E. H. (2004). Utilization of mathematical models to investigate the bifurcation and chaotic behavior of ethanol fermentors. Mathematical and Computer Modelling, 39(4-5), 381–427.CrossRef
+Google Scholar Gautam, V., Thapar, R., & Sharma, M. (2010). Biomedical waste management: Incineration vs. environmental safety. Indian Journal of Medical Microbiology, 28(3), 191.CrossRef CAS PubMed
+Google Scholar Ghimire, P. C. (2013). SNV supported domestic biogas programmes in Asia and Africa. Renewable Energy, 49, 90–94.CrossRef
+Google Scholar Ghirardi, M. L., et al. (2009). Photobiological hydrogen-producing systems. Chemical Society Reviews, 38(1), 52–61.CrossRef CAS PubMed
+Google Scholar Gollakota, A. R. K., Kishore, N., & Sai, G. (2018). A review on hydrothermal liquefaction of biomass. Renewable and Sustainable Energy Reviews, 81, 1378–1392.CrossRef
+Google Scholar Goodrich, P. R., and Schmidt, D. (2002). Anaerobic digestion for energy and pollution control. 2002 ASAE Annual Meeting. American Society of Agricultural and Biological Engineers.
+Google Scholar Hermansen, J. E., et al. (2017). Green biomass-protein production through bio-refining. DCA-Nationalt Center for Fødevarer og Jordbrug.
+Google Scholar Hiloidhari, M., & Baruah, D. C. (2011). Crop residue biomass for decentralized electrical power generation in rural areas (part 1): Investigation of spatial availability. Renewable and Sustainable Energy Reviews, 15(4), 1885–1892.CrossRef
+Google Scholar Hiloidhari, M., Baruah, D. C., Kumari, M., Kumari, S., & Thakur, I. S. (2019). Prospect and potential of biomass power to mitigate climate change: A case study in India. Journal of Cleaner Production, 220, 931–944.CrossRef
+Google Scholar Hjelmar, O., Johnson, A., & Comans, R. (2010). Incineration: solid residues. Solid Waste Technology & Management, 1, 430–462.CrossRef
+Google Scholar Hofbauer, H., & Materazzi, M. (2019). Waste gasification processes for SNG production. In Substitute natural gas from waste (pp. 105–160). Academic Press.CrossRef
+Google Scholar Iso, M., et al. (2001). Production of biodiesel fuel from triglycerides and alcohol using immobilized lipase. Journal of Molecular Catalysis B: Enzymatic, 16(1), 53–58.CrossRef CAS
+Google Scholar Jadhao, S. B., et al. (2017). Bury, burn, or gasify: assessing municipal solid waste management options in Indian megacities by exergy analysis. Clean Technologies and Environmental Policy, 19(5), 1403–1412.CrossRef CAS
+Google Scholar Jahirul, M. I., et al. (2012). Biofuels production through biomass pyrolysis—a technological review. Energies, 5(12), 4952–5001.CrossRef CAS
+Google Scholar Jana, K., Mahanta, P., & De, S. (2018). Role of biomass for sustainable energy solution in India. In Sustainable energy and transportation (pp. 209–233). Springer.CrossRef
+Google Scholar Jena, U., & Das, K. C. (2011). Comparative evaluation of thermochemical liquefaction and pyrolysis for bio-oil production from microalgae. Energy & Fuels, 25(11), 5472–5482.CrossRef CAS
+Google Scholar Ji, L., et al. (2016). Levels and profiles of dioxins from circulating fluidised bed incineration. International Journal of Environment and Pollution, 60(1-4), 136–155.CrossRef CAS
+Google Scholar Jiao, F., et al. (2016). Study on the species of heavy metals in MSW incineration fly ash and their leaching behavior. Fuel Processing Technology, 152, 108–115.CrossRef CAS
+Google Scholar Kachrimanidou, V., et al. (2020). Increasing the volumetric productivity of fermentative ethanol production using a fed-batch vacuferm process. Biomass Conversion and Biorefinery, 1–8.
+Google Scholar Kandasamy, R., et al. (2020). Anaerobic biovalorization of leather industry solid waste and production of high value-added biomolecules and biofuels. Biovalorisation of Wastes to Renewable Chemicals and Biofuels. Elsevier, 3–25.
+Google Scholar Kaniyamparambil, J. S., & Krantzberg, D. G. (2011). A look at India's biogas energy development programafter three decades, is it useful (doing what it should) and should it be continued. McMaster University.
+Google Scholar Karavalakis, G., et al. (2012). Impacts of ethanol fuel level on emissions of regulated and unregulated pollutants from a fleet of gasoline light-duty vehicles. Fuel, 93, 549–558.CrossRef CAS
+Google Scholar Kardos, L., et al. (2011). Comparing of mesophilic and thermophilic anaerobic fermented sewage sludge based on chemical and biochemical tests. Applied Ecology and Environmental Research, 9(3), 293–302.CrossRef
+Google Scholar Katakojwala, R., et al. (2020). Hydrothermal liquefaction of biogenic municipal solid waste under reduced H2 atmosphere in biorefinery format. Bioresource Technology, 310, 123369.CrossRef CAS PubMed
+Google Scholar Köse, Ö., Tüter, M., & Ayşe Aksoy, H. (2002). Immobilized Candida antarctica lipase-catalyzed alcoholysis of cotton seed oil in a solvent-free medium. Bioresource Technology, 83(2), 125–129.CrossRef PubMed
+Google Scholar Kruse, O., et al. (2005). Improved photobiological H2 production in engineered green algal cells. Journal of Biological Chemistry, 280(40), 34170–34177.CrossRef CAS PubMed
+Google Scholar Kurella, S., Bhukya, P. K., & Meikap, B. C. (2017). Removal of H2S pollutant from gasifier syngas by a multistage dual-flow sieve plate column wet scrubber. Journal of Environmental Science and Health, Part A, 52(6), 515–523.CrossRef CAS
+Google Scholar Laciak, M., et al. (2016). The analysis of the underground coal gasification in experimental equipment. Energy, 114, 332–343.CrossRef CAS
+Google Scholar Lam, C. H. K., et al. (2010). Use of incineration MSW ash: a review. Sustainability, 2(7), 1943–1968.CrossRef CAS
+Google Scholar Libra, J. A., et al. (2011). Hydrothermal carbonization of biomass residuals: a comparative review of the chemistry, processes and applications of wet and dry pyrolysis. Biofuels, 2(1), 71–106.CrossRef CAS
+Google Scholar Lin, Y., et al. (2012). Factors affecting ethanol fermentation using Saccharomyces cerevisiae BY4742. Biomass and Bioenergy, 47, 395–401.CrossRef CAS
+Google Scholar Lin, Y., et al. (2017). Hydrothermal carbonization of typical components of municipal solid waste for deriving hydrochars and their combustion behavior. Bioresource Technology, 243, 539–547.CrossRef CAS PubMed
+Google Scholar Liu, L., Li, J., & Xie, J. (2017). The role of biomass in deeply decarbonizing China's power generation: implications for policy design and implementation. Carbon Management, 8(2), 191–205.CrossRef CAS
+Google Scholar Liu, Y., et al. (2020). Electrochemically mediated carbon dioxide separation with quinone chemistry in salt-concentrated aqueous media. Nature Communications, 11(1), 1–11.CAS
+Google Scholar Lohri, C. R., Sweeney, D., & Rajabu, H. M. (2015). Carbonizing urban biowaste for low-cost char production in developing countries. A review of knowledge, practices and technologies. Retrieved from http://hdl.handle.net/20.500.11810/3161Lu, X., Jordan, B., & Berge, N. D. (2012). Thermal conversion of municipal solid waste via hydrothermal carbonization: Comparison of carbonization products to products from current waste management techniques. Waste Management, 32(7), 1353–1365.CrossRef CAS PubMed
+Google Scholar Lüschen, A., and Madlener, R. (2010). Economics of biomass co-firing in new hard coal power plants in Germany.
+Google Scholar Madanayake, B. N., et al. (2017). Biomass as an energy source in coal co-firing and its feasibility enhancement via pre-treatment techniques. Fuel Processing Technology, 159, 287–305.CrossRef CAS
+Google Scholar Mahmoudi, A. H. (2015). Prediction of heat-up, drying and gasification of fixed and moving beds by the Discrete Particle Method (DPM). Diss. University of Luxembourg, Luxembourg.
+Google Scholar Mamun, A., Rashed, M., & Torii, S. (2017). Enhancement of methane concentration by removing contaminants from biogas mixtures using combined method of absorption and adsorption. International Journal of Chemical Engineering, 2017, 7906859.CrossRef CAS
+Google Scholar Manisalidis, I., et al. (2020). Environmental and health impacts of air pollution: a review. Frontiers in Public Health, 8, 14.CrossRef PubMed PubMed Central
+Google Scholar Mannucci, P. M., & Franchini, M. (2017). Health effects of ambient air pollution in developing countries. International Journal of Environmental Research and Public Health, 14(9), 1048.CrossRef PubMed Central CAS
+Google Scholar Marchuk, А., Likhanov, V. A., & Lopatin, O. P. (2019). Alternative energy: methanol, ethanol and alcohol esters of rapeseed oil as eco-friendly biofuel. Теоретическая и прикладная экология, 3, 80–86.
+Google Scholar McKinlay, J. B., & Harwood, C. S. (2010). Photobiological production of hydrogen gas as a biofuel. Current Opinion in Biotechnology, 21(3), 244–251.CrossRef CAS PubMed
+Google Scholar Menon, V., & Rao, M. (2012). Trends in bioconversion of lignocellulose: biofuels, platform chemicals & biorefinery concept. Progress in Energy and Combustion Science, 38(4), 522–550.CrossRef CAS
+Google Scholar Milieu en Natuur Planbureau, & Shukla, P. R. (2007). Biomass energy strategies for aligning development and climate goals in India. MNP.
+Google Scholar Mittal, S., Ahlgren, E. O., & Shukla, P. R. (2018). Barriers to biogas dissemination in India: A review. Energy Policy, 112, 361–370.CrossRef CAS
+Google Scholar MNRE (2015). Annual Report, 2015–16. In: Energy, M.O.N.A.R. (Ed.), New Delhi.
+Google Scholar Moh, Y. C., & Manaf, L. A. (2014). Overview of household solid waste recycling policy status and challenges in Malaysia. Resources, Conservation and Recycling, 82, 50–61.CrossRef
+Google Scholar Muhtadin, M., et al. (2020). Investigation of biomass combustion and conceptual design of a fluidized-bed. Journal of Advanced Research in Fluid Mechanics and Thermal Sciences, 74(1), 81–97.CrossRef
+Google Scholar Mwirigi, J., et al. (2014). Socio-economic hurdles to widespread adoption of small-scale biogas digesters in Sub-Saharan Africa: A review. Biomass and Bioenergy, 70, 17–25.CrossRef
+Google Scholar National Research Council (2000). Incineration processes and environmental releases. Waste Incineration & Public Health. National Academies Press (US).
+Google Scholar Nur, M., Sumariyah, S., and Suseno, A. (2019). Removal of emission gas COx, NOx and SOx from automobile using non-thermal plasma. IOP Conference Series: Materials Science and Engineering. 509. 1. IOP Publishing.
+Google Scholar Ortuño, N., et al. (2014). Pollutant emissions during pyrolysis and combustion of waste printed circuit boards, before and after metal removal. Science of the Total Environment, 499, 27–35.CrossRef PubMed CAS
+Google Scholar Pandiyan, K., et al. (2019). Technological interventions for utilization of crop residues and weedy biomass for second generation bio-ethanol production. Renewable Energy, 132, 723–741.CrossRef
+Google Scholar Patel, N. K., et al. (2017). Engine performance, emission and fluorescence study of fuel from plant oils. Journal of Mechanical Engineering Research and Developments, 40(4), 673–691.
+Google Scholar Pena, M. S. B., & Rollins, A. (2017). Environmental exposures and cardiovascular disease: a challenge for health and development in low-and middle-income countries. Cardiology Clinics, 35(1), 71–86.CrossRef
+Google Scholar Phillips, J. (2006). Different types of gasifiers and their integration with gas turbines. The Gas Turbine Handbook 1
+Google Scholar Planning Commission. (2012). Twelfth Five Year Plan (2012–2017). Economic Sectors (Vol. II). Retrieved from http://14.139.60.153/bitstream/123456789/1456/1/12th%205%20year%20plan_vol_2.pdfPoe, N. E., et al. (2020). Compositional variability of food wastes and its effects on acetone-butanol-ethanol fermentation. Waste Management, 107, 150–158.CrossRef CAS PubMed
+Google Scholar Primo, A., and García, H. (2013). New and future developments in catalysis: 425–449.
+Google Scholar Prince, R. C., & Kheshgi, H. S. (2005). The photobiological production of hydrogen: potential efficiency and effectiveness as a renewable fuel. Critical Reviews in Microbiology, 31(1), 19–31.CrossRef CAS PubMed
+Google Scholar Puig-Arnavat, M., Bruno, J. C., & Coronas, A. (2010). Review and analysis of biomass gasification models. Renewable and Sustainable Energy Reviews, 14(9), 2841–2851.CrossRef CAS
+Google Scholar Raha, D., Mahanta, P., & Clarke, M. L. (2014). The implementation of decentralised biogas plants in Assam, NE India: The impact and effectiveness of the National Biogas and Manure Management Programme. Energy Policy, 68, 80–91.CrossRef
+Google Scholar Rahimi, M., et al. (2020). Carbon dioxide capture using an electrochemically driven proton concentration process. Cell Reports Physical Science, 1(4), 100033. https://doi.org/10.1016/j.xcrp.2020.100033CrossRef
+Google Scholar Rao, M., Narayana, et al. (2016). Solid and hazardous waste management: science and engineering. Butterworth-Heinemann.
+Google Scholar Reay, D. S., et al. (2018). Methane and global environmental change. Annual Review of Environment and Resources, 43, 165–192.CrossRef
+Google Scholar Rivera, E. C., et al. (2017). Effect of temperature on sugarcane ethanol fermentation: Kinetic modeling and validation under very-high-gravity fermentation conditions. Biochemical Engineering Journal, 119, 42–51.CrossRef CAS
+Google Scholar Roni, M. S., et al. (2017). Biomass co-firing technology with policies, challenges, and opportunities: A global review. Renewable and Sustainable Energy Reviews, 78, 1089–1101.CrossRef CAS
+Google Scholar Roopnarain, A., & Adeleke, R. (2017). Current status, hurdles and future prospects of biogas digestion technology in Africa. Renewable and Sustainable Energy Reviews, 67, 1162–1179.CrossRef CAS
+Google Scholar Rupf, G. V., et al. (2015). Barriers and opportunities of biogas dissemination in Sub-Saharan Africa and lessons learned from Rwanda, Tanzania, China, India, and Nepal. Renewable and Sustainable Energy Reviews, 52, 468–476.CrossRef
+Google Scholar Sakurai, H., et al. (2013). Photobiological hydrogen production: bioenergetics and challenges for its practical application. Journal of Photochemistry and Photobiology C: Photochemistry Reviews, 17, 1–25.CrossRef CAS
+Google Scholar Samar, E. K. K., & Meena, E. G. L. (2016). The solid state biogas plant: A boon for water scarce areas. Akshay Urja, 9, 4.
+Google Scholar Seepana, S., et al. (2018). Evaluation of feasibility of pelletized wood co-firing with high ash Indian coals. Journal of the Energy Institute, 91(6), 1126–1135.CrossRef CAS
+Google Scholar Sharifian, R., et al. (2021). Electrochemical carbon dioxide capture to close the carbon cycle. Energy & Environmental Science, 14(2), 781–814. https://doi.org/10.1039/D0EE03382KCrossRef CAS
+Google Scholar Sharma, A., and Arya, S. K. (2019). Photobiological production of biohydrogen: Recent advances and strategy. Prospects of Renewable Bioprocessing in Future Energy Systems. 89–116.
+Google Scholar Shelef, M. (1995). Selective catalytic reduction of NOx with N-free reductants. Chemical Reviews, 95(1), 209–225.CrossRef CAS
+Google Scholar Sivan, A. (2011). New perspectives in plastic biodegradation. Current Opinion in Biotechnology, 22(3), 422–426.CrossRef CAS PubMed
+Google Scholar Speight, J. G. (2015). Waste gasification for synthetic liquid fuel production. In Gasification for Synthetic Fuel Production (pp. 277–301). Woodhead Publishing.CrossRef
+Google Scholar Speight, J. G. (2019). Handbook of industrial hydrocarbon processes. Gulf Professional Publishing.
+Google Scholar Szwaja, S., et al. (2019). Theoretical and experimental analysis on co-gasification of sewage sludge with energetic crops. Energies, 12(9), 1750.CrossRef CAS
+Google Scholar Tabatabaei, M., et al. (2010). Importance of the methanogenic archaea populations in anaerobic wastewater treatments. Process Biochemistry, 45(8), 1214–1225.CrossRef CAS
+Google Scholar Taheri, M., et al. (2014). Environmental impact assessment of municipal solid waste disposal site in Tabriz, Iran using rapid impact assessment matrix. Impact Assessment and Project Appraisal, 32(2), 162–169.CrossRef
+Google Scholar Teter, S. A., Brandon Sutton, K., & Emme, B. (2014). Enzymatic processes and enzyme development in biorefining. Advances in Biorefineries (pp. 199–233). Woodhead Publishing.
+Google Scholar Theegala, C. S., & Midgett, J. S. (2012). Hydrothermal liquefaction of separated dairy manure for production of bio-oils with simultaneous waste treatment. Bioresource Technology, 107, 456–463.CrossRef CAS PubMed
+Google Scholar Tian, H., et al. (2012). Temporal trends and spatial variation characteristics of hazardous air pollutant emission inventory from municipal solid waste incineration in China. Environmental Science & Technology, 46(18), 10364–10371.CrossRef CAS
+Google Scholar Tradler, S. B., et al. (2018). Hydrothermal carbonization as an all-inclusive process for food-waste conversion. Bioresource Technology Reports, 2, 77–83.CrossRef
+Google Scholar Tumuluru, J. S., et al. (2012). Formulation, pretreatment, and densification options to improve biomass specifications for co-firing high percentages with coal. Industrial Biotechnology, 8(3), 113–132.CrossRef CAS
+Google Scholar Vedaraman, N., et al. (2011). Preparation of palm oil biodiesel and effect of various additives on NOx emission reduction in B20: An experimental study. International Journal of Green Energy, 8(3), 383–397.CrossRef CAS
+Google Scholar Verma, M., et al. (2012). Biofuels production from biomass by thermochemical conversion technologies. International Journal of Chemical Engineering, 2012, 542426.CrossRef CAS
+Google Scholar Verma, M., et al. (2017). Drying of biomass for utilising in co-firing with coal and its impact on environment–A review. Renewable and Sustainable Energy Reviews, 71, 732–741.CrossRef CAS
+Google Scholar Virmond, E., et al. (2013). Valorization of agroindustrial solid residues and residues from biofuel production chains by thermochemical conversion: a review, citing Brazil as a case study. Brazilian Journal of Chemical Engineering, 30(2), 197–230.CrossRef CAS
+Google Scholar Voskian, S., and Alan Hatton, T. (2018). "Faradaic electro-swing reactive adsorption for carbon capture at low concentrations." 14th Greenhouse Gas Control Technologies Conference Melbourne.
+Google Scholar Wang, W.-j., & You, X.-y. (2021). Benefits analysis of classification of municipal solid waste based on system dynamics. Journal of Cleaner Production, 279, 123686.CrossRef
+Google Scholar Wang, Z., et al. (2018). Study on the thermal liquefaction of Xilinguole lignite in solvent at high temperature. Fuel Processing Technology, 176, 167–173.CrossRef CAS
+Google Scholar Williams, C. L., et al. (2016). Sources of biomass feedstock variability and the potential impact on biofuels production. BioEnergy Research, 9(1), 1–14.CrossRef CAS
+Google Scholar Williams, C. L., Emerson, R. M., and Tumuluru, J. S. (2017). Biomass compositional analysis for conversion to renewable fuels and chemicals. Biomass Volume Estimation and Valorization for Energy: 251–270.
+Google Scholar Wu, Y., et al. (2018). Bioenergy production and environmental impacts. Geoscience Letters, 5(1), 1–9.CrossRef CAS
+Google Scholar Yang, J., & Yang, L. (2019). A review on hydrothermal co-liquefaction of biomass. Applied Energy, 250, 926–945.CrossRef CAS
+Google Scholar Yousuf, A., et al. (2016). Financial sustainability of biogas technology: Barriers, opportunities, and solutions. Energy Sources, Part B: Economics, Planning, and Policy, 11(9), 841–848.CrossRef
+Google Scholar Yuan, X., et al. (2020). Environmental impact of the natural gas liquefaction process: An example from China. Applied Sciences, 10(5), 1701. https://doi.org/10.3390/app10051701CrossRef CAS
+Google Scholar Zaman, C. Z., et al. (2017). Pyrolysis: a sustainable way to generate energy from waste (p. 1). Pyrolysis; IntechOpen.
+Google Scholar Zhang, L., et al. (2013). Upgrading of bio-oil from biomass fast pyrolysis in China: A review. Renewable and Sustainable Energy Reviews, 24, 66–72.CrossRef CAS
+Google Scholar Zhang, Y., et al. (2019). Gasification technologies and their energy potentials. In Sustainable resource recovery and zero waste approaches (pp. 193–206). Elsevier.
+Google Scholar Zhou, H., et al. (2014). Classification and comparison of municipal solid waste based on thermochemical characteristics. Journal of the Air & Waste Management Association, 64(5), 597–616.CrossRef CAS
+Google Scholar Ziemiński, K., & Frąc, M. (2012). Methane fermentation process as anaerobic digestion of biomass: Transformations, stages and microorganisms. African Journal of Biotechnology, 11(18), 4127–4139.
+Google Scholar

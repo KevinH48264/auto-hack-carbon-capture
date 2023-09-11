@@ -1,0 +1,1868 @@
+Technologies to Capture CO directly from Ambient Air
+https://arxiv.org/pdf/2211.00791
+1 
+ Technologies to Capture CO 2 directly from Ambient Air  
+Gahyun Annie Lee1,3, ǂ, Xiaoyang Shi,1,2,3 ǂ Ah-Hyung Alissa Park1,2,3,* 
+1 Department of Chemical Engineering, Columbia University, New York, NY 10027, USA  
+2 Department of Earth and Environmental Engineering, Columbia University, New York, NY 10027, USA  
+3 Lenfest Center for Sustainable Energy, The Earth Institute, Columbia University, New York, NY 10027, USA  
+ 
+ǂ These authors contributed equally  
+*Corresponding a uthors: ap2622@columbia.edu  
+ 
+ 
+Contents  
+Abstract:  2 
+1. Introduction:  3 
+2. Technologies of Direct Air Capture of CO 2 3 
+2.1 Physisorption Materials:  5 
+2.2 Strong -base Materials:  7 
+2.3 Amine -functional Materials:  8 
+2.4 Amino Acid and Guanidine Sorbents:  10 
+2.5 Moisture -swing CO 2 Sorbent:  10 
+2.6 Electrochemical Sorbent:  11 
+3. The Importance of the Stability of CO 2 Sorbent  13 
+4. Electrified Heating Technology for Sorbent Regeneration  17 
+4.1 Microwave Heating  17 
+4.2 Induction Heating  18 
+4.3 Plasma -assisted CO 2 desorption  20 
+5. Sub -ambient Temperature Surrounding for DAC  20 
+6. Computational Modeling  23 
+6.1 Mechanism Study Based on Quantum Chemistry  24 2 
+ 6.2 Mechanism Study Based on Molecular Dynamics  26 
+6.3 Discovery of materials for carbon capture by machine learning  27 
+7. Dual -function al Materials for CO 2 Capture and Conversion  28 
+7.1 Electrochemical CO 2 reduction  29 
+7.2 Thermochemical CO 2 reduction  31 
+7.3 Photochemical and Photoelectrochemical CO 2 reduction  34 
+8. Summary and Outlook:  37 
+References:  39 
+ 
+ 
+ 
+ 
+Abstract:  
+ 
+Building a carbon -neutral world needs to remove the excess CO 2 that has already been 
+dumped into the atmosphere. The sea, soil, vegetation, and rocks on Earth all naturally uptake CO 2 
+from the atmosphere. Human beings can  accelerate these processes in specific ways. The review 
+summarizes the present Direct Air Capture (DAC) technology that contribute to Negative 
+Emissions. Research currently being done has suggested future perspectives and directions of 
+various methods for  Negative Emission. New generations of technologies have emerged as a result 
+of recent advancements in surface chemistry, material synthesis, and engineering design. These 
+technologies may influence the large -scale deployment of existing CO 2 capture techno logies in the 
+future.  
+ 
+ 
+ 3 
+ 1. Introduction:  
+ 
+The entire structure of creation depends heavily on carbon. It can be found as dissolved forms in 
+the atmosphere, dead organic debris, fossil fuels, rocks, tissues of plants and animals, and the 
+ocean. The concentration of CO 2 in the atmosphere has increas ed by more than 100 ppm in the 
+past 200 years. The disposed carbon dioxide (CO 2) from fossil fuels in the atmosphere is the main 
+factor contributing to climate change1. Aggravated climate change increases the probability of 
+severe ecological impacts2-4. Current total CO 2 emissions from fossil fuels approach 40 Gt/year5. 
+Intergovernmental Panel on Climate Change (IPCC) reported CO 2 emissions will rise from 
+existing level of 49  GtCO 2eq/yr to between 85 and 136 GtCO 2eq/yr by 2050 without intervention6. 
+The rising CO 2 concentration might raise the earth's average temperature from 3.8 to 6.0 °C by 
+2100 compared to the pre -industrial level6. It will take some time for the energy infrastructure to 
+transition from using fossil fuels to using renewable energ y sources. Utilizing localized CO 2 
+capture and storage (CCS) systems, power stations and industrial producers might minimize CO 2 
+emissions while burning fossil fuels7-10. However, lowering CO 2 emissions from solitary point 
+sources will not be enough to rea ch the objective of keeping atmospheric CO 2 at 450 ppm and 
+reaching carbon neutrality before 205011,12. This will necessitate the development of technology 
+to directly capture and permanently remove CO 2 from ambient air13-19. Capturing CO 2 from the 
+atmosph ere, referred as Direct Air Capture (DAC), has the potential to lessen or perhaps stop 
+global warming20,21. 
+Since the early report on evaluating the feasibility of Direct Air Capture system by American 
+Physical Society in 201122, it is asserted that DAC is  already capable of capturing 1 percent of 
+annual world CO 2 emissions23. The cost estimation of DAC has been reduced from the ranges of 
+610 to 1100 $/ton CO 2 22,24 to 94 to 232 $/ton CO 225. Considering the thermodynamic system 
+efficiencies and environmenta l impact of the technology, life cycle assessment (LCA) is an 
+efficient multi -step process for evaluating the feasibility of large -scale DAC deployment26-40. 
+Pielke41 calculated the cost of DAC as a percentage of global GDP to 2100 for CO 2 stabilization 
+at 450 and 550 ppm. The cost of DAC is in the range between 0.3% and 3% of global GDP. The 
+generated LCA results vary depending on the capture methods used, the energy sources used for 
+system regeneration, and other factors like as climate and environmental consequences, air 4 
+ pollution, and societal cost. Overall, the LCA analysis demonstrates the feasibility of using DAC 
+as a climate -mitigation technique.  
+Increasing number of policies passed or enacted in recent years supporting DAC industries in the 
+U.S 42. The U.S. Department of Energy (DOE) launched Carbon Negative Earthshots in November 
+2021 to accelerate the goal of net -zero emissions by 2050, hoping to deploy Carbon Dioxide 
+Removal (CDR) at a gigaton scale. The Carbon Negative Earthshots is one of the fi rst U.S 
+government’s major efforts in CDR to tackle the imminent climate crisis global society faces. The 
+new targets aim to decrease the total cost of CDR to lower than $100 per ton by 2050. DOE will 
+spend approximately $10 billion on new direct carbon ma nagement funding through the Bipartisan 
+Infrastructure Law. In addition, most recently passed the Inflation Reduction Act (IRA) in August 
+2022 is expected to substantially increase the tax credits toward the operations that qualify under 
+specific high stan dards for wage and workforce conditions: for example, $180/ton for sequestered 
+CO 2 and $130/ton for capture -and-reuse systems43,44. Accordingly, strengthened climate goals 
+with mandates and financial investment incentives are delivering unprecedented momen tum for 
+DAC to be viable43. With federal support, we believe CCUS technologies will play an essential 
+role in meeting net zero targets, including point source capture, which tackles emissions from 
+heavy industry and direct capture to remove carbon from the  atmosphere45-47  
+2. Technologies of Direct Air Capture of CO 2 
+ 
+Direct Air Capture (DAC) is a technology -based solution for carbon capture. Lackner first 
+introduced to capture CO 2 from the air, or DAC, to fight the climate change in 199948. Researchers 
+argued Direct Air Capture of CO 2 is a necessary and practical way to reduce CO 2 concentration in 
+the atmosphere 25,26,41,49 -76. IPCC claimed negative emission technologies, such as DAC,  is 
+necessary to solve climate change issue77. The econo mic feasibility of DAC has also been 
+established23,25,78 -83.  
+A few companies pioneered this effort. Carbon Engineering25 uses a hydroxide solution to capture 
+CO 2, and then heat sorbent to high temperatures to release CO 2 for storage. The business model 
+relies on selling captured CO 2 to make new products. Climeworks84 based out of Switzerland uses 
+amine sorbents in small modular reactors that cost more than Carbon Engineering, but the potential 5 
+ savings down the road could be higher. The idea is that the mod ular design could make the process 
+cheaper to produce when scaled up. It also requires lower temperatures during the regeneration 
+process by using waste heat. A similar model is being followed by another company, Global 
+Thermostat, which partners up with i ndustrial plants and uses their waste heat to capture CO 2 from 
+the air and offsets the emissions from that plant. Verdox uses an electrochemical approach85 to 
+capture CO 2 from industrial sources and the air. Carbon Collect employs mechanical trees to 
+captu re and release CO 2 by controlling moisture59,86. Captured CO 2 by DAC technology can be 
+utilized for various purposes in industry, such as enhanced oil recovery, beverage manufacturing, 
+concrete curing, food transportation, etc.  
+The most significant portio n of DAC technology is the advance of energy -saving materials to 
+capture and release CO 2. Currently, there are seven types of DAC technologies, including physical 
+sorption87-94, strong bases sorption49,51,87,95 -101, amine -functional materials9,102 -110, ami no acid 
+solution and guanidine compound111-119, moisture -swing sorption14,59,86,120 -133, and electrochemical 
+sorption85. The six typical technologies for DAC are shown in Figure 1.  
+ 
+6 
+ Figure 1. Six standard technologies for Direct Air Capture of CO 2 (DAC).  
+2.1 Physisorption  Materials:  
+Van der Waals or ion quadrupole forces determine the performance of CO 2 capture by 
+physisorption88. Physisorption requires a considerably low energy of regeneration less than 60 
+kJ/mol compared to chemisorption above 70 kJ/mol134, shown in Figure 2. The regeneration 
+process Physisorption is convenient and sustainable. However, the competitive physisorption by 
+H2O in the air may jeopardize the capacity of sorbents.  A material with a high surface -to-volume 
+ratio is required for p hysisorption of CO 289-91. Potential candidates include metal -organic 
+frameworks (MOFs), zeolites, alumina, nanostructured graphite, and so on87,135,136. 
+ 
+Figure 2.  Heat of adsorption -CO 2 uptake (at 1000 ppm for 1 day).134 
+Madden et al. 135,136 studied the  CO 2 sorption capacities of different porous materials, including 
+zeolite, amine -impregnated SBA -15, and MOFs, as shown in Figure 3. The study claims that water 
+in the atmosphere can significantly reduce their CO 2 capture performance, due to the competitiv e 
+sorption and the stability issue of MOFs in a moisture condition.  
+7 
+  
+Figure 3. Molecular structures of MOFs used as CO 2 sorbents by physisorption136 
+Mukherjee et al.137 summarized the CO 2 capacity and kinetics of six types of MOFs under low 
+concentration of CO 2 with dry air or wet air (74% relative humidity). NbOFFIVE -1-Ni and 
+TIFSIX -3-Ni show the highest CO 2 capacity of 1.3 mmol/g and 1.2 mmol/g under 500 ppm of CO 2 
+in the dry air conditi on, respectively. The reason is the adjustment of pore size can significantly 
+affect the performance of CO 2 sorption by MOFs materials. Figure 4  shows humidity decreases 
+CO 2 capacity and kinetics of the five sorbents. Authors also studied the decrease of CO 2 capacity 
+from 2 -10% over six consecutive sorption -desorption cycles.  
+8 
+ Figure 4. The performance of CO 2 sorbent under CO 2 concentration of 1000 ppm and 3000 ppm 
+in the dry and wet conditions. (a) CO 2 capacity of five sorbents. (b) CO 2 retention time.  
+2.2 Strong -base Materials:  
+CO 2 chemisorption is different from physisorption because of the bond break and formation 
+between the CO 2 and sorbent materials. CO 2 can be easily removed from the air by metal 
+hydroxides or alkaline salts, and then converted to metal carbonates during chemisorption49,51,87,95 -
+100,138 -141. A calcination procedure can then be employed to regenerate the sorbent and produce a 
+concentrated  stream of CO 2.142,143. However, the calcination process is energy -intensive requiring 
+high temperatures input. Keith et al. 25 reported the energy consumption of the process chemistry 
+and thermodynamics used in Carbon Engineering, shown in Figure 5. Overc oming the high energy 
+consumption and heat losses during heating materials are challenging to prevent144-146, which 
+makes the strong -base materials for CO 2 capture from air technically and economically difficult.  
+9 
+  
+Figure 5. Process chemistry and thermodyn amics25 
+2.3 Amine -functional Materials:  
+The most popular way to prepare solid amine -functional sorbents include (1) impregnating amines 
+in porous materials. Polyethylenimine (PEI) was first loaded into a mesoporous molecular sieve 
+as a CO 2 sorbent in 2002147. In the following decades, researchers impregnated amines into 
+different porous materials, such as alumina, silica, zeolites, nanostructured graphite, black carbon, 
+MOFs, COFs, and so on147-166 (2) Adding the amine group chemically to the substrate sur face167-
+172. Youssef Belmabkhout et al.167 were the first to suggest using triamine -grafted mesoporous 
+silica, TRI -PE-MCM -41, to capture CO 2 from the air. According to Mattew E. Potter et al.173,  
+Because alumina supports are more resistant to moisture and  air than silica supports are, they may 
+provide possible stability benefits over porous silica. (3) Amine tethering and ligand 
+modification167-172,174 -177. The above three methods are shown in Figure 6.  
+10 
+  
+Figure 6.  The three main routes for functionalizing  porous supports with amine moieties. 13 
+Two types of amine -functionalized MIL -101(Cr) were explored by Darunte et al.178 : MIL -
+101(Cr) -TREN and MIL -101(Cr) -PEI-800. In this study, a small polyamine with high primary 
+amines density, tris (2 -amino ethyl) (TREN), was loaded to MIL -101(Cr) via both grafting and 
+impregnation, and a large branched poly(ethylene imine) (PEI -800) w as loaded into the MIL -
+101(Cr) MOF via physical impregnation method. What they found was that the grafted MIL -
+101(Cr) -TREN only had 0.35 mmol/g MOF and impregnated MIL -101(Cr) -TREN had a 
+significant capacity loss from a cyclic test due to the high volatili ty of TREN under Direct Air 
+Capture condition coupled with temperature swing adsorption. Unlike a small polyamine TREN, 
+PEI-loaded MIL -101(Cr) improved cyclic stability attributed to the lower volatility. The effect of 
+PEI loading was also investigated in this study. Although the amine efficiencies were enhanced as 
+amine loading increased, 85 wt% of PEI loading was found to be optimal considering the trade -
+offs between capture capacity and kinetics.  
+ 
+11 
+ Zhu et al.  179 have also functionalized Mg -Al mixed metal  oxides with branched PEI via the 
+physical impregnation method. They found that using mixed metal oxides (MMOs) increased the 
+mesopores of the materials formed from the exfoliated nanosheets and the calcination process. The 
+authors observed that the PEI -loaded MMOs slightly increased in CO 2 uptake when they 
+underwent desorption above 200 °C, while PEI -loaded SBA -15 had a rapid decrease, which is a 
+commonly faced problem of class 1 adsorbents. This study’s optimal loading of PEI was 67 wt% 
+before the PEI cov ered the MMO nanosheets. The authors argue that the optimized CO 2 diffusion 
+channel and increased surface area led to improved kinetics, resulting in a higher CO 2 uptake of 
+PEI67/Mg 0.55Al-O. Moreover, the facilitated electrostatic attraction between the un iformly 
+dispersed impregnated PEI and MMO layers led to the thermal robustness of PEI67/Mg 0.55Al-O 
+composites as well as the accessibility of the CO 2 molecules.  
+Nanoparticle organic hybrid materials (NOHMs) are a new type of self -suspended nanoparticle 
+system180,181. Park’s group firstly explored the solvating properties of NOHMs for CO 2 capture182, 
+and synthesized five different NOHMs using silica nanoparticles as cores grafted by amines183 in 
+2011, following extensive characterization experiment to under stand the properties and thermal 
+stability of the material184-188. Rim  et al.189 successfully encapsulated optimal loading of 49 wt% 
+the highly viscous liquid -like NOHMs as microdroplets size into highly gas permeable polymer, 
+TEGO Rad 2650. They observed approximately 50 times enhanced capture kinetics compared to 
+the bulk NOHMs under 1 atm CO 2. The performance of the optimal encapsulated NOHMs under 
+Direct Air Capture condition was 0.88 mmol CO 2/g sorbent in 1 h. However, there still remains a 
+challenge t o reach the Department of Energy’s target kinetics of 1 mmol CO 2/g sorbent in 1 h.  
+2.4 Amino Acid and Guanidine Sorbents:  
+Custelcean et al.111-119,190,191 describe a method for DAC that relies primarily on amino acid 
+solution and guanidine compound materia ls. First, aqueous amino acid solutions that are widely 
+accessible are used for CO 2 sorption. Following that, guanidine compound is used to react with 
+CO 2-loaded solution, and the resulting crystallization of an extremely insoluble carbonate salt 
+regenerat es the amino acid sorbent. Finally, relatively mild heating of the carbonate crystals results 
+in effective CO 2 release and regeneration of the guanidine compound. The process is shown in 
+Figure 7.  12 
+  
+Figure 7. CO 2 capture from ambient air using glycine and  guanidine116. 
+The kinetics of crystallization, particle size distribution, and crystal habit are only a few of the 
+many factors that must be adjusted to optimize the DAC technology.  
+2.5 Moisture -swing CO 2 Sorbent:  
+Lackner59 advocated employing moisture -swing sorbents to capture CO 2 from ambient air with 
+lower energy cost compared with amine method. Water is essential in the CO 2 sorption -desorption 
+process122,129,192. Moisture -swing CO 2 sorbent uptakes CO 2 in dry environments  and release it in 
+moisture. The sorbent is an anion -exchange resin that has carbonate ions and quaternary 
+ammonium cations permanently attached to polystyrene. Shi et al.  86 elucidated the sorption and 
+desorption mechanisms. Other sorbents for the DAC app roach were created by impregnating 
+carbon black with an amine -containing polymer193-195, developed from a biomass material123, 
+prepared by bamboo cellulose127.  
+Armstrong131 investigated the availability and kinetic uptake of CO 2 in sorbents encased in 
+different matrices. A commercially available industrial film containing ion -exchange resin (IER), 
+IER particles embedded in dense electrospun fibers, and IER particles embedded in porous 
+electrospun fibers are compared using a solvothermal polymer additive re moval technique to 
+create porosity in the porous fibers. The experimental results indicate that electrospinning 
+polymer/sorbent composites is a promising technology for improving the handleability of sorbent 
+particles and the sorption kinetics, with the IE R embedded in porous electrospun fibers 
+demonstrating the highest cycle capacity with an uptake rate of 1.4 mol of CO 2 per gram -hour, 
+shown in Figure 8.   
+13 
+  
+Figure 8. The estimated average amount of carbon dioxide absorbed per gram per hour by sorbents 
+during direct air capture.  
+Shi et al. recently reported on the effects of sorbent parameters on CO 2 capture efficiency, which 
+may pave the way for future moisture swing technology -based optimization of various materials 
+for DAC, shown in Figure 9 86. Moisture swing performance is weather dependent, and it works 
+best in hot, dry environments.  
+ 
+Figure 9. Material candidates for CO 2 capture by moisture -swing technology86.  
+14 
+ 2.6 Electrochemical Sorbent:  
+The creation of innovative, cost - and energy -efficient solutions is still a top focus for DAC 
+research.  Recently, interest in electrochemical CO 2 capture has increased due to the fact that it 
+does not require heat energy to release CO 2196-198. Several elec trochemical -swing reactive sorption 
+systems were recently published in Hatton’s group85,199 -201. Voskian et al. firstly demonstrated a 
+solid -state electro -swing reactive adsorption system that uses an electrochemical cell to absorb 
+carbon dioxide through t he reductive addition of CO 2 to quinones85. Then, an electrochemically 
+mediated DAC system composed by stackable bipolar cells is described that relies solely on the 
+electrochemical voltage for CO 2 capture and release by quinone chemistry199. The energy 
+consumption was reported as low as 113 kJ/mol of CO 2 captured. Diederichsen et al.200 further 
+advanced the method of electrochemically mediated carbon capture with high -concentration liquid 
+quinone chemistry in a continuous two -cell flow system. The system i s shown in Figure 10.  
+In a whole bench scale process, the device managed to gather and release CO 2 continuously while 
+maintaining high electrochemical stability. The electrochemical process can be further optimized 
+by the electrode and electrolyte chemist ry. The stability of quinones during air oxidation and 
+Faradaic efficiency during the capture condition of 400 ppm CO 2 can be further improved in future 
+studies. Further research into electrochemically capturing CO 2 directly from the air is required.  
+ 
+Figure 10. A concept of a continuous two -cell flow system200 
+15 
+ CO 2 uptake capacities and kinetics of all the types of sorbents are summarized in Figure 11  
+ 
+ 
+(a) 
+(b) 16 
+ Figure 11. (a)  CO 2 uptake capacities and kinetics of amine -functional materials, (b) CO 2 uptake 
+capacities and kinetics of the technologies of moisture swing, amino acid+guanidine, strong base 
+and physisorption.  
+3. The Importance of the Stability of CO 2 Sorbent  
+ 
+The development of a new class of thermally stable CO 2 capture materials is one o f the main 
+hurdles to efficient CO 2 collecting. Lackner’s group14,81,82,202 provided a techno -economic model 
+consisting of a net -present value equation to determine the maximum affordable budget (MAB) of 
+a sorbent for any DAC system based on factors that are well recognized. The MAB assessment of 
+existing DAC sorbents used in pre vious research suggests that the high capacity, short cycle 
+duration, and strong resistance to degradation of each sorbent are the three most important aspects 
+for the economic viability of DAC systems. As new DAC sorbents are the primary focus of current 
+research, it is strongly suggested that the stability of DAC sorbents be investigated. Table shows 
+that for a lifetime of 100,000 cycles, MOF (Diamine) has the highest allowable budget of $180/kg 
+because of high capacity and short loading time. Unfortunate ly, MOFs are among the most 
+expensive sorbents with prices as high as $10,000/kg to $15,000/kg (and it actually cannot be used 
+for 100,000 cycles). For a lifetime of 100,000 cycles, Ion Exchange Resin (IER) or chitosan has 
+the allowable budget of $80 -100/k g. The price is about $1 -10/kg for IER and <$10 -20/kg for 
+chitosan. From the perspective of cost, the study expounds the importance of the stability of 
+sorbents for the industrialization of DAC.  
+Sorbent Nominal 
+Capacity ( 𝐶) 
+(𝑚𝑜𝑙 /𝑘𝑔) 𝐶1/2* (𝑘𝑔 𝐶𝑂 2/
+𝑘𝑔 𝑆𝑜𝑟𝑏𝑒𝑛𝑡 ) 𝑡𝑐𝑦𝑐𝑙𝑒1/2* 
+(𝑚𝑖𝑛 ) Budget ( 𝐵) ($/𝑘𝑔) 
+1k 50k 100k 
+TS-HAS -2.3 0.15 0.0033 105 0.1 4.32 6.96 
+TS-HAS -2.9 0.23 0.0051 95 0.16 6.78 11.1 
+TS-HAS -3.7 0.45 0.0099 140 0.32 12.04 18.24 
+TS-HAS -5.4 1 0.022 163 0.72 25.52 37.26 
+TS-HAS -8.4 1.4 0.0308 163 1.02 35.72 52.16 
+TS-HAS -9.9 1.72 0.0378 167 1.26 43.52 63.18 
+TS-PEI/silica  2.36 0.0519 309 1.7 45.34 55.76 
+TS-A-PEI/silica  2.26 0.0497 196 1.64 53.9 75.12 
+TS-T-PEI/silica  2.19 0.0482 210 1.6 50.78 69.48 17 
+ TS-MOF (Diamine)  2.83 0.0623 30** 2.08 96.7 180.54 
+MS-Chitosan 1.68 0.0369 11 1.23 60.02 116.97 
+MS-Carbon black  0.14 0.0031 30** 0.1 4.78 8.94 
+MS-P-100-25C 1.58 0.0348 30 1.16 53.98 100.8 
+MS-P-100-90C 1.58 0.0348 72 1.16 49.06 83.88 
+MS-I-200-90C 1.58 0.0348 108 1.16 45.3 72.4 
+Table: Sorbent budgets for lifetimes of 1,000, 50,000 and 100,000 cycles. The value of the sorbent 
+(or the maximum allowed Budget is calculated based on the model described in the main text. In 
+the evaluation, a discount rate r = 5%, and P CO2 = $50/t CO 2 have been assumed. The table is 
+adjusted from Ref.14. *𝑡𝑐𝑦𝑐𝑙𝑒 1/2, the time for half -loading the sorbent, is used as the cycle duration 
+(𝑡cycle) in the model and desorption is assumed to be virtually instant. For consistency we also 
+used 𝐶1/2, which is half of the nominal capacity. **For an upper -bound sorbent budget the lowest 
+value among the available data was used.  
+Amine sorbents own gre at capacity, but have degradation issues during the regeneration process 
+under high temperature. The tiny, liquid amino molecules monoethanolamine (MEA), 
+diethanolamine (DEA), and diisopropylamine (DIPA) have severe stability issues, due to their low 
+boiling temperatures and high volatility148. Although PEIs with extremely large molecular weights 
+(number -average molecular weights (Mn) tested up to 750 000) are relatively robust during CO 2 
+capture at high temperatures and in a vacuum, these structures do not  support fast CO 2 diffusion 
+into and out of the matrix. PEI with a high molecular weight might clog pores109.  
+Pang et al.  203showed the use of linear poly(propylenimine) (PPI) supported in silica as a sorbent 
+for CO 2 removal from air. PPI -based sorbents f or DAC are more effective than PEI -based sorbents 
+because PPI is more resistant to oxidative degradation than PEI and therefore has a longer sorbent 
+working life. Pang et al . 204examined the tradeoff between sorption capacity and sorption -site 
+accessibilit y across a variety of CO 2 collection circumstances. In comparison to linear PEI, linear 
+PPI/SBA -15 composites preserved 65 –83 percent of their CO 2 capacity following oxidative 
+treatment, whereas linear PEI retained just 20 –40 percent. In addition, the scie ntists proved the 
+stability of linear PPI sorbents during 50 sorption/desorption cycles without any performance 
+degradation. By incorporating a branching polyethylenimine (PEI) into a porous cross -linked 
+poly(vinyl alcohol) (PVA) support, other researchers  improved the material's resilience to 
+degradation205. 18 
+ Wurzbacher et al.168 first developed a cyclic temperature -vacuum swing (TVS) technique for 
+separating CO2 from ambient air using a Class 2 sorbent. The cycle may function in both dry and 
+moist air. In a solvent -free process, amine was grafted onto silica gel beads of 2 –5 mm in diameter. 
+After heating the sorbent material to temperatures ranging from 74 to 90 °C at a pressure of 150 
+mbar, the CO 2 taken from air with a relative humidity of 40% could be re covered. The sorbent 
+exhibited outstanding stability through forty consecutive sorption/desorption cycles, with a cyclic 
+CO 2 capture capacity of 0.8 mmol/g under dry circumstances and a regeneration chamber pressure 
+of 200 mbar. Gebald et al. 169,206discov ered a new amine -based nanofibrillated cellulose (NFC)207 
+sorbent. Over 100 consecutive cycles, the equilibrium CO 2 sorption capacity decreased by less 
+than 5%, demonstrating the material's excellent stability.  
+Liquid -like nanoparticle organic hybrid mate rials (NOHMs) have demonstrated a high thermal 
+stability. They are created by covalently or ionically grafting polymeric amine chains onto 
+inorganic silica nanoparticles183,208. In-depth characterization studies have been carried out by 
+Park's group to com prehend the material's characteristics and thermal stability184-188. This increase 
+in oxidative thermal stability is attributable to the greater viscosity of the liquid -like NOHMs 
+compared to the untethered polymer, and the bond stabilization of the ionica lly tethered polymer 
+in the NOHM canopy188. Authors claimed that, due to their superior oxidative thermal stability, 
+NOHMs can be used as functional materials for sustainable energy storage applications. To 
+improve the highly viscous liquid -like bulk phase  of NOHMs, Park’s group developed hybrid CO 2 
+capture materials, solvent impregnated polymers (SIPs), that can enhance CO 2 capture kinetics 
+and stability189,209. The incorporation and UV curing of liquid -like nanoparticle organic hybrid 
+materials functional ized with polyethylenimine (NOHM -I-PEI) into a shell material yields gas -
+permeable solid sorbents with uniform NOHMs loading (NPEI -SIPs). Figure 12 shows the stability 
+of SIPs over 20 consecutive CO 2 capture and release temperature swing cycles (50 ℃ to 100 ℃ 
+or120 ℃). At 100 and 120 °C, NPEI -SIP particles were sustained through 20 cycles with just a 
+2.6% loss.  19 
+  
+Figure 12. Over 20 CO 2 capture and sorbent regeneration cycles, the recyclability of NPEI -SIPs 
+loaded with 49 wt% NOHM -I-PEI and PEI -SIP loaded with 49 wt% PEI was determined. In the 
+CO2 capture stage at 50 °C, 0.15 atm dry CO2 balanced with N2 was employed, and the SIPs were 
+regenerated under 1 atm N2 at 100 or 120 °C.  
+Still, there is a pauci ty of information in the literature on sorbent cycle length, stability, and 
+lifespan. According to the available statistics, capacity reductions usually occur after less than 10 
+consecutive cycles. Our investigation reveals that air capture sorbents must g o through tens of 
+thousands of cycles81. Therefore, sorbent stability needs to be increased significantly.  
+4. Electrified Heating Technology for Sorbent Regeneration  
+It is feasible to significantly reduce greenhouse gas emissions through the development an d 
+implementation of electric industrial process heating systems210. A key advantage of electrified 
+heating technology is the capacity to aim energy more accurately and, as a result, lower the total 
+heat necessary to achieve the desired material or chemical  change. Electrified heating technologies 
+include resistive heating, induction heating, electromagnetic radiative heating, UV induced 
+transformations, infrared heating, electron beam, plasma heating and transformations, etc. The 
+regeneration procedure of C O2 sorbent is necessary after it is fully loaded. The endothermic 
+process of CO 2 desorption requires a high temperature of around 80 to 130 ℃. Electrified heating 
+20 
+ technologies can be an alternative more efficient heating process compared to the combustion of 
+fossil fuels.  
+4.1 Microwave Heating  
+Recently, the notion of employing microwave heating as an alternate method has been proposed 
+for the regeneration of CO 2 sorbent. The effectiveness of MW irradiation depends on the MW 
+energy's capacity to be absorbed  by molecules having a dipole moment and transformed into 
+heat211, shown in Figure 13.  
+ 
+Figure 13. Approaches to heating: conductive heating and microwave heating.  
+The dielectric constant and dielectric loss factor are two important variables related to the MW 
+method. A substance's capacity to retain energy is measured by its dielectric constant, and its 
+capacity to transform electromagnetic energy into heat is calcu lated using its dielectric loss 
+factor212,213. These two constants depend on the temperature, molecular interactions, and MW 
+frequency in the solution214. MW has a reputation for being an instantaneous, volumetric heating 
+process with an infinite capacity for heat transmission.  
+In comparison to traditional thermal desorption, Chronopoulus et al .215 found that MW might 
+potentially provide the option of an overall CO 2 desorption process that is four times faster. The 
+MW for the regeneration process of amino -functionalized materials has also been observed 
+approximately four times faster than conventional heating216,217. A research on the direct and 
+indirect effects of microwaves on the Na -ETS-10 solvent was undertaken by Chudburry et al.218. 
+21 
+ After five cycles of CO 2 desorption, authors discovered that direct microwave regeneration 
+produced a 22% greater desorption capacity and used 16.6% less energy than indirect microwave 
+heating. McGurk stated that the MW could rapidly regenerate the MEA a t low temperatures, which 
+is about 70 –90 °C, compared to the conventional thermal regeneration at high temperatures, 120 –
+140 °C, which leads to the overall cost reduction. According to McGurk et al.219, the MW could 
+regenerate the MEA quickly at low temper atures around 70 -90 °C, as opposed to the traditional 
+thermal regeneration at high temperatures roughly 120 -140 °C, which results in an overall cost 
+savings. . Furthermore, Ji et al.220 recently reported their work on microwave -assisted regeneration 
+on a s lurry of basic immobilized amine sorbent (BIAS) with 10 times accelerated CO 2 desorption 
+and 48% lower electricity consumption compared to conventional thermal heating method, which 
+authors argue was attributed to selective heating and increased polarity C O2-adsorbed BIAS 
+sorbents.  
+4.2 Induction Heating  
+Based on the well -known Néel and Brownian relaxation process, magnetic materials may produce 
+heat on their own by converting electromagnetic energy into thermal heat when placed in an 
+alternating magnetic f ield221,222. In an alternating magnetic field, Hill's group223 employed a 
+magnetic metal -organic framework (MOF) adsorbent to quickly release the adsorbed CO 2 by 
+rapidly raising the temperature inside the magnetic adsorbent. When an alternating magnetic fi eld 
+is applied to a MOF mother liquid containing carboxylic acid -decorated MNPs, each MNP 
+"nanoheater" generates heat locally, resulting in a solvothermal microenvironment (Figure 14). 
+Furthermore, the MNPs serve as a nucleation surface for MOF development . It was therefore 
+suggested to use a method known as magnetic induction swing adsorption (MISA). They then 
+achieved quick CO 2 desorption at the magnetic field with energy efficiency of no more than 60% 
+by using magnetic MgFe2O4@UiO -66224. 22 
+  
+Figure 14. Dia gram illustrating MOF development in a MIFS method, as well as crystal structures 
+of MOFs synthesized with MIFS.  
+By synthesizing magnetic nanoparticles on NPC support, Lin et al.225 created Fe3O4/nitrogen -
+doped porous carbon (NPC) sorbents. In the meantime , a CO 2-TSA in situ electromagnetic 
+induction heating (EMIH) device was developed to assess the performance of the CO 2-TSA in situ 
+electromagnetic induction heating (Figure 15) and to further shed light on the connection between 
+CO 2 desorption rate and ene rgy effectiveness. The best adsorbent was determined to be 
+Fe3O4/NPC -15, which had a CO 2 capacity of 2.64 mmol g -1 and saturation magnetization of 15.51 
+emu g -1. Upon optimization, the fixed target temperature heating mode at 110 °C exhibited the 
+best rege neration performance with the desorption rate of 3.27 mg g –1 s–1 and the energy 
+efficiency of 79.2%, which are not only superior to those of the reported MISA technology but 
+also considerably more efficient than the typical convective -heat-transfer TSA per formance. 
+Researchers also utilized EMIH for CO 2 desorption on the sorbents of 13X zeolite and Fe 3O4226, 
+as well as Fe 3O4@HKUST -1227.   
+23 
+  
+Figure 15. Electromagnetic induction heating for Temperature swing adsorption (TSA) -based 
+CO 2 capture (EMIH -CO 2-TSA).  
+4.3 Plasma -assisted CO 2 desorption  
+Plasma technology is another non -thermal method explored to regenerate CO 2 capture materials. 
+According to Li  et al.  228, plasma was used to control the desorption process instantly. Turning on 
+plasma ignition induced th e desorption of CO 2 from the hydrotalcite surface soon after, and as the 
+plasma was switched off, the desorption process stopped immediately. At the same time, the 
+plasma treatment also split CO 2 and achieved an average conversion of 41.14% to CO. Authors 
+utilized the plasma technology to merge both desorption of CO 2 and conversion and claimed that 
+the technology could reduce the cost and complexity of the DAC. However, according to this 
+research, a considerable improvement in energy efficiency must be made  for plasma -assisted CO 2 
+capture and conversion to be applicable.  
+ 
+24 
+ Figure 16. Non -thermal plasma induced CO 2 reduction via photovoltaic energy.  
+ 
+Figure 17. Schematic diagram of syngas production via Direct Air Capture of CO 2 and 
+conversion by plasma.  
+Pou et al.  229 explain ed that non -thermal plasma produced with the photovoltaic system could  
+generate the optimum electron energy to break the chemical bonds at room temperature and under 
+atmospheric pressure, which makes the desorption process more energy efficient than thermal 
+methods. They calculated the CO 2 emissions compensated value using photovoltaic electricity to 
+be 67% higher than that of using an electricity mix, proving that coupling non -thermal plasma with 
+a photovoltaic system considerably boosts sustainability.  
+5. Sub -ambient Temperature Surrounding for DAC  
+To maximize the effectiveness of DAC processes, it is crucial to understand how well DAC 
+materials absorb CO 2 in actual operating co nditions. Unfortunately, little is known about capture 
+effectiveness of these materials at various operating temperatures.   The investigation of sorbent 
+performance was limited to temperatures that were both ambient and above ambient (20 °C).  
+Due to the fa ct that more than 80% of the world's land has an annual average temperature below 
+25 °C, research on DAC under sub -ambient settings has the ability to enhance DAC technology 
+development and the possibility for general deployment on a global scale (Figure 1 8) 
+25 
+  
+Figure 18. Map of world average temperature (°C)  
+At sub -ambient temperatures (particularly 0 °C), it is anticipated that the physical and chemical 
+properties of many CO2 sorbents will undergo substantial modifications. Therefore, sorbents 
+optimized fo r ambient DAC must be reevaluated and, in many instances, modified in order to attain 
+optimal performance at sub -ambient circumstances. DAC may provide some benefits in sub -
+ambient temperature circumstances. The energy required to desorb water across tempe rature or 
+temperature -vacuum swing adsorption cycles may be limited by the lower absolute humidity at 
+colder temperatures. Additionally, the use of physisorbents rather than chemisorbents may be 
+made possible by freezing temperatures.  
+Miao et al.230 studie d how the DAC performance of the polyamine -loaded mesoporous silica was 
+affected by operating temperatures. Researchers found that at lower adsorption temperatures below 
+15 °C, the CO 2 adsorption selectivity of polyethylenimine -loaded mesoporous silica red uces. The 
+ideal desorption temperatures, which range from 90 to 120 °C, as well as the adsorption kinetics 
+and long -term stability were also parametrically examined by the authors.  Figure 19 shows that 
+the optimal adsorption temperatures for 50% PEI/SBA -15 working at simulated atmospheric 
+conditions are 45  ℃. CO 2 capture kinetics reduces with the decrease of temperature from 45  ℃. 
+26 
+  
+Figure 19. Comparison of the capacity of 50% PEI/SBA -15 at different adsorption temperatures.  
+According to Rim et al.231, amine -impregnated MIL -101(Cr) materials (PEI, poly(ethylenimine), 
+or TEPA, tetraethylenepentamine), provide promising adsorption and desorption behavior under 
+DAC circumstances in both the presence and absence of humidity throughout a wide range of 
+tempe ratures (20 to 25 °C). The sorbents exhibit varying CO 2 capture behavior depending on the 
+amine loading and adsorption temperature. The sorbents exhibit weak and robust chemisorption -
+dominant CO 2 capture behaviors, respectively, with amine loadings of 30 a nd 50 weight percent. 
+Interestingly, due to enhanced weak chemisorption at 20 °C, the CO 2 adsorption capacity of 30 
+wt% TEPA -impregnated MIL -101(Cr) rose noticeably from 0.39 mmol/g at ambient conditions 
+(25 °C) to 1.12 mmol/g. The sorbents also demonstrat e promising working capacity (0.72 mmol/g) 
+across 15 cycles of minor temperature swings with extremely low regeneration temperatures 
+(20 °C sorption to 25 °C desorption). Under humid conditions, the sorbents' sub -ambient DAC 
+performance is improved even mo re, displaying promising and steady CO 2 working capabilities 
+over several humid small temperature swing cycles. These findings show that properly engineered 
+DAC sorbents are capable of mild chemisorption at low temperatures, even in the presence of 
+humidit y. By using the modest temperature changes made possible by this weak chemisorption 
+behavior, significant energy savings may be achieved. According to this research, further studies 
+are needed on DAC materials that can function at low, sub -ambient temperat ures in preparation 
+for potential deployment in temperate and polar climes.  
+27 
+  
+Figure 20. Capacity of sorbents with an ultralow regeneration temperature (−20 °C sorption to 
+25 °C desorption).  
+6. Computational Modeling  
+ 
+Computational approaches are importa nt and complementary adjunct to experiments for the 
+purpose of comprehending the processes of sorbent -CO 2 reactions, developing carbon capture 
+agents with acceptable costs and toxicity, as well as designing Direct Air Capture processes. 
+Quantum chemistry ( QC) may accurately and efficiently predict electronic and structural features, 
+including reaction energetics and free energies of reaction, transition state energies, and structures 
+of reaction species232-239. Classical molecular dynamics (MD) and Monte Ca rlo (MC) modeling 
+employing molecular mechanics force fields also serve a crucial role in relating experimental data 
+of macroscopic scale processes to the molecular level. For instance, they can develop a 
+fundamental understanding of the impact of solute –solvent interactions and the specifics of 
+reaction dynamics, transport behavior (e.g., diffusivity, viscosity, and mass transfer) and other 
+physicochemical phenomena on the performance of solution CO 2 capture and release240-247. The 
+thriving machine learnin g (ML) has demonstrated considerable potential for expediting the 
+development of porous materials for carbon capture248,249.  Multiphysics modeling coupled with 
+fluid dynamics, heat and mass transfer, and chemical reaction may successfully design a CO 2 
+capture filter and estimate the performance of a scaled -up carbon capture system with a specified 
+degree of confidence250-252. The combination between chemical engineering experiments and 
+computational modeling can give an efficient and cost -effective met hod of interpreting data at the 
+28 
+ pilot-plant scale, thereby leading research into process alternatives and optimizing the deployment 
+of a plant.  
+6.1 Mechanism Study Based on Quantum Chemistry  
+Two alternative sorption processes are found for Amine -functional  sorbents: 1) Under dry 
+circumstances, primary and secondary amines combine with CO 2 to produce carbamate or 
+carbamic acid. 2) Amines react with CO 2 in the presence of moisture to create bicarbonate. 
+However, the processes of CO 2 sorption remain unknown, a nd various groups typically ascribe 
+conflicting infrared bands to bicarbonate. This raises questions about the presence of bicarbonate.  
+da Silva et al.235,236 pioneered the mechanism study of amine sorbents by atomistic modeling. They 
+employed ab initio ca lculations to determine the most likely process of carbamate production in 
+alkanolamines interacting with CO 2. A zwitterion intermediate with a considerable lifespan in the 
+system appears implausible. The experimental findings appear to be in excellent acc ord with a 
+single -step process. Using the coordinate driving method, a series of computations were carried 
+out in which the response coordinate was systematically modified while the other geometric 
+parameters were optimized. There was no intrinsic energy b arrier in the subsequent proton transfer 
+from the zwitterion to another MEA molecule to create carbamate. The zwitterion was not a local 
+minimum in the gas phase, but it became one when solvent was added. The study demonstrated 
+that the factor of solvent w as crucial for the stability of zwitterions. Therefore, the solvent impact 
+must be meticulously accounted for while analyzing the CO 2 and amine interaction.  
+The study result from Arstad et al.237 is in contrast to those from da Silva et al.235,236 and Shim  et 
+al.238 which reveal that there is no reaction energy barrier in the proton abstraction mechanism that 
+forms carbamate. By combining DFT calculations for geometry optimization and energy 
+corrections for electron correlation, the quantum description of m olecules in the gas phase was 
+achieved237. Arstad et al.  postulated a two -step process based on an intermediate carbamic acid. 
+Additional water or amine molecules moved a proton from the nitrogen atom of the amine to a 
+terminal CO2 group in the zwitterioni c encounter complex RNH 2+CO 2-, according to their 
+calculations. As indicated in Figure 21, at the G3MP2B3 level of theory, the energy barrier for the 
+proton migration mechanism from the zwitterion to the direct catalyst MEA was 9.3 kcal/mol. 
+Recent DFT cal culations suspect the existence of zwitterions on solid amines again233. In order to 
+clarify the optimal CO 2 adsorption method and deactivation process, Buijs et al.253-256 carried out 29 
+ a series of atomistic modeling investigations. They proposed that amine  or amine -H2O catalyzed 
+reactions are the main mechanisms through which carbamic acid mostly formed in the presence of 
+CO 2 and H 2O. 
+ 
+Figure 21. Structures and relative energies to the start complex of the reaction between CO 2, 
+monoethanolamine (MEA) catalyzed by another MEA, and water.  
+Shi et al.129 demonstrate, by means of quantum modeling, a sequence of unorthodox chemical 
+processes in which the degree of hydrolysis of basic salts containing multiple water molecules is 
+marke dly different from that in bulk water and can be controlled by adjusting the relative water 
+content. Figure 22 shows the free energy change of the reaction between basic salts and different 
+number of water molecules. This discovery has been applied to the design of efficient absorbents 
+for CO 2 capture by controlling the amount of water molecules.  
+30 
+  
+Figure 22. Free energy changes of the chemical reaction, X2- + nH2O=HX- + OH- + (n-1)H2O. X 
+is basic ion, n is water number.  
+6.2 Mechanism Study Based on Molecul ar Dynamics  
+To appreciate reaction processes and the behavior of CO 2 and sorbents, it is vital to comprehend 
+the structure of participant molecules and the interactions that occur in both dynamic and 
+equilibrium phases. These functionalities can be clarifi ed using the MD molecular simulation 
+approaches. While abundant experimental data on CO 2 capture, it remains difficult to model these 
+systems effectively enough to recreate, for example, temperatures of reaction that are consistent 
+with experimental result s257,258. To study liquid -solid -CO 2 systems, sophisticated molecular 
+simulation techniques have been developed. Incorporating density functional theory (DFT) into 
+molecular dynamics is one example259. 
+A methodology combining MD and DFT, shown in Figure 23,  was utilized by Shi et al.192,260 to 
+calculate energy states connecting aqueous states to ionic states in the vacuum during CO 2 capture 
+and release process. The following studies analyzed the effects of parameters of sorbents on CO 2 
+capture efficiency and  lead the way toward the optimization of sorbents for DAC86,132. 
+31 
+  
+Figure 23. Thermodynamic cycle for calculating reaction energy change with water numbers.  
+Iida et al.261,262  investigated the effect of solvent water on the formation of amine -CO 2 bonds using 
+RISM -SCF-SDD263,264, a hybrid technique combining QC for the solute and statistical mechanics 
+for the solvent. It is acknowledged as a substitute for the QM/MM approach. They found that the 
+barrier to reaction and the stability of the transiti on state in aqueous solution depended on an 
+interaction between the hydration and dehydration of O and N. There was a single minimum at a 
+reaction coordinate distance of 3.0 with no barrier present in the gas phase. In good agreement 
+with the experiment, a  stable structure was observed in aqueous solution at a reaction coordinate 
+distance of 1.6, with a transition state at 2.0 and an activation enthalpy of 9.3 kcal/mol, after the 
+formation of identical intermediates in the gas phase.  
+Sumon et al.246 investi gated the suggested zwitterion, termolecular, and carbamic acid processes 
+using the semicontinuum (cluster plus continuum) solvation model while considering proton 
+relays. They intended to remedy the poor stability forecast of aqueous carbamates that has p ersisted 
+for decades. The chemical pathways for a single Monoethanol -amine (MEA) and two MEAs were 
+computed using a solvation model with varying quantities of water molecules. The simulations of 
+the single MEA route utilized different number of water molec ules. The two MEA models were 
+investigated not only because the abstracting base in the proposed mechanisms could be a second 
+MEA molecule, but also because CO 2 capture experiments demonstrate that the proton released 
+by the zwitterion (even if released in itially to a bulk water molecule) migrates rapidly to a second 
+MEA molecule, inhibiting the decomposition of carbamate back to CO 2 + MEA. For accurate 
+32 
+ modeling of chemical pathways, it has been demonstrated that the insertion of numerous explicit 
+water mol ecules is essential.  
+6.3 Discovery of materials for carbon capture by machine learning  
+The thriving field of machine learning (ML) has been brought to several fields of materials 
+science265-268, which has demonstrated considerable potential for expediting the development of 
+materials for carbon capture269. Farmahini and coworkers248 have provided a summary of the 
+recent development of multiscale and performance -based screening workflows for use in post -
+combustion carbon capture. Yan et al.249 demonstrated h ow ML has been utilized to enhance the 
+carbon capture, transport, usage, and storage value chain and made recommendations for further 
+research.  
+Dai’s group trained deep neural networks (DNNs) to estimate the CO 2 adsorption capacity using 
+textural paramete rs as input features, including specific surface area, micropore volume, and 
+mesopore volume270,271. First, it was discovered that only when three textural characteristics are 
+employed for model training is the highest output prediction accuracy attained. In order to retrain 
+the model, temperature (T) and pressure (P) were added to the input characteristics. They 
+discovered that when pressure rose, the contribution from the mesopore increased, which is 
+consistent with other studies272. 
+ 
+Figure 24. The pred iction of CO 2 sorption of porous materials.  
+Application of machine learning in MOFs for carbon capture seeks to develop structure –
+performance connections and pick the most accurate descriptors for predicting the CO 2 adsorption 
+capacity, working capacity, and selectivity273-278. Woo et al.274 created a quick and precise ML 
+33 
+ model for screening MOFs with increased CO 2 adsorption capability. Later, they increased the 
+prediction accuracy rate, identifying 994 of the top 1000 MOFs from a test set of 70,000 MOFs275. 
+Boyd et al.  273 designed and prepared MOFs with high CO 2 adsorption capability for wet flue gas 
+using a data -driven methodology. They discovered that MOFs with parallel aromatic rings had 
+almost optimal interactions with CO 2 and a low Henry coefficient for water. The CO 2/N2 selectivity 
+investigation revealed that the pore structure of MOFs contributed to a high CO 2 uptake at high 
+relative humidity by preventing the formation of hydrogen bonds.  
+7. Dual -functional Materials for CO 2 Capture and Conversion  
+In addition to efficient absorption of CO 2 from the atmosphere, usage of the absorbed CO 2 is a 
+crucial feature i n combating global climate change caused by excessive emission of green gases. 
+Several CO 2 conversion technologies, including electrochemical279-282 thermochemical283-286, as 
+well as photochemical and photoelectrochemical287-289 methods, are in the process  of development 
+shown in Figure 25.  
+ 
+Figure 25. Three technologies of CO 2 conversion by using dual functional materials (DMF)  
+By combining a CO 2 capture phase with a CO 2 conversion step using dual -functional materials 
+(DFM), it is possible to deploy a re active carbon capture strategy. In this concept, once the CO 2 
+capture materials bind to CO 2, they do not release CO 2 via an energy -intensive desorption process, 
+but instead act as an electrolyte additive to transport the captured CO 2 molecules to the catal ytic 
+34 
+ sites for the subsequent thermochemical or electrochemical CO 2 reduction. The CO 2 capture 
+materials are renewed for the subsequent CO 2 capture cycle following the conversion phase. Thus, 
+the overall energy need for CO 2 capture and conversion might be drastically decreased. For 
+example, A combination of CO 2 adsorbents (i.e. CaO) and common active metals for CO 2 
+conversion (i.e. NiO and FeOX) may be used to create catalytic systems such as Ni/CaO and 
+Fe2O3/CaO -Al2O3, whic h demonstrate high CO 2 adsorption capacity and product variety by 
+creating CO, CH 4, and methanol290,291. These characteristics enable DFM to first absorb CO 2 from 
+diluted flue gases and then sequentially complete the catalytic conversion process when the i nput 
+gas changes from flue gas to reducing agent292. 
+Modern DFM materials with dual roles for CO 2 adsorption and chemical conversion stages include 
+metal -organic frameworks (MOFs), covalent organic frameworks (COFs), and 2D transition metal 
+carbides and ni trides (MXene)293-296. The majority of these DFMs however still have issues with 
+low CO 2 selectivity, poor electrical conductivity, poor chemical stability, harsh/complicated 
+chemical production, high cost, etc. which severely limits the overall efficiency  of the 
+process297,298. As a result, research is increasingly focusing on the development of innovative 
+DFMs for increased CO 2 collection capacity and improved conversion properties (i.e., activity and 
+stability).  
+7.1 Electrochemical CO 2 reduction  
+Electroc hemical CO 2 reduction is frequently one of the most effective ways to reduce the excessive 
+CO 2 output because of the following advantages: The electrocatalytic process uses electrons rather 
+than hydrogen to reduce; it takes place under mild circumstances; the products may be reformed 
+utilizing a variety of electrolyte potentials, temperatures, and concentrations; and it can be 
+controlled to minimize side products299. Numerous substances, such as liquid products like formic 
+acid (HCOOH), methanol (CH 3OH), an d ethanol (C 2H5OH), as well as gases like carbon monoxide 
+(CO), methane (CH 4), and ethylene (C 2H4), may be successfully separated from process 
+byproducts using a condenser.  
+To keep the electrodes adequately moist and prevent solvent loss, it is preferable for the 
+electrolytes to have low volatility. Electrolytes with high salt concentrations, low volatility, and 
+customizable physical characteristics include ionic liquids (ILs )300,301 and deep eutectic solvents 
+(DESs)302-304. As a result, they are potential multifunctional electrolytes for processes that combine 35 
+ capture and conversion. However, the high viscosities and poor conductivities that these 
+electrolytes often exhibit r esult in transport rates that are substantially slower than ideal for 
+practical applications. It could be interesting to construct these electrolytes using aqueous 
+systems305. 
+Novel materials, such as nanoparticle organic hybrid materials and ionic liquids , have been 
+proposed as promising options for reactive carbon capture due to their high CO 2 capture 
+capabilities and charged nature. They may be constructed by optimizing the CO 2 binding energy. 
+Research has demonstrated that these innovative electrolyte m aterials can enhance CO 2 conversion 
+rates and product distributions306. For instance, Park’s group demonstrated that the reactivity of 
+nanoparticle organic hybrid materials attached to CO 2 differs from the reactivity of free CO 2, 
+demonstrating the possible  co-catalytic function of nanoparticle organic hybrid materials during 
+electrochemical CO 2 conversion307-312. The schematic of an electrochemical cell containing 
+NOHM -based electrolytes has been shown in Figure 26.  
+ 
+Figure 26. (A) Schematic of an electroc hemical cell with electrolytes based on NOHM. (B) The 
+structure of the NOHM -I-HPE synthesized for this work. Illustrated are potential hydrogen 
+bonding interactions with the secondary fluid (i.e., water).  
+As of this writing, the solid oxide electrolysis ce ll (SOEC) is the special technology that brings 
+CO 2 reduction to CO closer to commercialization313,314, shown in Figure 27. Because the ionic 
+conductivity of electrolyte materials increases significantly with temperature, pure CO 2 or a mixed 
+gas with high concentration of CO 2 must be added to SOECs. Normally, SOECs are configured to 
+operate at a temperature of between 600 and 850 °C314. In order to attain zero emissions, low -
+36 
+ temperature electrolysis is better suited for removing CO 2 from the air and decreas ing it without 
+having to deal with N 2, O2, and H 2O. 
+ 
+Figure 27. At the electrodes of a solid oxide electrolysis cell (SOEC), water or carbon dioxide are 
+separated. SOEC stacks, which are composed of several cells, are then composed into SOEC 
+plants. The m anufacturing of chemicals and transportation fuels may be separated from the usage 
+of fossil fuels when renewable power is employed. Other electrolysis methods cannot match the 
+electrolysis efficiency of SOECs, which run at high temperatures.  
+7.2 Thermoche mical CO 2 reduction  
+Recent investigations have revealed that dual function materials (DFM) containing noble metals 
+such as Ni315-321 or Ru322-335 supported by r -Al2O3 integrate adsorption and conversion to methane 
+and other light alkanes336-342. equations (1) - (5) and Figure 28 depict the topography inside the 
+Ru-based DFM. CO 2 was collected at the interface between Na 2O and oxygen to create carbonated 
+species, whereas Ru was oxidized to generate RuO 2 or RuO x. RuO x would be reduced to Ru after 
+the introduction of hydrogen, allowing CO 2 molecules to transfer from Na 2O sites to Ru sites for 
+the methanation process.  
+𝑁𝑎 2𝑂+𝐶𝑂 2→𝑁𝑎 2𝐶𝑂 3#(1)  
+𝑅𝑢+𝑂2→𝑅𝑢𝑂 2(𝑅𝑢𝑂 𝑥)#(2)  
+37 
+ 𝑅𝑢𝑂 2(𝑅𝑢𝑂 𝑥)+2𝐻2→𝑅𝑢+2𝐻2𝑂#(3)  
+𝑁𝑎 2𝐶𝑂 3+𝑅𝑢→𝑁𝑎 2𝑂+𝑅𝑢−𝐶𝑂 2#(4)  
+𝑅𝑢−𝐶𝑂 2+4𝐻2→𝐶𝐻 4+2𝐻2𝑂+𝑅𝑢#(5)  
+ 
+ 
+Figure 28. Adsorption and Methanation of CO 2 with dual functional catalytic materials.  
+The results of 10 cycles of adsorption, desorption and CH 4 production in dry air condition are 
+shown in Figure 29a and 5 cycles in 2 % wet air condition shown in Figure 29b. The average 
+adsorption under humid condition is about 1.3 mmol CO2/gDFM, which is 2.36 -fold increasing 
+compared to dry condition. It is extra ordinarily desired to convert CO 2 directly into methane to 
+decrease environmental CO 2 emissions and store renewable energy343. In addition, the effect of Rh 
+particle size on the activity and reaction process of CO 2 methanation over Rh/TiO 2 catalysts at low  
+temperatures (85 - 165 °C) and atmospheric pressure344 was examined.  
+38 
+  
+Figure 29. The results of (a) 10 cycles of adsorption, desorption and CH 4 production in dry air 
+condition. (b) 5 cycles in 2 % wet air condition.  
+DFMs were also investigated to convert CO 2 to syngas by utilizing abundant base metals292. 
+Researchers used a sequentially impregnated FeCrCu -K catalyst supported on hydrotalcite. The 
+hydrotalcite support was first calcined at 600 °C to produce homogenous mixed oxides of MgO 
+and Al 2O3, and then the metals (Fe, Cr, and Cu) were deposited using the incipient wetness 
+technique using nitrate precursors. A K 2CO 3 solution was impregnated over the sample after it had 
+been dried and calcined at 500 °C, and the samp le was then dried and calcined once more at the 
+same temperature. The CO 2 was captured using 5.8% CO 2/N2 and hydrogenated using pure H 2 at 
+a temperature between 450 and 550 °C. Figure 30 displays the CO 2 and CO concentration patterns 
+through the stages of capture and reduction. As can be observed, CO 2 is successfully adsorbed 
+onto the alkali metal (K), where it forms surface carbonates. Once the reaction is switched to H 2, 
+the majority of the captured CO 2 combines with H 2 over the catalytic sites (Fe, Cr, a nd Cu), 
+releasing CO and some unconverted CO 2. 
+39 
+  
+Figure 30. a plausible conversion and capture method for CO 2 that results in representative 
+concentration profiles of syngas.  
+To comprehend the basic chemical processes and active sites involved in these, Hy akutake et al.  
+345 investigated the impact of boosting a Cu/Al 2O3 catalyst with K and Ba for application in CO 2 
+collection and conversion. For the oxidative dehydrogenation of ethane (ODHE), which uses CO 2 
+as a mild oxidant, Al -Mamoori et al.346 studied the use of potassium - and sodium -based calcium 
+oxide double salts (K -Ca and Na -Ca) adsorbents physically combined with an H -ZSM -5-supported 
+Cr catalyst. Since ethylene is one of the most essential building components in the chemical 
+industry, this  reaction is extremely alluring347. 
+7.3 Photochemical and Photoelectrochemical CO 2 reduction  
+Due to the abundant and free availability of sunshine, photoreduction of CO 2—which mimics the 
+natural process of photosynthesis —is one of the most enticing process es for CO 2 conversion. The 
+fundamental mechanism leading to primary production in the biosphere is photosynthesis, which 
+annually eliminates more than 100 billion tons of CO 2 from the atmosphere. There are around 
+7,000 billion tons of CO 2 in the atmosphere348. However, a truly biomimetic photosynthetic 
+system, like the ones inspired by Rubisco that have been proposed for directly absorbing CO 2 from 
+the air, is still a long way off from being realized349-352. 
+40 
+ Lewis and Nocera353 have suggested using the phot osynthetic process to transform solar energy 
+into molecules (H 2, methanol, and hydrocarbons) and store them to fulfill the world's energy needs. 
+A typical photoreduction electrode consists of a semiconducting material and photocatalysts, the 
+majority of wh ich are complexes of transition metals. Semiconductors absorb photons to cause 
+excited electrons to shift from a valence band to a conducting band. These excited electrons are 
+subsequently transported to a photocatalyst complex, which converts CO 2 to CO an d other 
+valuable organic molecules.  
+According to Kumar et al .354, the photocatalytic reduction of CO 2 to CO on Re(bipy -
+But)(CO)3Cl(bipy -But = 4,4' -di-tert-butyl -2,2-bipyridine)/p -type silicon achieved a faradic 
+efficiency of 97±3%, and a short -circuit quan tum efficiency of 61% for conversion. According to 
+calculations based on density functional theory (DFT), the nature of the binding of CO 2 to the 
+anion results in the formation of a Re(bipy -tBu)(CO) 3(CO 2)K complex355, shown in Figure 31.  
+ 
+Figure 31.  Schematic of a device for photoelectrochemically reducing CO 2 using a p -Si/ Re(bipy -
+tBu)(CO) 3Cl semiconductor/molecular catalyst junction.  
+By using a hybrid semiconductor nanowire -bacteria system, Yang’s group356-360 have developed 
+an artificia l photosynthesis that can turn CO 2 into goods like fuels, polymers, and drug precursors. 
+High -surface -area silicon nanowire arrays absorb solar energy to provide reducing equivalents to 
+the anaerobic bacterium sporomusa ovata with low overpotential (200 mV ), high Faradic 
+efficiency (up to 90%), and long -term stability (up to 200 h) for the photoelectrochemical 
+41 
+ production of acetic acid under ambient conditions (21% O 2)356. A biohybrid coculture was created 
+by researchers from the same group for tandem and c ontrollable CO 2 and N 2 fixation to value -
+added products360. 
+ 
+Figure 32. biohybrid coculture design using bio -inspiration. Rhizobia live in the anoxic root 
+nodules of legumes, where the legume supplies them with organics (such as malate). The legume 
+utilis es the nitrogenous chemicals that the rhizobia fix N 2 to for growth. In the concept, the legume 
+is replaced with a SiNW/S. ovata ensemble that produces acetate from CO 2. R. palustris utilizes 
+the acetate as a feedstock to change N 2 into NH 3, much like rhiz obia. The biohybrid platform's 
+solar energy is represented as a ray of light, with the letter v particularly denoting the light energy. 
+(Inset) Vigna unguiculata root nodules are shown in the image.  
+According to Schmid et al.361, Figure 33 depicts a photos ynthetic system with a solar -powered 
+electrolyzer (e). They employed a commercially available silver -based gas diffusion cathode to 
+solve the insufficient current densities and significantly increase the stability of the electrolyzer. 
+With a current densit y of 300 mA•cm-2, it may run continuously for more than 1200 hours. In the 
+fermentation module attached to the CO 2 electrolyzer, the outgoing syngas was converted with 
+high carbon selectivity to butanol and hexanol, and this process achieved about 100% of the 
+Faradaic efficiency. Compared to early expectations, the provided adaptive hybrid system puts 
+artificial photosynthesis closer to industrial scale production of valuable and useful chemicals.  
+42 
+  
+Figure 33. Sketch of the technological photosynthesis modu les that produce 1 -butanol and 1 -
+hexanol from CO 2 and water.  
+8. Summary and Outlook:  
+ 
+Concerns about climate change may soon force significant reductions in CO 2 emissions. To 
+address this issue, it might be required to reduce the environmental impact of fossil fuels by 
+capturing and sequestering CO 2 until more affordable, eco -friendly, and abundant technologies are 
+available. Even though there have been considera ble advances in CO 2 capture and sequestration 
+from the air, there are still numerous problems must be solved in the near future.  
+Solid sorbents are essential for removing CO 2 from the air. Direct Air Capture is a relatively new 
+technology and faces numerou s obstacles. A potential sorbent needs to be extremely CO 2 selective 
+and easily uptake CO 2 from the air. It has high capacity and fast kinetics. It is essential that the 
+procedure for releasing CO 2 from the sorbent is efficient and easy. The sorbent needs to endure 
+thousands of sorbent cycles. The price must also be reasonable.  
+Electrified process heat is carbon -free if it is driven by zero -carbon energy generated on -site. 
+Compared to other low -carbon process heating methods, electrification comprises a vas t array of 
+technologies that can accommodate the different uses and temperature requirements unique to the 
+manufacturing industry. To become technically and economically practical, electrifying industrial 
+heating processes will require overcoming a number of technological obstacles. For instance, 
+design the procedure for electric heating to more efficiently heat the target. The optimal technology 
+option for CO 2 sorbent regeneration may vary based on the operation scales and composition of 
+the material.  
+43 
+ Although solid amines have been extensively acknowledged as promising DAC sorbents with high 
+CO 2 collection capacity and selectivity, their CO 2 adsorption mechanisms are still unknown. 
+Complex computer modeling and prediction of amine reaction processes, chemi cal and physical 
+characteristics, and structure -activity connections, over a spectrum of amine chemotypes, can play 
+a significant role in complementing or enhancing limited experimental data. A synergistic 
+combination of experimental and computational meth odologies expedites the identification of an 
+amine capture agent's ideal qualities compared to the use of experiments alone. Such an approach 
+will expedite the development of the next generation of CO 2 capture materials based on amines. 
+Computational appro aches will become an increasingly valuable and complementary adjunct to 
+experiments for the purpose of comprehending the processes of amine -CO 2 reactions and 
+designing carbon capture agents with acceptable costs and toxicity.  
+Dual -functional materials for CO 2 capture and utilization are promising future prospects with the 
+potential to create alternate routes in the sustainable chemical manufacturing and renewable energy 
+storage industries. In addition, dual -functional materials provide additional options an d the 
+flexibility to target more valuable items that cannot be manufactured in a single step. With the 
+exception of solid oxide electrolysis, however, the current readiness level of the electrochemical 
+components is relatively low. Consequently, a substant ial amount of effort is required to overcome 
+crucial difficulties such as long -term stability, product selectivity, and cost -competitiveness 
+relative to conventional industrial methods. As the development of DFMs is still in its infancy, the 
+majority of pu blications have focused on the incorporation of sorbents and catalytic species via 
+impregnation techniques; the future of the field lies in the design of well -controlled 
+nanoarchitectures with catalytic and sorbent components in close proximity for enhance d synergy. 
+In the field of DFMs, the generation of higher energy density products, such as alcohols and higher 
+hydrocarbons, is a nearly unexplored route.   
+Overall, sorbents are essential to the success of DAC, and there is still considerable space for the ir 
+enhancement. The pace of development must quicken because global warming cannot wait. Future 
+research should assess every aspect of sorbents for DAC, including their stability, sorption 
+kinetics, sorption capacity, selectivity, regeneration energy penal ty, and cost. To alleviate the 
+problem of global climate change, energy -efficient and low -cost CO 2 sorbents must be used.  44 
+  
+Figure 34. Outlook of the Technologies of Direct Air Capture of CO 2 
+ 
+ 
+Acknowledgment:  
+Authors from Columbia University acknowledge the funding from Saudi Aramco.  
+Declaration of Interests:  
+All authors declare no competing interests.  
+ 
+ 
+References:  
+ 
+1 Stocker, T. F.  et al.  Climate change 2013: The physical science basis. Contribution of working group 
+I to the fifth assessment report of the intergovernmental panel on climate change  1535  (2013).  
+2 Alley, R. B.  et al.  Abrupt Climate Change. Science  299, 2005 -2010, doi:10.1126/science.1081056 
+(2003).  
+3 Stocker, T. F. & Schmitt ner, A. Influence of CO 2 emission rates on the stability of the thermohaline 
+circulation. Nature  388, 862 -865, doi:10.1038/42224 (1997).  
+45 
+ 4 Clark, P. U.  et al.  Consequences of twenty -first-century policy for multi -millennial climate and sea -
+level change. Nature Climate Change  6, 360 -369, doi:10.1038/nclimate2923 (2016).  
+5 Welsby, D., Price, J., Pye, S. & Ekins, P. Unextractable fossil fuels in a 1.5 °C world. Nature  597, 
+230-234, doi:10.1038/s41586 -021-03821 -8 (2021).  
+6 Pachauri, R. K.  et al.  Climate change 2014: synthesis report. Contribution of Working Groups I, II 
+and III to the fifth assessment report of the Intergovernmental Panel on Climate Change .  (IPCC, 
+2014).  
+7 Tsouris, C. Separation of CO 2 from Flue Gas: A Review AU - Aaron, Douglas. Sep Sci Technol  40, 
+321-348, doi:10.1081/SS -200042244 (2005).  
+8 Samanta, A., Zhao, A., Shimizu, G. K. H., Sarkar, P. & Gupta, R. Post -Combustion CO 2 Capture Using 
+Solid Sorbents: A Review. Ind. Eng. Chem. Res.  51, 1438 -1463, doi:10.1021/ie200686q (2012).  
+9 Choi, S., Drese, J. H. & Jones, C. W. Adsorbent materials for carbon dioxide capture from large 
+anthropogenic point sources. ChemSusChem  2, 796 -854 (2009).  
+10 Flores -Granobles, M. & Saeys, M. Minimizing CO2 emissions with renewable energy: a 
+comparative s tudy of emerging technologies in the steel industry. Energy Environ. Sci.  13, 1923 -
+1932, doi:10.1039/D0EE00787K (2020).  
+11 Uden, S., Dargusch, P. & Greig, C. Cutting through the noise on negative emissions. Joule  5, 1956 -
+1970, doi: https://doi.org/10.1016/j.joule.2021.06.013  (2021).  
+12 Koelbl, B. S., van den Broek, M. A., Faaij, A. P. C. & van Vuuren, D. P. Uncertainty in Carbon Capture 
+and Storage (CCS) deployment projections: a cross -model comparison exercise. Climatic Change  
+123, 461 -476, doi:10.1007/s10584 -013-1050 -7 (2014).  
+13 Sanz -Perez, E. S., Murdock, C. R., Didas, S. A. & Jones, C. W. Direct capture of CO 2 from ambient 
+air. Chem. Rev.  116, 11840 -11876 (2016).  
+14 Shi, X.  et al.  Sorbents for the Direct Capture of CO2 from Ambient Air. Angew. Chem. Int. Ed.  59, 
+6984 -7006, doi:10.100 2/anie.201906756 (2020).  
+15 McQueen, N.  et al.  A review of direct air capture (DAC): scaling up commercial technologies and 
+innovating for the future. Progress in Energy  3, 032001, doi:10.1088/2516 -1083/abf1ce (2021).  
+16 Yang, M., Ma, C., Xu, M., Wang, S. & Xu, L. Recent Advances in CO2 Adsorption from Air: a Review. 
+Current Pollution Reports  5, 272 -293, doi:10.1007/s40726 -019-00128 -1 (2019).  
+17 Gambhir, A. & Tavoni, M. Direct Air Carbon Capture and Sequestration: How It W orks and How It 
+Could Contribute to Climate -Change Mitigation. One Earth  1, 405 -409, 
+doi:https://doi.org/10.1016/j.oneear.2019.11.006  (2019).  
+18 Kramer, D. Negative carbon dioxide emissions. Physics Today  73, 44-51, doi:10.1063/pt.3.4389 
+(2020).  
+19 Lackner, K. S. A Guide to CO 2 Sequestration. Science  300, 1677 -1678, 
+doi:10.1126/science.1079033 (2003).  
+20 Haertel, C. J. J.  et al.  The promise of scalable direct air capture. Chem  7, 2831 -2834, 
+doi:https://doi.org/10.1016/j.chempr.2021.10.005  (2021).  
+21 Ozkan, M., Akhavi, A. -A., Coley, W. C., Shang, R. & Ma, Y. Progress in carbon dioxide capture 
+materials for deep decarb onization. Chem  8, 141 -173, 
+doi:https://doi.org/10.1016/j.chempr.2021.12.013  (2022).  
+22 Socolow, R.  et al.  Direct air capture of CO2 with chemicals: a technology assessment for the APS 
+Panel o n Public Affairs. (American Physical Society, 2011).  
+23 Deutz, S. & Bardow, A. Life -cycle assessment of an industrial direct air capture process based on 
+temperature –vacuum swing adsorption. Nature Energy  6, 203 -213, doi:10.1038/s41560 -020-
+00771 -9 (2021).  
+24 House, K. Z.  et al.  Economic and energetic analysis of capturing CO 2 from ambient air. Proc. Natl. 
+Acad. Sci.  108, 20428 -20433 (2011).  46 
+ 25 Keith, D. W., Holmes, G., St. Angelo, D. & Heidel, K. A Process for Capturing CO 2 from the 
+Atmosphere. Joule  2, 1573 -1594, doi:10.1016/j.joule.2018.05.006 (2018).  
+26 van der Giesen, C.  et al.  A Life Cycle Assessment Case Study of Coal -Fired Electricity Generation 
+with Humidity Swing Direct Air Capture of CO 2 versus MEA -Based Postcombustion Capture. 
+Environ. Sci. T echnol.  51, 1024 -1034, doi:10.1021/acs.est.6b05028 (2017).  
+27 Deutz, S.  et al.  Cleaner production of cleaner fuels: wind -to-wheel – environmental assessment 
+of CO2 -based oxymethylene ether as a drop -in fuel. Energy Environ. Sci.  11, 331 -343, 
+doi:10.1039/C7 EE01657C (2018).  
+28 Creutzig, F.  et al.  The mutual dependence of negative emission technologies and energy systems. 
+Energy Environ. Sci.  12, 1805 -1817, doi:10.1039/C8EE03682A (2019).  
+29 Jacobson, M. Z. The health and climate impacts of carbon capture and d irect air capture. Energy 
+Environ. Sci.  12, 3567 -3574, doi:10.1039/C9EE02709B (2019).  
+30 Mori, G., Coccolo, S., Castello, R. & Scartezzini, J. -L. Geospatial analysis and optimization of the 
+incoming and stored CO2 emissions within the EPFL campus. Journal of Physics: Conference Series  
+1343 , 012118, doi:10.1088/1742 -6596/1343/1/012118 (2019).  
+31 Thonemann, N. & Pizzol, M. Consequential life cycle assessment of carbon capture and utilization 
+technologies within the chemical industry. Energy Environ. S ci. 12, 2253 -2263, 
+doi:10.1039/C9EE00914K (2019).  
+32 Arora, P.  et al.  Life cycle greenhouse gas emissions of different CO2 supply options for an algal 
+biorefinery. Journal of CO2 Utilization  40, 101213, 
+doi:https://doi.org/10.1016/j.jcou.2020.101213  (2020).  
+33 Liu, C. M., Sandhu, N. K., McCoy, S. T. & Bergerson, J. A. A life cycle assessment of greenhouse gas 
+emissions from direct air capture and Fischer –Tropsch fuel production. Sustainable Energ y & Fuels  
+4, 3129 -3142, doi:10.1039/C9SE00479C (2020).  
+34 Schreiber, A., Peschel, A., Hentschel, B. & Zapp, P. Life Cycle Assessment of Power -to-Syngas: 
+Comparing High Temperature Co -Electrolysis and Steam Methane Reforming. Frontiers in Energy 
+Research  8, doi:10.3389/fenrg.2020.533850 (2020).  
+35 Sillman, J.  et al.  A life cycle environmental sustainability analysis of microbial protein production 
+via power -to-food approaches. The International Journal of Life Cycle Assessment  25, 2190 -2203, 
+doi:10.1007/s11367 -020-01771 -3 (2020).  
+36 Wevers, J. B., Shen, L. & van der Spek, M. What Does It Take to Go Net -Zero -CO2? A Life Cycle 
+Assessment on Long -Term Storage of Intermittent Renewables With Chemical Energy Carriers. 
+Frontiers in Ener gy Research  8, doi:10.3389/fenrg.2020.00104 (2020).  
+37 Madhu, K., Pauliuk, S., Dhathri, S. & Creutzig, F. Understanding environmental trade -offs and 
+resource demand of direct air capture technologies through comparative life -cycle assessment. 
+Nature Energy  6, 1035 -1044, doi:10.1038/s41560 -021-00922 -6 (2021).  
+38 Rodríguez -Vallejo, D. F., Valente, A., Guillén -Gosálbez, G. & Chachuat, B. Economic and life -cycle 
+assessment of OME3 –5 as transport fuel: a comparison of production pathways. Sustainable 
+Energy & Fu els 5, 2504 -2516, doi:10.1039/D1SE00335F (2021).  
+39 Singh, U. & Colosi, L. M. The case for estimating carbon return on investment (CROI) for CCUS 
+platforms. Applied Energy  285, 116394, doi: https://doi.org/10.1016/j.apenergy.2020.116394  
+(2021).  
+40 Terlouw, T., Bauer, C., Rosa, L. & Mazzotti, M. Life cycle assessment of carbon dioxide removal 
+technologies: a critical review. Energy Environ. Sci.  14, 1701 -1721, doi:10.1039/D0EE03757E 
+(2021).  
+41 Pielke, R. A. An idealized assessment of the economics of air capture of carbon dioxide in 
+mitigation policy. Environ. Sci. Policy  12, 216 -225, 
+doi:https://doi.org/10.1016/j.envsci.2009.01.002  (2009).  47 
+ 42 Campbell -Arvai, V., Hart, P. S., Raimi, K. T. & Wolske, K. S. The influence of learning about carbon 
+dioxide removal (CDR) on support for mitigation policies. Climatic Change  143, 321 -336, 
+doi:10.1007/s10584 -017-2005 -1 (2017).  
+43 Meckling, J. &  Biber, E. A policy roadmap for negative emissions using direct air capture. Nature 
+Communications  12, 2051, doi:10.1038/s41467 -021-22347 -1 (2021).  
+44 Board, O. S., National Academies of Sciences, E. & Medicine. Negative emissions technologies and 
+reliable  sequestration: A research agenda.  (2019).  
+45 Grant, N., Hawkes, A., Mittal, S. & Gambhir, A. The policy implications of an uncertain carbon 
+dioxide removal potential. Joule  5, 2593 -2605, doi: https://doi.org/10.1016/j.joule.2021.09.004  
+(2021).  
+46 Wolske, K. S., Raimi, K. T., Campbell -Arvai, V. & Hart, P. S. Public support for carbon dioxide 
+removal strategies: the role of tampering with nature perceptions. Climatic Change  152, 345 -361, 
+doi:10.1007/s10584 -019-02375 -z (2019).  
+47 Viebahn, P., Scholz, A. & Zelt, O. The Potential Role of Direct Air Capture in the German Energy 
+Research Program —Results of a Multi -Dimensional Analysis. Energies  12, 3443 (2019).  
+48 Lackner, K., Ziock,  H.-J. & Grimes, P. Carbon dioxide extraction from air: Is it an option? , (Los 
+Alamos National Lab., NM (US), 1999).  
+49 Zeman, F. S. & Lackner, K. S. Capturing carbon dioxide directly from the atmosphere. World 
+Resource Review  16, 157 -172 (2004).  
+50 Keith , D. W., Ha -Duong, M. & Stolaroff, J. K. Climate Strategy with CO 2 Capture from the Air. 
+Climatic Change  74, 17-45, doi:10.1007/s10584 -005-9026 -x (2006).  
+51 Baciocchi, R., Storti, G. & Mazzotti, M. Process design and energy requirements for the capture of 
+carbon dioxide from air. Chemical Engineering and Processing: Process Intensification  45, 1047 -
+1058 (2006).  
+52 Nikulshina, V., Hirsch, D., Mazzotti, M. & Steinfeld, A. CO 2 capture from air and co -production of 
+H2 via the Ca(OH)2 –CaCO3 cycle using concentra ted solar power –Thermodynamic analysis. 
+Energy  31, 1715 -1725, doi: https://doi.org/10.1016/j.energy.2005.09.014  (2006).  
+53 Weaver, A. J., Zickfeld, K., Montenegro, A. & Eby, M. Long term climate implications of 2050 
+emission reduction targets. Geophys. Res. Lett.  34, doi:doi:10.1029/2007GL031018 (2007).  
+54 Zeman, F. Energy and Material Balance of CO 2 Capture from Ambient Air. Environ. Sci. Technol.  
+41, 7558 -7563, doi:10.1021/es070874m (2007).  
+55 Zeman, F. Experimental results for capturing CO 2 from the atmosphere. AIChE J.  54, 1396 -1399, 
+doi:doi:10.1002/aic.11452 (2008).  
+56 Nikulshina, V., Ayesa, N., Gálvez, M. E. & Steinfeld, A. Feasibility of Na -based thermochemical 
+cycles for the capture of CO 2 from air —Thermodynamic and thermogravimetric analyses. Chem. 
+Eng. J.  140, 62-70, doi: https://doi.org/10.1016/j.cej.2007.09.007  (2008).  
+57 Stolaroff, J. K., Keith, D. W. & Lowry, G. V. Carbon Dioxide Capture from Atmospheric Air Using 
+Sodium Hydroxide Spray. Environ. Sci. Technol.  42, 2728 -2735, doi:10.1021/es702607w (2008).  
+58 Keith, D. W.  Why Capture CO 2 from the Atmosphere? Science  325, 1654 -1655, 
+doi:10.1126/science.1175680 (2009).  
+59 Lackner, K. S. Capture of Carbon Dioxide from Ambient Air. Eur Phys J Spec Top  176, 93-106, 
+doi:10.1140/epjst/e2009 -01150 -3 (2009).  
+60 Sherman, S. R. Nuclear powered CO 2 capture from the atmosphere. Environ. Prog. Sustain. Energy  
+28, 52-59, doi:doi:10.1002/ep.10337 (2009).  
+61 Nikulshina, V., Gebald, C. & Steinfeld, A. CO 2 capture from atmospheric air via consecutive CaO -
+carbonation and Ca CO3 -calcination cycles in a fluidized -bed solar reactor. Chem. Eng. J.  146, 244 -
+248, doi: https://doi.org/10.1016/j.cej.2008.06.005  (2009).  48 
+ 62 Chichilnisky, G. & Eisenberger, P. How air capture co uld help to promote a Copenhagen solution. 
+Nature  459, 1053, doi:10.1038/4591053a (2009).  
+63 Dessler, A. Energy for air capture. Nature Geoscience  2, 811, doi:10.1038/ngeo691 (2009).  
+64 Lackner, K. S. & Brennan, S. Envisioning carbon capture and storage: expanded possibilities due 
+to air capture, leakage insurance, and C -14 monitoring. Climatic Change  96, 357 -378, 
+doi:10.1007/s10584 -009-9632 -0 (2009).  
+65 Pielke Jr, R. Air capture update. Nature Geoscience  2, 811, doi:10.1038/ngeo690 (2009).  
+66 Eisenberger, P. M.  et al.  Global Warming and Carbon -Negative Technology: Prospects for a Lower -
+Cost Route to a Lower -Risk Atmosphere. Energy & Environment  20, 973 -984, 
+doi:10.1260/095830509789625374 (2009).  
+67 McDonald, T. M.  et al.  Capture of Carbon Dioxide from Air and Flue Gas in the Alkylamine -
+Appended Metal –Organic Framework mmen -Mg2(dobpdc). J. Am. Chem. Soc.  134, 7056 -7065, 
+doi:10.1021/ja300034j (2012).  
+68 Davis, S. J.  et al.  Net-zero emissions energy systems. Science  360, eaas9793, 
+doi:10.1126/science.aas9793 (2018).  
+69 National Academies of Sciences, E. & Medicine. Negative emissions technologies and reliable 
+sequestration: a research agenda. Negative emissions technologies and reliable sequestration: a 
+research agenda.  (2018).  
+70 Greenhouse gas removal .  (Royal Academy of Engineering, 2018).  
+71 Haszeldine, R. S., Flude, S., Johnson, G. & Scott, V. Negative emissions technologies and carbon 
+capture and storage to achieve the Paris Agreement commitments. Philosophical Transactions of 
+the Royal Society A: Mathematical, Physical and Engineering Sciences  376, 20160447 (2018).  
+72 Masson -Delmotte, V., P. Zhai, H. -O. Pörtner, D. Roberts, J. Skea, P.R. Shukla, A. Pirani, W. 
+Moufouma -Okia, C. Péan, R. Pidcock, S. Connors, J.B.R. Matthews, Y. Chen, X. Zhou, M.I. Gomis, 
+E. Lonnoy, Maycock, M. Tignor, and T. Waterfield (eds.). IPCC , 32 (2 018).  
+73 Fasihi, M., Efimova, O. & Breyer, C. Techno -economic assessment of CO 2 direct air capture plants. 
+Journal of Cleaner Production  224, 957 -980, doi: https://doi.org/10.1016/j.jclepro.20 19.03.086  
+(2019).  
+74 de Jonge, M. M. J., Daemen, J., Loriaux, J. M., Steinmann, Z. J. N. & Huijbregts, M. A. J. Life cycle 
+carbon efficiency of Direct Air Capture systems with strong hydroxide sorbents. Int. J. Greenh. Gas 
+Control.  80, 25-31, doi: https://doi.org/10.1016/j.ijggc.2018.11.011  (2019).  
+75 Hu, Z., Wang, Y., Shah, B. B. & Zhao, D. CO 2 Capture in Metal –Organic Framework Adsorbents: An 
+Engineering Perspective. Advanced Sustainable Systems  3, 1800080, 
+doi:10.1002/adsu.201800080 (2019).  
+76 Shi, X., Lin, Y. & Chen, X. Development of sorbent materials for direct air capture of CO2. MRS 
+Bulletin , doi:10.1557/s43577 -022-00320 -7 (2022).  
+77 United Nations. Adoption of t he Paris Agreement. United Nations: , p 31 (2015).  
+78 Realmonte, G.  et al.  An inter -model assessment of the role of direct air capture in deep mitigation 
+pathways. Nature Communications  10, 3277, doi:10.1038/s41467 -019-10842 -5 (2019).  
+79 Hanna, R., Abdulla,  A., Xu, Y. & Victor, D. G. Emergency deployment of direct air capture as a 
+response to the climate crisis. Nature Communications  12, 368, doi:10.1038/s41467 -020-20437 -
+0 (2021).  
+80 Shayegh, S., Bosetti, V. & Tavoni, M. Future Prospects of Direct Air Captur e Technologies: Insights 
+From an Expert Elicitation Survey. Frontiers in Climate  3, doi:10.3389/fclim.2021.630893 (2021).  
+81 Azarabadi, H. & Lackner, K. S. A sorbent -focused techno -economic analysis of direct air capture. 
+Applied Energy  250, 959 -975, doi: https://doi.org/10.1016/j.apenergy.2019.04.012  (2019).  
+82 Lackner, K. S. & Azarabadi, H. Buying down the Cost of Direct Air Capture. Ind. Eng. Chem. Res.  60, 
+8196 -8208, doi:10.1021/acs.iecr.0c04839 (2021).  49 
+ 83 Marchese, M., Buffo, G., Santarelli, M. & Lanzini, A. CO2 from direct air capture as carbon 
+feedstock for Fischer -Tropsch chemicals and fuels: Energy and economic analysis. Journal of CO2 
+Utilization  46, 101487, doi: https://doi.org/10.1016/j.jcou.2021.101487  (2021).  
+84 O'Neill, S. Direct Air Carbon Capture Takes Baby Steps —Giant Strides Are Needed. Engineering  8, 
+3-5, doi: https://doi.org/10.1016/j.eng.2021.11.005  (2022).  
+85 Voskian, S. & Hatton, T. A. Faradaic electro -swing reactive adsorption for CO2 capture. Energy 
+Environ. Sci.  12, 3530 -3547, doi:10.1039/C9EE02412C (2019).  
+86 Shi, X . et al.  Moisture -Driven CO2 Sorbents. Joule  4, 1823 -1837, 
+doi:https://doi.org/10.1016/j.joule.2020.07.005  (2020).  
+87 Shekhah, O.  et al.  Made -to-order metal -organic frameworks for trace carbon dioxide removal and 
+air capture. Nature communications  5 (2014).  
+88 Oschatz, M. & Antonietti, M. A search for selectivity to enable CO 2 capture with porous 
+adsorbents. Energy Environ. Sci.  11, 57-70, doi:10.1039/C7EE02110K (2018).  
+89 Presser, V., McDonough, J., Yeon, S. -H. & Gogotsi, Y. Effect of pore size on carbon dioxide sorption 
+by carbide derived carbon. Energy Environ. Sci.  4, 3059 -3066, doi:10.1039/C1EE01176F (2011).  
+90 Sevilla, M., Parra, J. B. & Fuertes, A. B. Assessment of the Role of Micropore Size and N -Doping in 
+CO 2 Capture by Porous Carbons. ACS Appl. Mater. Interfaces  5, 6360 -6368, 
+doi:10.1021/am401423b (2013).  
+91 Silvestre -Albero, A.  et al.  High selectivity of Ti C-CDC for CO 2/N2 separation. Carbon  59, 221 -228, 
+doi:https://doi.org/10.1016/j.carbon.2013.03.012  (2013).  
+92 Kolle, J. M., Fayaz, M. & Sayari, A. Understanding the Effect of Water on CO2 Adsorption. Chem. 
+Rev.  121, 7280 -7345, doi:10.1021/acs.chemrev.0c00762 (2021).  
+93 Wilson, S. M. W. & Tezel, F. H. Direct Dry Air Capture of CO2 Using VTSA with Faujasite Zeolites . 
+Ind. Eng. Chem. Res.  59, 8783 -8794, doi:10.1021/acs.iecr.9b04803 (2020).  
+94 Qiao, Y., Bailey, J. J., Huang, Q., Ke, X. & Wu, C. Potential photo -switching sorbents for CO2 capture 
+– A review. Renewable and Sustainable Energy Reviews  158, 112079, 
+doi:https://doi.org/10.1016/j.rser.2022.112079  (2022).  
+95 Keith, D. W., Ha -Duong, M. & Stolaroff, J. K. Climate strategy with CO2 capture from the air. 
+Climatic Change  74, 17-45 (2006).  
+96 Rodríguez -Mosq ueda, R., Bramer, E. A., Roestenberg, T. & Brem, G. Parametrical Study on CO 2 
+Capture from Ambient Air Using Hydrated K2CO3 Supported on an Activated Carbon Honeycomb. 
+Ind. Eng. Chem. Res.  57, 3628 -3638, doi:10.1021/acs.iecr.8b00566 (2018).  
+97 Beaudoin, G.  et al.  Passive Mineral Carbonation of Mg -rich Mine Wastes by Atmospheric CO 2. 
+Energy Procedia  114, 6083 -6086, doi: https://doi.org/10.1016/j.egypro.2017.03.1745  (2017).  
+98 Zhao, S.  et al.  Mec hanism of CO 2 Capture Technology Based on the Phosphogypsum Reduction 
+Thermal Decomposition Process. Energy Fuels  31, 9824 -9832, 
+doi:10.1021/acs.energyfuels.7b01673 (2017).  
+99 Nikulshina, V., Gálvez, M. E. & Steinfeld, A. Kinetic analysis of the carbonation reactions for the 
+capture of CO 2 from air via the Ca(OH)2 –CaCO3 –CaO solar thermochemical cycle. Chem. Eng. J.  
+129, 75-83, doi: https://doi.org/10.1016/j.cej.2006.11.003  (2007).  
+100 Nikulshina, V. & Steinfeld, A. CO 2 capture from air via CaO -carbonation using a solar -driven 
+fluidized bed reactor —Effect of temperature and water vapor concentration. Chem. Eng. J.  155, 
+867-873, doi: https://doi.org/10.1016/j.cej.2009.10.004  (2009).  
+101 Yanase, I., Onozawa, S., Ohashi, Y. & Takeuchi, T. CO 2 capture from ambient air by β -NaFeO2 in 
+the presence of water vapor at 25 –100 °C. Powder Technology  348, 43 -50, 
+doi:https://doi.org/10.1016/j.powtec.2019.02.028  (2019).  50 
+ 102 Chaikittisilp, W.,  Kim, H. -J. & Jones, C. W. Mesoporous alumina -supported amines as potential 
+steam -stable adsorbents for capturing CO 2 from simulated flue gas and ambient air. Energy Fuels  
+25, 5528 -5537 (2011).  
+103 Chaikittisilp, W., Lunn, J. D., Shantz, D. F. & Jones, C. W. Poly (L‐lysine) Brush –Mesoporous Silica 
+Hybrid Material as a Biomolecule‐Based Adsorbent for CO 2 Capture from Simulated Flue Gas and 
+Air. Chemistry –A European Journal  17, 10556 -10561 (2011).  
+104 Kuwahara, Y.  et al.  Enhanced CO 2 Adsorption over Polymeric Amines Supported on Heteroatom‐
+Incorporated SBA‐15 Silica: Impact of Heteroatom Type and Loading on Sorbent Structure and 
+Adsorption Performance. Chem. Eur. J.  18, 16649 -16664 (2012).  
+105 Choi, S., Watanabe, T., Bae, T. -H., Sholl , D. S. & Jones, C. W. Modification of the Mg/DOBDC MOF 
+with amines to enhance CO 2 adsorption from ultradilute gases. J. Phys. Chem. Lett.  3, 1136 -1141 
+(2012).  
+106 Didas, S. A., Kulkarni, A. R., Sholl, D. S. & Jones, C. W. Role of amine structure on carbon  dioxide 
+adsorption from ultradilute gas streams such as ambient air. ChemSusChem  5, 2058 -2064 (2012).  
+107 Sakwa -Novak, M. A. & Jones, C. W. Steam Induced Structural Changes of a Poly (ethylenimine) 
+Impregnated γ -Alumina Sorbent for CO 2 Extraction from Amb ient Air. ACS Appl. Mater. Interfaces  
+6, 9245 -9255 (2014).  
+108 Didas, S. A., Choi, S., Chaikittisilp, W. & Jones, C. W. Amine –oxide hybrid materials for CO 2 capture 
+from ambient air. Acc. Chem. Res.  48, 2680 -2687 (2015).  
+109 Holewinski, A., Sakwa -Novak, M.  A. & Jones, C. W. Linking CO 2 Sorption Performance to Polymer 
+Morphology in Aminopolymer/Silica Composites through Neutron Scattering. J. Am. Chem. Soc.  
+137, 11749 -11759, doi:10.1021/jacs.5b06823 (2015).  
+110 Al-Absi, A. A., Mohamedali, M., Domin, A., Benneker, A. M. & Mahinpey, N. Development of in 
+situ polymerized amines into mesoporous silica for direct air CO2 capture. Chem. Eng. J.  447, 
+137465, doi: https://doi.org/10.1016/j.cej.2022.137465  (2022).  
+111 Seipp, C. A., Williams, N. J., Kidder, M. K. & Custelcean, R. CO 2 Capture from Ambient Air by 
+Crystallization with a Guanidine Sorbent. Angew. Chem. Int. Ed.  56, 1042 -1045, 
+doi:doi:10.1002/anie.201610916 (2017).  
+112 Brethomé, F. M., Williams, N. J., Seipp, C. A., Kidder, M. K. & Custelcean, R. Direct air capture of 
+CO 2 via aqueous -phase absorption and crystalline -phase release using concentrated solar power. 
+Nature Energy , 1 (2018).  
+113 Custelcean, R. Direct air capture of CO2 via crystal engineering. Chemical Science , 
+doi:10.1039/D1SC04097A (2021).  
+114 Custelcean, R., Garrabrant, K. A., Agullo, P. & Williams, N. J. Direct air capture of CO2 with aqueous 
+peptides and crystalline guanidines. Cell Reports Physical Science  2, 100385, 
+doi:https://d oi.org/10.1016/j.xcrp.2021.100385  (2021).  
+115 Custelcean, R.  et al.  Direct Air Capture of CO2 with Aqueous Amino Acids and Solid Bis -
+iminoguanidines (BIGs). Ind. Eng. Chem. Res.  58, 23338 -23346, doi:10.1021/acs.iecr.9b04800 
+(2019).  
+116 Kasturi, A., Gabitto , J., Tsouris, C. & Custelcean, R. Carbon dioxide capture with aqueous amino 
+acids: Mechanistic study of amino acid regeneration by guanidine crystallization and process 
+intensification. Separation and Purification Technology  271, 118839, 
+doi:https://doi.org/10.1016/j.seppur.2021.118839  (2021).  
+117 Kasturi, A., Gabitto, J. F., Custelcean, R. & Tsouris, C. A Process Intensification Approach for CO2 
+Absorption Using Amino Acid Solutions and a Gua nidine Compound. Energies  14, 5821 (2021).  
+118 Liu, M., Custelcean, R., Seifert, S., Kuzmenko, I. & Gadikota, G. Hybrid Absorption –Crystallization 
+Strategies for the Direct Air Capture of CO2 Using Phase -Changing Guanidium Bases: Insights from 51 
+ in Operando X -ray Scattering and Infrared Spectroscopy Meas urements. Ind. Eng. Chem. Res.  59, 
+20953 -20959, doi:10.1021/acs.iecr.0c03863 (2020).  
+119 Williams, N. J.  et al.  CO2 Capture via Crystalline Hydrogen -Bonded Bicarbonate Dimers. Chem  5, 
+719-730, doi: https://doi.org/10.1016/j.chempr.2018.12.025  (2019).  
+120 Wang, T., Lackner, K. S. & Wright, A. Moisture Swing Sorbent for Carbon Dioxide Capture from 
+Ambient Air. Environ. Sci. Technol.  45, 6670 -6675, doi:10.1021/es201180v (2011).  
+121 Wang, T., Lackne r, K. S. & Wright, A. B. Moisture -swing sorption for carbon dioxide capture from 
+ambient air: a thermodynamic analysis. Physical Chemistry Chemical Physics  15, 504 -514 (2013).  
+122 Shi, X., Li, Q., Wang, T. & Lackner, K. S. Kinetic analysis of an anion exch ange absorbent for CO 2 
+capture from ambient air. PLoS One  12, e0179828, doi:10.1371/journal.pone.0179828 (2017).  
+123 Song, J.  et al.  Quaternized Chitosan/PVA Aerogels for Reversible CO 2 Capture from Ambient Air. 
+Ind. Eng. Chem. Res.  57, 4941 -4948, doi:10.1021/acs.iecr.8b00064 (2018).  
+124 Wang, X.  et al.  CO2 Absorption over Ion Exchange Resins: The Effect of Amine Functional Groups 
+and Microporous Structures. Ind. Eng. Chem. Res.  59, 16507 -16515, doi:10.1021/acs.iecr.0c03189 
+(2020).  
+125 Wang, T.  et al.  Spontaneous Cooling Absorption of CO 2 by a Polymeric Ionic Liquid for Direct Air 
+Capture. J. Phys. Chem. Lett.  8, 3986 -3990, doi:10.1021/acs.jpclett.7b01726 (2017).  
+126 Wang, T., Wang, X., Hou, C. & Liu, J. Quaternary functionalized mesopor ous adsorbents for ultra -
+high kinetics of CO2 capture from air. Sci. Rep.  10, 21429, doi:10.1038/s41598 -020-77477 -1 
+(2020).  
+127 Hou, C., Wu, Y., Wang, T., Wang, X. & Gao, X. Preparation of Quaternized Bamboo Cellulose and 
+Its Implication in Direct Air Capt ure of CO2. Energy Fuels  33, 1745 -1752, 
+doi:10.1021/acs.energyfuels.8b02821 (2019).  
+128 Han, Y.  et al.  Strong bases behave as weak bases in nanoscale chemical environments: implication 
+in humidity -swing CO2 air capture. Phys. Chem. Chem. Phys.  23, 14811 -14817, 
+doi:10.1039/D1CP01121A (2021).  
+129 Shi, X., Xiao, H., Chen, X. & Lackner, K. S. The Effect of Moisture on the Hydrolysis of Basic Salts. 
+Chem. Eur. J.  22, 18326 -18330 (2016).  
+130 Song, J.  et al.  Moisture Swing Ion -Exchange Resin -PO4 Sorbent for Reversible CO2 Capture from 
+Ambient Air. Energy Fuels  33, 6562 -6567, doi:10.1021/acs.energyfuels.9b00863 (2019).  
+131 Armstrong, M., Shi, X., Shan, B., Lackner, K. & Mu, B. Rapid CO 2 capture from ambient air by 
+sorbent -containing porous electrospun fibe rs made with the solvothermal polymer additive 
+removal technique. AIChE J.  65, 214 -220, doi:10.1002/aic.16418 (2019).  
+132 Shi, X.  et al.  Humidity effect on ion behaviors of moisture -driven CO 2 sorbents. Int. J. Chem. Phys.  
+149, 164708, doi:10.1063/1.502710 5 (2018).  
+133 Parzuchowski, P. G., Świderska, A., Roguszewska, M., Rolińska, K. & Wołosz, D. Moisture - and 
+Temperature -Responsive Polyglycerol -Based Carbon Dioxide Sorbents —The Insight into the 
+Absorption Mechanism for the Hydrophilic Polymer. Energy Fuels  34, 12822 -12832, 
+doi:10.1021/acs.energyfuels.0c02174 (2020).  
+134 Bhatt, P. M.  et al.  A Fine -Tuned Fluorinated MOF Addresses the Needs for Trace CO2 Removal and 
+Air Capture Using Physisorption. J. Am. Chem. Soc.  138, 9301 -9307, doi:10.1021/jacs.6b05345 
+(2016). 
+135 Kumar, A.  et al.  Direct air capture of CO 2 by physisorbent materials. Angew. Chem. Int. Ed.  54, 
+14372 -14377 (2015).  
+136 Madden, D. G.  et al.  Flue -gas and direct -air capture of CO 2 by porous metal –organic materials. 
+Phil. Trans. R. Soc. A  375, 2016 0025 (2017).  
+137 Mukherjee, S.  et al.  Trace CO<sub>2</sub> capture by an ultramicroporous physisorbent with 
+low water affinity. Science Advances  5, eaax9171, doi:doi:10.1126/sciadv.aax9171 (2019).  52 
+ 138 Erans, M., Nabavi, S. A. & Manović, V. Carbonation of l ime-based materials under ambient 
+conditions for direct air capture. Journal of Cleaner Production  242, 118330, 
+doi:https://doi.org/10.1016/j.jclepro.2019.118330  (2020).  
+139 McQueen, N., Kelemen, P., Dipple, G., Renforth, P. & Wilcox, J. Ambient weathering of magnesium 
+oxide for CO2 removal from air. Nature Communications  11, 3299, doi:10.1038/s41467 -020-
+16510 -3 (2020).  
+140 McQueen, N., Desmond, M. J., Socolow, R. H., Psarras,  P. & Wilcox, J. Natural Gas vs. Electricity 
+for Solvent -Based Direct Air Capture. Frontiers in Climate  2, doi:10.3389/fclim.2020.618644 
+(2021).  
+141 Masoud, N., Bordanaba -Florit, G., van Haasterecht, T. & Bitter, J. H. Effect of Support Surface 
+Properties on CO2 Capture from Air by Carbon -Supported Potassium Carbonate. Ind. Eng. Chem. 
+Res., doi:10.1021/acs.iecr.1c01229 (2021).  
+142 Abanades, J. C., Anthony, E. J., Lu, D. Y., Salvador, C. & Alvarez, D. Capture of CO 2 from combustion 
+gases in a fluidized bed of CaO. AIChE J.  50, 1614 -1622, doi:doi:10.1002/aic.10132 (2004).  
+143 Abanades, J. C.  et al.  Capturing CO 2 from combustion flue gases with a carbonation calcination 
+loop. Experimental results and process developmen t. Energy Procedia  1, 1147 -1154, 
+doi:https://doi.org/10.1016/j.egypro.2009.01.151  (2009).  
+144 Hoddenbagh, J.  et al.  Borate autocausticizing: a cost effective technology. Pulp & paper Canada  
+103, 16-21 (2002).  
+145 Yusuf, Z. & Cameron, J. Decarbonization Reactions between Sodium Metaborate and Sodium 
+Carbonate. Ind. Eng. Chem. Res.  43, 8148 -8154, doi:10.1021/ie049924b (2004).  
+146 Wang, J.  et al.  Direct Capture of Low -Concentration CO 2 on Mesoporous Carbon -Supported Solid 
+Amine Adsorbents at Ambient Temperature. Ind. Eng. Chem. Res.  54, 5319 -5327, 
+doi:10.1021/acs.iecr.5b01060 (2015).  
+147 Xu, X., Song, C., Andresen, J. M., Miller, B. G. & Scaroni, A. W. Novel polyethylenimine -modified 
+mesoporous molecular sieve of MCM -41 type as high -capacity adsorbent for CO 2 capture. Energy 
+Fuels  16, 1463 -1469 (2002).  
+148 Goeppert, A., Meth, S., Prakash, G. S. & Olah, G. A. Nanostructured silica as a support for 
+regenerable high -capacity organoamine -based CO 2 sorbents. Energy Environ. Sci.  3, 1949 -1960 
+(2010).  
+149 Xu, X., Song, C., Andresen, J. M., Miller, B. G. & Scaroni, A. W. Preparation and characterization of 
+novel CO 2 “molecular basket” adsorbents based on polymer -modified mesoporous molecular 
+sieve MCM -41. Microporous and mesoporous materials  62, 29-45 (2003).  
+150 Xu, X., Song, C., Miller, B. G. & Scaroni, A. W. Adsorption separation of carbon dioxide from flue 
+gas of natural gas -fired boiler by a novel nanoporous “molecular basket” adsorbent. Fuel 
+Processing Technology  86, 1457 -1472 (2005).  
+151 Franchi, R. S., Harlick, P. J. E. & Sayari, A. Applications of Pore -Expanded Mesoporous Silica. 2. 
+Development of a High -Capacity, Water -Tolerant Adsorbent for CO 2. Ind. Eng. Chem. Res.  44, 
+8007 -8013, doi:10.1021/ie0504194 (2005).  
+152 Yue, M. B.  et al.  Efficient CO 2 Capturer Derived from As‐Synthesized MCM‐41 Modified with 
+Amine. Chemistry –A European Journal  14, 3442 -3451 (2008).  
+153 Brilman, D. & Veneman, R. Capturing atmospheric CO 2 usin g supported amine sorbents. Energy 
+Procedia  37, 6070 -6078 (2013).  
+154 Choi, S., Gray, M. L. & Jones, C. W. Amine -Tethered Solid Adsorbents Coupling High Adsorption 
+Capacity and Regenerability for CO 2 Capture From Ambient Air. ChemSusChem  4, 628 -635, 
+doi:10 .1002/cssc.201000355 (2011).  53 
+ 155 Sanz -Pérez, E. S., Arencibia, A., Calleja, G. & Sanz, R. Tuning the textural properties of HMS 
+mesoporous silica. Functionalization towards CO 2 adsorption. Microporous and Mesoporous 
+Materials  260, 235 -244, doi: https://doi.org/10.1016/j.micromeso.2017.10.038  (2018).  
+156 Belmabkhout, Y., Serna -Guerrero, R. & Sayari, A. Adsorption of CO 2-Containing Gas Mixtures over 
+Amine -Bearing Pore -Expanded MCM -41 Silica: Application for Gas Purification. Ind. Eng. Chem. 
+Res. 49, 359 -365, doi:10.1021/ie900837t (2010).  
+157 Sanz, R., Calleja, G., Arencibia, A. & Sanz -Pérez, E. S. CO 2 capture with pore -expanded MCM -41 
+silica modified with amino groups by double functionalization. Microporous and Mesoporous 
+Materials  209, 165 -171, doi: https://doi.org/10.1016/j.micromeso.2014.10.045  (2015).  
+158 Franchi, R., Harlick, P. J. E. & Sayari, A. A high capacity, water tolerant adsorbent for CO 2: 
+diethanolamine supported on pore -expanded MCM -41. Studies in Surface Science and Catalysis  
+156, 879 -886, doi: https://doi.org/10.1016/S0167 -2991(05)80300 -3 (2005).  
+159 Filburn, T., Helble, J. J. & Weiss, R. A. Development of Supported Ethanolamines and Modified 
+Ethanolamines for CO 2 Capture. Ind. Eng. Chem. Res.  44, 1542 -1546, doi:10.1021/ie0495527 
+(2005).  
+160 Plaza, M. G., Pevida, C., Arenillas, A., Rubiera, F. & Pis, J. J. CO 2 capture by adsorption with nitrogen 
+enriched carbons. Fuel 86, 2204 -2212, doi: https://doi.org/10.1016/j.fuel.2007.06.001  (2007).  
+161 Gibson, J. A. A., Gromov, A. V., Brandani, S. & Campbell, E. E. B. The effect of pore structure on 
+the CO 2 adsorption efficiency of  polyamine impregnated porous carbons. Microporous and 
+Mesoporous Materials  208, 129 -139, doi: https://doi.org/10.1016/j.micromeso.2015.01.044  
+(2015).  
+162 Sujan, A., Pang, S. H., Zhu, G., Jones, C. W. & Lively, R. P. Direct CO 2 capture from air using 
+poly(ethyleneimine) -loaded polymer/silica fiber sorbents. ACS Sustainable Chemistry & 
+Engineering , doi:10.1021/acssuschemeng.8b06203 (2019).  
+163 Chen, C., Son, W. -J., You, K. -S., Ahn, J. -W. & Ahn, W. -S. Carbon dioxide capture using am ine-
+impregnated HMS having textural mesoporosity. Chem. Eng. J.  161, 46 -52, 
+doi:https://doi.org/10.1016/j.cej.2010.04.019  (2010).  
+164 Ma, X., Wang, X. & Song, C. “Molecular Basket” Sorbents for Separation of CO2 and H2S from 
+Various Gas Streams. J. Am. Chem. Soc.  131, 5777 -5783, doi:10.1021/ja8074105 (2009).  
+165 Klinthong, W., Huang, C. -H. & Tan, C. -S. One -Pot Synthesis and Pelletizing o f Polyethylenimine -
+Containing Mesoporous Silica Powders for CO2 Capture. Ind. Eng. Chem. Res.  55, 6481 -6491, 
+doi:10.1021/acs.iecr.6b00644 (2016).  
+166 Heydari -Gorji, A., Yang, Y. & Sayari, A. Effect of the Pore Length on CO2 Adsorption over Amine -
+Modified M esoporous Silicas. Energy Fuels  25, 4206 -4210, doi:10.1021/ef200765f (2011).  
+167 Belmabkhout, Y., Serna -Guerrero, R. & Sayari, A. Amine -bearing mesoporous silica for CO 2 
+removal from dry and humid air. Chem. Eng. Sci.  65, 3695 -3698 (2010).  
+168 Wurzbacher,  J. A., Gebald, C. & Steinfeld, A. Separation of CO 2 from air by temperature -vacuum 
+swing adsorption using diamine -functionalized silica gel. Energy Environ. Sci.  4, 3584 -3592 (2011).  
+169 Gebald, C., Wurzbacher, J. A., Tingaut, P., Zimmermann, T. & Steinfeld, A. Amine -Based 
+Nanofibrillated Cellulose As Adsorbent for CO 2 Capture from Air. Environ. Sci. Technol.  45, 9101 -
+9108, doi:10.1021/es202223p (2011).  
+170 Liu, F. -Q. et al.  Amine -tethered  adsorbents based on three -dimensional macroporous silica for 
+CO 2 capture from simulated flue gas and air. ACS Appl. Mater. Interfaces  6, 4371 -4381 (2014).  
+171 Sakwa -Novak, M. A., Tan, S. & Jones, C. W. Role of Additives in Composite PEI/Oxide CO 2 
+Adsorben ts: Enhancement in the Amine Efficiency of Supported PEI by PEG in CO 2 Capture from 
+Simulated Ambient Air. ACS Appl. Mater. Interfaces  7, 24748 -24759, doi:10.1021/acsami.5b07545 
+(2015).  54 
+ 172 Thakkar, H., Issa, A., Rownaghi, A. A. & Rezaei, F. CO 2 Capture fr om Air Using Amine -Functionalized 
+Kaolin -Based Zeolites. Chemical Engineering & Technology  40, 1999 -2007, 
+doi:doi:10.1002/ceat.201700188 (2017).  
+173 Potter, M. E., Cho, K. M., Lee, J. J. & Jones, C. W. Role of Alumina Basicity in CO 2 Uptake in 3 -
+Aminopropylsilyl -Grafted Alumina Adsorbents. ChemSusChem  10, 2192 -2201, 
+doi:doi:10.1002/cssc.201700115 (2017).  
+174 Su, X.  et al.  Postsynthetic Functionalization of Mg -MOF -74 with Tetraethylenepentamine: 
+Structural Characterization and Enhanced  CO2 Adsorption. ACS Appl. Mater. Interfaces  9, 11299 -
+11306, doi:10.1021/acsami.7b02471 (2017).  
+175 Kim, E. J.  et al.  Cooperative carbon capture and steam regeneration with tetraamine -appended 
+metal -organic frameworks. Science  369, 392 -396, doi:doi:10.1126 /science.abb3976 (2020).  
+176 Bien, C. E., Liu, Q. & Wade, C. R. Assessing the Role of Metal Identity on CO2 Adsorption in MOFs 
+Containing M –OH Functional Groups. Chem. Mater.  32, 489 -497, 
+doi:10.1021/acs.chemmater.9b04228 (2020).  
+177 Wang, B., Lin, R. -B., Zhang, Z., Xiang, S. & Chen, B. Hydrogen -Bonded Organic Frameworks as a 
+Tunable Platform for Functional Materials. J. Am. Chem. Soc.  142, 14399 -14416, 
+doi:10.1021/jacs.0c06473 (2020).  
+178 Darunte, L. A., Oetomo, A. D., Walton, K. S., Sholl, D. S. & Jones, C. W. Direct Air Capture of CO2 
+Using Amine Functionalized MIL -101(Cr). ACS Sustainable Chemistry & Engineering  4, 5761 -5768, 
+doi:10.1021/acssuschemeng.6b01692 (2016).  
+179 Zhu, X.  et al.  Efficient CO2 capture from ambient air with amine -functionalized Mg –Al mixed metal 
+oxides. Journal of Materials Chemistry A  8, 16421 -16428, doi:10.1039/D0TA05079B (2020).  
+180 Bourlinos, A. B.  et al.  Functionalized Nanostructures with Liquid -Like Behavior:  Expanding the 
+Gallery of Available Nanostructures. Advanced Functional Materials  15, 1285 -1290, 
+doi:https://doi.org/10.1002/adfm.200500076  (2005).  
+181 Rodriguez, R., Herrera, R., Archer, L. A. & Gi annelis, E. P. Nanoscale Ionic Materials. Advanced 
+Materials  20, 4353 -4358, doi: https://doi.org/10.1002/adma.200801975  (2008).  
+182 Park, Y., Decatur, J., Lin, K. -Y. A. & Park, A. -H. A. Investigation  of CO2 capture mechanisms of liquid -
+like nanoparticle organic hybrid materials via structural characterization. Phys. Chem. Chem. Phys.  
+13, 18115 -18122, doi:10.1039/C1CP22631B (2011).  
+183 Lin, K. -Y. A. & Park, A. -H. A. Effects of Bonding Types and Functio nal Groups on CO2 Capture using 
+Novel Multiphase Systems of Liquid -like Nanoparticle Organic Hybrid Materials. Environ. Sci. 
+Technol.  45, 6633 -6639, doi:10.1021/es200146g (2011).  
+184 Petit, C., Park, Y., Lin, K. -Y. A. & Park, A. -H. A. Spectroscopic Investigation of the Canopy 
+Configurations in Nanoparticle Organic Hybrid Materials of Various Grafting Densities during CO2 
+Capture. J. Phys. Chem. C  116, 516 -525, doi:10.1021/jp210391c (20 12). 
+185 Park, Y., Shin, D., Jang, Y. N. & Park, A. -H. A. CO2 Capture Capacity and Swelling Measurements of 
+Liquid -like Nanoparticle Organic Hybrid Materials via Attenuated Total Reflectance Fourier 
+Transform Infrared Spectroscopy. J. Chem. Eng. Data  57, 40-45, doi:10.1021/je200623b (2012).  
+186 Park, Y., Petit, C., Han, P. & Alissa Park, A. -H. Effect of canopy structures and their steric 
+interactions on CO2 sorption behavior of liquid -like nanoparticle organic hybrid materials. RSC 
+Advances  4, 8723 -8726, do i:10.1039/C3RA46801A (2014).  
+187 Haque, M. A., Feric, T. G., Hamilton, S. T., Park, A. -H. A. & Dadmun, M. D. Structure and Dispersion 
+of Free and Grafted Polymer in Nanoparticle Organic Hybrid Materials -Based Solutions by Small -
+Angle Neutron Scattering. J. Phys. Chem. C  125, 5327 -5334, doi:10.1021/acs.jpcc.0c10790 (2021).  
+188 Feric, T. G., Hamilton, S. T. & Park, A. -H. A. Insights into the Enhanced Oxidative Thermal Stability 
+of Nanoparticle Organic Hybrid Materials Developed for Carbon Capture and Energy S torage. 
+Energy Fuels  35, 19592 -19605, doi:10.1021/acs.energyfuels.1c03243 (2021).  55 
+ 189 Rim, G., Feric, T. G., Moore, T. & Park, A. -H. A. Solvent Impregnated Polymers Loaded with Liquid -
+Like Nanoparticle Organic Hybrid Materials for Enhanced Kinetics of Dire ct Air Capture and Point 
+Source CO2 Capture. Advanced Functional Materials  31, 2010047, 
+doi:https://doi.org/10.1002/adfm.202010047  (2021).  
+190 Custelcean, R. Iminoguanidines: from anion recognition and separation to carbon capture. 
+Chemical Communications  56, 10272 -10280, doi:10.1039/D0CC04332J (2020).  
+191 Custelcean, R. Direct air capture with bis -iminoguanidines: From discovery to commercializa tion. 
+Chem  7, 2848 -2852, doi: https://doi.org/10.1016/j.chempr.2021.10.001  (2021).  
+192 Shi, X., Xiao, H., Lackner, K. S. & Chen, X. Capture CO 2 from Ambient Air Using Nanoconfined Ion 
+Hydration . Angew. Chem. Int. Ed.  55, 4026 -4029, doi:10.1002/anie.201507846 (2016).  
+193 He, H.  et al.  Three -Dimensionally Ordered Macroporous Polymeric Materials by Colloidal Crystal 
+Templating for Reversible CO 2 Capture. Advanced Functional Materials  23, 4720 -4728, 
+doi:doi:10.1002/adfm.201300401 (2013).  
+194 He, H.  et al.  Reversible CO 2 capture with porous polymers using the humidity swing. Energy 
+Environ. Sci.  6, 488 -493 (2013).  
+195 He, H.  et al.  Porous polymers prepared via high internal phase emulsion  polymerization for 
+reversible CO 2 capture. Polymer  55, 385 -394, doi: https://doi.org/10.1016/j.polymer.2013.08.002  
+(2014).  
+196 Singh, P.  et al.  Electrochemical Capture and Release of Carbon Dioxide Using a Disulfide –
+Thiocarbonate Redox Cycle. J. Am. Chem. Soc.  139, 1033 -1036, doi:10.1021/jacs.6b10806 (2017).  
+197 Apaydin, D. H.  et al.  Electrochemical Capture and Release of CO 2 in Aqueous Electroly tes Using an 
+Organic Semiconductor Electrode. ACS Appl. Mater. Interfaces  9, 12919 -12923, 
+doi:10.1021/acsami.7b01875 (2017).  
+198 Rheinhardt, J. H., Singh, P., Tarakeshwar, P. & Buttry, D. A. Electrochemical Capture and Release 
+of Carbon Dioxide. ACS Energy  Letters  2, 454 -461, doi:10.1021/acsenergylett.6b00608 (2017).  
+199 Hemmatifar, A., Kang, J. S., Ozbek, N., Tan, K. -J. & Hatton, T. A. Electrochemically Mediated Direct 
+CO2 Capture by a Stackable Bipolar Cell. ChemSusChem  15, e202102533, 
+doi:https://doi.org/10.1002/cssc.202102533  (2022).  
+200 Diederichsen, K. M., Liu, Y., Ozbek, N., Seo, H. & Hatton, T. A. Toward solvent -free continuous -
+flow electrochemically mediated carbon capture with h igh-concentration liquid quinone 
+chemistry. Joule  6, 221 -239, doi: https://doi.org/10.1016/j.joule.2021.12.001  (2022).  
+201 Seo, H., Rahimi, M. & Hatton, T. A. Electrochemical Carbon Dioxide Capt ure and Release with a 
+Redox -Active Amine. J. Am. Chem. Soc.  144, 2164 -2170, doi:10.1021/jacs.1c10656 (2022).  
+202 Azarabadi, H. & Lackner, K. S. Postcombustion Capture or Direct Air Capture in Decarbonizing US 
+Natural Gas Power? Environ. Sci. Technol.  54, 5102 -5111, doi:10.1021/acs.est.0c00161 (2020).  
+203 Pang, S. H., Lee, L. -C., Sakwa -Novak, M. A., Lively, R. P. & Jones, C. W. Design of Aminopolymer 
+Structure to Enhance Performance and Stability of CO 2 Sorbents: Poly(propylenimine) vs 
+Poly(ethylenimine). J. Am. Chem. Soc.  139, 3627 -3630, doi:10.1021/jacs.7b00235 (2017).  
+204 Pang, S. H., Lively, R. P. & Jones, C. W. Oxidatively -Stable Linear Poly(propylenimine) -Containing 
+Adsorbents for CO 2 Capture from Ultradilute Streams. ChemSusChem  11, 2628 -2637, 
+doi:do i:10.1002/cssc.201800438 (2018).  
+205 Zhai, Y. & Chuang, S. S. C. Enhancing Degradation Resistance of Polyethylenimine for CO 2 Capture 
+with Cross -Linked Poly(vinyl alcohol). Ind. Eng. Chem. Res.  56, 13766 -13775, 
+doi:10.1021/acs.iecr.7b03636 (2017).  
+206 Geba ld, C., Wurzbacher, J. A., Tingaut, P. & Steinfeld, A. Stability of amine -functionalized cellulose 
+during temperature -vacuum -swing cycling for CO 2 capture from air. Environ. Sci. Technol.  47, 
+10063 -10070 (2013).  56 
+ 207 Klemm, D., Heublein, B., Fink, H. P. & B ohn, A. Cellulose: fascinating biopolymer and sustainable 
+raw material. Angew. Chem. Int. Ed.  44, 3358 -3393 (2005).  
+208 Park, Y., Lin, K. -Y. A., Park, A. -H. A. & Petit, C. Recent Advances in Anhydrous Solvents for CO2 
+Capture: Ionic Liquids, Switchable Sol vents, and Nanoparticle Organic Hybrid Materials. Frontiers 
+in Energy Research  3, doi:10.3389/fenrg.2015.00042 (2015).  
+209 Moore, T.  et al.  Encapsulation of highly viscous CO2 capture solvents for enhanced capture 
+kinetics: Modeling investigation of mass transfer mechanisms. Chem. Eng. J.  428, 131603, 
+doi:https://doi.org/10.1016/j.c ej.2021.131603  (2022).  
+210 Hasanbeigi, A., Kirshbaum, L. A., Collison, B. & Gardiner, D. Electrifying US Industry: A Technology 
+and Process -Based Approach to Decarbonization. Renewable Thermal Collaborative  (2021).  
+211 Bougie, F. & Fan, X. Analysis of the Regeneration of Monoethanolamine Aqueous Solutions by 
+Microwave Irradiation. Energy Procedia  142, 3661 -3666, 
+doi:https://doi.org/10.1016/j.egypro.2017.12.259  (2017).  
+212 Lee, C. S.  et al.  Enha ncing natural product extraction and mass transfer using selective microwave 
+heating. Chem. Eng. Sci.  149, 97-103, doi: https://doi.org/10.1016/j.ces.2016.04.031  (2016).  
+213 Cherbański, R. & Molga , E. Intensification of desorption processes by use of microwaves —An 
+overview of possible applications and industrial perspectives. Chemical Engineering and 
+Processing: Process Intensification  48, 48 -58, doi: https://doi.org/10.1016/j.cep.2008.01.004  
+(2009).  
+214 El Khaled, D., Novas, N., Gázquez, J. A., García, R. M. & Manzano -Agugliaro, F. Alcohols and 
+alcohols mixtures as liquid biofuels: A review of dielectric properties. Renewable and Sustainable 
+Energy Reviews  66, 556 -571, doi: https://doi.org/10.1016/j.rser.2016.08.032  (2016).  
+215 Chronopoulos, T., Fernandez -Diez, Y., Maroto -Valer, M. M.,  Ocone, R. & Reay, D. A. CO2 
+desorption via microwave heating for post -combustion carbon capture. Microporous and 
+Mesoporous Materials  197, 288 -290, doi: https://doi.org/10.1016/j.micromeso. 2014.06.032  
+(2014).  
+216 Nigar, H.  et al.  Amine -functionalized mesoporous silica: A material capable of CO2 adsorption and 
+fast regeneration by microwave heating. AIChE J.  62, 547 -555, 
+doi:https://doi.org/10.1002/aic.15118  (2016).  
+217 Yang, J., Tan, H. Y., Low, Q. X., Binks, B. P. & Chin, J. M. CO2 capture by dry alkanolamines and an 
+efficient microwave regeneration process. Journal of Materials Chemistry A  3, 6440 -6446, 
+doi:10.1039/C4TA0627 3F (2015).  
+218 Chowdhury, T., Shi, M., Hashisho, Z. & Kuznicki, S. M. Indirect and direct microwave regeneration 
+of Na -ETS-10. Chem. Eng. Sci.  95, 27-32, doi: https://doi.org/10.1016/j.ces.2013.02 .061  (2013).  
+219 McGurk, S. J., Martín, C. F., Brandani, S., Sweatman, M. B. & Fan, X. Microwave swing regeneration 
+of aqueous monoethanolamine for post -combustion CO2 capture. Applied Energy  192, 126 -133, 
+doi:https://doi.org/10.1016/j.apenergy.2017.02.012  (2017).  
+220 Ji, T.  et al.  Microwave -accelerated regeneration of a non -aqueous slurry for energy -efficient 
+carbon sequestration. Materials Today Sustainability  19, 100168, 
+doi:https://doi.org/10.1016/j.mtsust.2022.100168  (2022).  
+221 Laurent, S., Dutz, S., Häfeli, U. O. & Mahmoudi, M. Magnetic fluid hyperthermia: Focus on 
+superparamagnetic iron oxide nanoparticles. Adv. Colloid Interface Sci.  166, 8-23, 
+doi:https://doi.org/10.1016/j.cis.2011.04.003  (2011).  
+222 Rosensweig, R. E. Heating magnetic fluid with alternating magnetic field. Journal of Magnetism 
+and Magnetic Materials  252, 370 -374, doi: https://doi.org/10.1016/S0304 -8853(02)00706 -0 
+(2002).  57 
+ 223 Li, H.  et al.  Magnetic Induction Framework Synthesis: A General Route to the Controlled Growth 
+of Metal –Organic Frameworks. Chem. Mater.  29, 6186 -6190, 
+doi:10.1021/acs.chemmater.7b01803 (2017).  
+224 Sadiq, M. M.  et al.  Magnetic Induction Swing Adsorption: An Energy Efficient Route to Porous 
+Adsorbent Regeneration. Chem. Mater.  28, 6219 -6226, doi:10.1 021/acs.chemmater.6b02409 
+(2016).  
+225 Lin, X.  et al.  In Situ Electromagnetic Induction Heating for CO2 Temperature Swing Adsorption on 
+Magnetic Fe3O4/N -Doped Porous Carbon. Energy Fuels  34, 14439 -14446, 
+doi:10.1021/acs.energyfuels.0c02699 (2020).  
+226 Gholami, M.  et al.  Induction heating as an alternative electrified heating method for carbon 
+capture process. Chem. Eng. J.  431, 133380, doi: https://doi.org/10.1016/j.cej.2021.133380  
+(2022).  
+227 Bellusci, M.  et al.  Fe3O4@HKUST -1 magnetic composites by mechanochemical route for induction 
+triggered release of carbon dioxide. Microporous and Mesoporous Materials  328, 111458, 
+doi:https ://doi.org/10.1016/j.micromeso.2021.111458  (2021).  
+228 Li, S., Ongis, M., Manzolini, G. & Gallucci, F. Non -thermal plasma -assisted capture and conversion 
+of CO2. Chem. Eng. J.  410, 128335, doi: https://doi.org/10.1016/j.cej.2020.128335  (2021).  
+229 Pou, J. O., Colominas, C. & Gonzalez -Olmos, R. CO2 reduction using non -thermal plasma 
+generated with photovoltaic energy in a fluidized reactor. Journal of CO2 Utilization  27, 528 -535, 
+doi:https://doi.org/10.1016/j.jcou.2018.08.019  (2018).  
+230 Miao, Y., He, Z., Zhu, X., Izikowitz, D. & Li, J. Operating temperatures affect direct air capture of 
+CO2 in polyamine -loaded mesoporous silica. Chem. E ng. J.  426, 131875, 
+doi:https://doi.org/10.1016/j.cej.2021.131875  (2021).  
+231 Rim, G.  et al.  Sub-Ambient Temperature Direct Air Capture of CO2 using Amine -Impregnated MIL -
+101(Cr) Enables Ambient Temperature CO2 Recovery. JACS Au  2, 380 -393, 
+doi:10.1021/jacsau.1c00414 (2022).  
+232 Yang, X.  et al.  Computational Modeling and Simulation of CO2 Capture by Aqueous Amines. Chem. 
+Rev.  117, 9524 -9593, doi:10.1021/acs.chemrev.6b00662 (2017).  
+233 Said, R. B., Kolle, J. M., Essalah, K., Tangour, B. & Sayari, A. A Unified Approach to CO2 –Amine 
+Reaction Mechanisms. ACS Omega  5, 26125 -26133, doi:10.1021/acsomega.0c03727 (2020).  
+234 Afonso, R., Sardo, M., Mafra, L. & Gomes, J. R. B. Unravelling the Stru cture of Chemisorbed CO2 
+Species in Mesoporous Aminosilicas: A Critical Survey. Environ. Sci. Technol.  53, 2758 -2767, 
+doi:10.1021/acs.est.8b05978 (2019).  
+235 da Silva, E. F. & Svendsen, H. F. Ab Initio Study of the Reaction of Carbamate Formation from CO2 
+and Alkanolamines. Ind. Eng. Chem. Res.  43, 3413 -3418, doi:10.1021/ie030619k (2004).  
+236 da Silva, E. F. & Svendsen, H. F. Computational chemistry study of reactions, equilibrium and 
+kinetics of chemical CO2 absorption. Int. J. Greenh. Gas Control.  1, 151 -157, 
+doi:https://doi.org/10.1016/S1750 -5836(07)00022 -9 (2007).  
+237 Arstad, B., Blom, R. & Swang, O. CO2 Absorption in Aqueous Solutions of Alkanolamines:  
+Mechanistic Insight from Quantum Che mical Calculations. The Journal of Physical Chemistry A  
+111, 1222 -1228, doi:10.1021/jp065301v (2007).  
+238 Shim, J. -G., Kim, J. -H., Jhon, Y. H., Kim, J. & Cho, K. -H. DFT Calculations on the Role of Base in the 
+Reaction between CO2 and Monoethanolamine. Ind. Eng. Chem. Res.  48, 2172 -2178, 
+doi:10.1021/ie800684a (2009).  
+239 Matsuzaki, Y., Yamada, H., Chowdhury, F. A., Higashii, T. & Onoda, M. Ab Initio Study of CO2 
+Capture Mechanisms in Aqueous Monoethanolamine: Reaction Pathways for the Direct 
+Interconversion of Carbamate and Bicarbonate. The Journal of Physical Chemistry A  117, 9274 -
+9281, doi:10.1021/jp406636a (2013).  58 
+ 240 Guido, C. A., Pietrucci, F., Gallet, G. A. & Andreoni, W. The Fate of a Zwitterion in Water from ab 
+Initio Molecular Dynamics: Monoethanolamine (MEA) -CO2. J. Chem. Theory Comput.  9, 28-32, 
+doi:10.1021/ct301 071b (2013).  
+241 Allesch, M., Schwegler, E. & Galli, G. Structure of Hydrophobic Hydration of Benzene and 
+Hexafluorobenzene from First Principles. J. Phys. Chem. B  111, 1081 -1089, doi:10.1021/jp065429c 
+(2007).  
+242 Grossman, J. C., Schwegler, E. & Galli, G.  Quantum and Classical Molecular Dynamics Simulations 
+of Hydrophobic Hydration Structure around Small Solutes. J. Phys. Chem. B  108, 15865 -15872, 
+doi:10.1021/jp0470187 (2004).  
+243 Ma, C., Pietrucci, F. & Andreoni, W. Capture and Release of CO2 in Monoethanolamine Aqueous 
+Solutions: New Insights from First -Principles Reaction Dynamics. J. Chem. Theory Comput.  11, 
+3189 -3198, doi:10.1021/acs.jctc.5b00379 (2015).  
+244 Hwang, G. S., Stowe , H. M., Paek, E. & Manogaran, D. Reaction mechanisms of aqueous 
+monoethanolamine with carbon dioxide: a combined quantum chemical and molecular dynamics 
+study. Phys. Chem. Chem. Phys.  17, 831 -839, doi:10.1039/C4CP04518A (2015).  
+245 Sumon, K. Z., Henni, A.  & East, A. L. L. Molecular Dynamics Simulations of Proposed Intermediates 
+in the CO2 + Aqueous Amine Reaction. J. Phys. Chem. Lett.  5, 1151 -1156, doi:10.1021/jz500237v 
+(2014).  
+246 Sumon, K. Z., Bains, C. H., Markewich, D. J., Henni, A. & East, A. L. L. Se micontinuum Solvation 
+Modeling Improves Predictions of Carbamate Stability in the CO2 + Aqueous Amine Reaction. J. 
+Phys. Chem. B  119, 12256 -12264, doi:10.1021/acs.jpcb.5b06076 (2015).  
+247 Li, H. -C. & Tsai, M. -K. A first -principle study of CO2 binding by mo noethanolamine and mono -n-
+propanolamine solutions. Chem. Phys.  452, 9 -16, 
+doi:https://doi.org/10.1016/j.chemphys.2015.02.012  (2015).  
+248 Farmahini, A. H., Krishnamurthy, S., Friedrich, D., Brandani, S. & Sarkisov, L. Performance -Based 
+Screening of Porous Materials for Carbon Capture. Chem. Rev.  121, 10666 -10741, 
+doi:10.1021/acs.chemrev.0c01266 (2021).  
+249 Yan, Y.  et al.  Harnessing the power  of machine learning for carbon capture, utilisation, and storage 
+(CCUS) – a state -of-the-art review. Energy Environ. Sci.  14, 6122 -6157, doi:10.1039/D1EE02395K 
+(2021).  
+250 Lai, C.  et al.  Hierarchical calibration and validation of computational fluid dynam ics models for 
+solid sorbent -based carbon capture. Powder Technology  288, 388 -406, 
+doi:https://doi.org/10.1016/j.powtec.2015.11.021  (2016).  
+251 Akinola, T. E., Bonilla Prado, P. L. & Wang, M. Experimental studies, molecular simulation and 
+process modelling \simulation of adsorption -based post -combustion carbon capture for power 
+plants: A state -of-the-art review. Applied Energy  317, 119156, 
+doi:https://doi.org/10.1016/j.apenergy.2022.119156  (2022).  
+252 Kollias, L.  et al.  Advanced Theory and Simulation to Guide the Development of CO2 Capture 
+Solvents. ACS Omega  7, 12453 -12466, doi:10.1021/acsomega.1c07398 (2022).  
+253 Buijs, W. Direct Air Capture of CO2 with an Amine Resin: A Molecular Modeling Study of the 
+Deactivation Mechanism by CO2. Ind. Eng. Chem. Res.  58, 14705 -14708, 
+doi:10.1021/acs.iecr.9b02637 (2019).  
+254 Buijs, W. Direct Air Capture of CO2 with an Amine Resin : A Molecular Modeling Study of the 
+Oxidative Deactivation Mechanism with O2. Ind. Eng. Chem. Res.  58, 17760 -17767, 
+doi:10.1021/acs.iecr.9b03823 (2019).  
+255 Buijs, W. & de Flart, S. Direct Air Capture of CO2 with an Amine Resin: A Molecular Modeling Study 
+of the CO2 Capturing Process. Ind. Eng. Chem. Res.  56, 12297 -12304, 
+doi:10.1021/acs.iecr.7b02613 (2017).  59 
+ 256 Buijs, W. Molecular Modeling Study to the Relation between Structure of LPEI, Including Water -
+Induced Phase Transitions and CO2 Capturing Reactions . Ind. Eng. Chem. Res.  60, 11309 -11316, 
+doi:10.1021/acs.iecr.1c00846 (2021).  
+257 Kim, I. & Svendsen, H. F. Heat of Absorption of Carbon Dioxide (CO2) in Monoethanolamine (MEA) 
+and 2 -(Aminoethyl)ethanolamine (AEEA) Solutions. Ind. Eng. Chem. Res.  46, 5803 -5809, 
+doi:10.1021/ie0616489 (2007).  
+258 Mathonat, C., Majer, V., Mather, A. E. & Grolier, J. P. E. Use of Flow Calorimetry for Determining 
+Enthalpies of Absorption and the Solubility of CO2 in Aqueous Monoethanolamine Solutions. Ind. 
+Eng. Chem. Res.  37, 4136 -4141, doi:10.1021/ie9707679 (1998).  
+259 Car, R. & Parrinello, M. Unified Approach for Molecular Dynamics and Density -Functional Theory. 
+Phys. Rev. Lett.  55, 2471 -2474, doi:10.1103/PhysRevLett.55.2471 (1985).  
+260 Xiao, H.  et al.  The catalytic effect of H2O on the hydrolysis of CO32 - in hydrated clusters and its 
+implication in the humidity driven CO 2 air capture. Phys. Chem. Chem. Phys.  19, 27435 -27441, 
+doi:10.1039/C7CP04218C (2017).  
+261 Iida, K., Yokogawa, D., Ikeda, A., Sato, H. & Sakaki, S. Carbon d ioxide capture at the molecular 
+level. Phys. Chem. Chem. Phys.  11, 8556 -8559, doi:10.1039/B906912G (2009).  
+262 Iida, K. & Sato, H. Proton Transfer Step in the Carbon Dioxide Capture by Monoethanol Amine: A 
+Theoretical Study at the Molecular Level. J. Phys.  Chem. B  116, 2244 -2248, doi:10.1021/jp212225r 
+(2012).  
+263 Ten‐no, S., Hirata, F. & Kato, S. Reference interaction site model self‐consistent field study for 
+solvation effect on carbonyl compounds in aqueous solution. Int. J. Chem. Phys.  100, 7443 -7453, 
+doi:10.1063/1.466888 (1994).  
+264 Yokogawa, D., Sato, H. & Sakaki, S. New generation of the reference interaction site model self -
+consistent field method: Introduction of spatial electron density distribution to the solvation 
+theory. Int. J. Chem. Phys.  126, 244504, doi:10.1063/1.2742380 (2007).  
+265 Dong, Y.  et al.  Bandgap prediction by deep learning in configurationally hybridized graphene and 
+boron nitride. npj Computational Materials  5, 26, doi:10.1038/s41524 -019-0165 -4 (2019).  
+266 Zhu, X.  et al.  Machine learning exploration of the critical factors for CO2 adsorption capacity on 
+porous carbon materials at different pressures. Journal of Cleaner Production  273, 122915, 
+doi:https://doi .org/10.1016/j.jclepro.2020.122915  (2020).  
+267 Wang, H.  et al.  Rapid Identification of X -ray Diffraction Patterns Based on Very Limited Data by 
+Interpretable Convolutional Neural Networks. J. Chem. Inf. Model.  60, 2004 -2011, 
+doi:10.1021/acs.jcim.0c00020 (2 020).  
+268 Xie, Y.  et al.  Machine Learning Assisted Synthesis of Metal –Organic Nanocapsules. J. Am. Chem. 
+Soc. 142, 1475 -1481, doi:10.1021/jacs.9b11569 (2020).  
+269 Zhang, C.  et al.  Accelerated discovery of porous materials for carbon capture by machine lear ning: 
+A review. MRS Bulletin , doi:10.1557/s43577 -022-00317 -2 (2022).  
+270 Zhang, Z.  et al.  Prediction of Carbon Dioxide Adsorption via Deep Learning. Angew. Chem. Int. Ed.  
+58, 259 -263, doi: https://doi.org/10.1002/anie.201812363  (2019).  
+271 Wang, S., Zhang, Z., Dai, S. & Jiang, D. -e. Insights into CO2/N2 Selectivity in Porous Carbons from 
+Deep Learning. ACS Materials Letters  1, 558 -563, doi:10.1021/acsmaterialslett.9b00374 (2019).  
+272 Zhang, C. et al.  Machine learning assisted rediscovery of methane storage and separation in 
+porous carbon from material literature. Fuel 290, 120080, 
+doi:https://doi.org/10.1016/j.fuel.2020.120080  (202 1). 
+273 Boyd, P. G.  et al.  Data -driven design of metal –organic frameworks for wet flue gas CO2 capture. 
+Nature  576, 253 -256, doi:10.1038/s41586 -019-1798 -7 (2019).  60 
+ 274 Fernandez, M., Boyd, P. G., Daff, T. D., Aghaji, M. Z. & Woo, T. K. Rapid and Accurate Machine 
+Learning Recognition of High Performing Metal Organic Frameworks for CO2 Capture. J. Phys. 
+Chem. Lett.  5, 3056 -3060, doi:10.1021/jz501331m (2014).  
+275 Burner, J.  et al.  High -Performing Deep Learning Regression Models for Predicting Low -Pressure 
+CO2 Adsorption Properties of Metal –Organic Frameworks. J. Phys. Chem. C  124, 27996 -28005, 
+doi:10.1021/acs.jpcc.0c06334 (2020).  
+276 Fanourgakis, G. S., Gkagkas, K., Tylianak is, E. & Froudakis, G. E. A Universal Machine Learning 
+Algorithm for Large -Scale Screening of Materials. J. Am. Chem. Soc.  142, 3814 -3822, 
+doi:10.1021/jacs.9b11084 (2020).  
+277 Zhang, X., Zhang, K., Yoo, H. & Lee, Y. Machine Learning -Driven Discovery of Met al–Organic 
+Frameworks for Efficient CO2 Capture in Humid Condition. ACS Sustainable Chemistry & 
+Engineering  9, 2872 -2879, doi:10.1021/acssuschemeng.0c08806 (2021).  
+278 Yao, Z.  et al.  Inverse design of nanoporous crystalline reticular materials with deep ge nerative 
+models. Nature Machine Intelligence  3, 76-86, doi:10.1038/s42256 -020-00271 -1 (2021).  
+279 Lu, C.  et al.  Nanomaterials for adsorption and conversion of CO2 under gentle conditions. 
+Materials Today  50, 385 -399, doi: https://doi.org/10.1016/j.mattod.2021.03.016  (2021).  
+280 García de Arquer, F. P.  et al.  CO<sub>2</sub> electrolysis to multicarbon products at activities 
+greater than 1 A cm<sup>&#x2212;2</sup>. Science  367, 661 -666, 
+doi:doi:10.1126/science.aay4217 (2020).  
+281 Zhong, M.  et al.  Accelerated discovery of CO2 electrocatalysts using active machine learning. 
+Nature  581, 178 -183, doi:10.1038/s41586 -020-2242 -8 (2020).  
+282 Yan, S., Chen, C., Zhang, F., Mahyoub, S. A.  & Cheng, Z. High -density Ag nanosheets for selective 
+electrochemical CO<sub>2</sub> reduction to CO. Nanotechnology  32, 165705, 
+doi:10.1088/1361 -6528/abd6af (2021).  
+283 Omodolor, I. S., Otor, H. O., Andonegui, J. A., Allen, B. J. & Alba -Rubio, A. C. Dual -Function 
+Materials for CO2 Capture and Conversion: A Review. Ind. Eng. Chem. Res.  59, 17612 -17631, 
+doi:10.1021/acs.iecr.0c02218 (2020).  
+284 Melo Bravo, P. & Debecker, D. P. Combining CO2 capture and catalytic conversion to methane. 
+Waste Disposal & Sustain able Energy  1, 53-65, doi:10.1007/s42768 -019-00004 -0 (2019).  
+285 Zheng, Y. e.  et al.  Highly efficient reduction of O2 -containing CO2 via chemical looping based on 
+perovskite nanocomposites. Nano Energy  78, 105320, 
+doi:https://doi.org/10.1016/j.nanoen.2020.105320  (2020).  
+286 Schäppi, R.  et al.  Drop -in fuels from sunlight and air. Nature  601, 63-68, doi:10.1038/s41586 -021-
+04174 -y (2022).  
+287 Zhang, K., Kim, W. -J. & Park, A. -H. A. Alkaline thermal treatment of seaweed for high -purity 
+hydrogen production with carbon capture and storage potential. Nature Communications  11, 
+3783, doi:10.1038/s41467 -020-17627 -1 (2020).  
+288 Bushuyev, O. S.  et al.  What Should We Make with CO2 and How Can We Make It? Joule  2, 825 -
+832, doi: https://doi.org/10.1016/j.joule.2017.09.003  (2018).  
+289 Kaneco, S., Katsumata, H., Suzuki, T. & Ohta, K. Photoelectrocat alytic reduction of CO2 in 
+LiOH/methanol at metal -modified p -InP electrodes. Applied Catalysis B: Environmental  64, 139 -
+145, doi: https://doi.org/10.1016/j.apcatb.2005.11.012  (2006).  
+290 Sun, S., Sun, H., Williams, P. T. & Wu, C. Recent advances in integrated CO2 capture and utilization: 
+a review. Sustainable Energy & Fuels  5, 4546 -4559, doi:10.1039/D1SE00797A (2021).  
+291 Sabri, M. A., Al Jitan, S., Bahamon, D., Vega, L. F. & Palmisano, G.  Current and future perspectives 
+on catalytic -based integrated carbon capture and utilization. Sci. Total Environ.  790, 148081, 
+doi:https://doi.org/10.1016/j.scitotenv.2021.148081  (2021).  61 
+ 292 Bobadilla, L. F., Riesco -García, J. M., Penelás -Pérez, G. & Urakawa, A. Enabling continuous capture 
+and catalytic conversion of flue gas CO2 to syngas in one process. Journal of CO2 Utilization  14, 
+106-111, doi: https://doi.org/10.1016/j.jcou.2016.04.003  (2016).  
+293 Ronda -Lloret, M.  et al.  Molybdenum Oxide Supported on Ti3AlC2 is an Active Reverse Water –Gas 
+Shift Catalyst. ACS Sustainable Chemistry & Engineering  9, 4957 -4966, 
+doi:10.1021/acssus chemeng.0c07881 (2021).  
+294 Guo, Z.  et al.  M2C -type MXenes: Promising catalysts for CO2 capture and reduction. Applied 
+Surface Science  521, 146436, doi: https://doi.org/10.1016/j.apsusc.2020.146436  (2020).  
+295 Liu, J., Thallapally, P. K., Mc Grail, B. P., Brown, D. R. & Liu, J. Progress in adsorption -based CO2 
+capture by metal –organic frameworks. Chem. Soc. Rev.  41, 2308 -2322, doi:10.1039/c1cs15221a 
+(2012) . 
+296 Trickett, C. A.  et al.  The chemistry of metal –organic frameworks for CO2 capture, regeneration 
+and conversion. Nature Reviews Materials  2, 17045, doi:10.1038/natrevmats.2017.45 (2017).  
+297 Sullivan, I.  et al.  Coupling electrochemical CO2 conversion w ith CO2 capture. Nature Catalysis  4, 
+952-958, doi:10.1038/s41929 -021-00699 -7 (2021).  
+298 Bhat, A.  et al.  Prospects challenges and stability of 2D MXenes for clean energy conversion and 
+storage applications. npj 2D Materials and Applications  5, 61, doi:10.1 038/s41699 -021-00239 -8 
+(2021).  
+299 Mahyoub, S. A.  et al.  An overview on the recent developments of Ag -based electrodes in the 
+electrochemical reduction of CO2 to CO. Sustainable Energy & Fuels  4, 50 -67, 
+doi:10.1039/C9SE00594C (2020).  
+300 Brennecke, J. F. & Gurkan, B. E. Ionic Liquids for CO2 Capture and Emission Reduction. J. Phys. 
+Chem. Lett.  1, 3459 -3464, doi:10.1021/jz1014828 (2010).  
+301 Gurkan, B.  et al.  Molecular Design of High Capacity, Low Viscosity, Chemically Tunable Ionic 
+Liquids  for CO2 Capture. J. Phys. Chem. Lett.  1, 3494 -3499, doi:10.1021/jz101533k (2010).  
+302 García, G., Aparicio, S., Ullah, R. & Atilhan, M. Deep Eutectic Solvents: Physicochemical Properties 
+and Gas Separation Applications. Energy Fuels  29, 2616 -2644, doi:10. 1021/ef5028873 (2015).  
+303 Lee, Y. -Y., Penley, D., Klemm, A., Dean, W. & Gurkan, B. Deep Eutectic Solvent Formed by 
+Imidazolium Cyanopyrrolide and Ethylene Glycol for Reactive CO2 Separations. ACS Sustainable 
+Chemistry & Engineering  9, 1090 -1098, doi:10.10 21/acssuschemeng.0c07217 (2021).  
+304 Hansen, B. B.  et al.  Deep Eutectic Solvents: A Review of Fundamentals and Applications. Chem. 
+Rev.  121, 1232 -1285, doi:10.1021/acs.chemrev.0c00385 (2021).  
+305 Gurkan, B.  et al.  Perspective and challenges in electrochemi cal approaches for reactive CO2 
+separations. iScience  24, 103422, doi: https://doi.org/10.1016/j.isci.2021.103422  (2021).  
+306 Verma, S., Lu, X., Ma, S., Masel, R. I. & Kenis, P. J. A. The effect of electrolyte composition on the 
+electroreduction of CO2 to CO on Ag based gas diffusion electrodes. Phys. Chem. Chem. Phys.  18, 
+7075 -7084, doi:10.1039/C5CP05665A (2016).  
+307 Cantillo, N . M. et al.  Electrochemical Behavior of Copper Ion Complexed with Nanoparticle Organic 
+Hybrid Materials. Journal of The Electrochemical Society  167, 116508, doi:10.1149/1945 -
+7111/aba158 (2020).  
+308 Overa, S., Feric, T. G., Park, A. -H. A. & Jiao, F. Tandem and Hybrid Processes for Carbon Dioxide 
+Utilization. Joule  5, 8-13, doi: https://doi.org/10.1016/j.joule.2020.12.004  (2021).  
+309 Feric, T. G.  et al.  Dynamic Mixing Behaviors of Ionically Tethered Polymer Canopy of Nanoscale 
+Hybrid Materials in Fluids of Varying Physical and Chemical Properties. J. Phys. Chem. B  125, 9223 -
+9234, doi:10.1021/acs.jpcb.1c00935 (2021).  
+310 Hamilton, S. T.  et al.  Nanoscale H ybrid Electrolytes with Viscosity Controlled Using Ionic Stimulus 
+for Electrochemical Energy Conversion and Storage. JACS Au  2, 590 -600, 
+doi:10.1021/jacsau.1c00410 (2022).  62 
+ 311 Hamilton, S. T.  et al.  Mechanistic Study of Controlled Zinc Electrodeposition Behaviors Facilitated 
+by Nanoscale Electrolyte Additives at the Electrode Interface. ACS Appl. Mater. Interfaces  14, 
+22016 -22029, doi:10.1021/acsami.1c23781 (2022).  
+312 Feric, T. G.  et al.  Impacts of Bond Type and Grafting Density on the Thermal, Structural, and 
+Transport Behaviors of Nanoparticle Organic Hybrid Materials -Based Electrolytes. Advanced 
+Functional Materials  n/a, 2203947, doi: https: //doi.org/10.1002/adfm.202203947 . 
+313 Küngas, R. Review —Electrochemical CO<sub>2</sub> Reduction for CO Production: Comparison 
+of Low - and High -Temperature Electrolysis Technologies. Journal of The Electrochemical Society  
+167, 044508, doi:10.1149/1945 -7111 /ab7099 (2020).  
+314 Hauch, A.  et al.  Recent advances in solid oxide cell technology for electrolysis. Science  370, 
+eaba6118, doi:doi:10.1126/science.aba6118 (2020).  
+315 Du, G.  et al.  Methanation of carbon dioxide on Ni -incorporated MCM -41 catalysts: The in fluence 
+of catalyst pretreatment and study of steady -state reaction. Journal of Catalysis  249, 370 -379, 
+doi:https://doi.org/10.1016/j.jcat.2007.03.029  (2007).  
+316 Aziz, M. A. A.  et al.  Highly active Ni -promoted mesostructured silica nanoparticles for CO2 
+methanation. Applied Catalysis B: Environmental  147, 359 -368, 
+doi:https://doi.org/10.1016/j.apcatb.2013.09.015  (2014).  
+317 Mutz, B., Carvalho, H. W. P., Mangold, S., Kleist, W. & Grunwaldt, J. -D. Methanation of CO2: 
+Structural response of a Ni -based catalyst under fluctuating reaction conditions unraveled by 
+operando spectroscopy. Journal of Catalysis  327, 48 -53, 
+doi:https://doi.org/10.1016/j.jcat.2015.04.006  (2015).  
+318 Liu, H., Zou, X., Wang, X., Lu, X. & Ding, W. Effect of CeO2 addition on Ni/Al2O3 catalysts for 
+methanation of carbon dioxide with hydrogen. Journ al of Natural Gas Chemistry  21, 703 -707, 
+doi:https://doi.org/10.1016/S1003 -9953(11)60422 -2 (2012).  
+319 Song, H., Yang, J., Zhao, J. & Chou, L. Methanation of Carbon Dioxide over a Highly Dispersed 
+Ni/La2O3 Catalyst. Chinese Journal of Catalysis  31, 21-23, doi: https://doi.org/10.1016/S1872 -
+2067 (09)60036 -X (2010).  
+320 Cai, M., Wen, J., Chu, W., Cheng, X. & Li, Z. Methanation of carbon dioxide on Ni/ZrO2 -Al2O3 
+catalysts: Effects of ZrO2 promoter and preparation method of novel ZrO2 -Al2O3 carrier. Journal 
+of Natural Gas Chemistry  20, 318 -324, doi: https://doi.org/10.1016/S1003 -9953(10)60187 -9 
+(2011).  
+321 da Silva, D. C. D., Letichevsky, S., Borges, L. E. P. & Appel, L. G. The Ni/ZrO2 catalyst and the 
+methanation of CO and CO2. Internati onal Journal of Hydrogen Energy  37, 8923 -8928, 
+doi:https://doi.org/10.1016/j.ijhydene.2012.03.020  (2012).  
+322 Duyar, M. S., Treviño, M. A. A. & Farrauto, R. J. Dual function materials for CO 2 capture and 
+conversion using renewable H2. Applied Catalysis B: Environmental  168-169, 370 -376, 
+doi:https://doi.org/10.1016/j.apcatb.2014.12.025  (2015).  
+323 Zheng, Q., Farrauto, R. & Chau Nguyen, A. Adsorption and Methanation of Flue Gas CO2 with Dual 
+Functional Catalytic Materials: A Parametric Study. Ind. Eng. Chem. Res.  55, 6768 -6776, 
+doi:10.1021/acs.iecr.6b01275 (2016).  
+324 Duyar, M. S., Wang, S., Arellano -Treviño, M. A. & Farrauto, R. J. CO2 utilization with a novel dual 
+function material (DFM) for capture and catalytic conversion to synthetic natural gas: An update. 
+Journal of CO2 Utilization  15, 65-71, doi: https://doi.org/10.1016/j.jcou.2016.05.003  (2016).  
+325 Wang, S., Schrunk, E. T., Mahajan, H., Farrauto & J., R. The Role of Ruthenium in CO2 Capture and 
+Catalytic Conversion to Fuel by Dual Function Materials (DFM). Catalysts  7, 88 (2017).  
+326 Wang, S., Farrauto, R. J., Karp, S., Jeon, J. H. & Schrunk, E. T. Parametric, cyclic aging and 
+characterization studies for CO2 capture from flue gas and catalytic conversion to synthetic 63 
+ natural gas using a dual functional material (DFM). Journal of CO2  Utilization  27, 390 -397, 
+doi:https://doi.org/10.1016/j.jcou.2018.08.012  (2018).  
+327 Arellano -Treviño, M. A., He, Z., Libby, M. C. & Farrauto, R. J. Catalysts and adsorbents for CO2 
+capture and conversion with dual function materials: Limitations of Ni -containing DFMs for flue 
+gas applications. Journal of CO2 Utilization  31, 143 -151, 
+doi:https://doi.org/10.1016/j.jcou.2019.03.009  (2019).  
+328 Proaño, L.  et al.  In-situ DRIFTS study of two -step CO2 capture and catalytic methanation over 
+Ru,“Na2O”/Al2O3 Dual Functional Material. Applied Surface Science  479, 25 -30, 
+doi:https://doi.org/10.1016/j.apsusc.2019.01.281  (2019).  
+329 Proaño, L.  et al.  Mechanistic assessment of dual function materials, composed of Ru -Ni, 
+Na2O/Al2O3 and Pt -Ni, Na2O/Al2O3, for CO2 capture and methanation by in -situ DRIFTS. Applied 
+Surface Science  533, 147469, doi: https://doi.org/10.1016/j.apsusc.2020.147469  (2020).  
+330 Jeong -Potter, C. & Farrauto, R. Feasibility Study of Combining Direct Air Capture of CO2 and 
+Methanation at Isothermal Cond itions with Dual Function Materials. Applied Catalysis B: 
+Environmental  282, 119416, doi: https://doi.org/10.1016/j.apcatb.2020.119416  (2021).  
+331 Porta, A.  et al.  Ru-Ba synergistic effect in dual functioning materials for cyclic CO2 capture and 
+methanation. Applied Catalysis B: Environmental  283, 119654, 
+doi:https://doi.org/10.1016/j.apcatb.2020.119654  (2021).  
+332 Jeong -Potter, C., Abdallah, M., Kota, S. & Farrauto, R. Enhancing the CO2 Adsorption Capacity of 
+γ-Al2O3 Supported Alkali and Alkaline -Earth Metals: Impacts of Dual Function Material (DFM) 
+Preparation Methods. Ind. Eng. Chem. Res.  61, 10474 -10482, doi:10.1021/acs.iecr.2c00364 
+(2022).  
+333 Jeong -Potter, C.  et al.  Dual function materials (Ru+Na2O/Al2O3) for direct air capture of CO2 and 
+in situ catalytic methanation: The impact of realistic ambient conditions. Applied Catalysis B: 
+Environmental  307, 120990, doi: https://doi.org/10.1016/j.apcatb.2021.120990  (2022).  
+334 Jeong -Potter, C.  et al.  Aging study of low Ru loading dual function materials (DFM) for combined 
+power plant effluent CO 2 capture and methanation. Applied Catalysis B: Environmental  310, 
+121294, doi: https://doi.org/10.1016/j.apcatb.2022.121294  (2022).  
+335 Jeong -Potter, C., Zangiabadi, A. & Farrauto, R. Extended aging of Ru -Ni, Na2O/Al2O3 dual function 
+materials (DFM) for combined capture and subsequent catalytic methanation of CO2 from power 
+plant flue gas. Fuel 328, 125283, doi: https://doi.org/10.1016/j.fuel.2022.125283  (2022).  
+336 Abdullah, B., Abd Ghani, N. A. & Vo, D. -V. N. Recent advances in dry reforming of methane over 
+Ni-based catalysts. Journal of Cleaner Production  162, 170 -185, 
+doi:https://doi.org/10.1016/j.jclepro.2017.05.176  (2017).  
+337 Li, X.  et al.  Dry reforming of methane over Ni/La2O3 nanorod catalysts with stabilized Ni 
+nanoparticles. Applied Catalysis B: Environment al 202, 683 -694, 
+doi:https://doi.org/10.1016/j.apcatb.2016.09.071  (2017).  
+338 Guo, J., Lou, H., Zhao, H., Chai, D. & Zheng, X. Dry reforming of methane over nickel catalysts 
+supported on magnesium aluminate spinels. Applied Catalysis A: General  273, 75 -82, 
+doi:https://d oi.org/10.1016/j.apcata.2004.06.014  (2004).  
+339 Kambolis, A., Matralis, H., Trovarelli, A. & Papadopoulou, C. Ni/CeO2 -ZrO2 catalysts for the dry 
+reforming of methane. Applied Catalysis A: General  377, 16 -26, 
+doi:https://doi.org/10.1016/j.apcata.2010.01.013  (2010).  
+340 Ay, H. & Üner, D. Dry reforming of methane over CeO2 supported Ni, Co and Ni –Co catalysts. 
+Applied Catalysis B: Environmental  179, 128 -138, 
+doi:https://doi.org/10.1016/j.apcatb.2015.05.013  (2015).  
+341 Olafsen, A.  et al.  Light alkanes CO2 reforming to synthesis gas over Ni based catalysts. Catalysis 
+Today  115, 179 -185, doi: https://doi.org/10.1016/j.cattod.2006.02.053  (2006).  64 
+ 342 Olafsen, A.  et al.  Mechanistic features for propane reforming by carbon dioxide over a Ni/Mg(Al)O 
+hydrotalcite -derived catalyst. Journal of Catalysis  229, 163 -175, 
+doi:https://doi.org/10.1016/j.jcat.2004.10.002  (2005).  
+343 Steinlechner, C. & Junge, H. Renewable Methane Generation from Carbon Dioxide and Sunlight. 
+Angew. Chem. Int . Ed.  57, 44-45, doi: https://doi.org/10.1002/anie.201709032  (2018).  
+344 Karelovic, A. & Ruiz, P. Mechanistic study of low temperature CO2 methanation over Rh/TiO2 
+catalysts. Journal of Catalysis  301, 141 -153, doi: https://doi.org/10.1016/j.jcat.2013.02.009  
+(2013).  
+345 Hyakutake, T., van Beek, W. & Urakawa, A. Unravelling the nature, evolution and spatial gradients 
+of active species and active sites in the catalyst bed of unpromoted and K/Ba -promoted Cu/Al2O3 
+during CO2 capture -reduction. Journal of Materials Chemistry A  4, 6878 -6885, 
+doi:10.1039/C5TA09461E (2016).  
+346 Al-Mamoori, A., Lawson, S., Rownaghi, A. A. & Rezaei, F. Oxidative dehydrogenation of ethane to 
+ethylene in an integrated CO2 capture -utilization process. Applied Catalysis B: Environmental  278, 
+119329, doi :https://doi.org/10.1016/j.apcatb.2020.119329  (2020).  
+347 Myint, M., Yan, B., Wan, J., Zhao, S. & Chen, J. G. Reforming and oxidative dehydrogenation of 
+ethane with CO2 as a soft oxidant over bimetallic catalysts. Journal of Catalysis  343, 168 -177, 
+doi:https://doi.org/10.1016/j.jcat.2016.02.004  (2016).  
+348 Baslam, M.  et al.  Photosynthesis in a Changing Global Climate: Scaling Up and Scaling Down in 
+Crops. Frontiers in Plant Science  11, doi:10.3389/fpls.2020.00882 (2020).  
+349 Muelleman, A., Schell, J., Glazer, S. & Glaser, R. Thermochemistry of a Biomimetic and Rubisco -
+Inspired CO2 Capture System from Air. C 2, 18 (2016).  
+350 Langer, J., Hamza, A. & Pápai, I. RuBisCO -Inspired CO2 Activation and Transformation by an 
+Iridium(I) Complex. Angew. Chem. Int. Ed.  57, 2455 -2458, 
+doi:https://doi.org/10.1002/anie.201712893  (2018).  
+351 Glaser, R. in Advances in CO<sub>2</sub> Capture, Sequestration, and Conversion  Vol. 1194 ACS 
+Symposium Series   Ch. 11, 265 -293 (American Chemical Society, 2015).  
+352 Sun, Z., Liao, T., Li, W., Qiao, Y. & Ostrikov, K. Beyond Seashells: Bioinspired 2D Photonic and 
+Photoelectronic Devices. Advanced Functional Materials  29, 1901460, 
+doi:https://doi.org/10.1002/adfm.201901460  (2019).  
+353 Lewis, N. S. & Nocera, D. G. Powering the planet: Chemical challenges in solar energy utilization. 
+Proc. Natl. Acad. Sci.  103, 15729 -15735, doi:doi:10.1073/pnas.0603395103 (2006).  
+354 Kumar, B., Smieja, J. M. & Kubiak, C. P. Photoreduction of CO2 on p -type  Silicon Using Re(bipy -
+But)(CO)3Cl: Photovoltages Exceeding 600 mV for the Selective Reduction of CO2 to CO. J. Phys. 
+Chem. C  114, 14220 -14223, doi:10.1021/jp105171b (2010).  
+355 Smieja, J. M.  et al.  Kinetic and structural studies, origins of selectivity, and interfacial charge 
+transfer in the artificial photosynthesis of CO. Proc. Natl. Acad. Sci.  109, 15646 -15650, 
+doi:doi:10.1073/pnas.1119863109 (2012).  
+356 Liu, C.  et al.  Nanowire –Bacteria Hybrids f or Unassisted Solar Carbon Dioxide Fixation to Value -
+Added Chemicals. Nano Letters  15, 3634 -3639, doi:10.1021/acs.nanolett.5b01254 (2015).  
+357 Su, Y.  et al.  Close -Packed Nanowire -Bacteria Hybrids for Efficient Solar -Driven CO2 Fixation. Joule  
+4, 800 -811, d oi:https://doi.org/10.1016/j.joule.2020.03.001  (2020).  
+358 Cestellos -Blanco, S., Kim, J. M., Watanabe, N. G., Chan, R. R. & Yang, P. Molecular insights and 
+future frontiers in cell photosensiti zation for solar -driven CO2 conversion. iScience  24, 102952, 
+doi:https://doi.org/10.1016/j.isci.2021.102952  (2021).  
+359 Roh, I.  et al.  Photoelectrochemical CO2 Reduction toward Multicarbon Products with Silicon 
+Nanowire Photocathodes Interfaced with Copper Nanoparticles. J. Am. Chem. Soc.  144, 8002 -
+8006, doi:10.1021/jacs.2c03702 (2022).  65 
+ 360 Cestellos -Blanco, S.  et al.  Photosynthetic bioh ybrid coculture for tandem and tunable 
+CO<sub>2</sub> and N<sub>2</sub> fixation. Proc. Natl. Acad. Sci.  119, e2122364119, 
+doi:doi:10.1073/pnas.2122364119 (2022).  
+361 Haas, T., Krause, R., Weber, R., Demler, M. & Schmid, G. Technical photosynthesis involvi ng CO2 
+electrolysis and fermentation. Nature Catalysis  1, 32-39, doi:10.1038/s41929 -017-0005 -1 (2018).  
+ 
+ 

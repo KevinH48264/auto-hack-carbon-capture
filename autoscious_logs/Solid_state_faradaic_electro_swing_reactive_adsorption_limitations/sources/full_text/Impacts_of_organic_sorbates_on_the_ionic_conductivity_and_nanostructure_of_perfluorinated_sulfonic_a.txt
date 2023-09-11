@@ -1,0 +1,487 @@
+Impacts of organic sorbates on the ionic conductivity and nanostructure of perfluorinated sulfonic-acid ionomers
+https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c755a5bdbb89ba8fa3a881/original/impacts-of-organic-sorbates-on-ionic-conductivity-and-nanostructure-of-perfluorinated-sulfonic-acid-ionomers.pdf
+Impacts of Organic Sorbates on Ionic Conductivity and 
+Nanostructure of Perflu orinated Sulfonic -Acid Ionomers  
+Adlai Katzenberg1+, Andrea Angulo1, Ahmet Kusoglu2*, and Miguel A. Modestino1* 
+1Tandon School of Engineering, New York University, Brooklyn, NY 11201  
+2Lawrence Berkeley National Laboratory, Berkeley, CA 94720  
+*akusoglu@lbl.gov, modestino@nyu.edu  
+ 
+Abstract  
+ This study provides insights into structure -property relationships of Nafion membrane s swollen 
+with organic sorbates , revealing correlations between sorbate polarity, ionomer domain structure, and ionic 
+conductivity. Swelling, nanostructure, and ionic conductivity of Nafion in the presence of short -chain 
+alcohols and alkanes was st udied  by infrared spectroscopy, X-ray scattering, and voltammetry . Nafion 
+equilibrated with a lkanes exhibited negligible uptake and nanoswelling, while alcohols  induced 
+nano scopic - to macroscopic - swelling ratios  that increased with alcohol polarity. In mi xed-sorbate 
+environments including organic s and water, alcohols preserved the overall ionomer domain structure but 
+altered the matrix to enable higher sorbate  uptake . Alkanes did not demonstrably alter the hydrated 
+nanostructure or conductivity. Identifyin g the impacts of organic sorbates on structure -property 
+relationships in ionomers such as Nafion is imperative a s membrane -based electrochemical devices find 
+applications in emerging areas ranging from organic fuel cells to the synthesis of fuels and chemi cals. 
+ 
+ 
+ Introduction  
+Perfluorinated sulfonic acid membranes  (PFS As) have enabled substantial  performance 
+enhancement s and cost reductions in electrochemical  energy conversion  systems  such as proton exchange 
+membrane  (PEM)  hydrogen fuel cells , redox -flow batteries,  and water electrolyzers by playing a dual role 
+as a separator and ion -conducting media that prevents crossover of chemical species between the cathodic 
+and anodic sites while providing  a low-resistance pathway  for prot on transport1–4.  Ionic conductivity in 
+PFSAs is intimately related to their nanostructure d morphology dictated by  phase separat ion between a 
+hydrophobic fluoropolymer matrix and acidic side -chains. This nanostructure is highly sensitive to 
+environmental conditions; most critically, external water drives formation and hydration of acid -rich 
+clusters which swell and percolate into a n interconnected hydrated ionomer network5. The relationships 
+between hydration, nanostructure, and key transport properties including conductivity, water transport, gas 
+permeability, and mechanical streng th in PFS As have been investigated rigorously for decades and are 
+highly relevant for the aqueous electrochemical systems in which they have historically been employed1,2,6,7. 
+The advantages  afforded by ionomer membranes  in hydrogen fuel cells and water electrolyzers 
+have been extended to  CO 2 electrolysis8–11, direct -methanol fuel cells (DMFCs)12–14, electro -organic 
+synthesis15–17, and electrochemical swing absorbers18. These devices  expose membranes to  more complex 
+chemical envir onments  (i.e., multiple organic and inorganic chemical species)  than a fuel cell or water 
+electrolyzer , which interact with and impact the PFSAs structure and transport properties . Motivated by the 
+need to understand structure -property relationships of ion -conducting membranes in the presence of organic 
+chemical species , this study  explore s the effects of organic sorbates ranging from pola r alcohols to nonpolar 
+alkanes on the swellin g, ionomer nanostructure and ionic conductivity of Nafion ™ membranes.  The results 
+reveal that both macroscopic and nanoscopic swelling are strongly dependent on sorbate polarity , with a 
+large but poorly -defined ionomer doma in-network  in alcohol -saturated N afion l eading to low ionic 
+conductivity despite high sorbate uptake. These changes in the ionomer phase separation persist with the 
+introduction of water  in the presence of organic sorbates , leading to unique solvent -structure -property relationships that d iffer from the well -understood water -Nafion relationships . The insights  of this study will 
+help guide  the development and implementation of ionomers for emerging organic  electrochemical devices . 
+Results and Discussion  
+Ion transport in Nafion emerge s due to complex multiscale physicochemical interactions between 
+water and the fluoro polymer. In hydrated Nafion, water solvates sulfonic acid groups, dissociati ng protons 
+as mobile charge carriers. The geometry of the ionomer domains is determined by a bal ance between  water 
+sorption  in the hydrophilic regions  opposed by deformati on of the fluoropolymer matrix  during swelling2,19. 
+Macroscopic  PFSA conductivity is highly sensitive to water content as both the morphology of ionomer 
+domains and the concentration/mobility of ions within those domains are linked to hydration levels . Both 
+of these factors are expected to change when Nafion is swollen with organic species ; size and polarity of 
+the sorbing species have been shown to impact bulk swelling (and likely the ionomer domain structure)20–
+25 and the polarity, pKa, and viscosity would impact th e concentration and mobility of protons.  
+Figure 1 shows the ionic conductivity of Nafion membrane vapor -equilibrated  with water (bl ack 
+squares), methanol ( teal triangles), ethanol ( orange  circles), isopropanol (purple diamonds)  and octane  
+(yellow hexagrams ) from the vapor phase . For all alcohols , Nafion showed nonlinear scaling of ionic 
+conductivity with increasing  concentration of sorbate  in the vapor phase; a trend  consistent with the impact 
+of water uptake  on PFSA ionic conductivity. On the other hand,  Nafion showed  minimal sorbate uptake 
+and negligible ionic conductivity  when exposed to vapor of nonpolar alkanes ( see Table S1 in the supporting 
+information  for uptake data ). For the alcohols studied , the maximum sorb ate volume fraction ( 𝜙max) 
+increased wi th decreasing solvent polarity ( 𝜙max, water < 𝜙max, MeOH  < 𝜙max, EtOH < 𝜙max, iPrOH ), opposite of the 
+molar solvent uptake ( Table S1,  supporting information). This is consistent with prior literature21,26 –28 and 
+attributed to t he balance between solvent/solute interaction energy (more favorable for more polar solvents) 
+and mechanical deformation induced by swelling, leading to small molar uptake but large volume expansio n 
+for large solutes like iPrOH. Alcohols can also plasticiz e the fluoropolymer matrix enabling high er swelling 
+ratios  than water swollen membranes29. Conductivity at a given solvent volum e fraction, however, scaled with solvent polarity ( 𝜅water > 𝜅MeOH > 𝜅EtOH > 𝜅iPrOH). This is consistent with consideration of each solute as 
+a mobile  electrolyte phase within the ionomer domains , with conductivity given by  𝜅=𝑛𝐹𝐶𝐻+𝜇𝐻+ where 
+n is the charge of a proton, F is Faraday’s constant, 𝐶𝐻+ is the proton concentration, and 𝜇𝐻+ the proton 
+mobility.  Saito et al. demonstrated that 𝜇𝐻+ is the dominant factor in determi ning ionomer ionic 
+conductivity and  decreas ed logarithmically with alkyl chain length  for Nafion swollen with alcohols21. 
+However, this scaling is complicated by  morphological considerations in PFSAs where  solvent uptake plays 
+a critical role in the percolation of ion -conducting domains , and where  for a given  sorbate  the PFSA ionic 
+conductivity generally increases with the volume fraction of mobile phase.  
+ 
+Figure 1: Conductivity (mS cm-1) of Nafion at room temperature equilibrat ed with water (bl ack squares),  alcohols 
+(methanol, ethanol, and isopropanol; teal triangles, orange  circles, and purple diamonds, respectively) , and octane  
+(yellow hexagrams ) from vapor phase. Conductivity scaled not only with sorbate  volume fraction but with polarity  
+and molar volume of so rbate .  
+ The decreasing conductivity of Nafion with increased sorbate volume fraction could be attributed 
+to the interplay of the mobility and concentration of proton s in each of these sorbates, as well as distinct 
+changes in the ionomer morphology  when swollen with alcohols rather than  water. In gener al, hydrated 
+Nafion exhibits a morphology characterized by locally flat and highly branched water -rich domains 
+embedded in a fluoropolymer matrix5,30–33. This morpho logy has been widely studied by small -angle X-ray 
+scattering  (SAXS) which reveals a broad scattering peak attributed to water -rich domains around scattering 
+vector q of 0.15 Å -1 or domain spacing ( dspace = 2𝜋/q) between 3 and 6 nm34–40. Figure 2  shows Nafion ’s SAXS profiles under dry environments and  equilibrated with liquid water, methanol, ethanol, isopropanol, 
+hexane, heptane, and octane. Alkanes induced minimal  change in the scattering profiles, consistent with 
+their negligible bulk uptake. Alcohol -swollen Nafion, however, exhibited significant changes in the 
+scattering behavior; the ionomer peak shifted to lower q values relative to the dry material, indicating 
+ionomer domain swelling, but with broader peaks th an water -swollen Nafion . There wa s also a clear shift 
+to larger q (smaller dspace) with increasing alcohol size. While a lkane -saturated Nafion showed similar dspace 
+and full-width at half maximum  (FWHM ) to the dry material , these features scaled with sorbate polarity  in 
+the case  of alcohol -saturated Nafion; increasing polarity coincide d with increased  dspace  and lower FWHM  
+(see F igure S 4 in the supporting information). Less polar alcohols appear ed to result in  smaller ionomer 
+nano -domains within a network of increasing  spatial  disorder, contributing to the reduction in ionic 
+conductivity despite high alcohol volume fraction. It is also important to note that the matrix knee ( q ~ 0.05 
+Å-1), arising from the ordered distribution of PTFE crystallites  within the fluoropolymer matri x, is absent 
+in the alcohol -swollen Nafion (Figure 2). Alcohols , while interacting more preferably with the 
+fluoropolymer matrix compared to water , are still not able to dissolve PTFE crystal lites, so this loss of 
+scattering is likely  due to redistribution  (i.e., increasing isotropy) of crystallites within the ionomer ’s 
+amorphous matrix , which is consistent with observations in acetone -swollen Nafion22, and with matrix 
+plasticization observed in methanol -swollen Nafion29. 
+ 
+Figure 2: (a) SAXS profiles of Nafion 117 dry and equilibrated with various liquid sorbates. Alkanes induced little 
+change in the scattering profiles, consistent with their minimal mass uptake. Alcohols induced a strong shift in the 
+ionomer peak to lower scattering vectors while increasing its breadth and decreasing its intensity relative to water -
+equilibrated Nafion.  
+Changes in nanostructure morphology  are also clear  when  comparing the ionomer nano -domain 
+swelling ( dsaturated  / ddry) to bulk swelling  for the different species  (Figure 3a). In water -swollen Nafion, there 
+is a well -established correlation between nanoswel ling and water  volume fraction :  
+ 𝑑
+𝑑𝑑𝑟𝑦=(1−𝜙𝑤𝑎𝑡𝑒𝑟 )−𝑚= (𝜙𝑝)−𝑚 (Equation 1) 
+where 𝑚 is a constant  that indicates the shape/morphology of ionomer domains2,19. For Nafion swollen with  
+water  (𝜙𝑝>0.5), 𝑚 is slightly greater than 1  indicating a locally  lamellar domain structure with mesoscale 
+connectivity, while in dispersion  (𝜙𝑝<0.5),  𝑚 approaches 0.5 reflecting cylindrical polymer 
+aggregates30,34,41,42. Figure 3a shows that organic sorbates  deviate d significantly from water -Nafion 
+behavior  with nanoswelling related to sorbate polarity.  Alkanes induced almost no nanoswelling  in Nafion , 
+confirming  limited penetration of nonpolar sorbates into ionomer domains. Alcohols did cause substantial 
+nanoswelling  in Nafion with magnitude  decreas ing mono tonically with increasing sorbate volume fraction 
+(i.e., methanol > ethanol > isopropanol). This indicates that the distribution of sorbate within the ionomer 
+structure  is impact ed by sorbate chemical identity, as  in the absence of structural changes the n anoswelling 
+would scale identically with sorbate volume fraction  regardless of the sorbate identity . Figure 3b shows the 
+morphological exponent  m was strongly correlated to sorbate polarity (represented as dielectric constant)  
+and shifted towards lower val ues ( indicating loss of lamellar structure and transition towards dispersion -
+like scaling) with decreasing polarity . It should be noted the 𝑚 values reported here are based only on dry 
+and sorbate -saturated  Nafion. W ithout intermediate swelling fractions , the relationship  in Equation 1  cannot 
+be precisely determined . Still, the trend clearly shows a correlation between solvent polarity and the 
+relationship between bulk and nano -domain swelling  through morphological rearrangements .  
+Figure 3: (a) Nanoswelling/ macroscopic  swelling relationships for Nafion swollen with organic species deviated 
+significantly from water -swollen Nafion. (b) T he nanoscal e morphology factor  m increased monotonically with 
+solvent dielectric constant.  
+These changes likely a rise from the affinity  of the sorbate for different moieties in the polymer ; 
+highly polar water molecules ( 𝜖 ~ 80) strongly solvate sulfonic acid moieties but display minimal affinity 
+for perfluoroether side chains , resulting in strong phase separation an d a relatively sharp 
+fluoropolymer/water interface . Alcohols  and acetone  have been shown to  interact  with the perfluoroether 
+side chains , partition across the water -fluoropolymer interface , and impact the fluoropolymer 
+matrix21,22,29,43,44. Increased mixing of sorbate and fluoropolymer  would have  the following impacts on 
+ionomer domain structure and conductivity: ( i) reduced phase separation and redistribution of sorbate across 
+the liquid/fluoropolymer interface , (ii) significant changes in the shape and ordering of ionomer domains 
+accompanied by disr uption of the domain -network , and  (iii) increased penetration of fluoropolymer into 
+swollen ionomer channels . Together, these effects would result in  increased network tortuosity (per 
+structural changes), increas ed local  viscosit y within ionomer channels,  and decreas ed H+ mobility despite 
+higher fraction of the mobile phase.  
+ 
+Figure 4: Overview of the proposed  impacts of sorbate polarity on ionomer structure and transport. Water 
+strongly solvates protons and sulfonic acid groups while displaying minimal affinity for perfluoroether side chains or 
+fluoropolymer backbone. This produces a sharp fluoropolymer/ionome r interface with a high concentration of mobile 
+protons. Alcohols of increasing size (decreasing polarity) increasingly mix with perfluoroether side chains, softening 
+the fluoropolymer/sorbate interface and decreasing proton mobility due in part to increas es in local viscosity. Alkanes 
+display  minimal affinity for ionic groups and fluoropolymer and do not significantly alter Nafion from its dry state.  
+ While studying the properties of PFSAs in pure sorbate environments is useful in characterizing 
+sorbate/io nomer interactions, organic electrochemical devices commonly  employ water as a solvent and/or 
+to maintain membrane hydration45, and thus it  is important to understand of how organic species interact 
+with PFSAs in the presence of water.   
+The limited uptake of alkanes by Nafion in pure-sorbate studies suggests a  mixture of alkane and 
+water vapor will likely lead to  similar n ano-swelling and ionic conductivity to pure water , while  
+alcohol/water mixtures may exhibit more complex  behavior. At a given water saturation, adding  alcohol 
+vapor may add mechanical resistance to hydration by  further deforming the  fluoropolymer matrix, shifting  
+the equilibrium toward lower water concentration. However, t hese mechanical considerations are 
+complicated  by the possible alcohol -induced matrix  plasticiz ation  and change in domain network 
+morphology . To assess these competing effects, Nafion was  exposed to controlled mixtures of water and 
+organic vapor. In these experiments, a water -saturated stream was balanced by an organic vapor -saturated 
+stream.  Figure 5(a) shows impact of  introduction of organic vapors  at a given water saturation  on Nafion’s  
+conductivity . As expected, alkanes did not significantly impact the water uptake or ionic conductivity of 
+water -swollen Nafion since their penetration was negligible.  Alcohols induced  large polarity -related differenc es in  Nafion  ionic conductivity at low  water 
+content which  became increasingly small as water content in creased , approaching the water -saturated ionic 
+conductivity . At low water content, the presence of alcohols increased  Nafion ’s ionic conductivity due to 
+the inherent conductivity of alcohol -swollen Nafion,  but this improvement was lost at intermediate and high 
+water  saturation. Alcohol -driven loss of conductivity  at intermediate water content  scaled sim ilarly to pure 
+sorbate systems ( 𝜅water ~ 𝜅Water+MeOH  > 𝜅 Water+EtOH  > 𝜅 Water+iPrOH ) which suggests appreciable uptake of these 
+alcohols in addition to water. Figure 5b shows ionic conductivity of Nafion swollen with organic vapor 
+alone (empty markers) and organic vapor balanced with water vapor (f illed markers). It is clear that  at 
+intermediate alcohol /water saturation, the conductivity generally fell between that of the pure sorbates 
+(water and alcohol)  suggesting both species are absorbed and contribute to the ionic conductivity.  In these 
+environ ments, ion conduction is governed by the same physical considerations as in single -sorbate 
+environments ( i.e., the shape  and tortuosity of ionomer domains and the mobility and concentration of 
+protons within those domains) . Similar observations were recent ly reported for cation -exchanged PFSI; 
+Cerium doping was shown to impact ionomer conductivity by reducing proton concentration and mobility 
+as well as increasing tortuosity of the overall domain structure46. Mixed ionomer -sorbate systems may 
+exhibit  additional  complexity due to the unknown composition of the sorbate mixture  inside the ionomer 
+domains .  
+ 
+Figure 5: (a) Ionic conductivity of Nafion swollen with water alone (bl ack squares) and  with various organ ic species. 
+While nonpolar alkanes had minimal impact on the ionic conductivity, alcohols imparted high conductivity at low 
+water saturation (high organic saturation)  but approached the conductivity of water -swollen Nafion at higher water 
+saturation  (low organic saturation) . (b) Ionic conductivity of Nafion swollen with organics alone (empty markers) and 
+organic vapor balanced with water vapor (filled markers). Ionic conductivity of alcohol - and water - swollen Nafion 
+was generally between that of the pure s orbate cases, indicated uptake and influence of both species on the ionomer 
+conductivity.  
+Sorbate mixture composition was quantitatively determined by ATR -FTIR using a linear regression 
+trained with water -saturated and organic -saturated Nafion FTIR spectra  to determine the relative 
+contributions of each  sorbate . Figure 6 shows sorbate uptake isotherms of alcohol in Nafion in mixed - and 
+single - sorbate environments , with consistently higher alcohol uptake in Nafion with the presence of water . 
+This complement ary behavior points to differences in how the chemical species interact with and swell 
+Nafion;  swelling in Nafion at a given water activity is generally constrained by the fluoropolymer resistance 
+to mechanical deformation.  As observed in pure -sorbate envi ronments, a lcohols may interact with the 
+perfluoroether chains and soften the water/fluoropolymer interface  while  reducing the matrix stress and 
+allowing for higher total sorbate uptake than in a single -sorbate environment at the same chemical activity. 
+Alcohols can benefit from this by mixing with water in the ionomer regions and by partitioning across the 
+water/fluoropolymer interface . This would result in increased total swelling and possibly a non -uniform 
+distribution of alcohol and water within the ion omer domain structure. This possible distribution of sorbates 
+is also consistent with ionic conductivity results for mixed -sorbate Nafion which show conductivity higher 
+than alcohol alone as water contributes to a higher proton mobility  and produces more s trongly phase -
+separated ionomer domains . On the other hand, mixed -sorbate -swollen Nafion conductivity was  lower than 
+water -swollen Nafion  as alcohols in the ionomer domains increase local viscosity and their partitioning 
+across the water/fluoropolymer inte rface would alter the domain structure and increase side chain 
+penetration into the water -rich domains.   
+Figure 6: Molar uptake of organic sorbates with water (filled markers , solid lines ) and without water (empty markers , 
+dashed lines ) determined by regression of ATR -FTIR spectra . Overall, mixed -sorbate systems with alcohol exhibited 
+higher molar uptake than single -sorbate systems, with much of the increase attributed to additional alcohol uptak e.  
+The impacts of mixed -sorbate environme nts on Nafion’s phase -separated nanomorp hology were 
+investigated by SAXS of Nafion equilibrated with mixed vapor saturated with water and an organic species.  
+SAXS profiles are shown in Figure 7 and reveal a well -defined ionomer peak with alkane/water mixtures 
+closely resembling the spectra of water -equilibrated Nafion. Negligible uptake of alkanes resulted in similar 
+Nafion nanostructure, swelling, and conductivity to Nafion with water alone . Alcohol/water mixtures show 
+an ionomer pea k shifted to lower scattering vector q (larger domain spacing) than water alone and with 
+greater intensity/sharpness than alcohol alone. Increased total sorbate uptake for mixed sorbate systems is 
+expected to produce larger domain spacing, so this does not  necessarily indicate a change in the way 
+water/alcohol are partitioned  as was observed in the pure sorbates (i.e., no change in m can be resolved). 
+However, the matrix knee is notably absent from isopropanol/water - and ethanol/water Nafion, suggesting 
+the role of the alcohol in altering  the distribution of cry stallites in pure solv ents persists in the presence of 
+water.  SAXS p rofiles  suggest that  mixed water -alcohol environment s preserve the overall domain structure 
+of water -swollen Nafion but with larger interdomain spacing enabled by  matrix plasticization , disruption 
+of inter -crystalline order,  and/or distribution  of alcohol across the water/fluoropolymer interface . Water 
+appea rs to play a critical role in ionomer network  formation , confirming  the orders -of-magnitude increase 
+in Nafion ionic conductivity at a given organic saturation upon introduction of water (Figure 5b).  
+ 
+Figure 7: SAXS profiles of Nafion  equilibrated with s aturated water vapor and saturated methanol ( teal triangles ), 
+ethanol (orange circles ), isopropanol ( purple  diamonds ), hexane ( pink right arrows ), heptane ( green  left arrows), and 
+octane ( yellow hexagrams ). Profiles of Nafion dry (dashed line) and equilibrated with water vapor only (solid line) 
+are included for reference.  
+Conclusions  
+The findings presented here show that  the well -established hydration -structure -property 
+relationships are fundamentally different in Nafion when swollen with organic so rbates. In organic -swollen 
+Nafion , the sorbate polarity plays a key role in determining the bulk swelling and ionomer domain structure 
+likely based on the solvation tendencies of the sorbate towards the fluoropolymer. In general, more polar 
+solvents produc ed larger ionomer domains at lower sorbate content and yielded a higher conductivity 
+ionomer. In the presence of water and organic species, water play s a crucial role in the ionomer network 
+formation while alcohols may aid bulk and ionomer -domain swelling by penetrating across the 
+fluoropolymer/water interface.  Alkanes showed almost no sorption and therefore minimal impact on ionic 
+conductivity or domain structure regardless of the water content. These results point to  fundamental 
+physical relationships bet ween sorbate polarity, ionomer nanostructure,  and key ionomer performance 
+metrics  which may limit the applicability of PFSAs for electrochemical systems employing alcohols and 
+other polar organic species , while also providing guidance for design of differe nt ionomer -solvent systems 
+for applications  involving electro -organic reactions . 
+Materials  
+Nafion 117 and Nafion D2021 were purchased from The Fuel Cell Store (College Station, TX). All 
+other chemicals were purchased from Sigma -Aldrich , Inc. (St. Louis, MO).  
+Experimental  
+Concise experimental information is included here.  A full expanded description of all experimental 
+procedures and calculations can be found in the supporting information.  
+For ionic conductivity and sorbate uptake experiments, sorbate satu ration was controlled by mixing  
+dry and sorbate -saturated nitrogen streams at controlled flow rates. The sorbate -saturated stream was 
+generated by flowing nitrogen through a midget impinger bubbler (Ace Glass) filled with the species of 
+interest. The sorba te saturation  𝑠𝐴 can be approximated as :  
+ 𝑠𝐴=𝑣𝑎̇
+𝑣𝑎̇+ 𝑣̇0 (Equation 1)  
+where 𝑣𝑎̇ and 𝑣̇0 are the flow rate s of sorbate -saturated and dry nitrogen, respectively. The total flow rate 
+was maintained at 200 sccm.  For mixed sorbate (i.e., organic and water) experiments, the nitrogen stream 
+was replaced with a water -saturated stream and saturation of each species was determined as described 
+above, assuming no interaction between sorbates in the vapor phase.  
+Sorbate  Uptake  
+ATR -FTIR spectra  were collected with a Nicolet 6700 FTIR from Thermo Scientific with Smart 
+iTR attachment and ZnSe single -pass crystal (Thermo Electron North America, West Palm Beach, FL) as 
+the average of 50 spectra collected from 650 – 4000 cm-1. After background collec tion under nitrogen flow, 
+Nafion films were drop -cast on the crystal from Nafion 2021 to produce a film with thickness > 200 μm, 
+much greater than the expected light penetration depth into Nafion (on the order of 1 μm, dependent on the 
+light wavelength and  Nafion refractive index). After drying films at ambient conditions for 30 min and 
+under vacuum for 2 hours, residual alcohol was detected in the ATR -FTIR spectra that persisted under vacuum and/or nitrogen flow. This residual alcohol was fully removed by rehydrating the films with 
+deionized water for 20 min and then drying again under vacuum. After the final drying step, the ATR crystal 
+was loaded into the FTIR in a custom -built PTFE cell with flow inlet and outlet.  At each saturation setpoint, 
+ATR -FTIR sp ectra were collected periodically until the difference in absorption at a given wavenumber 
+deviated by less than 1% over a 30 -minute interval.  Plotted points represent final measured values.  
+Sorbate uptake at intermediate (between 0 and 1) vapor saturation  was estimated by linear 
+regression of the as -saturated Nafion ATR -FTIR spectrum to the dry and fully saturated spectra. Relative 
+uptake of sorbate A ( 𝑋𝐴) was defined as the dependent variable and the measured absorbance at each 
+wavenumber 𝐴𝑗, where su bscript 𝑗 is the index for each  wavenumber,  as the independent variable. 12,238 
+wavenumbers  were evaluated in the range 3600 to 650 cm-1. Relative sorbate uptake 𝑋𝐴 was defined as  
+ 
+𝑋𝐴=𝑎+∑ 𝑏𝑗𝐴𝑗12238
+𝑗=1 (Equation 2)  
+where 𝑏𝑗 is a weighted fitting parameter describing the sensitivity of 𝐴𝑗 to sorbate A saturation at the 𝑗𝑡ℎ 
+wavenumber, and 𝑎 is an additional fitting parameter . Mass fraction of sorbate i n the ionomer was 
+calculated as  
+ 𝑚𝐴=𝑋𝐴(∆𝑀
+𝑀𝑑𝑟𝑦+∆𝑀) (Equation 3) 
+where 𝑚𝐴 is the mass fraction of species A and 𝑀𝑑𝑟𝑦 and ∆𝑀 are the initial (dry) mass and mass uptake of 
+sorbate, respectively, determined by gravimetric dynamic vapor sorption.  This method offers several key 
+advantages over traditional absorbance -based analys is techniques  (i.e. Beer’ s Law at a fixed wavenumber 
+or linear combination of the absorbance spectra of individual components) as it  (i) accounts for changes in 
+Nafion and s orbate spectra upon mixing ( ii) uses the entire absorbance range and (iii) enables simple 
+analysis of multi -sorbate mixtures . In cases with multiple sorbates, a multi -target linear regression was 
+performed using the spectra of dry Nafion and Nafion saturat ed with each sorbate.  Relative uptake 𝑋𝑖 of 
+each sorbate was estimated as   
+𝑋𝑖=𝑎𝑖+∑ 𝑏𝑖𝑗𝐴𝑗12238
+𝑗=1 (Equation 4)  
+where subscript 𝑖 denotes the sorbate. The linear regression was performed using  Scikit -learn in Python47. 
+Demonstration of ATR -FTIR and regression results for methanol -equilibrated Nafion can be found in the 
+supporting information.  
+Ionic Conductivity  
+Nafion ionic conductivity was measured using a BT -110 four probe in -plane membrane 
+conductivity clamp (Scribner Associates, Inc., Southern Pines, NC). A strip of Nafion 117 was cut to a 
+width ~ 1 cm and long enough to completely cover two platinum -gauze force leads (2.5 cm). Membrane 
+width was measured from photographs of the membrane in ImageJ by le ngth-calibrated pixel count, with 
+at least 20 measurements per membrane. Dry thickness of Nafion 117 is reported as 183 μm and was verified 
+by micrometer measurement prior to affixing in the conductivity clamp. The conductivity clamp was placed 
+in a vented  environmental chamber with flow inlet.  
+Sorbate saturation  was incremented  from 0 to 1 in steps of 0.125. The membrane was equilibrated 
+at each step for 2 hours or until the difference in cond uctivity values deviated by less than 0.1% over a 10 -
+min interva l. Mixed -sorbate experiments were started at full organic saturation (water saturation of 0) and 
+the organic saturation was decremented as the water saturation was incremented.   
+Conductivity was determined by linear -sweep voltammetry from -0.1 to 0.1 V at a sweep rate of 
+20 mV s-1. Cell resistance R was determined from the slope of the LSV trace and conductivity was calculated 
+as 
+ 𝜅=𝐿
+𝑅𝑤𝑡 (Equation 5) Where L is the distance between the counter - and working - sense leads, R is the cell resistance, and w and 
+t are the width and thickness of the dry membrane scaled by the linear swelling 𝜀 at the given saturation 
+step 
+ 𝜀=𝑠𝐴(1+ ∆𝑉
+𝑉𝑑𝑟𝑦)1
+3 (Equation 6) 
+where ∆𝑉
+𝑉𝑑𝑟𝑦 is the volumetric expansion of Nafion 117 saturated with sorbate A as determined  by ATR -
+FTIR regression at the same saturati on. Conductivity was measured every 10 minutes during vapor 
+equilibration until the deviation between measurements was less than 0.1%.  
+Small Angle X -Ray Scattering  
+SAXS measurements were performed at beamline 7.3 .3 of the Advanced Light Source at Lawrence 
+Berkeley National Lab. The X -ray energy was 10 keV with a monochromator resolution E/dE of 100. 
+Scattering patterns were acquired with a 2D Dectris Pilatus 1M CCD area detector (172 µm x 172 µm pixel 
+size).  The scattering wave vector, 𝑞=4𝜋sin(𝜃
+2)/𝜆, where θ is the scattering angle, was in the range of 
+0.004 to 0. 4 Å-1. Experiments were conducted in-situ by equilibrating  the membrane samples in liquid or 
+in vapor using custom -designed sealed sample holders w ith X -ray transparent KaptonTM windows for 
+imaging. For liquid -equilibrated experiments, circular membrane samples were completely immersed in 
+the holder filled with liquid (water or alcohol). Vapor -equilibr ation  of the sample s was accomplished using 
+seale d holders containing a controlled mixture of water and solvent in the solution reservoir.  For each 
+equilibrium method, samples were equilibrated for at least 2 hours and SAXS images for vapor - and liquid -
+equilibrated samples were collected in-situ with an exposur e time of 20 seconds. The collected two -
+dimensional scattering patterns were azimuthally integrated to generate 1 -D intensity profiles, I(q), which 
+were corrected for background scattering. From the SAXS data, hydrophilic -domain spacing and full -width 
+at half-maximum  (FWHM ), were calculat ed using a Gaussian fit to the ionomer scattering peak .  
+Supporting Information  Sorbate Mass, Molar, and Volume Uptake . ATR -FTIR Spectra Collection . ATR -FTIR Spectral 
+Regression . Ionic Conductivity . Small Angle X -Ray Scattering . 
+Acknowledgements  
+A. Kusoglu  acknowledge s the funding from the U.S. Department of Energy Hydrogen and Fuel Cell 
+Technologies Office  (HFTO)  (Contract No. DE -AC02 -05CH11231).  This work also made use of facilities 
+at the Advanced Light Source Beamline 7.3.3, supported by the Office of Science, Office of Basic Energy 
+Sciences, of the U.S. Department of Energy (Contract No. DE -AC02 -05CH11231).  The authors would like 
+to acknowledge the financial support  of the National Science Foundation and  NYU T andon School of 
+Engineering through M. A. M. startup fund.  This material is based upon work supported by the National 
+Science Foundation under Grant No. 1943972.  
+Author Information  
++present address: Lawrence Berkeley National Laboratory, Berkeley, CA 94720  
+References  
+(1)  Mauritz, K. A.; Moore, R. B. State of Understanding of Nafion. Chem. Rev.  2004 , 104 (10), 4535 –
+4585. https://doi.org/10.1021/cr0207123.  
+(2)  Kusoglu, A.; Weber, A. Z. New Insights into Perfluori nated Sulfonic -Acid Ionomers. Chem. Rev.  
+2017 , 117 (3), 987 –1104. https://doi.org/10.1021/acs.chemrev.6b00159.  
+(3)  Ayers, K.; Danilovic, N.; Ouimet, R.; Carmo, M.; Pivovar, B.; Bornstein, M. Perspectives on 
+Low-Temperature Electrolysis and Potential for R enewable Hydrogen at Scale. Annu. Rev. Chem. 
+Biomol. Eng.  2019 , 10, 219 –239. https://doi.org/10.1146/annurev -chembioeng -060718 -030241.  
+(4)  Kushner, D. I.; Crothers, A. R.; Kusoglu, A.; Weber, A. Z. Transport Phenomena in Flow Battery 
+Ion-Conducting Membra nes. Curr. Opin. Electrochem.  2020 , 21, 132 –139. 
+(5)  Allen, F. I.; Comolli, L. R.; Kusoglu, A.; Modestino, M. A.; Minor, A. M.; Weber, A. Z. 
+Morphology of Hydrated As -Cast Nafion Revealed through Cryo Electron Tomography. ACS 
+Macro Lett.  2015 , 4 (1), 1 –5. https://doi.org/10.1021/mz500606h.  
+(6)  Grot, W. Discovery and Development of Nafion Perfluorinated Membranes. Chem. Ind.  1985 , 
+647–649. 
+(7)  Grot, W. G. Polymerization of Fluorinated Copolymers. 5,281,680, 1994.  
+(8)  Hahn, C.; Jaramillo, T. F.; Weber, A.  Z.; Higgins, D.; Xiang, C. Gas -Diffusion Electrodes for 
+Carbon Dioxide Reduction: A New Paradigm. ACS Energy Lett.  2019 , 4, 317 –324. 
+https://doi.org/10.1021/acsenergylett.8b02035.  
+(9)  Pătru, A.; Binninger, T.; Pribyl, B.; Schmidt, T. J. Design Principles  of Bipolar Electrochemical Co-Electrolysis Cells for Efficient Reduction of Carbon Dioxide from Gas Phase at Low 
+Temperature. J. Electrochem. Soc.  2019 , 166 (2), F34 –F43. https://doi.org/10.1149/2.1221816jes.  
+(10)  Weekes, D. M.; Salvatore, D. A.; Reyes, A.; Huang, A.; Berlinguette, C. P. Electrolytic CO2 
+Reduction in a Flow Cell. Acc. Chem. Res.  2018 , 51, 910 –918. 
+https://doi.org/10.1021/acs.accounts.8b00010.  
+(11)  Verma, S.; Lu, S.; Kenis, P. J. A. Co -Electrolysis of CO2 and Glycerol as a Pathway to Carbon 
+Chemicals with Improved Technoeconomics Due to Low Electricity Consumption. Nat. Energy  
+2019 , 4 (June), 466 –474. https://doi.org/10.1038/s41560 -019-0374 -6. 
+(12)  Wasmus, S.; Kuver, A. Methanol Oxidation and Direct  Methanol Fuel Cells : A Selective Review. 
+J. Electroanal. Chem.  1999 , 461, 14–31. 
+(13)  Neburchilov, V.; Martin, J.; Wang, H.; Zhang, J. A Review of Polymer Electrolyte Membranes for 
+Direct Methanol Fuel Cells. J. Power Sources  2007 , 169, 221 –238. 
+https:/ /doi.org/10.1016/j.jpowsour.2007.03.044.  
+(14)  Jorissen, L.; Gogel, V.; Kerres, J.; Garche, J. New Membranes for Direct Methanol Fuel Cells. J. 
+Power Sources  2002 , 105, 267 –273. 
+(15)  Blanco, D. E.; Prasad, P. A.; Dunningan, K.; Modestino, M. A. Insights i nto Membrane -Separated 
+Organic Electrosynthesis: The Case of Adiponitrile Electrochemical Production. React. Chem. 
+Eng. 2020 , 5 (1), 136 –144. https://doi.org/10.1039/c9re00389d.  
+(16)  Jing, Y.; Wu, M.; Wong, A. A.; Fell, E. M.; Jin, S.; Pollack, D. A.; Ker r, E. F.; Gordon, R. G.; 
+Aziz, M. J. In Situ Electrosynthesis of Anthraquinone Electrolytes in Aqueous Flow Batteries. 
+Green Chem.  2020 , 22, 6084 –6092. https://doi.org/10.1039/d0gc02236e.  
+(17)  Pletcher, D.; Green, R. A.; Brown, R. C. D. Flow Electrolysis Cells for the Synthetic Organic 
+Chemistry. Chem. Rev.  2018 , 118, 4573 –4591. https://doi.org/10.1021/acs.chemrev.7b00360.  
+(18)  Voskian, S.; Hatton, T. A. Faradaic Electro -Swing Reactive Adsorption for CO2 Capture. Energy 
+Environ. Sci.  2019 , 12 (12), 3530 –3547. https://doi.org/10.1039/c9ee02412c.  
+(19)  Kusoglu, A.; Savagatrup, S.; Clark, K. T.; Weber, A. Z. Role of Mechanical Factors in Controlling 
+the Structure -Function Relationship of PFSA Ionomers. Macromolecules  2012 , 45 (18), 7467 –
+7476. https://doi.org/10.1021/ma301419s.  
+(20)  Zhao, Q.; Carro, N.; Ryu, H. Y.; Benziger, J. Sorption and Transport of Methanol and Ethanol in 
+H+-Nafion. Polymer (Guildf).  2012 , 53, 1267 –1276. 
+https://doi.org/10.1016/j.polymer.2012.01.050.  
+(21)  Saito, M.; Tsuzuki, S.; Hayamizu, K.; Okada, T. Alcohol and Proton Transport in Perfluorinated 
+Ionomer Membranes for Fuel Cells. J. Phys. Chem. B  2006 , 110 (48), 24410 –24417. 
+https://doi.org/10.1021/jp0643496.  
+(22)  Berens, S. J.; Yahya, A.; Fang, J.; An gelopoulos, A.; Nickels, J. D.; Vasenkov, S. Transition 
+between Different Diffusion Regimes and Its Relationship with Structural Properties in Nafion by 
+High Field Diffusion NMR in Combination with Small -Angle X‑ray and Neutron Scattering. J. 
+Phys. Chem. B  2020 , 124, 8943 –8950. https://doi.org/10.1021/acs.jpcb.0c07249.  
+(23)  Randová, A.; Bartovská, L.; Hovorka, Š.; Friess, K.; Izák, P. The Membranes (Nafion and LDPE) 
+in Binary Liquid Mixtures Benzene + Methanol - Sorption and Swelling. Eur. Polym. J.  2009 , 45 
+(10), 2895 –2901. https://doi.org/10.1016/j.eurpolymj.2009.06.023.  (24)  Welch, C.; Labouriau, A.; Hjelm, R.; Orler, B.; Johnston, C.; Kim, Y. S. Nafion in Dilute Solvent 
+Systems: Dispersion or Solution? ACS Macro Lett.  2012 , 1 (12), 1403 –1407. 
+https://d oi.org/10.1021/mz3005204.  
+(25)  Abroshan, H.; Akbarzadeh, H.; Taherkhani, F. Effect of Water – Methanol Content on the 
+Structure of Nafion in the Sandwich Model and Solvent Dynamics in Nano -Channels ; a 
+Molecular Dynamics Study. 2011 , 8976 . https://doi.org /10.1080/00268976.2010.549846.  
+(26)  Zhao, Q.; Carro, N.; Ryu, H. Y.; Benziger, J. Sorption and Transport of Methanol and Ethanol in 
+H+ -Nafion. Polymer (Guildf).  2012 , 53, 1267 –1276. 
+https://doi.org/10.1016/j.polymer.2012.01.050.  
+(27)  Hallinan, D. T.; El abd, Y. A. Diffusion and Sorption of Methanol and Water in Nafion Using 
+Time -Resolved Fourier Transform Infrared - Attenuated Total Reflectance Spectroscopy. J. Phys. 
+Chem. B  2007 , 111, 13221 –13230. https://doi.org/10.1021/jp075178n.  
+(28)  Affoune, A. M.; Yamada, A.; Umeda, M. Conductivity and Surface Morphology of Nafion 
+Membrane in Water and Alcohol Environments. J. Power Sources  2005 , 148 (1–2), 9–17. 
+https://doi.org/10.1016/j.jpowsour.2005.01.039.  
+(29)  Jung, B.; Moon, H.; Nathaniel, G.; Baro, B. Effect  of Methanol on Plasticization and Transport 
+Properties of a Perfluorosulfonic Ion -Exchange Membrane. 2011 , 196, 1880 –1885. 
+https://doi.org/10.1016/j.jpowsour.2010.09.030.  
+(30)  Kreuer, K. D.; Portale, G. A Critical Revision of the Nano -Morphology of Proton Conducting 
+Ionomers and Polyelectrolytes for Fuel Cell Applications. Adv. Funct. Mater.  2013 , 23 (43), 5390 –
+5397. https://doi.org/10.1002/adfm.201300376.  
+(31)  Hickner, M. A. W ater-Mediated Transport in Ion -Containing Polymers. J. Polym. Sci. Part B 
+Polym. Phys.  2012 , 50 (1), 9 –20. https://doi.org/10.1002/polb.22381.  
+(32)  Rollet, A. L.; Diat, O.; Gebel, G. A New Insight into Nafion Structure. J. Phys. Chem. B  2002 , 106 
+(12), 30 33–3036. https://doi.org/10.1021/jp020245t.  
+(33)  Schmidt -Rohr, K.; Chen, Q. Parallel Cylindrical Water Nanochannels in Nafion Fuel -Cell 
+Membranes. Mater. Sustain. Energy A Collect. Peer -Reviewed Res. Rev. Artic. from Nat. Publ. Gr.  
+2010 , 238 –246. https:// doi.org/10.1142/9789814317665_0033.  
+(34)  Gierke, T. D.; Munn, G. E.; Wilson, F. C. The Morphology in Nafion Perfluorinated Membrane 
+Products, as Determined by Wide - and Small -Angle x -Ray Studies. J. Polym. Sci. Polym. Phys. 
+Ed. 1981 , 19 (11), 1687 –1704. h ttps://doi.org/10.1002/pol.1981.180191103.  
+(35)  Hsu, W. Y.; Gierke, T. D. Ion Transport and Clustering in Nafion Perfluorinated Membranes. J. 
+Memb. Sci.  1983 , 13 (3), 307 –326. https://doi.org/10.1016/S0376 -7388(00)81563 -X. 
+(36)  Gebel, G.; Lambard, J. Sma ll-Angle Scattering Study of Water -Swollen Perfluorinated Ionomer 
+Membranes. Macromolecules  1997 , 30 (25), 7914 –7920. https://doi.org/10.1021/ma970801v.  
+(37)  Kusoglu, A.; Modestino, M. A.; Hexemer, A.; Segalman, R. A.; Weber, A. Z. Subsecond 
+Morphological  Changes in Nafion during Water Uptake Detected by Small -Angle X -Ray 
+Scattering. ACS Macro Lett.  2012 , 1 (1), 33 –36. https://doi.org/10.1021/mz200015c.  
+(38)  Roche, E. J.; Pineri, M.; Duplessix, R. Phase Separation in Perfluorosulfonate Ionomer 
+Membranes. J. Polym. Sci. Part A -2, Polym. Phys.  1982 , 20 (1), 107 –116. 
+https://doi.org/10.1002/pol.1982.180200109.  (39)  Fujimura, M.; Hashimoto, T.; Kawai, H. Small -Angle X -Ray Scattering Study of Perfluorinated 
+Ionomer Membranes. 2. Models for Ionic Scattering Max imum. Macromolecules  1982 , 15 (1), 
+136–144. https://doi.org/10.1021/ma00229a028.  
+(40)  Su, G. M.; Cordova, I. A.; Yandrasits, M. A.; Lindell, M.; Feng, J.; Wang, C.; Kusoglu, A. 
+Chemical and Morphological Origins of Improved Ion Conductivity in Perfluoro Ionene Chain 
+Extended Ionomers. J. Am. Chem. Soc.  2019 , 141 (34), 13547 –13561. 
+https://d oi.org/10.1021/jacs.9b05322.  
+(41)  Berrod, Q.; Lyonnard, S.; Guillermo, A.; Ollivier, J.; Frick, B.; Manseri, A.; Améduri, B.; Gébel, 
+G. Nanostructure and Transport Properties of Proton Conducting Self -Assembled Perfluorinated 
+Surfactants: A Bottom -Up Appr oach toward PFSA Fuel Cell Membranes. Macromolecules  2015 , 
+48 (17), 6166 –6176. https://doi.org/10.1021/acs.macromol.5b00770.  
+(42)  Loppinet, B.; Gebel, G.; Williams, C. E. Small -Angle Scattering Study of Perfluorosulfonated 
+Ionomer Solutions. J. Phys. Chem . B 1997 , 101 (10), 1884 –1892. 
+https://doi.org/10.1021/jp9623047.  
+(43)  Rivin, D.; Kendrick, C. E.; Gibson, P. W.; Schneider, N. S. Solubility and Transport Behavior of 
+Water and Alcohols in Nafion. Polymer (Guildf).  2001 , 42, 623 –635. 
+(44)  Gebel, G.; Ald ebert, P.; Pineri, M. Swelling Study of Perfluorosulphonated Ionomer Membranes. 
+Polymer (Guildf).  1993 , 34 (2), 333 –339. https://doi.org/10.1016/0032 -3861(93)90086 -P. 
+(45)  Blanco, D. E.; Modestino, M. A. Organic Electrosynthesis for Sustainable Chemical 
+Manufacturing. Trends Chem.  2019 , 1 (1), 8 –10. https://doi.org/10.1016/j.trechm.2019.01.001.  
+(46)  Baker, A. M.; Crothers, A. R.; Chintam, K.; Luo, X.; Weber, A. Z.; Borup, R . L.; Kusoglu, A. 
+Morphology and Transport of Multivalent Cation -Exchanged Ionomer Membranes Using 
+Perfluorosulfonic Acid –CeZ+ as a Model System. ACS Appl. Polym. Mater.  2020 , 2 (8), 3642 –
+3656. https://doi.org/10.1021/acsapm.0c00633.  
+(47)  Pedregosa, F.; V aroquaux, G.; Gramfort, A.; Michel, V.; Thirion, B.; Grisel, O.; Blondel, M.; 
+Prettenhofer, P.; Weiss, R.; Dubourg, V.; et al. Scikit -Learn: Machine Learning in Python. J. 
+Mach. Learn. Res.  2011 , 12, 2825 –2830.  
+ 
+ 
+ 

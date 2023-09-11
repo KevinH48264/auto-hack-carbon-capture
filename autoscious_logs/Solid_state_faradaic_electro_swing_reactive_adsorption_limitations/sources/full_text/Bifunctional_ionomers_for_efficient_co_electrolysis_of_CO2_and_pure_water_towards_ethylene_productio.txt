@@ -1,0 +1,259 @@
+Bifunctional ionomers for efficient co-electrolysis of CO2 and pure water towards ethylene production at industrial-scale current densities
+https://www.nature.com/articles/s41560-022-01092-9
+We use cookies to make sure that our website works properly, as well as some optional cookies to personalise content and advertising, provide social media features and analyse how people use our site. By accepting some or all optional cookies you give consent to the processing of your personal data, including transfer to third parties, some in countries outside of the European Economic Area that do not offer the same data protection standards as the country where you live. You can decide which optional cookies to accept by clicking on "Manage preferences", where you can also find more information about how your personal data is processed.
+Further information can be found in our privacy policy.
+Accept all cookies
+Manage preferences
+Skip to main content
+Thank you for visiting nature.com. You are using a browser version with limited support for CSS. To obtain
+the best experience, we recommend you use a more up to date browser (or turn off compatibility mode in
+Internet Explorer). In the meantime, to ensure continued support, we are displaying the site without styles
+and JavaScript.
+Advertisement
+nature
+nature energy
+articles
+article
+AbstractMany CO2 electrolysers under development use liquid electrolytes (KOH solutions, for example), yet using solid-state polymer electrolytes can in principle improve efficiency and realize co-electrolysis of CO2 and pure water, avoiding corrosion and electrolyte consumption issues. However, a key challenge in these systems is how to favour production of multicarbon molecules, such as ethylene, which typically necessitates a strong alkaline environment. Here we use bifunctional ionomers as polymer electrolytes that are not only ionically conductive but can also activate CO2 at the catalyst–electrolyte interface and favour ethylene synthesis, while running on pure water. Specifically, we use quaternary ammonia poly(ether ether ketone) (QAPEEK), which contains carbonyl groups in the polymer chain, as the bifunctional electrolyte. An electrolyser running on CO2 and pure water exhibits a total current density of 1,000 mA cm−2 at cell voltages as low as 3.73 V. At 3.54 V, ethylene is produced with the industrial-scale partial current density of 420 mA cm−2 without any electrolyte consumption.
+Access through your institution
+Buy or subscribe
+This is a preview of subscription content, access via your institution
+Access options
+Access through your institution
+Access through your institution
+Change institution
+Buy or subscribe
+Access Nature and 54 other Nature Portfolio journalsGet Nature+, our best-value online-access subscription$29.99 / 30 dayscancel any timeLearn moreSubscribe to this journalReceive 12 digital issues and online access to articles$119.00 per yearonly $9.92 per issueLearn moreRent or buy this articlePrices vary by article typefrom$1.95to$39.95Learn morePrices may be subject to local taxes which are calculated during checkout
+Additional access options:
+Log in
+Learn about institutional subscriptions
+Read our FAQs
+Contact customer support
+Fig. 1: MEA electrolyser with 0.1 M KHCO3 anolyte.Fig. 2: MEA electrolyser operated with pure water.Fig. 3: Effects of ionomer coating on Cu surface towards the CO2RR.Fig. 4: Synergetic catalytic mechanism of QAPEEK.Fig. 5: MEA electrolysers with Cu-ionomer GDEs.Fig. 6: MEA electrolyser using porous Cu–QAPEEK GDE.
+Data availability
+All data supporting the findings of this study are available within the paper and Supplementary Information files.
+ReferencesOlah, G. A., Prakash, G. K. & Goeppert, A. Anthropogenic chemical carbon cycle for a sustainable future. J. Am. Chem. Soc. 133, 12881–12898 (2011).Article
+Google Scholar
+Bushuyev, O. S. et al. What should we make with CO2 and how can we make it? Joule 2, 825–832 (2018).Article
+Google Scholar
+Whipple, D. T. & Kenis, P. J. A. Prospects of CO2 utilization via direct heterogeneous electrochemical reduction. J. Phys. Chem. Lett. 1, 3451–3458 (2010).Article
+Google Scholar
+Qiao, J., Liu, Y., Hong, F. & Zhang, J. A review of catalysts for the electroreduction of carbon dioxide to produce low-carbon fuels. Chem. Soc. Rev. 43, 631–675 (2014).Article
+Google Scholar
+Ren, S. et al. Molecular electrocatalysts can mediate fast, selective CO2 reduction in a flow cell. Science 365, 367–369 (2019).Article
+Google Scholar
+Roberts, F. S., Kuhl, K. P. & Nilsson, A. High selectivity for ethylene from carbon dioxide reduction over copper nanocube electrocatalysts. Angew. Chem. Int. Ed. 127, 5268–5271 (2015).Article
+Google Scholar
+Loiudice, A. et al. Tailoring copper nanocrystals towards C2 products in electrochemical CO2 reduction. Angew. Chem. Int. Ed. 55, 5789–5792 (2016).Article
+Google Scholar
+Li, F. et al. Cooperative CO2-to-ethanol conversion via enriched intermediates at molecule–metal catalyst interfaces. Nat. Catal. 3, 75–82 (2019).Article
+Google Scholar
+Lee, S., Kim, D. & Lee, J. Electrocatalytic production of C3-C4 compounds by conversion of CO2 on a chloride-induced bi-phasic Cu2O-Cu catalyst. Angew. Chem. Int. Ed. 54, 14701–14705 (2015).Article
+Google Scholar
+Zheng, Y. et al. Understanding the roadmap for electrochemical reduction of CO2 to multi-carbon oxygenates and hydrocarbons on copper-based catalysts. J. Am. Chem. Soc. 141, 7646–7659 (2019).Article
+Google Scholar
+Perez-Gallent, E. F., Calle-Vallejo, M. C., Koper, F. & Spectroscopic, M. T. Observation of a hydrogenated CO dimer intermediate during CO reduction on Cu(100) electrodes. Angew. Chem. Int. Ed. 56, 3621–3624 (2017).Article
+Google Scholar
+Schouten, K. J. P., Gallent, E. P. & Koper, M. T. The influence of pH on the reduction of CO and CO2 to hydrocarbons on copper electrodes. J. Electroanal. Chem. 716, 53–57 (2014).Article
+Google Scholar
+Hasa, B., Jouny, M., Ko, B. H., Xu, B. & Jiao, F. Flow electrolyzer mass spectrometry with a gas-diffusion electrode design. Angew. Chem. Int. Ed. 60, 3277–3282 (2021).Article
+Google Scholar
+Xiao, H., Goddard, W. A., Cheng, T. & Liu, Y. Cu metal embedded in oxidized matrix catalyst to promote CO2 activation and CO dimerization for electrochemical reduction of CO2. Proc. Natl Acad. Sci. USA 114, 6685–6688 (2017).Article
+Google Scholar
+Zhong, M. et al. Accelerated discovery of CO2 electrocatalysts using active machine learning. Nature 581, 178–183 (2020).Article
+Google Scholar
+Mistry, H. et al. Highly selective plasma-activated copper catalysts for carbon dioxide reduction to ethylene. Nat. Commun. 7, 12123 (2016).Article
+Google Scholar
+Ozden, A. et al. High-rate and efficient ethylene electrosynthesis using a catalyst/promoter/transport layer. ACS Energy Lett. 5, 2811–2818 (2020).Article
+Google Scholar
+Kim, C. et al. Tailored catalyst microenvironments for CO2 electroreduction to multicarbon products on copper using bilayer ionomer coatings. Nat. Energy 6, 1026–1034 (2021).Article
+Google Scholar
+Wagner, A., Sahm, C. D. & Reisner, E. Towards molecular understanding of local chemical environment effects in electro-and photocatalytic CO2 reduction. Nat. Catal. 3, 775–786 (2020).Article
+Google Scholar
+Gabardo, C. M. et al. Continuous carbon dioxide electroreduction to concentrated multi-carbon products using a membrane electrode assembly. Joule 3, 2777–2791 (2019).Article
+Google Scholar
+Yan, Z., Hitt, J. L., Zeng, Z., Hickner, M. A. & Mallouk, T. E. Improving the efficiency of CO2 electrolysis by using a bipolar membrane with a weak-acid cation exchange layer. Nat. Chem. 13, 33–40 (2021).Article
+Google Scholar
+Dinh, C.-T. et al. CO2 electroreduction to ethylene via hydroxide-mediated copper catalysis at an abrupt interface. Science 360, 783–787 (2018).Article
+Google Scholar
+Weekes, D. M., Salvatore, D. A., Reyes, A., Huang, A. & Berlinguette, C. P. Electrolytic CO2 reduction in a flow cell. Acc. Chem. Res. 51, 910–918 (2018).Article
+Google Scholar
+Nguyen, T. N. & Dinh, C. T. Gas diffusion electrode design for electrochemical carbon dioxide reduction. Chem. Soc. Rev. 49, 7488–7504 (2020).Article
+Google Scholar
+De Arquer, F. P. G. et al. CO2 electrolysis to multicarbon products at activities greater than 1 A cm-2. Science 367, 661–666 (2020).Article
+Google Scholar
+Endrodi, B. et al. Operando cathode activation with alkali metal cations for high current density operation of water-fed zero-gap carbon dioxide electrolyzers. Nat. Energy 6, 439–448 (2021).Article
+Google Scholar
+Xu, Y. et al. Self-cleaning CO2 reduction systems: unsteady electrochemical forcing enables stability. ACS Energy Lett. 6, 809–815 (2021).Article
+Google Scholar
+Perry, M. L. & Fuller, T. F. A historical perspective of fuel cell technology in the 20th century. J. Electrochem. Soc. 149, S59 (2002).Article
+Google Scholar
+Babic, U., Suermann, M., Büchi, F. N., Gubler, L. & Schmidt, T. J. Critical review—identifying critical gaps for polymer electrolyte water electrolysis development. J. Electrochem. Soc. 164, F387–F399 (2017).Article
+Google Scholar
+Xiao, L. et al. First implementation of alkaline polymer electrolyte water electrolysis working only with pure water. Energy Environ. Sci. 5, 7869–7871 (2012).Article
+Google Scholar
+Li, D. et al. Highly quaternized polystyrene ionomers for high performance anion exchange membrane water electrolysers. Nat. Energy 5, 378–385 (2020).Article
+Google Scholar
+Lu, S., Pan, J., Huang, A., Zhuang, L. & Lu, J. Alkaline polymer electrolyte fuel cells completely free from noble metal catalysts. Proc. Natl Acad. Sci. USA 105, 20611–20614 (2008).Article
+Google Scholar
+Steele, B. C. & Heinzel, A. in Materials for Sustainable Energy: A Collection of Peer-Reviewed Research and Review Articles from Nature Publishing Group (ed. Dusastre, V.) 224–231 (World Scientific, 2011).Ge, L. et al. Electrochemical CO2 reduction in membrane-electrode assemblies. Chem. 8, 1–30 (2022).Article
+Google Scholar
+Monteiro, M. C. et al. Absence of CO2 electroreduction on copper, gold and silver electrodes without metal cations in solution. Nat. Catal. 4, 654–662 (2021).Article
+Google Scholar
+Ringe, S. et al. Understanding cation effects in electrochemical CO2 reduction. Energy Environ. Sci. 12, 3001–3014 (2019).Article
+Google Scholar
+Zhang, F. & Co, A. C. Direct evidence of local pH change and the role of alkali cation during CO2 electroreduction in aqueous media. Angew. Chem. Int. Ed. 59, 1674–1681 (2020).Article
+Google Scholar
+Yin, Z. et al. An alkaline polymer electrolyte CO2 electrolyzer operated with pure water. Energy Environ. Sci. 12, 2455–2462 (2019).Article
+Google Scholar
+Pătru, A., Binninger, T., Pribyl, B. & Schmidt, T. J. Design principles of bipolar electrochemical co-electrolysis cells for efficient reduction of carbon dioxide from gas phase at low temperature. J. Electrochem. Soc. 166, F34–F43 (2019).Article
+Google Scholar
+Hori, Y. I. in Modern Aspects of Electrochemistry (eds. Vayenas, C. G., White, R. E., & Gamboa-Aldeco, M. E.) 89–189 (Springer, 2008).Gao, D., Arán-Ais, R. M., Jeon, H. S. & Cuenya, B. R. Rational catalyst and electrolyte design for CO2 electroreduction towards multicarbon products. Nat. Catal. 2, 198–210 (2019).Article
+Google Scholar
+Peng, H. et al. Alkaline polymer electrolyte fuel cells stably working at 80 °C. J. Power Sources 390, 165–167 (2018).Article
+Google Scholar
+Li, Q. et al. The comparability of Pt to Pt-Ru in catalyzing the hydrogen oxidation reaction for alkaline polymer electrolyte fuel cells operated at 80 °C. Angew. Chem. Int. Ed. 58, 1442–1446 (2019).Article
+Google Scholar
+Gu, S. et al. A soluble and highly conductive ionomer for high-performance hydroxide exchange membrane fuel cells. Angew. Chem. Int. Ed. 48, 6499–6502 (2009).Article
+Google Scholar
+Nam, D. H. et al. Molecular enhancement of heterogeneous CO2 reduction. Nat. Mater. 19, 266–276 (2020).Article
+Google Scholar
+Sa, Y. J. et al. Catalyst-electrolyte interface chemistry for electrochemical CO2 reduction. Chem. Soc. Rev. 49, 6632–6665 (2020).Article
+Google Scholar
+Wei, X. et al. Highly selective reduction of CO2 to C2+ hydrocarbons at copper/polyaniline interfaces. ACS Catal. 10, 4103–4111 (2020).Article
+Google Scholar
+Li, F. et al. Molecular tuning of CO2-to-ethylene conversion. Nature 577, 509–513 (2019).Article
+Google Scholar
+Nelson, M. R. & Borkman, R. F. Ab initio calculations on CO2 binding to carbonyl groups. J. Phys. Chem. A 102, 7860–7863 (1998).Article
+Google Scholar
+Fried, J. & Li, W. High‐pressure FTIR studies of gas–polymer interactions. J. Appl. Polym. Sci. 41, 1123–1131 (1990).Article
+Google Scholar
+Voskian, S. & Hatton, T. A. Faradaic electro-swing reactive adsorption for CO2 capture. Energy Environ. Sci. 12, 3530–3547 (2019).Article
+Google Scholar
+Liu, Y., Ye, H. Z., Diederichsen, K. M., Van Voorhis, T. & Hatton, T. A. Electrochemically mediated carbon dioxide separation with quinone chemistry in salt-concentrated aqueous media. Nat. Commun. 11, 2278 (2020).Article
+Google Scholar
+Sandberg, R. B., Montoya, J. H., Chan, K. & Nørskov, J. K. CO-CO coupling on Cu facets: coverage, strain and field effects. Surf. Sci. 654, 56–62 (2016).Article
+Google Scholar
+Huang, Y., Handoko, A. D., Hirunsit, P. & Yeo, B. S. Electrochemical reduction of CO2 using copper single-crystal surfaces: effects of CO* coverage on the selective formation of ethylene. ACS Catal. 7, 1749–1756 (2017).Article
+Google Scholar
+Erlebacher, J., Aziz, M. J., Karma, A., Dimitrov, N. & Sieradzki, K. Evolution of nanoporosity in dealloying. Nature 410, 450–453 (2001).Article
+Google Scholar
+Wang, Y. et al. Catalyst synthesis under CO2 electroreduction favours faceting and promotes renewable fuels electrosynthesis. Nat. Catal. 3, 98–106 (2020).Article
+Google Scholar
+Aeshala, L., Uppaluri, R. & Verma, A. Uppaluri, R. & Verma, A. Effect of cationic and anionic solid polymer electrolyte on direct electrochemical reduction of gaseous CO2 to fuel. J. CO2 Util. 3, 49–55 2013)..Lee, J., Lim, J., Roh, C.-W., Whang, H. S. & Lee, H. Electrochemical CO2 reduction using alkaline membrane electrode assembly on various metal electrodes. J. CO2 Util. 31, 244–250 (2019)..Li, J. et al. Silica-copper catalyst interfaces enable carbon-carbon coupling towards ethylene electrosynthesis. Nat. Commun. 12, 2808 (2021).Article
+Google Scholar
+Huang, J. E. et al. CO2 electrolysis to multicarbon products in strong acid. Science 372, 1074–1078 (2021).Article
+Google Scholar
+Han, J. et al. Highly stable alkaline polymer electrolyte based on a poly(ether ether ketone) backbone. ACS Appl. Mater. Interfaces 5, 13405–13411 (2013).Article
+Google Scholar
+Zhu, S., Jiang, B., Cai, W. B. & Shao, M. Direct observation on reaction intermediates and the role of bicarbonate anions in CO2 electrochemical reduction reaction on Cu surfaces. J. Am. Chem. Soc. 139, 15664–15667 (2017).Article
+Google Scholar
+Li, Z. et al. Interface-enhanced catalytic selectivity on the C2 products of CO2 electroreduction. ACS Catal. 11, 2473–2482 (2021).Article
+Google Scholar
+Li, C. W. & Kanan, M. W. CO2 reduction at low overpotential on Cu electrodes resulting from the reduction of thick Cu2O films. J. Am. Chem. Soc. 134, 7231–7234 (2012).Article
+Google Scholar
+Download referencesAcknowledgementsAll authors acknowledge funding from the National Natural Science Foundation of China (grant nos. 92045302, 21991150 and 21991154).Author informationAuthor notesThese authors contributed equally: Wenzheng Li, Zhenglei Yin.Authors and AffiliationsCollege of Chemistry and Molecular Sciences, Hubei Key Laboratory of Electrochemical Power Sources, Wuhan University, Wuhan, ChinaWenzheng Li, Zeyu Gao, Gongwei Wang, Zhen Li, Fengyuan Wei, Xing Wei, Hanqing Peng, Xingtao Hu, Li Xiao, Juntao Lu & Lin ZhuangThe Institute for Advanced Studies, Wuhan University, Wuhan, ChinaZhenglei Yin & Lin ZhuangAuthorsWenzheng LiView author publicationsYou can also search for this author in
+PubMed Google ScholarZhenglei YinView author publicationsYou can also search for this author in
+PubMed Google ScholarZeyu GaoView author publicationsYou can also search for this author in
+PubMed Google ScholarGongwei WangView author publicationsYou can also search for this author in
+PubMed Google ScholarZhen LiView author publicationsYou can also search for this author in
+PubMed Google ScholarFengyuan WeiView author publicationsYou can also search for this author in
+PubMed Google ScholarXing WeiView author publicationsYou can also search for this author in
+PubMed Google ScholarHanqing PengView author publicationsYou can also search for this author in
+PubMed Google ScholarXingtao HuView author publicationsYou can also search for this author in
+PubMed Google ScholarLi XiaoView author publicationsYou can also search for this author in
+PubMed Google ScholarJuntao LuView author publicationsYou can also search for this author in
+PubMed Google ScholarLin ZhuangView author publicationsYou can also search for this author in
+PubMed Google ScholarContributionsL.Z. and G.W. conceived and supervised the whole project. W.L., Z.Y. and G.W. made verification of the ideas and carried out the electrochemical experiments. Z.G. and X.W. carried out in situ ATR–SEIRAS measurements. F.W. carried out density functional theory calculations. H.P. and X.H. provided and characterized the materials. Z.L. assisted in data analysis. L.X. and J.L. provided valuable suggestions and assisted in the manuscript writing. L.Z., G.W., Z.Y. and W.L. wrote the paper.Corresponding authorsCorrespondence to
+Gongwei Wang or Lin Zhuang.Ethics declarations
+Competing interests
+The authors declare no competing interests.
+Peer review
+Peer review information
+Nature Energy thanks Thomas Burdyny, Sichao Ma and the other, anonymous, reviewer(s) for their contribution to the peer review of this work.
+Additional informationPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.Supplementary informationSupplementary InformationExtended data supporting the current study, including Supplementary Methods, Notes 1–5, Figs. 1–48 and Tables 1–11, are all provided in the Supplementary Information.Rights and permissionsReprints and PermissionsAbout this articleCite this articleLi, W., Yin, Z., Gao, Z. et al. Bifunctional ionomers for efficient co-electrolysis of CO2 and pure water towards ethylene production at industrial-scale current densities.
+Nat Energy 7, 835–843 (2022). https://doi.org/10.1038/s41560-022-01092-9Download citationReceived: 13 August 2021Accepted: 07 July 2022Published: 18 August 2022Issue Date: September 2022DOI: https://doi.org/10.1038/s41560-022-01092-9Share this articleAnyone you share the following link with will be able to read this content:Get shareable linkSorry, a shareable link is not currently available for this article.Copy to clipboard
+Provided by the Springer Nature SharedIt content-sharing initiative
+Subjects
+Carbon capture and storageElectrocatalysisSolar fuels
+This article is cited by
+Moving beyond two-carbon products
+Jackson CraneCao-Thang Dinh
+Nature Energy (2023)
+Access through your institution
+Buy or subscribe
+Access through your institution
+Change institution
+Buy or subscribe
+SectionsFiguresReferencesAbstractData availabilityReferencesAcknowledgementsAuthor informationEthics declarationsPeer reviewAdditional informationSupplementary informationRights and permissionsAbout this articleThis article is cited by
+Advertisement
+Fig. 1: MEA electrolyser with 0.1 M KHCO3 anolyte.Fig. 2: MEA electrolyser operated with pure water.Fig. 3: Effects of ionomer coating on Cu surface towards the CO2RR.Fig. 4: Synergetic catalytic mechanism of QAPEEK.Fig. 5: MEA electrolysers with Cu-ionomer GDEs.Fig. 6: MEA electrolyser using porous Cu–QAPEEK GDE.
+Olah, G. A., Prakash, G. K. & Goeppert, A. Anthropogenic chemical carbon cycle for a sustainable future. J. Am. Chem. Soc. 133, 12881–12898 (2011).Article
+Google Scholar Bushuyev, O. S. et al. What should we make with CO2 and how can we make it? Joule 2, 825–832 (2018).Article
+Google Scholar Whipple, D. T. & Kenis, P. J. A. Prospects of CO2 utilization via direct heterogeneous electrochemical reduction. J. Phys. Chem. Lett. 1, 3451–3458 (2010).Article
+Google Scholar Qiao, J., Liu, Y., Hong, F. & Zhang, J. A review of catalysts for the electroreduction of carbon dioxide to produce low-carbon fuels. Chem. Soc. Rev. 43, 631–675 (2014).Article
+Google Scholar Ren, S. et al. Molecular electrocatalysts can mediate fast, selective CO2 reduction in a flow cell. Science 365, 367–369 (2019).Article
+Google Scholar Roberts, F. S., Kuhl, K. P. & Nilsson, A. High selectivity for ethylene from carbon dioxide reduction over copper nanocube electrocatalysts. Angew. Chem. Int. Ed. 127, 5268–5271 (2015).Article
+Google Scholar Loiudice, A. et al. Tailoring copper nanocrystals towards C2 products in electrochemical CO2 reduction. Angew. Chem. Int. Ed. 55, 5789–5792 (2016).Article
+Google Scholar Li, F. et al. Cooperative CO2-to-ethanol conversion via enriched intermediates at molecule–metal catalyst interfaces. Nat. Catal. 3, 75–82 (2019).Article
+Google Scholar Lee, S., Kim, D. & Lee, J. Electrocatalytic production of C3-C4 compounds by conversion of CO2 on a chloride-induced bi-phasic Cu2O-Cu catalyst. Angew. Chem. Int. Ed. 54, 14701–14705 (2015).Article
+Google Scholar Zheng, Y. et al. Understanding the roadmap for electrochemical reduction of CO2 to multi-carbon oxygenates and hydrocarbons on copper-based catalysts. J. Am. Chem. Soc. 141, 7646–7659 (2019).Article
+Google Scholar Perez-Gallent, E. F., Calle-Vallejo, M. C., Koper, F. & Spectroscopic, M. T. Observation of a hydrogenated CO dimer intermediate during CO reduction on Cu(100) electrodes. Angew. Chem. Int. Ed. 56, 3621–3624 (2017).Article
+Google Scholar Schouten, K. J. P., Gallent, E. P. & Koper, M. T. The influence of pH on the reduction of CO and CO2 to hydrocarbons on copper electrodes. J. Electroanal. Chem. 716, 53–57 (2014).Article
+Google Scholar Hasa, B., Jouny, M., Ko, B. H., Xu, B. & Jiao, F. Flow electrolyzer mass spectrometry with a gas-diffusion electrode design. Angew. Chem. Int. Ed. 60, 3277–3282 (2021).Article
+Google Scholar Xiao, H., Goddard, W. A., Cheng, T. & Liu, Y. Cu metal embedded in oxidized matrix catalyst to promote CO2 activation and CO dimerization for electrochemical reduction of CO2. Proc. Natl Acad. Sci. USA 114, 6685–6688 (2017).Article
+Google Scholar Zhong, M. et al. Accelerated discovery of CO2 electrocatalysts using active machine learning. Nature 581, 178–183 (2020).Article
+Google Scholar Mistry, H. et al. Highly selective plasma-activated copper catalysts for carbon dioxide reduction to ethylene. Nat. Commun. 7, 12123 (2016).Article
+Google Scholar Ozden, A. et al. High-rate and efficient ethylene electrosynthesis using a catalyst/promoter/transport layer. ACS Energy Lett. 5, 2811–2818 (2020).Article
+Google Scholar Kim, C. et al. Tailored catalyst microenvironments for CO2 electroreduction to multicarbon products on copper using bilayer ionomer coatings. Nat. Energy 6, 1026–1034 (2021).Article
+Google Scholar Wagner, A., Sahm, C. D. & Reisner, E. Towards molecular understanding of local chemical environment effects in electro-and photocatalytic CO2 reduction. Nat. Catal. 3, 775–786 (2020).Article
+Google Scholar Gabardo, C. M. et al. Continuous carbon dioxide electroreduction to concentrated multi-carbon products using a membrane electrode assembly. Joule 3, 2777–2791 (2019).Article
+Google Scholar Yan, Z., Hitt, J. L., Zeng, Z., Hickner, M. A. & Mallouk, T. E. Improving the efficiency of CO2 electrolysis by using a bipolar membrane with a weak-acid cation exchange layer. Nat. Chem. 13, 33–40 (2021).Article
+Google Scholar Dinh, C.-T. et al. CO2 electroreduction to ethylene via hydroxide-mediated copper catalysis at an abrupt interface. Science 360, 783–787 (2018).Article
+Google Scholar Weekes, D. M., Salvatore, D. A., Reyes, A., Huang, A. & Berlinguette, C. P. Electrolytic CO2 reduction in a flow cell. Acc. Chem. Res. 51, 910–918 (2018).Article
+Google Scholar Nguyen, T. N. & Dinh, C. T. Gas diffusion electrode design for electrochemical carbon dioxide reduction. Chem. Soc. Rev. 49, 7488–7504 (2020).Article
+Google Scholar De Arquer, F. P. G. et al. CO2 electrolysis to multicarbon products at activities greater than 1 A cm-2. Science 367, 661–666 (2020).Article
+Google Scholar Endrodi, B. et al. Operando cathode activation with alkali metal cations for high current density operation of water-fed zero-gap carbon dioxide electrolyzers. Nat. Energy 6, 439–448 (2021).Article
+Google Scholar Xu, Y. et al. Self-cleaning CO2 reduction systems: unsteady electrochemical forcing enables stability. ACS Energy Lett. 6, 809–815 (2021).Article
+Google Scholar Perry, M. L. & Fuller, T. F. A historical perspective of fuel cell technology in the 20th century. J. Electrochem. Soc. 149, S59 (2002).Article
+Google Scholar Babic, U., Suermann, M., Büchi, F. N., Gubler, L. & Schmidt, T. J. Critical review—identifying critical gaps for polymer electrolyte water electrolysis development. J. Electrochem. Soc. 164, F387–F399 (2017).Article
+Google Scholar Xiao, L. et al. First implementation of alkaline polymer electrolyte water electrolysis working only with pure water. Energy Environ. Sci. 5, 7869–7871 (2012).Article
+Google Scholar Li, D. et al. Highly quaternized polystyrene ionomers for high performance anion exchange membrane water electrolysers. Nat. Energy 5, 378–385 (2020).Article
+Google Scholar Lu, S., Pan, J., Huang, A., Zhuang, L. & Lu, J. Alkaline polymer electrolyte fuel cells completely free from noble metal catalysts. Proc. Natl Acad. Sci. USA 105, 20611–20614 (2008).Article
+Google Scholar Steele, B. C. & Heinzel, A. in Materials for Sustainable Energy: A Collection of Peer-Reviewed Research and Review Articles from Nature Publishing Group (ed. Dusastre, V.) 224–231 (World Scientific, 2011).Ge, L. et al. Electrochemical CO2 reduction in membrane-electrode assemblies. Chem. 8, 1–30 (2022).Article
+Google Scholar Monteiro, M. C. et al. Absence of CO2 electroreduction on copper, gold and silver electrodes without metal cations in solution. Nat. Catal. 4, 654–662 (2021).Article
+Google Scholar Ringe, S. et al. Understanding cation effects in electrochemical CO2 reduction. Energy Environ. Sci. 12, 3001–3014 (2019).Article
+Google Scholar Zhang, F. & Co, A. C. Direct evidence of local pH change and the role of alkali cation during CO2 electroreduction in aqueous media. Angew. Chem. Int. Ed. 59, 1674–1681 (2020).Article
+Google Scholar Yin, Z. et al. An alkaline polymer electrolyte CO2 electrolyzer operated with pure water. Energy Environ. Sci. 12, 2455–2462 (2019).Article
+Google Scholar Pătru, A., Binninger, T., Pribyl, B. & Schmidt, T. J. Design principles of bipolar electrochemical co-electrolysis cells for efficient reduction of carbon dioxide from gas phase at low temperature. J. Electrochem. Soc. 166, F34–F43 (2019).Article
+Google Scholar Hori, Y. I. in Modern Aspects of Electrochemistry (eds. Vayenas, C. G., White, R. E., & Gamboa-Aldeco, M. E.) 89–189 (Springer, 2008).Gao, D., Arán-Ais, R. M., Jeon, H. S. & Cuenya, B. R. Rational catalyst and electrolyte design for CO2 electroreduction towards multicarbon products. Nat. Catal. 2, 198–210 (2019).Article
+Google Scholar Peng, H. et al. Alkaline polymer electrolyte fuel cells stably working at 80 °C. J. Power Sources 390, 165–167 (2018).Article
+Google Scholar Li, Q. et al. The comparability of Pt to Pt-Ru in catalyzing the hydrogen oxidation reaction for alkaline polymer electrolyte fuel cells operated at 80 °C. Angew. Chem. Int. Ed. 58, 1442–1446 (2019).Article
+Google Scholar Gu, S. et al. A soluble and highly conductive ionomer for high-performance hydroxide exchange membrane fuel cells. Angew. Chem. Int. Ed. 48, 6499–6502 (2009).Article
+Google Scholar Nam, D. H. et al. Molecular enhancement of heterogeneous CO2 reduction. Nat. Mater. 19, 266–276 (2020).Article
+Google Scholar Sa, Y. J. et al. Catalyst-electrolyte interface chemistry for electrochemical CO2 reduction. Chem. Soc. Rev. 49, 6632–6665 (2020).Article
+Google Scholar Wei, X. et al. Highly selective reduction of CO2 to C2+ hydrocarbons at copper/polyaniline interfaces. ACS Catal. 10, 4103–4111 (2020).Article
+Google Scholar Li, F. et al. Molecular tuning of CO2-to-ethylene conversion. Nature 577, 509–513 (2019).Article
+Google Scholar Nelson, M. R. & Borkman, R. F. Ab initio calculations on CO2 binding to carbonyl groups. J. Phys. Chem. A 102, 7860–7863 (1998).Article
+Google Scholar Fried, J. & Li, W. High‐pressure FTIR studies of gas–polymer interactions. J. Appl. Polym. Sci. 41, 1123–1131 (1990).Article
+Google Scholar Voskian, S. & Hatton, T. A. Faradaic electro-swing reactive adsorption for CO2 capture. Energy Environ. Sci. 12, 3530–3547 (2019).Article
+Google Scholar Liu, Y., Ye, H. Z., Diederichsen, K. M., Van Voorhis, T. & Hatton, T. A. Electrochemically mediated carbon dioxide separation with quinone chemistry in salt-concentrated aqueous media. Nat. Commun. 11, 2278 (2020).Article
+Google Scholar Sandberg, R. B., Montoya, J. H., Chan, K. & Nørskov, J. K. CO-CO coupling on Cu facets: coverage, strain and field effects. Surf. Sci. 654, 56–62 (2016).Article
+Google Scholar Huang, Y., Handoko, A. D., Hirunsit, P. & Yeo, B. S. Electrochemical reduction of CO2 using copper single-crystal surfaces: effects of CO* coverage on the selective formation of ethylene. ACS Catal. 7, 1749–1756 (2017).Article
+Google Scholar Erlebacher, J., Aziz, M. J., Karma, A., Dimitrov, N. & Sieradzki, K. Evolution of nanoporosity in dealloying. Nature 410, 450–453 (2001).Article
+Google Scholar Wang, Y. et al. Catalyst synthesis under CO2 electroreduction favours faceting and promotes renewable fuels electrosynthesis. Nat. Catal. 3, 98–106 (2020).Article
+Google Scholar Aeshala, L., Uppaluri, R. & Verma, A. Uppaluri, R. & Verma, A. Effect of cationic and anionic solid polymer electrolyte on direct electrochemical reduction of gaseous CO2 to fuel. J. CO2 Util. 3, 49–55 2013)..Lee, J., Lim, J., Roh, C.-W., Whang, H. S. & Lee, H. Electrochemical CO2 reduction using alkaline membrane electrode assembly on various metal electrodes. J. CO2 Util. 31, 244–250 (2019)..Li, J. et al. Silica-copper catalyst interfaces enable carbon-carbon coupling towards ethylene electrosynthesis. Nat. Commun. 12, 2808 (2021).Article
+Google Scholar Huang, J. E. et al. CO2 electrolysis to multicarbon products in strong acid. Science 372, 1074–1078 (2021).Article
+Google Scholar Han, J. et al. Highly stable alkaline polymer electrolyte based on a poly(ether ether ketone) backbone. ACS Appl. Mater. Interfaces 5, 13405–13411 (2013).Article
+Google Scholar Zhu, S., Jiang, B., Cai, W. B. & Shao, M. Direct observation on reaction intermediates and the role of bicarbonate anions in CO2 electrochemical reduction reaction on Cu surfaces. J. Am. Chem. Soc. 139, 15664–15667 (2017).Article
+Google Scholar Li, Z. et al. Interface-enhanced catalytic selectivity on the C2 products of CO2 electroreduction. ACS Catal. 11, 2473–2482 (2021).Article
+Google Scholar Li, C. W. & Kanan, M. W. CO2 reduction at low overpotential on Cu electrodes resulting from the reduction of thick Cu2O films. J. Am. Chem. Soc. 134, 7231–7234 (2012).Article
+Google Scholar
+Close
+Sign up for the Nature Briefing newsletter — what matters in science, free to your inbox daily.
+Email address
+Sign up
+I agree my information will be processed in accordance with the Nature and Springer Nature Limited Privacy Policy.
+Close
+Get the most important science stories of the day, free in your inbox.
+Sign up for Nature Briefing

@@ -1,0 +1,942 @@
+Unexpected Direct Synthesis of Tunable Redox-Active Benzil-Linked Polymers via the Benzoin Reaction
+https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/631b5104bc257b8f62e0b136/original/unexpected-direct-synthesis-of-tunable-redox-active-benzil-linked-polymers-via-the-benzoin-reaction.pdf
+ 
+ Unexpected Direct Synthesis of Tunable Redox -Active Benzil -Linked 
+Polymers via the Benzoin Reaction  
+Christina Cong,‡ Jaehwan Kim,‡ Cara N. Gannett, H éctor D. Abru ña, Phillip J. Milner*  
+Department of Chemistry and Chemical Biology, Cornell University, Ithaca, NY, 14850, United States  
+ABSTRACT : New strategies for the sustainable synthesis of redox -active organic polymers could lead to next -generation organic 
+electrode materials for electr ochemical energy storage , electrocatalysis , and electro -swing chemical separations . Among redox -active 
+moieties, benzils or aromatic 1,2 -diones are particularly attractive due to their high  theoretical  gravimetric capacities and fast 
+charge/discharge rates . Herein, we demonstrate that the c yanide -catalyzed polymerization of simple di aldehyde  monomers  unexpect-
+edly leads to insoluble redox -active benzil -linked polymers instead of the expected benzoin polymers,  as confirmed by solid -state 
+nuclear magnetic resonance spectroscopy and electrochemical characterization.  Mechanistic studies suggest that cyanide -mediated 
+benzoin oxidation occurs by hydride transfer to the solvent, and that the insolubility of the benzi l-linked polymers protects them from 
+subsequent cyanolysis.  The thiophene -based polymer poly(BTDA)  is an intriguing  organic electrode material  that demonstrates two 
+reversible one -electron reductions with monovalent cations such as Li+ and Na+ but one two -electron reduction with divalent Mg2+. 
+Furthermore, in lithium metal half cells, poly(BTDA)  possese s an experimental capacity of 106 mAh/g and  promising rate capabilities 
+(64% capacity retention when the discharge rate is increased from 0.1 to 10 A/g ). As such, the tandem benzoin -oxidation  polymeri-
+zation  reported here in represents a sustainable method for the synthesis of highly tunable and redox -active  organic  materials.  
+INTRODUCTION  
+Greenhouse gas emissions are rising rapidly , and a s a result  the 
+world  must rapidly transition towards more renewable and sus-
+tainable processes , particularly in the chemical manufacturing 
+and energy production /storage  sectors .1,2 Key to these efforts 
+are redox -active materials, which are required for applicat ions 
+ranging from heterogeneous  electrocatalysis to electrochemical 
+energy storage to electro -swing carbon capture.3–9 As such , the 
+development of new flexible, lightweight, high -capacity, and 
+tunable redox -active  materials is required to meet increasing 
+global sustainability demands.  
+Crystalline i norganic solids , such as  LiCoO 2 electrodes for  lith-
+ium-ion batteries (LIBs)   and Cu-based electrodes for electro-
+catalytic CO 2 conversion,  currently dominate industrial appli-
+cations of redox -active materials.10–12 However, these materials 
+suffer from several fundamental shortcomings, including low 
+power densities, the use of scarce elements, lack of tunability,  
+and large carbon footprints  due to unsustainable manufacturing 
+and mining processes .12–14 For example , the crystalline inor-
+ganic cathodes  employed in LIBs  suffer from  slow intercalation 
+of charge -balancing cations , restricting their capacities at  fast 
+charge/discharge rates . Further more, the high synthesis temper-
+atures and energy -intensive extraction and refinement procedures  involved in the production  of inorganic solids  lead 
+to significant carbon emissions.12–15  
+Organic electrode  materials  containing electroactive moieties 
+offer a number of potential advantages over inorganic elec-
+trodes, including structural and compositional tunability, im-
+proved sustainability, increased flexibility, and faster 
+charge/discharge rate capabilities.8,9,16 –20 These features make 
+organic electrode materials particularly promising for applica-
+tions requiring high power densities or structural versatility , 
+such as the inclusio n of Na+ or Mg2+ ions.16 However, organic 
+materials  have struggled to supplant traditional  inorganic elec-
+trodes  in the context of electrocatalysis4,5,7 –9 and energy stor-
+age15,16 due to several limitations. Beyond challenges associated 
+with solubility and poor electrical conductivity, many redox -ac-
+tive organic polymers are also prepared using ex pensive pre-
+cious metal catalysts ( e.g. Pd), limiting their scalability.14,17,19,20  
+Recently, green methods for synthesizing redox -active organic 
+polymers have emerged but remain comparatively limited in 
+scope.21–25 In addition, the field has coalesced around a small 
+number of redox -active moieties, such as aminoxyl radicals, 
+diimides, and 1,4 -quinones,  unnecessarily limiting the design 
+space for organic electrode materials.16,18,19  Thus, expanding the 
+Figure 1. Direct synthesis of redox -active benzil polymers via the benzoin reaction followed by oxidation .  
+ lexicon of gree n methods available for the synthesis of poly-
+mers functionalized with novel redox -active moieties would 
+lead to next -generation organic materials for electrocatalysis 
+and energy storage .20 
+Despite their promising feat ures such as high theoretical gravi-
+metric capacities and fast charge/discharge rates , especially 
+with alternative ions such as Mg2+ (Figure 1) , aromatic 1,2-dio-
+nes or benzils  remain understudied  as organic electrode materi-
+als.26–34 This is likely due to th e limited methods available for 
+the incorporation of 1,2 -diones into polymeric materials , as 
+most methods rely on  installing the 1,2 -dione into a complex 
+monomer first followed by polymerization . We hypothesize 
+that a straightforward and general route to a ccess polymers 
+linked by aromatic 1,2 -diones would be via the benzoin reaction  
+of simple aldehyde monomers35–37 followed by oxidation of the 
+resulting benzoin moieties (Figure 1).27,38,39  Although underuti-
+lized for the synthesis of polymeric materials,38,40–42 the benzoin 
+reaction is an attractive method for polymer synthesis due to its 
+atom economy, inexpensive catalysts ( e.g. KCN), and reversi-
+bility, potentially allowing for access to crystalline materials  
+such as covalent organic frameworks (COFs).  
+Herein, we describe the fortuitous discovery that the synthesis 
+of polymers using the cyanide  (CN−)-mediated benzoin reaction 
+under air -free conditions leads directly to a new class of insol-
+uble redox -active 1,2 -dione -linked polymers  without the need 
+for external oxidants , as confirmed by spectroscopic and elec-
+trochemical studies. Molecular mechanistic studies suggest that 
+the CN−-mediated oxidation of benzoins to benzils likely occurs 
+via hydride transfer to the  protic solvent —a side reaction that 
+has been uninvestigated  or overlooked in molecular benzoin re-
+actions . Further more , our studies demonstrate  that precipitation 
+of the polymer from solution  during synthesis  is critical to min-
+imize cyanolysis of the forme d benzil linkages. Characteriza-
+tion of these new redox -active polymers confirms that  their re-
+dox-activity can be tuned by changing the flanking aryl groups 
+or the charge -balancing cation, and that they  retain high charge 
+storage capacities (≥87 mAh/g) at f ast discharge rates (1.0 A/g)  
+in lithium metal half cells . Overall, our work represents a sus-
+tainable and generalizable  method for the synthesis of redox -
+active organic materials.  
+RESULTS AND DISCUSSION  
+Synthesis and characterization of poly(BPDA).  We bega n 
+our investigation into benzoin polymerizations  using 4,4′ -bi-
+phenyldialdehyde ( BPDA ) as a monomer and KCN as a catalyst 
+to prepare a n insoluble  polymer designated as CORN -BP-1 
+(CORN = Cornell University, BP = benzoin or benzil polymer) 
+(Figure 2) and referred to here -in as poly(BPDA) . Small -scale 
+polymerization reactions were carried out in screw -cap reaction 
+tubes under dry N 2 to minimize competing oxidation of the al-
+dehydes t o carboxylic acids.36 After filtration, the resulting in-
+soluble polymeric materials were soaked in tetrahydrofuran 
+(THF) to remove soluble impurities and dried under vacuum 
+prior to analysis by Attenuated Total Reflectance (ATR) infra-
+red (IR) spectroscopy.  In all cases, significant conversion of 
+BPDA  was confirmed by the disappearance of aldehyde C−H 
+stretches in the ATR -IR spectra of the polymeric samples (see 
+SI section 3 for details).  
+An extensive evaluation of solvents confirmed that protic sol-
+vents, i ncluding ethanol (EtOH) and ethylene glycol (EG), pro-
+duced the highest yields of poly(BPDA)  (SI Table S1). Among the solvents tested, EG was chosen because it is a green solvent 
+with a high boiling point.43 Further optimization of the KCN 
+loading, reaction  time, and reaction temperature revealed that 
+carrying out the polymerization at 120 °C with 0.50 equivalents 
+of KCN for 96 h was ideal for maximizing the yield of  insoluble  
+poly(BPDA)  (49%)  while minimizing the KCN loading (SI Ta-
+ble S2). As such, a bulk s ample of poly(BPDA)  was prepared 
+under these conditions for further evaluation (Figure 2 a; see SI 
+sections 4 and 13 for details).  
+Characterization of poly(BPDA)  by scanning electron micros-
+copy (SEM, SI Figures S23 and S24), transmission electron mi-
+croscop y (TEM, SI Figure S26a), scanning tunneling electron 
+microscopy (STEM, SI Figure S26b) and powder X -ray diffrac-
+tion (PXRD, SI Figure S33) confirmed that it is a microcrystal-
+line pol ymer . In particular, the observed reflections by PXRD 
+(λ = 1.5406 Å) corres pond to d spacings of 4.5 Å (2θ = 19.7 °), 
+4.2 Å (2θ = 21.1 °) and 3.3 Å (2θ = 27.2 °), suggesting that the 
+limited crystalline order in poly(BPDA)  likely arises from π –π 
+stacking interactions.44 Furthermore, TEM confirmed the pres-
+ence of long (~100 nm) st rands, consistent with the expected 1 -
+dimensional polymeric structure  of this material  (SI Figure 
+S26a). Unfortunately, the insolubi lity of  poly(BPDA)  precludes 
+us from determining its average molecular weight.  Notably, en-
+ergy-dispersive X -ray spectroscopy (EDS) established the ab-
+sence of residual potassium  (and thus KCN) in the sample (SI 
+Figure S25 and Table  S3). However, combustion analysis de-
+tected small amounts of incorporated N ( 1%), presumably due 
+to residual nitrile groups resulting from CN− attack during the 
+benzoin reaction (SI Table S4). Together, these data confirm the 
+conversion of BPDA  into a polymeric material under the opti-
+mized reaction conditions.  
+Unexpectedly, further characterization of poly(BPDA)  by 
+cross -polarized magic angle s pinning ( CP MAS) 13C solid -state 
+nuclear magnetic resonance (SSNMR), ATR -IR, and solid -state 
+UV-Vis spectroscopies revealed that the initially assigned 
+structure of a benzoin -linked polymer was likely incorrect (Fig-
+ures 3a−c). Although resonances correspon ding to the ketone 
+carbonyl (δ 198 ppm) and aromatic carbons (δ 118−152 ppm) 
+were observed in the CP MAS 13C SSNMR spectrum of 
+poly(BPDA) , the H –13C–OH resonance characteristic of the 
+benzoin moiety at approximately δ 76 ppm was consistently not 
+detected ( Figure 3a) , even  at different 1H–13C contact times (SI 
+Figure S30). This is unexpected, as a secondary alcohol carbon 
+bearing a 1H should yield a stronger 13C signal than a quaternary 
+ 
+Figure 2. a) Conversion of BPDA  to benzoin - or benzil -linked pol-
+ymer poly(BPDA)  under optimized reaction conditions. Model 
+compounds b) benzoin and c) benzil.   
+ carbonyl carbon in cross -polarization experiments, especially 
+with short 1H–13C contact times.45 Likewise, the ATR -IR spec-
+trum of poly(BPDA)  lacks a n absorption  peak at approximately 
+3300 cm−1 corresponding to the alcohol O−H stretch of benzoin 
+(Figure 3b). Last, the solid -state UV -Vis absorption spectrum 
+of poly(BPDA)  dispersed in BaSO 4 displayed a broad absorp-
+tion peak centered around 350 nm  and extending into the visible 
+region , which is inc onsistent with the poor absorbance of ben-
+zoin in the visible region (Figure 3c).41 Indeed, while benzoin 
+is a white solid, poly(BPDA)  is bright yellow (SI Figure S27), 
+reflecting a greater degree of π-conjugation than would be ex-
+pected for a  non-conjugated  benzoin -linked polymer.  
+Based on the characterization data outlined above, we hypothe-
+sized that poly(BPDA)  is actually primarily a benzil -linked pol-
+ymer instead of the expected benzoin -linked material. Indeed, the CP MAS 13C SSNMR spectrum of poly(BPDA)  matches 
+well with the corresponding spectra for an authentic sample of 
+benzil (Figure 3a). As further support , benzil is a light -yellow 
+solid with an absorbance maximum that is bathochromically 
+shifted (λ max = 261 nm) compared to that of benzoin (λ max = 249 
+nm). Furthermore , benzil displays  weak absorbance around 400 
+nm while benzoin shows no absorbance in the visible region (SI 
+figures S107 –S108).  This difference  is amplified in the UV-Vis 
+absorption features  and the color  of poly(BPDA)  (Figure 3c) , 
+as would be expected due to increased cross -conjugation in the 
+polymer . Critically, solid -state cyclic voltammetry (CV) meas-
+urements also revealed that poly(BPDA)  undergoes a reversible 
+reduction at E 1/2 = 2.274 V vs Li/Li+ (Figure 3d). This finding 
+is consistent with the solution -state redox behavior of benzil, 
+which undergoes a reversible two -electron reduction in certain 
+  
+  
+Figure 3. Solid -state spectroscopic characterization of poly(BPDA)  and poly(BPDA) -GB prepared at 120 °C with 0.50 equivalents of KCN 
+for 96 h compared to the model compounds benzoin and benzil . a) CP MAS 13C SSNMR (125 MHz) spectra of the polymers and solution -
+state 13C NMR (125 MHz, DMSO -d6) of the model compounds. The peak corresponding  to DMSO -d6 is indicated (*). SSNMR spectra 
+were collected at a spinning speed of 20 kHz with a 1H–13C contact time of 1 and 4 ms for poly(BPDA) -GB and poly(BPDA) , respectively. 
+The H –13C–OH resonance of benzoin is highlighted. b) ATR IR spectra  of the pol ymers and model compounds . The O –H stretch of benzoin 
+is highlighted. c) Solid -state UV -Vis absorption spectra of the polymers and solution -state UV -Vis absorption spectra of the model com-
+pounds. d) Solid -state CV of poly(BPDA)  carried out at 1 mV/s in 1 M  lithium bis(trifluoromethanesulfonyl)imide (LiTFSI) in dimethyl 
+sulfoxide (DMSO). Inset: solution -state CVs of the model compounds at 1 mM concentration carried out at 50 mV/s in 0.1 M LiClO 4 in 
+DMSO.   
+ organic solvents such as N,N-dimethylformamide (DMF),29,46,47  
+and inconsistent with that of benzoin, which undergoes  an irre-
+versible one -electron reduction at more negative potentials 
+(Figure 3d and SI Figures S111 and S112a). In more polar sol-
+vents such as dimethyl sulfoxide (DMSO), benzil undergoes 
+two one -electron reductions separated by a small difference in 
+formal pot entials (Figure 3d, SI Figure S112b). Furthermore, 
+the reduction peak positions of benzil (2.157 V vs. Li/Li+) and 
+poly(BPDA)  (2.274 V vs. Li/Li+) in DMSO  are comparable, 
+suggesting that similar redox processes are taking place in both 
+materials (SI Table S8). Although we cannot rule out the pres-
+ence of trace benzoin linkages in poly(BPDA)  that cannot be 
+detected spectroscopically, our findings suggest that predomi-
+nantly benzil -linked polymers are fortuitously formed during 
+the CN−-catalyzed polymerization of dialdehydes.   
+It should be noted that  the IR spectrum of poly(BPDA)  contains 
+a diagnostic carbonyl C=O stretch (1675 cm−1, broad), but the 
+carbonyl stretches of benzoin (1679 cm−1) and benzil (1657 
+cm−1, with a shoulder at 1673 cm−1) are nearly identical and thus 
+cannot be used to distinguish between the two linkage chemis-
+tries (Figure 3b). Likewise, the stretch at 1374 cm−1 in 
+poly(BPDA)  could be attributed to an H –C–OH δ bend that is 
+strong in benzoin, but this stretch is also present in benzil , and 
+thus is not necessarily consistent with benzoin linkages either.  
+As such, outside of the O−H stretch present in benzoin and ab-
+sent in benzil and poly(BPDA) , IR spectroscopy is of limited 
+use to distinguish between these two moieties.  
+Mechanism of  in situ  benzoin  oxidation. Given the reported 
+oxidation of benzoin derivatives using O 2 and strong base,48,49  
+we wondered if an initially formed benzoin -linked polymer was 
+being oxidized by adventitious O 2 in situ  or during the soaking process to yield benzil -linked poly(BPDA) . To test this possi-
+bility, poly(BPDA)  was syn thesized in a N 2-filled (<1 ppm O 2) 
+glovebox (poly(BPDA) -GB) using freshly vacuum -distilled 
+EG to rigorously ensure that the reaction, washes,  soaks  and 
+drying steps were all conducted in an O 2-free environment (see 
+SI section 4 for details). After drying , poly(BPDA) -GB was 
+packed into an NMR rotor in the glovebox prior to analysis by 
+CP MAS 13C SSNMR under N 2. As shown in Figure 3a, 
+poly(BPDA) -GB possesses a nearly identical 13C NMR spec-
+trum as that of poly(BPDA)  synthesized outside of the glove-
+box. Likew ise, the ATR -IR and UV -Vis spectra of poly(BPDA)  
+ 
+Figure 4. 19F NMR molecular model studies of the CN−-mediated 
+polymerization of BPDA . Ar = 3 -fluorophenyl.  
+Figure 5.  In situ 19F NMR (470 MHz) studies of benzoin and benzil formation under the standard polymerization conditions. a) Time course 
+of the reaction of 1, showing that the benzoin condensation equilibrates very quickly (<5 min) to form 2 whereas the formation of 4 (pre-
+sumably from 3) is much slower. b) Kinetic investigation of the cyanolysis of 3 indicates that the conversion of 3 into 4 occurs nearly 
+instantaneously under the reaction conditions. 19F NMR was used in place of 1H NMR for these studies due to the lack  of diagnostic 1H 
+resonances for benzil species. An internal standard of 1 -fluoronaphthalene was used for all 19F NMR experiments (not shown).  Ar = 3 -
+fluorophenyl.  
+  
+ 
+ and poly(BPDA) -GB are also very similar (Figures 3b –c). This 
+finding confirms that adventitious O 2 is not required to form 
+benzil -linked polymers , and that the in situ  oxidation of benzoin 
+linkages during the polymerization reaction must proceed via 
+an alternative mechanism  that does not require O 2.  
+To gain further insight into the mechanism governing benzil  
+formation under  the standard polymerization conditions, molec-
+ular model studies were carried out using 3 -fluorobenzaldehyde 
+(1) as a surrogate f or BPDA  (Figure 4, SI Figure S74). Authen-
+tic samples of the possible products 3,3′ -difluorobenzoin ( 2) 
+and 3,3′ -difluorobenzil ( 3) were prepared for comparison (see 
+SI section 7a for details). Reactions were conducted for 30 min 
+under air -free conditions using 1 -fluoronapthalene as an inter-
+nal standard, as extended reaction times were found to lead to 
+significant decomposition (SI F igure S86; See SI section 7b for 
+details). 19F NMR was employed in place of 1H NMR due to the 
+lack of diagnostic 1H NMR signals for benzil species. Subject-
+ing 1 to the standard reaction conditions produced 2 along with 
+other unidentified species (Figure 4a , SI Figure  S76). However, 
+3 was not detected. Similarly, subjecting 2 to the same condi-
+tions produced a significant amount of 1 due to the reversibility 
+of the benzoin reaction, but 3 was again  not observed ( Figure 
+4b, SI Figure  S79). Notably, heating 2 in EG for 24 h in the 
+absence of CN− produced only trace amounts of 3, further sup-
+porting that adventitious O 2 alone is not responsible for benzil  
+formation during the polymerization reaction (SI Figure S88).   Synthesis of several potential side products (s ee SI Section 7a 
+for details) confirmed that the  major  unidentified species  in all 
+cases  was ester 4 formed from reaction with the solvent EG 
+(Figure 4). Based on this finding, we inferred that 3 forms and 
+rapidly undergoes cyanolysis via a previously repo rted path-
+way50,51  to form 1 (which can react further to produce 2) and 4 
+(see SI Figure S84 for a proposed mechanism).  Indeed, subject-
+ing 3 to the reaction conditions produced mostly 4, along with 
+small amounts of 1 and 2 (Figure 4c, SI Figure S82).   
+In situ  19F NMR studies of the reaction of 1 with CN− were next 
+carried out to interrogate if 3 forms transiently under the reac-
+tion conditions  prior to decomposition into 4 (Figure 5a). In 
+these studies, the reaction mixture was transferred to a screw -
+cap NMR tube in a N 2-filled glovebox and then placed in an 
+NMR spectrometer that had been pre -heated to 120 °C (see SI 
+section 7c for details). Equilibration of 1 and 2 through the ben-
+zoin reaction  occurred within the first 5 min  of the reaction (Fig-
+ure 5a, SI Figure S91). However, 3 was again not observed, 
+even when the reaction was conducted for 24 h (SI Figures S92 –
+S95). Notably, the decomposition of the products was slower in 
+an NMR tube, as even after 24 h, 1 and 2 were still  detectable 
+(SI Figure S94).  This is likely due to a lack of mixing in the 
+NMR tube. 
+To determine whether it is possible to observe 3 in the presence 
+of CN−, we subjected 3 to similar conditions as above in a 
+screw -cap NMR tube (Figure 5b). Intriguingly, 3 was again not 
+detected  by 19F NMR ; instead,  only 1 and 4 were observed in a 
+1:1.4 ratio. Consistently, although solid benzil could be ob-
+served in the NMR tube at room temp erature, it was not suffi-
+ciently soluble in EG to be observed by 19F-NMR, and any 3 
+that partially solubilized quickly converted to 4, suggesting that 
+the cyanolysis of 3 proceeds rapidly even at room temperature 
+(SI Figure S98). Importantly, 4 was also ob served in the reac-
+tion carried out with 1 (Figure 5a), although its  generation  was 
+slower than the formation of 2 via the benzoin reaction .  
+Based on th ese finding s, we propose a kinetic scenario in which 
+1 and 2 rapidly equilibrate in the presence of CN− via the ben-
+zoin reaction, followed by rate -limiting conversion of 2 to 3 and 
+subsequent rapid cyanolysis of 3 to 4 in solution (Figure 6a). In 
+this kinetic regime, it would be nearly impossible to detect 3 in 
+solution. Other than 1, 2, and 4, the other  species detected by 
+19F NMR disappeared upon aqueous work -up (SI Figure S 80), 
+confirming that 1, 2, and 4 are the major isolable products  
+formed under the reaction conditions. Importantly, these find-
+ings suggest that the precipitation of insoluble poly(BPDA)  
+during  the polymerization is essential to the successful for-
+mation of benzil -linked polymers, as precipitation likely mini-
+mizes subsequent cyanolysis of the benzil linkages to form re-
+dox-inactive esters (SI Figure S98). 50,51 The protection from cy-
+anolysi s is further supported by the fact that insoluble  3 was 
+observed  during in situ  experiments at room temperature, yet no 
+solubilized 3 was observed by 19F NMR (SI Figure S98).  
+Based upon our finding that 4 (and, by implication, 3) is only 
+observed in the presence of CN−, we hypothesized that CN− is 
+required for the in situ  oxidation of benzoin  linkages to benzils  
+(Figure 6a). This process likely involves reversible deprotona-
+tion of the benzoin  alcohol (p Ka ≈ 12) by CN− (pKa of HCN  ≈ 
+9) followed by hydride transfer, akin to the Cannizzaro reac-
+tion.52 Consistently, previous computational studies have 
+demonstrated that hydride transfer during the benzoin reaction 
+is kinetically feasible,53 and benzil formation in the nominal 
+ 
+ 
+Figure  6. a) Proposed mechanism of benzil formation under the 
+polymerization conditio ns. b) H 2 evolution detected by R GA dur-
+ing the polymerization of BPDA  to poly(BPDA) .  
+ absence o f O 2 has been observed experimentally as well .49,54  
+The hydride acceptor could be a proton  from  the protic solvent 
+to form H 2, another carbonyl group  to form an alcohol , or ad-
+ventitious O 2.49 Comparison  of the 19F NMR spectra  of model 
+reactions (Figure 4)  to those of 3-fluorobenzyl alcohol and 3,3′ -
+difluorodihydrobenzoin suggests that these compounds are not 
+present in any of the reaction mixtures, ruling out carbonyl -
+based hydride acceptors (Figure S77, see SI section 7 for d e-
+tails). Likewise, the formation of  benzil s under rigorously air -
+free conditions suggests that O 2 is also not required for  benzoin  
+oxidation  either . Critically, residual gas analysis (RGA) of the 
+headspace of a polymerization  reaction  of BPDA  in progress 
+revealed  significant H 2 formation above the background ( Figure 
+6b and SI Figures S100 –S102; see SI section 8 for details). As 
+such, it is likely that the solvent serves as a proton source to 
+form H2 upon hydride transfer (Figure 6a). This finding  further 
+supports that the hydride transfer is the rate -limiting step of ben-
+zil formation during the polymerization reaction, as H 2 evolu-
+tion was slow but evident over the entire course of the experi-
+ment.  
+Generality of benzil polymer synthesis.  To expand the scope 
+of this polymerization reaction and access materials with poten-
+tially improved electrical properties, we synthesized another 
+1,2-dione -linked polymer, termed CORN -BP-2 and herein re-
+ferred to as poly(BTDA) , from the bis(thiophene) linker  BTDA  
+under similar conditions (Figure 7a, see SI Section 5 for de-
+tails). In both EtOH and EG,  significant conversion of the mon-
+omer into poly(BTDA)  was observed by ATR -IR (see SI Sec-
+tion 5 for details). Thus, the synthesis of poly(BTDA)  was 
+scaled up in b oth EG ( poly(BTDA) -EG) and EtOH 
+(poly(BTDA) -EtOH ) for comparison , and these samples were 
+characterized using the methods described above (see SI section 
+6 for details).  Consistent with the findings for poly(BPDA) , CP 
+MAS 13C SSNMR  (absence of a H –13C–OH resonance)  and 
+ATR -IR spectra  (absence of  an O–H stretch ) support the for-
+mation of thenils  instead of thenoins  in both poly(BTDA)  sam-
+ples (Figure 8a–b). Furthermore, solid -state CV confirmed that 
+poly(BTDA)  undergoes two reversible one -electron reduction 
+processes  at 2.494 V and 2.099 V vs. Li/Li+, which are compa-
+rable to those of thenil at 2.434 V and 2.008 V vs. Li/Li+, respec-
+tively (Figure 8c, SI Figure s S123  and S139 , and Table S9).23 
+Characterization of poly(BTDA)  by SEM (SI Figures S44 and 
+S45) and PXRD (SI Figure S52) demonstrated that it is also a 
+microcrystalline polymeric material. Finally, characterization 
+of poly(BTDA)  by EDS revealed a lack of residual K from 
+KCN (SI Figure S47 and Table S6), but combustion  analysis 
+revealed trace N ( ~2%), possibly from residual nitrile groups incorporated during the polymerization (SI Table S7). The suc-
+cessful synthesis of poly(BTDA)  indicates that the tandem ben-
+zoin-oxidation reaction is a general method for the synthesis of 
+polymers linked predominantly  by 1,2 -diones.   
+Investigation of redox -activity. The high theoretical energy 
+storage capacities of poly(BPDA)  (257 mAh/g) and 
+poly(BTDA)  (243 mAh/g) make them attractive candidates for 
+battery applications and competitive w ith other leading redox -
+active polymers such as P14AQ (theoretical capacity of 260 
+mAh/g, SI Table S10).15 Thus , we investigate d the potential  of 
+poly(BPDA)  and poly(BTDA)  as cathode materials in CR -
+2032 Li -metal half cells (see SI section 12 for details) . This sim-
+ple, well -behaved system  allows us to probe useful properties 
+such as  long-term redox stability  and fast charge/discharge ca-
+pabilities  in a standardized manner . Each  polymer ’s perfor-
+mance w as first assessed using composite electrodes cont aining 
+30% active material, 60% CMK -3, and 10% polyvinylidene 
+difluoride (PVDF) binder using 1.0 M LiTFSI in DMSO as the 
+electrolyte solution (see SI section 12 for details). Although  
+poly(BPDA)  demonstrated promising capacities (up to 134 
+mAh/g) in prelim inary tests, continued cycling resulted in sig-
+nificant capacity losses (SI Figure S135).  Gratifyingly, 
+poly(BTDA) -EG demonstrated similar initial capacity (124 
+mAh/g, Figure 8b) and rate capabilities as poly(BPDA)  (Figure 
+S141), but with significantly impr oved capacity retention upon 
+cycling  (67% vs. 45% after 100 cycles). Notably, 1H-NMR 
+analysis confirmed the extremely poor solubility of  neutral  
+poly(BTDA)  in DMSO -d6 (SI Figure S 150), potentially ex-
+plaining its improved cycling  stability.   Both samples were fur-
+ther tested as composites with 60% active material, 30% CMK -
+3, and 10% PVDF binder, a composition that is more reflective 
+of actual organic electrode materials (Table S10).   
+The behavior  of poly(BTDA) -EG at high active mass loading 
+was eval uated by assessing its capacity retention at faster dis-
+charge rates (Figure 8d)  and its cycling stability  (SI Figure 
+S143). Promisingly, poly(BTDA) -EG retained 64% of its ca-
+pacity when the discharge rate was increased 100 -fold from 
+0.10 A/g (84 mAh/g) to 1 0 A/g (54 mAh/g), using the twentieth 
+cycle capacity at 0.10 A/g for comparison (Figure 8 d). After 
+five discharge cycles at 10 A/g, >87% (74 mAh/g) of the origi-
+nal capacity was recovered when the discharge rate was re-
+turned to 0.10 A/g.  Similarly, in cycli ng studies at a discharge 
+rate of 50 mA/g, poly(BTDA) -EG retained 73% of its capacity 
+between the 10th and 100th cycles (Figure S142).  The perfor-
+mance of poly(BTDA) -EG at different rates was also superior 
+to that of  poly(BPDA)  (Figure 8d),  reflecting the advantage of 
+being able to  readily  tune the flanking aryl groups of the 1,2 -
+dione units using our polymerization strategy.   
+We hypothesize that th e observed  capacity lo sses for 
+poly(BTDA) -EG in both cycling and rate tests  is due to partial 
+dissolution of the material during charging and discharging, 
+which is  a well-known challenge  for organic electrode materi-
+als.55–60 This is further suggested by the post -mortem CVs of 
+both poly(BPDA)  and poly(BTDA) -EG (SI Figures S15 3–
+S154), which indicate that the redox -activity of both polymers 
+is maintained  after 100 cycles. In addition,  slight solution dis-
+coloration was observed in the electrolyte solution of disassem-
+bled cells after cycling. Other possible causes for the observed 
+deviation from the theoretical capacit ies of these materials  in-
+clude undetected trace benzoin linkages contributing to irre-
+versible capacity, inactive terminal esters contributing dea d 
+ 
+Figure 7.  a) Conversion of BTDA  to benzil -linked polymer 
+poly(BTDA)  under optimized reaction conditions . Model com-
+pounds b) 2,2′-thenoin  and c) 2,2′-thenil .  
+ weight, and/or the inability of the polymer to effici ently stabi-
+lize the negative charge associated with the fully reduced spe-
+cies. In future work, we will  alleviate the partial solubility of 
+these materials by cross -linking or by incorporation into poly-
+meric networks,55,56,61 –64 which are common methods to over-
+come this problem in redox -active organic materials.  
+One of the most exciting features of organic electrode materials 
+is that they can be readily adapted to work with almost any cat-
+ion, including  those  such as Na+ and Mg2+ that are more abun-
+dant than Li+,65–67 and their redox properties can be optimized 
+by tuning hard -soft acid -base interactions.68–70 Indeed, p revious 
+molecular studies have demonstrated that 1,2 -diones are prom-
+ising  potential  electrode materials for Mg -ion batteries , because 
+the two one -electron waves  observed with monovalent cations 
+such as Li+ collapse into a single  two-electron reduction  wave  with Mg2+ cation s due to the excellent hard -hard match of the 
+divalent cation and the reduced carbonyl groups.29 However, 
+this promising feature has not been demonstrated in polymeric 
+electrode  materials to date.   
+To probe the potential suitability of poly(BTDA) -EG for elec-
+trochemical energy storage or electrocatalysis with alternative 
+ions, CVs were carried out with  various electrolytes (0.1 M 
+LiClO 4, NaClO 4, KClO4, nBu4NClO4, and Mg(ClO 4)2 in 
+DMSO ) at a sweep rate of 20 mV/s using a standard 3 -electrode 
+set-up in a N 2-filled glovebox (Figure 8c, SI Figures S15 5–
+S162). The data for Li+, Na+, and Mg2+ are included in Figure 
+8c for clarity . Importantly, the reduction potentials measured 
+for Li+ by CV were nearly identical between the 3 -electrode set -
+up and in the CR-2032 half cells (Figure  8c, SI Figures S139 
+and S155 , Tables S9 and S11).   
+  
+  
+Figure 8. Solid -state spectroscopic and electrochemical characterization s of poly(BTDA) -EG prepared at 120 °C and poly(BTDA) -EtOH  
+prepared at 80 °C with 0.50 equivalents of KCN for 96 h compared to model compounds 2,2′-thenoin  and 2,2′-thenil . Electrochemical 
+performance  tests of polymers  Battery composite: 60% poly(BTDA) -EG or poly(BPDA) , 30% CMK -3 carbon, 10% PVDF binder, unless 
+specified otherwise.  a) CP MAS 13C-SSNMR (125 MHz) spectra of the polymers and solution -state 13C NMR spectra (125 MHz, CDCl 3) of 
+the model compounds. The peak corresponding to CDCl 3 is indicated (*). SSNMR spectra were collected at a spinning speed of 20 kHz with 
+a 1H–13C contact time of 1 ms. The H –13C–OH resonance of 2,2′-thenoin  is highlighted. b) ATR IR spectra  of polymers and model com-
+pounds . The O –H stretch of 2,2′-thenoin  is highlighted.  c)  Solid -state CV of poly(BTDA) -EG carried out at 20 mV/s  in 0.1 M LiClO 4, 
+NaClO 4, and (MgClO 4)2 in DMSO . d) Rate capability test s of battery composites  carried out in 1.0 M LiTFSI in DMSO.   
+ Changing cati ons had little impact on the potential of the first 
+reduction peak, with the biggest difference (120 mV, 11.6 
+kJ/mol) observed between hard Mg2+ and soft K+ (SI Figure 
+S160 and Table S11).  The change in behavior was much more 
+drastic for the second reduction peak  potentials  among the mon-
+ovalent cations . Decreasing the charge density ( i.e., increasing 
+the size) of the monovalent cation from Li+ to nBu4N+ resulted 
+in a decrease in the magnitud e of the second reduction potential, 
+from 2.031 V (Li+) to 1.899 V (Na+) to 1.740 V (K+) and 1.773 
+V (nBu4N+) vs. Li/Li+, respectively ( SI Table S11 , see section 
+12 for further  discussion on nBu4N+). This finding suggests that  
+among monovalent cations,  Li+ best stabilizes the doubly re-
+duced form of poly(BTDA) -EG due to the hard -hard match of 
+the reduced carbonyl units and the Li+ cations.29,68 –70  
+Intriguingly, switching from  monovalent cations  to divalent  
+Mg2+ caused  the secon d reduction peak to dramatically shift to 
+2.501 V vs. Li/Li+, leading the second reduction peak to almost 
+merge with the first peak to reveal a nearly simultaneous two -
+electron transfer  (Figure 8c). This finding suggests that Mg2+ 
+best stabilizes doubly reduced poly(BTDA) -EG. Furthermore, 
+the redox -activity  of poly(BTDA) -EG was better retained over  
+100 CV  cycle s with Mg2+ compared to Li+, indicating Mg2+ also 
+best minimiz es solubilizatio n of the  reduced  polymer (SI Fig-
+ures S1 61–S162, see SI section 12 for further discussion ). This 
+finding suggests that 1,2-dione -linked polymers may be prom-
+ising organic electrode material s for incorporation into next -
+generation Mg -ion batteries, which we w ill explore in future 
+work.   
+The tunability  of the reduction potentials  of dione -based poly-
+mers  through exploiting hard-soft acid -base matching between 
+the charge -compensating cation and reduced polymer is con-
+sistent with previous  studies  in other systems .29,69,71,72 This tuna-
+bility allows for a single versatile structure to be employed for 
+applications requiring alte rnative ions  without having to design 
+a new material for each cation.  
+CONCLUSION  
+The development of sustainable methods for the scalable syn-
+thesis of redox -active organic materials  represents a fundamen-
+tal barrier to the deployment of next -generation organ ic elec-
+trode materials. During the attempted synthesis of benzoin -
+linked polymers,  herein we report the serendipitous discovery 
+that the  cyanide -catalyzed polymerization of dialdehydes leads 
+to redox -active 1,2 -dione -linked materials instead . These re-
+sults demonstrate that the benzoin reaction is a viable method  
+for the sustainable synthesis of modular , redox -active polymers . 
+Furthermore, our electrochemical studies reveal that 1,2 -dione -
+linked materials such as poly(BTDA) are viable candidates for 
+electroc hemical energy storage due to their promising cycling 
+stability and good retention of capacity at fast discharge rates.  
+Intriguingly, the use of CN− in molecular systems  also results in 
+low yields of the desired benzoin products , because of potential 
+in situ  oxidation and cyanolysis, even under rigorously air -free 
+conditions, a phenomenon previously unreported or attributed 
+to adventitious oxygen.48,54 Therefore, our findings also have 
+important potential implications for related reactions involv ing 
+cyanide and other nucleophilic catalysts in combination with al-
+dehyd e substrates .35,36  Future work will focus on minimizing the 
+solubility of these materials through cross -linking or incorpora-
+tion of 1,2 -diones  into less soluble materia ls such as polymer 
+networks or covalent organic framework s, decreasing the conductive additives in battery composites by improving the in-
+trinsic conductivity of these materials,  and further optimizing 
+their redox activities. Furthermore, the potential of t hese novel 
+redox -active materials for electrocatalysis will be evaluate d. 
+ASSOCIATED CONTENT   
+Supporting Information . Full characterization and electrochemi-
+cal data. This material is available free of charge via the Internet at 
+http://pubs.acs.org .  
+AUTHOR  INFORMATION  
+Corresponding Author  
+*pjm347@cornell.edu  
+Author Contributions  
+P.J.M. devised the project. J.K. and C.C. synthesized and charac-
+terized all molecular and polymeric samples. C.N.G. and H.D.A. 
+carried out all electrochemical measurements and analy ses, with 
+the exception of some CV measurements that were carried out by 
+J.K. The manuscript was written through contributions of all au-
+thors, and all authors have given approval to the final version of the 
+manuscript.  
+‡These authors contributed equally.  
+Funding Sources  
+We thank Cornell University for initial financial support of  this 
+work and for providing a Summer Experience Grant to C. C. The 
+development of redox -active materials with potential applications 
+in heterogeneous electrocatalysis was supported by the National In-
+stitute of General Medical Sciences of the National Inst itutes of 
+Health under award number R35GM138165 (C. C., J. K., P. J. M.). 
+The content is solely the responsibility of the authors and does not 
+necessarily represent the official views of the National Institutes of 
+Health.  C. N. G. and H. D. A. thank the Na tional Science Founda-
+tion Center for Synthetic Organic Electrochemistry (CHE -
+2002158) and Mercedes Benz for funding. This work made use  of 
+the Cornell Center for Materials Research Shared Facilities, which 
+are supported through the NSF MRSEC program (DMR -1719875). 
+1H NMR data were collected on a Bruker INOVA 500 MHz spec-
+trometer that was purchased with support from the NSF (CHE -
+1531632).   
+ACKNOWLEDGMENT   
+We thank Drs. Ivan Keresztes (Cornell University) and Alexander 
+C. Forse (University of Cambridge) for a ssistance with solid -state 
+NMR experiments and Prof. Brett Fors (Cornell University) and 
+Dr. Brian Peterson (Cornell University) for helpful discussions.  We 
+thank Nathan Lui (Cornell University) and Prof. David Collum 
+(Cornell University) for assistance wi th preliminary  density func-
+tional theory calculations . 
+REFERENCES  
+(1) Climate Change 2014: Synthesis Report ; Pachauri, R. K., 
+Mayer, L., Intergovernmental Panel on Climate Change, 
+Eds.; Intergovernmental Panel on Climate Change: Ge-
+neva, Switzerland, 2015.  
+(2) CO 2 Emissions from Fuel Combustion: Overview ; Interna-
+tional Energy Agency: Paris, France, 2017.  
+(3) Denholm, P.; Ela, E.; Kirby, B.; Milligan, M. The Role of 
+Energy Storage with Renewable Electricity Generation. 
+Energy Storage: Issue s and Applications  2011 , No. Janu-
+ary, 1 –58.  
+ (4) Novaes, L. F. T.; Liu, J.; Shen, Y.; Lu, L.; Meinhardt, J. 
+M.; Lin, S. Electrocatalysis as an Enabling Technology for 
+Organic Synthesis. Chem. Soc. Rev.  2021 , 50 (14), 7941 –
+8002. https://doi.org/10.1039/D1CS0 0223F.  
+(5) Rajeev, R.; Sharma, B.; Mathew, A. T.; George, L.; Y N, 
+S.; Varghese, A. Review —Electrocatalytic Oxidation of 
+Alcohols Using Chemically Modified Electrodes: A Re-
+view. J. Electrochem. Soc.  2020 , 167 (13), 136508. 
+https://doi.org/10.1149/1945 -7111 /abb9d0.  
+(6) Voskian, S.; Hatton, T. A. Faradaic Electro -Swing Reac-
+tive Adsorption for CO 2 Capture. Energy Environ. Sci.  
+2019 , 12 (12), 3530 –3547. 
+https://doi.org/10.1039/C9EE02412C.  
+(7) Dey, A.; Gunnoe, T. B.; Stamenkovic, V. R. Organic Elec-
+trosynthesis: When Is It Electrocatalysis? ACS Catal.  
+2020 , 10 (21), 13156 –13158. 
+https://doi.org/10.1021/acscatal.0c04559.  
+(8) Malinauskas, A. Electrocatalysis at Conducting Polymers. 
+Synthetic Metals  1999 , 107 (2), 75 –83. 
+https://doi.org/10.1016/S0379 -6779(99)00170 -8. 
+(9) Zhao, X.; Pachfule, P.; Thomas, A. Covalent Organic 
+Frameworks (COFs) for Electrochemical Applications. 
+Chem. Soc. Rev.  2021 , 50 (12), 6871 –6913. 
+https://doi.org/10.1039/D0CS01569E.  
+(10) Nitop i, S.; Bertheussen, E.; Scott, S. B.; Liu, X.; Engstfeld, 
+A. K.; Horch, S.; Seger, B.; Stephens, I. E. L.; Chan, K.; 
+Hahn, C.; Nørskov, J. K.; Jaramillo, T. F.; Chorkendorff, 
+I. Progress and Perspectives of Electrochemical CO 2 Re-
+duction on Copper in Aqueou s Electrolyte. Chem. Rev.  
+2019 , 119 (12), 7610 –7672. 
+https://doi.org/10.1021/acs.chemrev.8b00705.  
+(11) Yazdani, A.; Botte, G. G. Perspectives of Electrocatalysis 
+in the Chemical Industry: A Platform for Energy Storage. 
+Current Opinion in Chemical Engineeri ng 2020 , 29, 89–
+95. https://doi.org/10.1016/j.coche.2020.07.003.  
+(12) Masias, A.; Marcicki, J.; Paxton, W. A. Opportunities and 
+Challenges of Lithium Ion Batteries in Automotive Appli-
+cations. ACS Energy Lett . 2021 , 6 (2), 621 –630. 
+https://doi.org/10.1021/a csenergylett.0c02584.  
+(13) Larcher, D.; Tarascon, J. M. Towards Greener and More 
+Sustainable Batteries for Electrical Energy Storage. Nat. 
+Chem . 2015 , 7 (1), 19 –29. 
+https://doi.org/10.1038/nchem.2085.  
+(14) Poizot, P.; Dolhem, F. Clean Energy New Deal for a  Sus-
+tainable World: From Non -CO 2 Generating Energy 
+Sources to Greener Electrochemical Storage Devices. En-
+ergy Environ.  Sci. 2011 , 4 (6), 2003 –2019. 
+https://doi.org/10.1039/c0ee00731e.  
+(15) Esser, B.; Dolhem, F.; Becuwe, M.; Poizot, P.; Vlad, A.; 
+Brandell, D. A Perspective on Organic Electrode Materials 
+and Technologies for next Generation Batteries. J. Power 
+Sources  2021 , 482 (October 2020), 228814. 
+https://doi.org/10.1016/j.jpowsour.2020.228814.  
+(16) Gannett, C. N.; Melecio -Zambrano, L.; Theibault, M. J.; 
+Peterson, B. M.; Fors, B. P.; Abruña, H. D. Organic Elec-
+trode Materials for Fast -Rate, High -Power Battery Appli-
+cations. Materials Reports: Energy  2021 , 1 (1), 100008.  
+https://doi.org/10.1016/j.matre.2021.01.003.  
+(17) Lu, Y.; Zhang, Q.; Li, L.; Niu, Z.; Chen, J. Design Strate-
+gies toward Enhancing the Performance of Organic Elec-
+trode Materials in Metal -Ion Batteries. Chem  2018 , 4 (12), 
+2786 –2813. 
+https://doi.org/10.1016/j.chempr.2018.09.005.  
+(18) Muench, S.; Wild, A.; Fr iebe, C.; Häupler, B.; Janoschka, 
+T.; Schubert, U. S. Polymer -Based Organic Batteries. Chem . Rev. 2016 , 116 (16), 9438 –9484. 
+https://doi.org/10.1021/acs.chemrev.6b00070.  
+(19) Lee, S.; Kwon, G.; Ku, K.; Yoon, K.; Jung, S. K.; Lim, H. 
+D.; Kang, K. Recent Pro gress in Organic Electrodes for Li 
+and Na Rechargeable Batteries. Adv. Mater . 2018 , 30 (42), 
+1–45. https://doi.org/10.1002/adma.201704682.  
+(20) Schon, T. B.; McAllister, B. T.; Li, P. F.; Seferos, D. S. 
+The Rise of Organic Electrode Materials for Energy St or-
+age. Chem . Soc. Rev. 2016 , 45 (22), 6345 –6404. 
+https://doi.org/10.1039/c6cs00173d.  
+(21) An, S. Y.; Tyler, |; Schon, B.; Bryony, |; Mcallister, T.; 
+Seferos, D. S. Design Strategies for Organic Carbonyl Ma-
+terials for Energy Storage: Small Molecules, Oligom ers, 
+Polymers and Supramolecular Structures.  EcoMat  2020 , 2 
+(4), e12055 . https://doi.org/10.1002/eom2.12055.  
+(22) Sieuw, L.; Jouhara, A.; Quarez, E.; Auger, C.; Gohy, J. -F.; 
+Poizot, P.; Vlad, A. A H -Bond Stabilized Quinone Elec-
+trode Material for Li -Organic  Batteries: The Strength of 
+Weak Bonds.  Chem. Sci.  2019 ,  10, 418 –426. 
+https://doi.org/10.1039/c8sc02995d.  
+(23) Ma, T.; ing Zhao, Q.; Wang, J.; Pan, Z. A  Sulfur Hetero-
+cyclic Quinone Cathode and A  Multifunctional Binder for 
+A High -Performance Rechargeable Lithium -Ion Battery.  
+Angew. Chem. Int. Ed. 2016 , 55 (22), 6428 –6432.    
+https://doi.org/10.1002/ange.201601119.  
+(24) Miroshnikov, M.; Mahankali, K.; Thangavel, K.  N.; Sa-
+tapathy, S.; Reddya, L. M.; Ajayan, P. M.; Ohn, G. Bio-
+derived Molecular Electrodes  for Next -Generation En-
+ergy-Storage Materials.  ChemSusChem  2020, 2186 –2204.  
+https://doi.org/10.1002/cssc.201903589.  
+(25) Chen, H.; Armand, M.; Demailly, G.; Dolhem, F.; Poizot, 
+P.; Tarascon, J. -M. From Biomass to a Renewable Li XC6 
+O6 Organic Electrode for Sustainable Li -Ion Batteries.  
+ChemSusChem  2008 , 1 (4), 348 –355. 
+https://doi.org/10.1002/cssc.200700161.  
+(26) Amin, K.; Mao, L.; Wei, Z. Recent Progress in Polymeric 
+Carbonyl -Based Electrode Materials for Lithium and So-
+dium Ion Batte ries. Macromol . Rapid Commun . 2019 , 40 
+(1), 1 –25. https://doi.org/10.1002/marc.201800565.  
+(27) Hahn, S.; Alrayyani, M.; Sontheim, A.; Wang, X.; 
+Rominger, F.; Miljanić, O.; Bunz, U. H. F. Synthesis and 
+Characterization of Heterobenzenacyclo -Octaphanes De-
+rived from Cyclotetrabenzoin. Chem. Eur. J. 2017 , 23 
+(44), 10543 –10550. 
+https://doi.org/10.1002/ch em.201701125.  
+(28) Shimizu, A.; Kuramoto, H.; Tsujii, Y.; Nokami, T.; Ina-
+tomi, Y.; Hojo, N.; Suzuki, H.; Yoshida, J. I. Introduction 
+of Two Lithiooxycarbonyl Groups Enhances Cyclability 
+of Lithium Batteries with Organic Cathode Materials. J. 
+Power Sources  2014 , 260, 211 –217. 
+https://doi.org/10.1016/j.jpowsour.2014.03.027.  
+(29) Hernández -Burgos, K.; Rodríguez -Calero, G. G.; Zhou, 
+W.; Burkhardt, S. E.; Abruña, H. D. Increasing the Gravi-
+metric Energy Density of Organic Based Secondary Bat-
+tery Cathodes Using Sm all Radius C ations (Li+ and Mg2+). 
+J. Am. Chem. Soc. 2013 , 135 (39),  14532 –14535. 
+https://doi.org/10.1021/ja407273c . 
+(30) Liang, Y.; Zhang, P.; Chen, J. Function -Oriented Design 
+of Conjugated Carbonyl Compound Electrodes for High 
+Energy Lithium Batteries. Chem. Sci. 2013 , 4 (3), 1330 –
+1337. https://doi.org/10.1039/c3sc22093a.  
+(31) Nokami, T.; Matsuo, T.; Inatomi, Y.; Hojo, N.;  Tsu-
+kagoshi, T.; Yoshizawa, H.; Shimizu, A.; Kuramoto, H.; 
+Komae, K.; Tsuyama, H.; Yoshida, J. I. Polymer -Bound 
+Pyrene -4,5,9,10 -Tetraone for Fast -Charge and -Discharge  
+ Lithium -Ion Batteries with High Capacity. J. Am. Chem. 
+Soc. 2012 , 134 (48), 19694 –19700. 
+https://doi.org/10.1021/ja306663g.  
+(32) Gao, H.; Neale, A. R.; Zhu, Q.; Bahri, M.; Wang, X.; 
+Yang, H.; Xu, Y.; Clowes, R.; Browning, N. D.; Little, M. 
+A.; Hardwick, L. J.; Cooper, A. I. A Pyrene -4,5,9,10 -
+Tetraone -Based Covalent Organic Framework Delivers 
+High Specific Capacity as a Li -Ion Positive Electrode. J. 
+Am. Chem. Soc.  2022 , 144 (21), 9434 –9442. 
+https://doi.org/10.1021/jacs.2c02196.  
+(33) Zheng, S.; Miao, L.; Sun, T.; Li, L.; Ma, T.; Bao, J.; Tao, 
+Z.; Chen, J. An Extended Carbonyl -Rich Conjugated Pol-
+ymer Cathode for High -Capacity Lithium -Ion Batteries. J. 
+Mater. Chem. A  2021 , 9 (5), 2700 –2705. 
+https://doi.org/10.1039/D0TA11648C.  
+(34) Tang, M.; Li, H.; Wang, E.; Wang, C. Carbonyl Polymeric 
+Electrode Materials for Metal -Ion Batteries.  Chin . Chem . 
+Lett. 2018 , 29 (2), 232 –244. 
+https://doi.org/10.1016/j.cclet.2017.09.005.  
+(35) Kieslich, D.; Christoffers, J. Cyanide Anions as Nucleo-
+philic Catalysts in Organic Synthesis. Synthesis (Ger-
+many)  2021 , 53 (19), 3485 –3496.  
+https://doi.org/10.1055/ a-1499 -8943.  
+(36) Menon, R. S.; Biju, A. T.; Nair, V. Recent Advances in N -
+Heterocyclic Carbene (NHC) -Catalysed Benzoin Reac-
+tions. Beilstein J . Org. Chem . 2016 , 12, 444 –461. 
+https://doi.org/10.3762/bjoc.12.47.  
+(37) Wöhler; Liebig. Untersuchungen über das R adikal der 
+Benzoesäure. Ann. Pharm.  1832 , 3 (3), 249 –282. 
+https://doi.org/10.1002/jlac.18320030302.  
+(38) ADB -ALLA, M. Novel Synthesis of Poly(Benzoin) and 
+Poly(Benzil). Characterization and Application as Phto-
+sensitizer Materials. Macromol . Chem.  Phys.  1991, 192 
+(2), 277 –283. 
+https://doi.org/10.1002/macp.1991.021920209.  
+(39) Weiss, M.; Appel, M. The Catalytic Oxidation of Benzoin 
+to Benzil. J. Am. Chem. Soc. 1948 , 70 (11), 3666 –3667. 
+https://doi.org/10.1021/ja01191a036.  
+(40) Ashirov, T.; Alrayyani, M.; Song, K. -S.; Miljanić, O. Š.; 
+Coskun, A. Cyclotetrabenzil -Based Porous Organic Poly-
+mers with High Carbon Dioxide Affinity. Organic Mate-
+rials 2021 , 03 (02), 346 –352. htt ps://doi.org/10.1055/a -
+1512 -5753.  
+(41) Alrayyani, M.; Miljanić, O. Benzoins and Cyclobenzoins 
+in Supramolecular and Polymer Chemistry. Chem . Com-
+mun. 2018 , 54 (85), 11989 –11997. 
+https://doi.org/10.1039/c8cc07407k.  
+(42) Pinaud, J.; Vijayakrishna, K.; Taton, D.; Gnanou, Y. Step -
+Growth Polymerization of Terephthaldehyde Catalyzed by 
+N-Heterocyclic Carbenes. Macromolecules  2009 , 42 (14), 
+4932 –4936. https://doi.org/10.1021/ma900907f.  
+(43) Byrne, F. P.; Jin, S.; Paggiola, G.; Petchey, T. H. M.; 
+Clark, J. H.; Farme r, T. J.; Hunt, A. J.; Robert McElroy, 
+C.; Sherwood, J. Tools and Techniques for Solvent Selec-
+tion: Green Solvent Selection Guides. Sustain . Chem . Pro-
+cess. 2016 , 4 (1), 1 –24. https://doi.org/10.1186/s40508 -
+016-0051 -z. 
+(44) Yamamoto, T.; Komarudin, D.; Arai , M.; Lee, B. -L.; 
+Suganuma, H.; Asakawa, N.; Inoue, Y.; Kubota, K.; Sa-
+saki, S.; Fukuda, T.; Matsuda, H. Extensive Studies on π -
+Stacking of Poly(3 -Alkylthiophene -2,5-Diyl)s and Poly(4 -
+Alkylthiazole -2,5-Diyl)s by Optical Spectroscopy, NMR 
+Analysis, Light Sca ttering Analysis, and X -Ray Crystal-
+lography . J. Am. Chem. Soc.  1998 , 120 (9), 2047 –2058.  (45) Rovnyak, D. Tutorial on Analytic Theory for Cross -Polar-
+ization in Solid State NMR. Concepts Magn. Reson.  2008 , 
+32A (4), 254 –276. https://doi.org/10.1002/cmr.a.20115.  
+(46) Park, S. Y.; Kang, C. W.; Lee, S. M.; Kim, H. J.; Ko, Y. 
+J.; Choi, J.; Son, S. U. Nanoparticulate Conjugated Mi-
+croporous Polymer with Post -Modified Benzils for En-
+hanced Pseudocapacitor Performance. Chem. Eur. J.  2020 , 
+26 (54), 12343 –12348. 
+https://doi.org/10.1002/chem.202002311.  
+(47) Chandrasekaran, M.; Noel, M.; Krishnan, V. Voltammet-
+ric Behaviour of Benzil at a Glassy Carbon Electrode. J. 
+Chem. Soc., Perkin Trans. 1  1992 , 6, 979 –985. 
+https://doi.org /10.1039/p29920000979.  
+(48) Satyam, K.; Ramarao, J.; Suresh, S. N -Heterocyclic Car-
+bene (NHC) -Catalyzed Intramolecular Benzoin Conden-
+sation -Oxidation. Org. Biomol . Chem . 2021 , 19 (7), 1488 –
+1492. https://doi.org/10.1039/d0ob02606a.  
+(49) Shimakawa, Y.; Morika wa, T.; Sakaguchi, S. Facile Route 
+to Benzils from Aldehydes via NHC -Catalyzed Benzoin 
+Condensation under Metal -Free Conditions. Tetrahedron 
+Lett. 2010 , 51 (13), 1786 –1789. 
+https://doi.org/10.1016/j.tetlet.2010.01.103.  
+(50) Cho, D. G.; Jong, H. K.; Sessler , J. L. The Benzil -Cyanide 
+Reaction and Its Application to the Development of a Se-
+lective Cyanide Anion Indicator. J. Am. Chem. Soc. 2008 , 
+130 (36), 12163 –12167. 
+https://doi.org/10.1021/ja8039025.  
+(51) Kwart, H.; Baevsky, M. M. The Cyanide Ion Catalyzed 
+Cleavage of Aromatic α -Diketones. J. Am. Chem. Soc. 
+1958 , 80 (3), 580 –588. 
+https://doi.org/10.1021/ja01536a018.  
+(52) Cannizzaro, S. Ueber Den Der Benzoësäure 
+Entsprechenden Alkohol. Justus Liebigs Annalen der 
+Chemie  1853 , 88 (1), 129 –130. 
+https://doi.org/10. 1002/jlac.18530880114.  
+(53) Yamabe, S.; Yamazaki, S. Three Competitive Transition 
+States in the Benzoin Condensation Compared to the Clear 
+Rate-Determining Step in the Cannizzaro Reaction. Org. 
+Biomol. Chem.  2009 , 7 (5), 951. 
+https://doi.org/10.1039/b81784 9f. 
+(54) Yang, Z.; Wong, H. N. C.; Hon, P. M.; Chang, H. M.; Lee, 
+C. M. A Novel Synthesis of the Dibenz[6,/]Oxepin Ring 
+System: 10,11 -Dihydro -11-Hydroxydibenz[6,/]Oxepin -
+10(l 117) -One. J. Org. Chem  1992 , 57 (14),  4033 –4034.  
+https://doi.org/10.1021/jo00040a059 . 
+(55) Peterson, B. M.; Ren, D.; Shen, L.; Wu, Y. C. M.; Ulgut, 
+B.; Coates, G. W.; Abruna, H. D.; Fors, B. P. Phenothia-
+zine-Based Polymer Cathode Materials with Ultrahigh 
+Power Densities for Lithium Ion Batteries. ACS App lied 
+Energy Materials  2018 , 1 (8), 3560 –3564. 
+https://doi.org/10.1021/acsaem.8b00778.  
+(56) Gannett, C. N.; Peterson, B. M.; Shen, L.; Seok, J.; Fors, 
+B. P.; Abruña, H. D. Cross‐linking Effects on Performance 
+Metrics of Phenazine‐Based Polymer Cathodes. ChemSus-
+Chem  2020 , 13 (9), 2428 –2435. 
+https://doi.org/10.1002/cssc.201903243.  
+(57) Peng, C.; Ning, G. -H.; Su, J.; Zhong, G.; Tang, W.; Tian, 
+B.; Su, C.; Yu, D.; Zu, L.; Yang, J.; Ng, M. -F.; Hu, Y. -S.; 
+Yang, Y.; Armand, M.; Loh, K. P. Reversible Multi -Elec-
+tron Redox Chemistry of π -Conjugated N -Containing Het-
+eroaromatic Molecule -Based Organic Cathodes. Nat. En-
+ergy 2017 , 2 (7), 17074. 
+https://doi.org/10.1038/nenergy.2017.74.  
+(58) Verdejo, R.; Bernal, M. M.; Romasanta, L. J.; Lopez -
+Manchado, M. A. Graphene Filled P olymer  
+ Nanocomposites. J. Mater. Chem.  2011 , 21 (10), 3301 –
+3310. https://doi.org/10.1039/C0JM02708A.  
+(59) Nisula, M.; Karppinen, M. In Situ  Lithiated Quinone Cath-
+ode for ALD/MLD -Fabricated High -Power Thin -Film 
+Battery. J. Mater. Chem. A  2018 , 6 (16), 7027 –7033. 
+https://doi.org/10.1039/C8TA00804C.  
+(60) Suga, T.; Konishi, H.; Nishide, H. Photocrosslinked Ni-
+troxide Polymer Cathode -Active Materia ls for Application 
+in an Organic -Based Paper Battery. Chem. Commun.  
+2007 , No. 17, 1730. https://doi.org/10.1039/b618710b.  
+(61) Tan, S. -J.; Zeng, X. -X.; Ma, Q.; Wu, X. -W.; Guo, Y. -G. 
+Recent Advancements in Polymer -Based Composite Elec-
+trolytes for Rechargeable Lithium Batteries. Electrochem. 
+Energ. Rev.  2018 , 1 (2), 113 –138. 
+https://doi.org/10.1007/s41918 -018-0011 -2. 
+(62) Dirlam, P.  T.; Glass, R. S.; Char, K.; Pyun, J. The Use of 
+Polymers in Li‐S Batteries: A Review. J. Polym. Sci. Part 
+A: Polym. Chem.  2017 , 55 (10), 1635 –1668. 
+https://doi.org/10.1002/pola.28551.  
+(63) Lopez, J.; Mackanic, D. G.; Cui, Y.; Bao, Z. Designing 
+Polymers fo r Advanced Battery Chemistries. Nat. Rev. 
+Mater . 2019 , 4 (5), 312 –330. 
+https://doi.org/10.1038/s41578 -019-0103 -6. 
+(64) Gannett, C. N.; Peterson, B. M.; Melecio -Zambrano, L.; 
+Trainor, C. Q.; Fors, B. P.; Abruña, H. D. Performance 
+Optimization and Fast Rate Capabilities of Novel Polymer 
+Cathode Materials through Balanced Electronic and Ionic 
+Transport. J. Mater. Chem. A  2021 , 9 (9), 5657 –5663. 
+https://doi.org/10.1039/D0TA11099J.  
+(65) Haynes, W. M. Abundance of Elements in the Earth’s 
+Crust and in the Sea. In CRC Handbook of Chemistry and 
+Physics ; Lide, D. R., Bruno, Thomas J., Eds.; CRC Press; 
+pp 14 –17. (66) Walter, M.; Kravchyk, K. V.; Ibáñez, M.; Kovalenko, M. 
+V. Efficient and Inexpensive Sodium –Magnesium Hybrid 
+Battery. Chem. Mater.  2015 , 27 (21), 7452 –7458 . 
+https://doi.org/10.1021/acs.chemmater.5b03531.  
+(67) Ma, D.; Zhao, H.; Cao, F.; Zhao, H.; Li, J.; Wang, L.; Liu, 
+K. A Carbonyl -Rich Covalent Organic Framework as a 
+High -Performance Cathode Material for Aqueous Re-
+chargeable Zinc -Ion Batteries. Chem. Sci.  2022, 13 (8), 
+2385 –2390. https://doi.org/10.1039/D1SC06412F.  
+(68) Pearson, R. G. Hard and Soft Acids and Bases. J. Am. 
+Chem. Soc.  1963 , 85 (22), 3533 –3539.  
+(69) Ji, X. A Paradigm of Storage Batteries. Energy Environ. 
+Sci. 2019 , 12 (11), 3203 –3224. 
+https://d oi.org/10.1039/C9EE02356A.  
+(70) Gannett, C. N.; Kim, J.; Tirtariyadi, D.; Abru ña, H. D.; 
+Milner, P. J. Investigation of Ion -Electrode Interactions of 
+Linear Polyimides and Alkali Metal Ions for Next Gener-
+ation Alternative -Ion Batteries. Chem. Sci.  2022 . 
+https://doi.org/10.1039/C7SC03842A.  
+(71) Wu, X.; Markir, A.; Ma, L.; Xu, Y.; Jiang, H.; Leonard, D. 
+P.; Shin, W.; Wu, T.; Lu, J.; Ji, X. A Four -Electron Sulfur 
+Electrode Hosting a Cu2+/Cu+ Redox Charge Carrier. An-
+gew. Chem. Int. Ed.  2019 , 58 (36), 12640 –12645. 
+https://doi.org/10.1002/anie.201905875.  
+(72) Dong, S.; Shin, W.; Jiang, H.; Wu, X.; Li, Z.; Holoubek, 
+J.; Stickle, W. F.; Key, B.; Liu, C.; Lu, J.; Greaney, P. 
+Alex.; Zhang, X.; Ji, X. Ultra -Fast NH 4+ Storage: Strong 
+H Bonding between N H4+ and Bi -Layered V 2O5. Chem  
+2019 , 5 (6), 1537 –1551. 
+https://doi.org/10.1016/j.chempr.2019.03.009.  
+   
+ 
+ 12 Insert Table of Contents artwork here  
+ 

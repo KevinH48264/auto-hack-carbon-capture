@@ -1,0 +1,703 @@
+Revealing impacts of electrolyte speciation on ionic charge storage in aluminum-quinone batteries by NMR spectroscopy
+https://leowgordon.github.io/assets/pdf/Gordon2023_Preprint.pdf
+ 1 Revealing Impacts of Electrolyte Speciation 
+on Ionic Charge Storage in Aluminum -
+Quinone Batteries  by NMR  Spectroscopy  
+Leo W. Gordon, Jonah Wang , Robert J. Messinger*  
+Department of Chemical Engineering, The City College of New York, CUNY, 160 Convent Ave., New York, NY 10031, 
+USA  
+Abstract  
+Rechargeable aluminum -organic batteries are composed of earth -abundant , sustainable electrode materials while 
+the molecular structur es of the organic materials can be controlled to tune their electrochemical properties . 
+Aluminum metal batteries typically use electrolytes based on chloroaluminate  ionic liquid s or deep  eutectic solvents  
+that are comprised  of polyatomic  aluminum -containing ions. Quinone -based organic electrodes store charge when 
+chloroaluminous cations (AlCl 2+) charge compensate their electrochemically reduced carbonyl groups, even when 
+such cations are not natively present in the electrolyte. However, h ow ion speciation in the electrolyte affects the 
+ion charge storage mechanism, and resultant battery performance, is not well understood.  Here, we couple solid -
+state  NMR spectroscopy with electrochemical and computational methods to show for the first time  that electrolyte -
+dependent ion speciation significantly alters the molecular -level environments of the charge -compensating cations, 
+which in turn influences battery properties. Using 1,5-dichloroanthraquinone  (DCQ)  for the first time as an organic 
+electro de material, we utilize  dipolar -mediated solid -state NMR experiments to elucidate distinct  aluminum 
+coordination environments upon discharge that depend significantly on electrolyte speciation . We relate DFT -
+calculated NMR parameters  to experimentally dete rmined quantities , revealing insights into their origins. The results 
+establish that  electrolyte  ion speciation impact s the local environments of charge -compensating chloroaluminous 
+cations  and is a crucial design parameter for rechargeable aluminum -organi c batteries.  
+Introduction  
+Batteries composed of low -cost, safe, earth abundant, and highly recyclable materials are needed to secure the 
+planet’s future energy needs. Much of this requirement will be large -scale grid storage necessitated by intermittent 
+renewable energy sources, such as wind and solar.  Aluminum (Al) metal has many benefits  as a battery  electrode , 
+including high earth crust  abundance  (8.23 wt.%),  large theoretical volumetric capacity ( 8046 mA h mL–1), low cost , 
+and safety . Despite these advantages, aluminum batteries are still in their infancy , primarily because few electrolytes 
+enable electro plating and stripping Al metal at room temperature . Rechargeable aluminum batteries  currently use 
+chloroaluminate ionic liquid (IL) and IL analogue (ILA) electrolytes , whose Lewis acidic mixtures remove the native 
+oxide layer and enable reversible electrop lating of Al metal .[1–6] However, chloroaluminate species are corrosive 
+and reactive, while many positive el ectrode  materials are not (electro)chemically stable with used with them .[7]  
+ 
+Organic battery electrode materials can be designed at a molecular level to tailor properties ranging from cell voltage 
+to electrolyte compatibility . Aluminum -organic batteries  are of particular interest due to  the mutual benefits of 
+abundance , safety,  and low cost of the electrodes .[8–19] Aromatic quinones are attractive as battery electrodes due 
+to their inherent electrochemical redox activity and weak intermolecular bonds that allow ion transport with low 
+energetic b arriers. A luminum -quinone batteries have primarily been studied using the Lewis acidic AlCl 3:[EMIm]Cl IL 
+electrolyte, where aluminum is found as chloroaluminate anions  (AlCl 4– and Al2Cl7–). However , quinone -based  
+cathode s in this electrolyte are generally reported to store charge via complexation of polyatomic chloro aluminous 
+cations  (AlCl 2+),[8–11,15 –17] but also as divalent AlCl2+ [12,13]  or even trivalent Al3+ [14]. The complexation of 
+aluminum -containing cations poses a key question: how do the se electroactive cationic  species  form in an ele ctrolyte 
+natively containing only chloroaluminate anions ? To date, just o ne study by Kao et al. [17] has been conducted on 
+aluminum -organic batterie s using an alternative electrolyte , specifically the AlCl 3:urea ILA , where in addition to the  2 chloroaluminate anions,  neutral and cationic aluminum -containing species also exist : AlCl 2[urea] 2+, AlCl 3[urea] , and 
+AlCl 3[urea] 2.[3,20]   The ion charge storage mechanism in this system was proposed to utilize the  AlCl 2[urea] 2+ cations 
+directly , yet much remains to be understood about the charge storage mechanisms in this electrolyte.  Understanding 
+the fundamental mechanistic processes underpinning these emerging battery chemistries is crucial for the scientific 
+and technological  development of these battery system s.   
+ 
+Solid -state nuclear magnetic resonance (NMR) spectroscopy is  uniquely suited for studying charge storage 
+mechanisms in aluminum -organic batteries . Protons are abundant in the electroactive organic molecules, which can 
+be characteriz ed directly or used in heteronuclear dipolar -mediated NMR experiments  to probe other nuclei .[21] 
+The 27Al nucl ide is also highly sensitive as it is  100% naturally abundant  and has a  high gyromagnetic ratio ( 𝛾 = 
+6.976 ×107 rad s–1 T–1, receptivity  of 1.22x103 relative to 13C). Due to their  quadrupolar nature (spin-5/2), 27Al nuclei 
+interact with local electric field gradients (EFGs),  yield ing complex  quadrupolar lineshapes resulting from the second -
+order quadrupolar interactions that are  not averaged out by MAS. [22–24] Information on aluminum symmetry and 
+ligation is encoded with in these quadrupolar lineshapes ; therefore , measuring and understanding quadrupolar 
+parameters can yield critical insights into local  aluminum binding environments , such as those of  charge -
+compensating  polyatomic aluminum cations.  Lastly, solid -state NMR enables analysis of heterogeneous battery 
+electrodes containing both solid and residual liquid electrolyte , e.g., as recently demonstrated in Al -sulfur 
+batteries. [25]  The advantage is two -fold: (i) solvent washing is mitigated which can otherwise  alter the sample, 
+while (ii) the mobile ( liquid ) species can be selective ly filtered using  dipolar -mediated experiments  and/or by 
+leveraging differences in nutation of the liquid and solid quadrupolar nuclei , revealing only the solid .[9,25]  Recently, 
+Gordon et al. [9] used multi -dimensional solid -state NMR spectroscopy, including dipolar filt ers, to measure 
+experimentally the ionic and electronic charge storage mechanisms in an Al -quinone  battery electrode (indanthrone 
+quinone, INDQ), revealing electrochemical enolization and the tetrahedral nature of the charge -compensating 
+chloroaluminous Al Cl2+ cation upon charge compensation.  To date, this remains the only solid -state NMR study of 
+Al-quinone  battery systems.  
+ 
+Here , we perform multi -dimensional  solid -state NMR measurements , in concert with  electrochemical techniques 
+and DFT calculations , on aluminum  metal batteries using 1,5-dichloroanthraquinone (DCQ) as an organic cathod e 
+material  to understand how  electrolyte speciation  affects the  ionic charge storage mechanism  up from the molecular 
+level. DCQ was chosen as a small anthraquinone -based molecule  as it is expected to be generali zable  to existing Al-
+organic battery literature using quinone -based electrodes , while its chlorine substituents result in  modestly 
+improved  cell voltages  compared to anthraquinone .[26] Three  IL and ILA  electrolytes  were tested, which  each 
+contain unique ion speciations that are shown to result in different local environments and distri bution s of the 
+polyatomic aluminum cat ions complexing to DCQ . We couple solid -state NMR measurements with DFT calculations 
+to identify probable configurations of the charge -compensating ions and to understand the thermodynamics of 
+competitive reaction mechanisms  originating  from different electrolyte  species . 
+Results and Discussion  
+Three  different electrolytes with unique ion speciations were compared to systematically test existing hypotheses 
+of the Al -quinone charge storage mechanism : (i) AlCl 3:[EMIm]Cl (1.5 :1 molar ratio ), (ii) AlCl 3:urea (1.3:1  molar ratio ), 
+and (iii) AlCl 3:propionami de (1.3:1  molar ratio ). The AlCl 3:[EMIm]Cl IL contains Al2Cl7– and AlCl 4–, whereas the urea 
+and propionamide  (PA)  ILAs contain Al2Cl7–, AlCl 4–, AlCl 2L2+, AlCl 3L and AlCl 3L2, where L = urea  or propionamide, 
+respectively .[3,27]  It was previously proposed  that electroactive chloroaluminous AlCl 2+ cations  are produced from 
+Al2Cl7– in aluminum -quinone batteries using AlCl 3:[EMIm]Cl  electrolytes .[9,15]  However , in electrolytes that contain  
+polyatomic AlCl 2L2+ cations  alongside Al2Cl7– anions,  such as the ILAs , it is unclear how the ion charge storage reaction 
+would proceed and what competition would exist in generating ions from the native electrolyte species . To study 
+these effects up from the molecular level, solid -state NMR experiments were performed on DC Q electrodes 
+electrochemically cycled in the  different electrolytes, including dipolar -mediated and multiple -quantum NMR 
+measurements  (Figure 1) , the results of which  are discussed below.   3  
+Figure 1.  Solid -state NMR experiments  used in this work. (a)  Three -pulse 27Al{27Al} multiple -quantum MAS (MQ -MAS) pulse 
+sequence. (b) 1H{1H} dipolar -mediated double -quantum filter (D -DQF) pulse sequence using  BaBa -xy8 blocks  [28] for double -
+quantum (DQ)  excitation and conversion. (c)  13C{1H} CP -MAS pulse sequence with ramped X -channel power. (d) 27Al{1H} dipolar -
+mediated heteronuclear multiple -quantum correlation (D -HMQC) pulse sequence with SR421 recoupling blocks  [29,30]  and a 
+double -frequency swe ep (DFS) p reparatory pulse. (e) ⍺ and β pulse phases in the SR421 scheme . The sequence increments every 
+two rotor periods from red -blue -green for a six -rotor -period supercycle . A minimum of two rotor periods are required for 
+recoupling, and optimally multiples of six rotor periods should be used for completing the full supercycle .  
+Electrochemical Cycling of Al -DCQ Cells.  Galvanostatic cycling was  first performed on Al-DCQ  cells wi th each of the 
+three electrolytes  to characterize their electrochemical properties  (Figure 2). The theoretical capacity of a DCQ 
+electrode is expected to be 193.4 mA h g–1, assuming a two -electron reaction per molecule of DCQ. These cells were 
+fabricated without performance optimization measures such as melt -infused carbons [13] or functionalized 
+separators [31] as our intention was to study how electrolyte  speciation affects the ion  charge storage mechanism.  
+Based on results from similar  anthraquinone -based electrode materials , the carbonyl groups of DCQ are  
+electrochemically  reduced upon discharge in an enolization reaction and are subsequently charge -compensated by 
+AlCl 2+ ions. [9,11,12,15]   
+ 
+ 
+ 
+Figure 2. Galvanostatic cycling curves  of Al -DCQ cells using (a) AlCl 3:[EMIm]Cl  (1.5:1) , (b) AlCl 3:urea  (1.3:1) , and (c) AlCl 3:PA  (1.3:1) 
+electrolytes performed at 10 mA g–1 and 60 ˚C. Note the differences in the scale of the x-axes. 
+ 
+DCQ discharged in the AlCl 3:[EMIm]Cl electrolyte yielded an initial specific discharge capacity of 200 mA h g–1, close 
+to the theoretical capacity,  with a single, flat plateau  at a potential of 1.0 V (Figure 2a). The discharge capacities 
+reduce d upon further  cycling , possibly a result of dissolution of partially charged DCQ molecules  in the 
+ 4 electrolyte, [31] which could be mitigated by oligomerizing or polymerizing DC Q. The first cha rge step had three 
+distinct plateaus with an overall specific capacity more than double that of the discharge . The two higher potential 
+plateaus are of unknown origin and are reduced i n subsequent charges, while  the overall charge capacity  becomes  
+commensu rate with the reduced discharge capacities. For DCQ discharged in the ILAs, the initial discharge specific 
+capacities are lower compared to  the IL : 68 mA h g–1 for AlCl 3:urea  (Figure 2b) and 120 mA h g–1 for AlCl 3:PA (Figure 
+2c). In the AlCl 3:urea electrolyte , the flat discharge plateaus  at 1.0 V are followed by a long sloping profile . The 
+AlCl 3:PA electrolyte demonstrates a similar behavior after cycle 1, though the sloping part of the curve is more 
+pronounced. The sloping discharge profiles may be a result of disorder imparted to the electrode following the initial 
+discharge.  Charge reactions for both ILAs  also exhibit higher potential plateau s, similar to  DCQ discharged in 
+AlCl 3:[EMIm]Cl. For all electrolytes, the  overpotential for ion removal upon charge may be associated with ion -
+assisted solvation of complexed AlCl 2+ ions and mass -transport limitations .[32] The galvanostatic cycling tests were 
+performed at 60  ˚C to mitigate impacts from differences in electrolyte conductivity and enhance electrochemical 
+kinetics, enabling better comparisons of the ion charge storage mechanism .[20,33,34]  
+ 
+Cyclic voltammetry (CV) experiments follow ed similar trends to that of the galvanostatic cycling (Figure S 1). For 
+example , the smallest currents were observed with  the AlCl 3:urea  electrolyte where as the AlCl 3:PA electrolyte 
+yielded broad peaks commensurate with the sloping plateaus observed in its galvanostatic cycling. Interestingly, two 
+sets of redox peaks are observed in  the CV curves for the AlCl 3:[EMIm]Cl  electrolyte , a result similar to that  using  
+indanthrone quinone .[9] The reduction peak at ca. 0.3 V may be associated with EMIm+ cation decomposition and 
+is discussed further below.   
+ 
+Characterization of Pristine DCQ . Solid -state 1H and 13C NMR spectra of pristine DCQ powder were acquired , 
+alongside powder X -ray diffracti on (XRD)  measurements, to characterize the material as a baseline (Figure 3). 
+ 
+ 
+ 
+Figure 3. Solid -state (a) 1H spin -echo  and (b) 13C{1H} CP -MAS  NMR spectr a of pristine DCQ powder acquired at 35 kHz MAS and 
+14.1 T . Inset  in (b) : molecular structure of DCQ with 13C signal assignments . (c) Powder X RD pattern of a pristine DCQ electrode 
+(black) shown with the simulated pattern (red,  PDF# 00 -029-1666 ). Inset:  crystal structure of DCQ . 
+ 
+The 1H spin -echo NMR spectrum (Figure 3a) yields one broad signal in the aromatic region.  Interestingly, the  1H T1 
+relaxation time  is 655 s. This long longitudinal relaxation is typical for a rigid, crystalline material, as the DCQ 
+molecules are highly ordered  with strong intermolecular interactions due to  both π-π stacking and halogen  
+bonding .[35] The 13C{1H} cross -polarization MAS ( CP-MAS ) NMR spectrum (Figure 3b ; pul se sequence in Figure 1 c) 
+shows  13C signals  in three groups: carbonyl ( carbon ‘ 1’), aromatic ( ‘3’-‘6’), and quaternary ( ‘2’, ‘7’).[36] The powder 
+XRD pattern (Figure 3c) shows the crystallinity  of DCQ , consistent with its long 1H T1 relaxation time . The intense 
+reflection at  a 2𝜽 angle of 25.65°, corresponding to a d-spacing of 3.56 Å, corresponds to  the interlayer spacing . 
+ 
+Understanding Electrolyte Species by NMR.  Liquid -state 27Al single -pulse experiments were acquired under 
+quantitative conditions to determine the aluminum  species in the pristine electrolytes  for both the Lewis acidic ratios 
+ 5 (Figure 4a,d,g) used  in electrochemical cells as well as  their Lewis neutral equivalents  (Figure 4b,e,h ). The aluminum 
+species expected for all three electrolytes were observed : AlCl 3:[EMIm] contains AlCl 4– and Al2Cl7–,[33,37]  whereas  
+AlCl 3:urea [3,38]  and AlCl 3:PA[27,34,39,40]  contain AlCl 4–, AlCl 2L2+, AlCl 3L, and AlCl 3L2 (where L is the ligand, either 
+urea or propionamide) , as well as  Al2Cl7–. Significant line broadening is observed in the 27Al NMR spectra for the 
+Lewis acidic mixtures (Figure 4a,d,g) ,  a result of rapid  chemical  exchange on the NMR timescale  facilitated by the 
+presence of Al 2Cl7–. This effect is particularly pronounced for the AlCl 3:urea electrolyte, where all 27Al signals merge 
+into one broad  signal .[27,33]  
+ 
+DCQ electrodes were discharged in Al -DCQ cells (10 mA g –1, cycle 3),  harvested , and packed into NMR rotors along 
+with residual liquid electrolyte trapped within the electrode pores , uniquely enabling simultaneous , nucleus -specific  
+characterization of both  the solid discharged electrode and  liquid electrolyte  remnants . The solid -state 27Al spin-
+echo NMR  experiments (Figure 4c, f, i) were acquired with an rf  pulse length of π/2 (w ith respect  to 1 M aqueous 
+Al(NO 3)3), exciting predominantly the liquid  electrolyte  signals  because (i)  the solid 27Al signals are quadrupolar (see 
+below) and nutate at a faster rate [41,42] , resulting in poor excitation over the two -pulse sequence, coupled with 
+(ii) the faster transverse  T2 relaxation times of the solid 27Al environments,  working as a transverse relaxation  filter .  
+Thus, to a first approximation, the 27Al spin -echo NMR measurements  selectively analyze s the residual liquid 
+electrolyte in the pores of the solid discharged electrodes , which can be compared to the pristine Lewis acidic  
+electrolytes  and their Lewis neutral equivalents.  Liquid -state 1H single -pulse NMR spectra of the pris tine electrolytes 
+yielded 1H signals associated with EMIm+ cations, urea, or propionamide, as expected  (Figure S2).  
+ 
+ 
+Figure 4. Liquid -state 27Al NMR spectra of Lewis acidic (a) AlCl 3:[EMIm]Cl (1.5:1),  (d) AlCl 3:urea (1.3:1), and (g) AlCl 3:PA (1.3:1) 
+electrolytes , and  (b, e, h) their Lewis neutral equivalents  (1:1), acquired at 7.05 T . (c, f, i) Solid-state 27Al spin-echo NMR spectra 
+of DCQ electrode s after galvanostatic discharge (10 mA g–1, cycle 3), revealing predominantly residual  liquid  electrolyte within  
+the pores , acquired at 40 kHz MAS and 14.1 T.  Molecular structures of electrolyte species are shown and their corresponding 27Al 
+signal assignments are indicated on the NMR spectra.  
+ 
+Analyzing the 27Al NMR spectra reveals insights into aluminum ion speciation in the residual electrolytes  after 
+discharge . The liquid -state 27Al spin-echo NMR spectrum of the Lewis acidic AlCl 3:[EMIm]Cl electrolyte (Figure 4a) 
+exhibits 27Al signals corresp onding to AlCl 4– (103 ppm) and Al 2Cl7– (98 ppm), whereas the Lewis neutral electrolyte 
+ 6 (Figure 4b) contains only AlCl 4–. The solid -state 27Al spin -echo NMR spectrum of the discharged DCQ electrode  reveals 
+that the residual electrolyte  contained  both  Al2Cl7–, and AlCl 4– (Figure 4c), indicating that it retains Lewis acidity upon 
+discharge . The liquid -state 27Al single -pulse NMR spectra of the Lewis acidic AlCl 3:urea  and AlCl 3:PA ILAs (Figure s 
+4d,g) exhibit  broad lineshapes due to  rapid chemical exchange facilitated by Al 2Cl7– in the electrolyte s, as noted 
+above . The liquid -state  27Al NMR spectra of the Lewis neutral ILAs (Figures 4e,h) contain much sharper signals and 
+bear striking resemblances to the solid -state 27Al spin -echo NMR spectra of the residual liquid from DCQ electrodes 
+discharged in the respective electrolytes  (Figure 4f,i), establishing  that the  electrochemical  discharge process 
+consumes Al 2Cl7–. This important result reveals that the Lewis acidic chloroaluminate  electrolytes lose Lewis acidity  
+during cycling , becom ing more  Lewis neutral upon full discharge in DCQ cells, with greater consequence for the ILA 
+electrolytes that have less Al 2Cl7– over all. This finding may help to explain the lower  specific capacit ies and worse  
+electrochemical performance  of the ILA electrolytes  compared to the Lewis acidic AlCl 3:[EMIm ]Cl IL electrolyte.  
+ 
+Molecular -Level Environments of  Aluminum Discharge Products.  Due to the overlap of 27Al NMR signals from solid 
+and liquid species in the solid -state NMR  spectra  of the discharged electrodes , solid -state 27Al{1H} and 1H{1H} dipolar -
+mediated NMR techniques  were used to selectively probe the solid aluminum discharge products . These dipolar 
+filters  depend upon the through -space magnetic dipole -dipole interactions between nuclear spins, which in turn 
+depend upon (i) through -space internuclear distances (probe sub-nanometer length scales) and (ii) relative 
+molecular mobilities. Dipolar -mediated correlation or filtering experiments will not reveal nuclear spins that are far 
+apart (> 1 nm) or experience rapid isotropic mobilities that average away the dipolar inte ractions. Here, we use solid -
+state  27Al{1H} dipolar -mediated heteronuclear multiple -quantum correlation (D -HMQC ) NMR experiments  using the 
+symmetry -based SR421 sequence (Figure 1d,e) , which reveal  27Al signals that are dipole -dipole -coupled with, and 
+hence  in close molecular proximity to, the 1H signals of the DC Q molecules. This experiment thus reveals specifically 
+the 27Al signals associated with the solid aluminum -DCQ discharge products. 2D 27Al{1H} D -HMQC NMR spectra 
+(Figures 5a,e,i) measure through -space interactions between 27Al and 1H nuclei in different molecular -level 
+environments. Separately acquired 1D 27Al{1H} D -HQMC  spectra  (Figures 5b,f,j)  acquired with greater signal -to-noise  
+than the 1D project ions are plotted along the horizontal axis, along with solid -state 27Al single -pulse  spectra (Figures 
+5c,g,k) acquired under quantitative conditions ( π/12  pulse, fully relaxed between scans ) that show both solid and 
+liquid signals.  In addition,  1D 1H{1H} dipola r-mediated double -quantum -filtered (D -DQF)  experiments using the BaBa -
+xy8 sequence (Figures 5d,h,l; pulse sequence in Figure 1b)  are plotted along the vertical axis, which were used to 
+filter the proton signals of residual electrolyte  and reveal only solid  1H signals.  
+ 
+ 
+Figure 5. Solid -state (a,e,i) 2D 27Al{1H} D -HMQC (SR421) NMR spectr a, (b,f,j) 1D 27Al{1H} D -HMQC (SR421) NMR spectr a, (c,g,k) 1D 
+27Al single -pulse (π/12) NMR spectra, and (d,h,l) 1D 1H{1H} D -DQF (BaBa -xy8) NMR spectra of DCQ electrodes after galvanostatic 
+discharge (10 mA g–1, cycle 3)  using (a-d) AlCl 3:[EMIm]Cl  (1.5:1) , (e-h) AlCl 3:urea (1.3:1), and (i -l) AlCl 3:PA (1.3:1)  electrolytes , 
+acquired at 40 kHz MAS and 14.1 T . The quadrupolar 27Al environments I (red) and II (blue) are associated with AlCl 2+ complexed 
+to DCQ . 
+ 
+ 7 The solid -state 2D 27Al{1H} D -HMQC NMR spectrum of DCQ discharged in Lewis acidic AlCl 3:[EMIm]Cl electrolyte 
+(Figure 5a) yielded 2D correlated signal  intensities  between the 27Al environments in the tetrahedral shift region  at 
+ca. 91 ppm (environment I) and 75 ppm (environment II) and the aromatic 1H environments centered at  7.5 ppm  
+associated with DC Q, establishing their subnanometer -scale proximities . The  1D 27Al{1H} D -HMQC spectrum (Figure 
+5b) reveals that the two 27Al environments , which  correspond to distinct tetrahedrally -coordinated solid discharge 
+products,  exhibit  complex  lineshapes indicative of  ordered quadrupolar environments (confirmed by 2D 27Al{27Al} 
+MQ-MAS experiments below) . These two 27Al environments are also observable in the quantitative  27Al single -pulse 
+spectrum (Figure 5c), along with signals corresponding to residual liquid electrolyte species that are not observable 
+in the 27Al{1H} D -HMQC experiments due to rapid molecular mobilities . The aromatic 1H signals centered at 7.5 ppm 
+in the 1H{1H} D -DQF spectrum (Figure 5d) correspond to the 1H shift of DCQ protons  (Figure 3a). There are a dditional  
+1H signals at 1.4, 1.6, 3.8, 4.0, 7.2, and 8.2 ppm  that exhibit heteronuclear 1H–27Al dipol e-dipole  interactions with 
+27Al environments I and II, which are  associated with EMIm+ cations  and any of its electrochemical degradation 
+products. [9,43]   Thus, EMIm+ cations are also immobilized and in close molecular proximity to coordinated aluminum 
+species.  
+ 
+An identical suite of solid -state NMR experiments acquired on DCQ discharged in the Lewis acidic AlCl 3:urea (Figure 
+5e-h) or AlCl 3:PA (Figure 5i -l) ILAs reveal key differences that yield insights into the role of the organic electrolytes 
+species on the molecular environments of the charge -compensating chloroaluminous cations. For the AlCl 3:urea 
+electrolyte, 2D 27Al{1H} D -HMQC spectrum (Figure 5e) also exhibits 2D correlated signal intensity between 27Al signals 
+associated with environments I and II and the DCQ 1H signals at 7.5 ppm, establishing their mutual interactions.  The 
+1D 27Al{1H} D -HMQC spectrum (Figure 5f) clearly shows both distinct 27Al environments. Curiously, for DCQ 
+discharged in the AlCl 3:PA electrolyte, the solid -state 1D 27Al{1H} D -HMQC spectrum (Figure 5j) reveals only one 27Al 
+signal (environment II).  While the origin of this difference is not unknown, it must be linked to the structure of PA, 
+which is more sterically bulky and hydrophobic compared to urea. The quantitative 27Al single -pulse spectra (Figure 
+5g,k) indicate the Lewis neutral nature of  the residual liquid electrolytes and highlight the effectiveness of the 
+dipolar -mediated experiments in filtering out the mobile liquid signals. Lastly, both the 1H{1H} D -DQF spectra (Figure 
+5h,l) and 2D 27Al{1H} D -HMQC spectra (Figure 5e,i) do not reveal  the presence of appreciable 1H signals from AlCl 3L, 
+AlCl 3L2, or AlCl 2L2+ species in the solid phase, or their interactions with aluminum environments bound to DCQ, unlike 
+the EMIm+ cations.   
+ 
+To confirm the quadrupolar nature of the 27Al environments and  understand their lineshapes , a 2D 27Al{27Al} 
+multiple -quantum MAS (MQ -MAS) NMR experiment (pulse sequence in Figure 1 a) was performed on the DCQ 
+discharged in Lewis acidic AlCl 3:[EMIm]Cl electrolyte . The 2D 27Al{27Al} MQ -MAS spectrum (Figure 6a) reveals two 
+27Al signals with distinct quadrupolar lineshapes that are partially overlapping signals in the MAS dimension (Figure 
+6b) but resolved in the isotropic dimension of the 2D spectrum. Slices were taken through the 27Al signals  in the 
+isotropic dimension and the individual lineshapes were fitted using DMFit  [44] to obtain their NMR parameters. The 
+simulated quadrupolar lineshapes using these parameters are shown (Figure 6c). E nvironment I (96.2 ppm, isotropic 
+dimension) had a qu adrupolar coupling constant CQ of ca. 3.5 MHz and an asymmetry parameter η of 0.32, while 
+environment II (98.8 ppm, isotropic dimension) had a C Q of ca. 7.7 MHz and η of 0.59. Given the symmetrical 
+structure of DCQ, it is interesting that two distinct 27Al environments are observed. The complexing ion is expected 
+to be AlCl 2+, based on the tetrahedral coordination environment of Al; therefore, there must exist at least two locally 
+stable configurations of AlCl 2+ with distinct electric field gradients (EFGs) .  Furthermore, these environments can be 
+affected by electrolyte  ion speciation, as D CQ discharged in Lewis acidic AlCl 3:PA electrolyte did not exhibit a 27Al 
+signal similar to environment I, as discussed above.     
+  8   
+Figure 6. (a) 2D solid -state 27Al{27Al} MQ -MAS NMR  spectrum  of a DCQ electrode after galvanostatic discharged (10 mA g–1, cycle 
+3) in AlCl 3:[EMIm]Cl  (1.5:1)  electrolyte  and (b) 1D 27Al quadrupolar MQ-MAS skyline projection , acquired at 40 kHz MAS and 14.1 
+T, with 27Al environments I (red) and II (blue) labeled in (b).  (c) Simulated 27Al quadrupolar MAS lineshape s for environments I 
+(red) and II (blue) of AlCl 2+ complexed with DCQ  (intensities scaled for clarity ). 
+ 
+DFT Calculations Establish Links Between Physical Properties and NMR Parameters.  To gain further insight into the 
+origin of the different 27Al environments and their quadrupolar lineshapes, DFT calculations were performed on 
+systems of quinones with chloroaluminous AlCl 2+ cations in different positions and coordination environments .[45] 
+DFT-calculated chemical shielding and EFG tensors were obtained and used to predict the 27Al shifts and quadrupolar 
+coupling constants, enabl ing comparison s to experimental data.  For the simulations, p-benzoquinone (BQ) was used 
+in lieu of DCQ as a general model for  quinones and to reduce computation al expense . AlCl 2+ species were aligned 
+with BQ oxygens and placed between two BQ layers . The quinones were aligned with the bottom BQ molecule lying 
+flat on the x-y plane.  Interlayer spacing of the quinones ( z-axis) and lateral spacing of the AlCl 2+ ions ( y-axis) were 
+independently varied  (Figure 7a,b), respectively . The resultant  total  27Al isotropic  shifts and quadrupolar coupling 
+constants  are plotted as mean  values  for each interlayer spacing , averaged over  AlCl 2+  lateral displacements of 1, 
+1.25,  1.5, 1.75,  2, and 2.25 Å with respect to the  complexing quinone oxygen , with the range of values and standard 
+deviations shown as lighter and darker shaded areas, respectively  (Figure 7c).  
+ 
+The total isotropic 27Al shift δisototal is calculated as the sum of  the isotropic chemical shift  δisoCS, the second -order 
+quadrupolar shift  δiso2Q, and the isotropic nucleus -independent chemical shift (NICS) δisoNICS: 
+ 
+δisototal=δisoCS+δiso2Q+δisoNICS    (1) 
+ 
+The quadrupolar coupling constant  𝐶Q is calculate d[46] according to  
+ 
+CQ=eQVzz
+h     (2) 
+ 9  
+where e is the elementary charge  (e = 1.602 x10–19 C), Q is the nuclear electric quadrupolar moment ( Q = 148.2 ± 0.5 
+mb, for 27Al),[47] Vzz is the eigenvalue of EFG tensor with the largest absolute value (by convention , |Vzz|>|Vyy|>
+|Vxx|), and h is Planck’s constant.  The EFG tensor can additionally be described by the qua drupolar asymmetry 
+parameter, η (Equation 3 ).[46,48,49]  
+ 
+η=Vxx−Vyy
+Vzz              (3) 
+ 
+The second -order quadrupolar shift  δiso2Q is dependent on  CQ and η: [46,48]   
+ 
+δiso2Q=−3
+40(CQ
+ωL)2I(I+1)−3
+4
+I2(2I−1)2(1+η2
+3)×106                (4) 
+ 
+The nucleus -independent chemical shift δisoNICS reflects the shift induced by ring -current effects from adjacent 
+aromatic molecules. [50] Ring current effects contribute to magnetic shielding and will result in a negative shift. The 
+effect is expected to be greater at small interlayer spacings and as the nucleus of interest moves from the edge to 
+the center of the aromatic ring system. [48,50]  These effects will be  more significant in larger aromatic systems  and 
+are expected to have only minor  contributions to the model  system  studi ed here .  
+ 
+ 
+Figure 7. Schematic of AlCl 2+ cations between two p-benzoquinone  (BQ) units depicting (a) changing BQ interlayer spacing , and  
+(b) changing AlCl 2+ lateral displacement.  (c) Calculated total isotropic 27Al shifts (black triangles) and quadrupolar coupling 
+constants (red squares) of BQ-coordinated AlCl 2+ cations with varying interlayer spacings, each computed for lateral 
+displacements of 1, 1.25, 1.5, 1.75, 2, and 2.25 Å. The mean valued are plotted with range s and standard deviations shown as 
+lighter and darker shaded regions , respectively.  
+ 
+The isotropic 27Al shifts and quadrupolar coupling constants are highly d ependent upon BQ interlayer spacing and 
+lateral displacement of the AlCl 2+ cation. The calculated mean total isotropic 27Al shifts initially increase with 
+increasing interlayer spacings to a maximum at 5 Å, decrease until 8 Å, before modestly increasing un til 10 Å . As 
+discussed above, this shift  is a combination of different  terms  (Figure S3). Powder XRD measurements of DCQ 
+indicated an interlayer spacing of 3.56 Å for the pristine material , which decreas es upon discharge to 3.30 Å (in both 
+AlCl 3:[EMIm]Cl, and AlCl 3:urea electrolytes) and 3.21 Å (in AlCl 3:PA electrolyte) (Figure S4). From the XRD 
+measurements, the experimental  interlayer spacings are  thus ca. 3.2-3.3 Å.  The calculated  total isotropic 27Al shift s 
+for these interlayer spacings are within the range of  the experimentally determined 27Al shifts  of 91 and 75 pp m, for 
+Al environments I and II, respectively , and are highly dependent upon lateral spacing . The DFT calculations predict 
+that the magnitude of  CQ increases as the quinone layers separate, a direct consequence of a loss of symmetry about 
+the 27Al nucleus  as the AlCl 2+ cations move from  a tetrahedral geometry  to a distorted tetrahedra, and ultimately to 
+an unfavorable two -coordina te geometry . As the  interlayer spacing increases, the magnitudes of CQ converge to a 
+maximum  of approximately -17 MHz  as the configuration and electronic environment around the 27Al nucleus 
+ 10 becomes less influenced by the increasingly distant quinone layers . Similarly , the effect s of lateral displacement 
+become less significant  at high er interlayer spacings , as indicated by the decreasing range and standard deviation . 
+As with the total isotropic 27Al shifts, the experimentally measured C Q values of 3.5 and 7.7 MHz for Al environments 
+I and II are within the  calculated range of values for an interlayer spacing of ca. 3.2-3.3 Å.  While the DFT calculations 
+of this model system do not reveal the precise molecular configurations giving rise to Al environments I and II, they 
+do shed light on the different configurations possible and the variables that affect the 27Al shifts and quadrupolar 
+parameters.  
+ 
+At small  interlayer spacings, there are large variations in CQ and subsequently δiso2Q depending on the lateral spacing 
+of AlCl 2+, which in turn  lead s to large variation s in δisototal. The variation of interlayer spacings and lateral displacements 
+can be collapsed geometrically into an estimated  Al-O bond length  since the Al -Cl bond lengths and Cl -Al-Cl bond 
+angles are held  constant  in the calculations . When the calculated CQ values were plotted as a function of Al -O bond 
+length  and fit to a curve , values of 1.78 and 1.95 Å were obtained for the C Q values determined for environments I 
+and II, respectively (Figure S 5a), within the expected range of Al -O bond lengths (1.7 -2.2 Å). [51] A similar analysis 
+was performed using the calculated asymmetry parameters as a function of Al -O bond length, where the asymmetry 
+parameters  found for environments I and II would correspond to  Al-O bond lengths of  2.01 and 2.18 Å , respectively 
+(Figure S 5b). Therefore, the  Al–O bond lengths predicted by these analyses fall within the anticipated range , though  
+the magnitudes of quadrupolar coupling constants calculated on AlCl 2+ in BQ appear to be generally overestim ated  
+when using this approach compared to that measured in DCQ via NMR spectroscopy .  
+ 
+Thermochemical Calculations Predict Ion -Generation Pathways.  Energies of the electrolyte species and reaction 
+products were also obtained from DFT optimization calculations of the  relaxed structures , enabling assessment of 
+the most  favorable reaction pathway for electroactive cation production via thermochemical computations . 
+Reaction enthalpies for three pathways of producing AlCl 2+ cations were calculated according to  
+ 
+     ΔHrxn°=∑ ΔHproducts°
+products −∑ ΔHreactants°
+reactants            (5) 
+ 
+while the Gibb’s free energies were calculated by  
+ 
+     ΔGrxn°=∑ ΔGproducts°
+products −∑ ΔGreactants°
+reactants            (6) 
+ 
+The results were calculated at 298.15 K and are tabulated below (Table 1).  The experimental reaction product is not 
+an isolated AlCl 2+ cation, but rather AlCl 2+ complexed to electrochemically reduced DCQ ; to simulate this effect in a 
+computationally efficient manner, AlCl 2+ was fixed into a tetrahedral geometry, rather than allowing it to relax into 
+a linear geometry. T hese calculations are thus  a first -order approximation though  the trends are expected to be 
+general izable.  Reaction energies were also calculated for Al 2Cl5+ as an alternative cation ic reaction product , however, 
+the energies required to produce these ions were far less favo rable, while the NMR shifts and C Q values calculated 
+were in worse agreement with the experimental data (Figure S 6, Table S1 ). 
+ 
+Table 1. Standard reaction enthalpies  and Gibb’s free  energies required to  generat e the electroactive AlCl 2+ ions from native 
+electrolyte species  at 298.15 K . 
+  ΔH˚ rxn (kJ/mol)  ΔG˚ rxn (kJ/mol)  
+# Reaction  AlCl 3:[EMIm]Cl  AlCl 3:urea  AlCl 3:PA  AlCl 3:[EMIm]Cl  AlCl 3:urea  AlCl 3:PA  
+1 2Al2Cl7−⇌AlCl2++3AlC l4− -0.766 7 -0.766 7 -0.766 7 -217. 2 -217. 2 -217. 2 
+2 AlCl2L2+⇌AlCl2++2L – -163. 4 -177. 5 – -389. 3 -415.5  
+3 Al2Cl7−+AlCl2L2+⇌AlCl2++AlCl4−+AlCl3L+L – -219.2  -230. 3 – -434.5  -450.3  
+ 
+Reactio n #1 is possible in all electrolytes, whereas  reactions  #2 and #3 are possible only in the ILAs .  ΔH˚ rxn and ΔG˚ rxn 
+are negative for each reaction  and their magnitudes increase from reaction #1 to reaction #3. These reaction 
+energies signify two major outcomes: firstly, the production of AlCl 2+ is energetically favorable , as indicated by the 
+negative Gibb’s free energy for all reactions ; secondly, t hat reaction #3 is the most energetically favorable pathway  
+in the ILAs , a result also commensurate with the loss of Al 2Cl7– from the electrolyte observed in the  solid -state  27Al  11 spin-echo  NMR spectra  of the discharged DCQ electrodes  (Figure 4f,i). Note that reactions #2 and #3 involves the 
+generation of neutral ligands (i.e., urea or PA) at the electrochemical interface during the discharge process.   
+ 
+The Al 2Cl7– anions are  necessary for  the efficient electro plating of Al metal, so the consumption of this 
+chloroaluminate species can reduce the specific capacity  by limiting the  charge -compensating electro plating 
+reaction at the anode  that occur ring during charging:  
+ 
+4Al2Cl7–+3e–⇄Al+7AlCl4–       (7) 
+ 
+Thus, i f the usable Al 2Cl7– is consumed by the cathodic discharge reaction  and not replaced,  the electrolyte becomes 
+less Lewis acidic,  and the battery will cease to charge .  
+ 
+This effect was also probed for the ILA electrolytes, as it has been proposed that aluminum electro plating can occur 
+from the AlCl 2L2+  cation, for example, according to  [3] 
+ 
+2[AlCl2∙(urea )2]++3e–⇄Al+AlCl4–+4(urea )     (8) 
+ 
+An analogous electrochemical reaction is expected to occur in the AlCl 3:PA electrolyte. We test ed this hypothesis by 
+attempting to galvanostatically cycle a n Al-DCQ cell with a Lewis neutral AlCl 3:PA (1:1)  electrolyte, where reactions 
+#1 and #3  (Table 1)  are not possible due to the absence of Al 2Cl7– anions in the electrolyte  (Figure S 7). The initial 
+discharge reaction can occur without Al 2Cl7–, further verifying the feasibility of reaction #2 . However, the average 
+discharge potential is ca. 0.53 V and, which is lower than the 1.0 V potential achieved by  the Lewis acidic AlCl 3:PA 
+(1.3:1) electrolyte , indicating a greater overpotential . While the overpotential can have multiple origins , this 
+observation is consistent with the larger overpotentials  measured by Abood et al.  using Lewis neutral ILAs  [39] and 
+further suggests the fa vorability of  reaction # 3 over reaction # 2, consistent with the thermochemical calculations. 
+Importantly, the cell using th is Lewis neutral  ILA electrolyte was unable to achieve a  reasonable charge capacity , 
+resulting in rapid failure  in subsequent  cycle s. As the only Al 2Cl7– anions present in the electrolyte would be those 
+generated during discharge, the results also suggest  that the aluminum electroplating reaction is much more facile 
+from the Al 2Cl7– anion ( Equation 7 ) compared to the AlCl 2L2+ cation ( Equation 8 ).  
+ 
+In summary, the calculations  indicate that the overall electrochemical reaction occurring at DCQ in Lewis acidic 
+AlCl3: [EMIm ]Cl ionic liquid is : 
+ 
+4𝐴𝑙2𝐶𝑙7–+DCQ +2𝑒– ⇄DCQ2−∙2𝐴𝑙𝐶𝑙2++6𝐴𝑙𝐶𝑙4–    (9) 
+ 
+While  the reaction in  Equation 9  is possible i n a Lewis acidic AlCl 3:L ionic liquid analogue  (L = urea or propionamide) , 
+the calculations and experimental results indicate the following electrochemical reaction is most favorable : 
+ 
+2Al2Cl7−+2AlC l2L2++DCQ +2𝑒–⇄DCQ2−∙2AlCl2++2AlCl4−+2AlCl 3L+2L  (10) 
+ 
+and t he following  electrochemical reaction can also occur , though  is less favored:  
+ 
+2AlC l2L2++DCQ +2𝑒–⇄DCQ2−∙2AlCl2++2L    (11) 
+ 
+Conclusion  
+Electrolyte speciation is shown  for the first time  to significantly impact the molecular -level coordination 
+environments of charge -compensating chloroaluminous (AlCl 2+) cations in Al-organic batteries.  DCQ was used  as a 
+model anthraquinone -based cathode, while Lewis acidic AlCl 3:[EMIm]Cl, AlCl 3:urea, and AlCl 3:propionamide  (PA)  
+electrolytes were used  as electrolytes.  Solid -state 27Al NMR experiments , including dipolar -mediated and multiple -
+quantum methods, revealed  that charge -compensating AlCl 2+ cations complexed to DCQ exists in two tetrahedr al 
+aluminum environments  with distinct quadrupolar lineshapes when discharged in AlCl 3:[EMIm]Cl  and AlCl 3:urea   12 electrolytes , whereas only one aluminum environment was observed when using the  AlCl 3:PA electrolyte. The results  
+establish an electrolyte dependent ionic charge storage mechanism . This difference may be explained , at least in 
+part,  by the impact that the larger size of propionamide versus urea has on DCQ interlayer spacing.  Liquid -state and 
+solid -state 27Al NMR experiments indica ted that residual electrolyte in DCQ discharged in the Lewis acidic AlCl 3:urea 
+and AlCl 3:PA ionic liquid analogues becomes Lewis neutral , which significantly affects battery performance .  DFT 
+computations yielded estimated values  of 27Al NMR shift s and qua drupolar parameters of AlCl 2+ cations in different 
+interlayer spacings and lateral displacements, enabling the experimental data to be  correlated to possible physical 
+origin s. Thermochemical calculations identified  possible  reaction  pathways to generate AlCl 2+ from the electrolyte, 
+including the most favorable, revealing in particular the synergistic roles of Al 2Cl7- and AlCl 2L2+ (L = urea, PA) in the 
+electrochemical discharge  mechanism  in the ionic liquid analogues . The calculations  are consistent with 
+galvanostatic cycling of DCQ in ILAs with different Lewis acidities. The results may also be applicable to other 
+multivalent metal -organic battery systems, which involve complex ion solvation structures and desolvation 
+pathways.  
+ 
+Ackno wledgments   
+The authors gratefully acknowledge support from the U.S. National Science Foundation (NSF) under CAREER Award 
+CBET -1847552 and the U.S. National Aeronautics and Space Administration (NASA) via the NASA - CCNY Center for 
+Advanced Batteries for Space under cooperative agreement 80NSSC19M0199. DFT calculations were performed at 
+the City University of New York ( CUNY ) High Performance Computing Center at the College of Staten Island, which 
+is supported in part by NSF Awards CNS -0958379, CNS -0855217, ACI - 1126113 , and OEC -2215760 .  
+Methods  
+Electrolyte Preparation . The electrolytes were synthesized in an argon -filled glove box (< 1.0 ppm of H 2O and O2). 
+Solutions were prepared by slowly adding AlCl 3 (ThermoFisher Scientific, 99.999%) to 1 -ethyl -3-methylimidazolium 
+chloride ([EMIm]Cl (TCI, >98.0%), urea (Acros Organics, >99.5%), or propionamide (Acros Organics, 97%) with 
+constant stirring until the desired molar ratios were achieved  (1.5:1, 1.3:1, and  1.3:1, respectively) . Due to the 
+exothermic reactions  that occur upon addition of AlCl 3, the vial was placed in a Peltier thermoelectric cooler (Techne 
+No ICE chiller) filled with ceramic -coated cooling beads to regulate temperature and mitigate thermal d ecomposition 
+during mixing. After addition of AlCl 3, the vial was placed on a hot plate at 60oC and stirred until homogenous.  
+ 
+Composite Electrode Fabrication . 1,5-dichloroanthraquinone (DCQ) electrodes were prepared by ball milling DCQ 
+powder ( 65 wt%; TCI, >95.0%) with carbon black (25 wt%; Super P , Alfa Aesar, 99%) for 1 h. Poly(tetrafluoroethylene) 
+(PTFE) binder (10 wt%; Aldrich, 1 µm particle size) was added and mineral spirits were added as required  to form a 
+paste (DCQ:Super -P:PTFE mass rat io of 65:25:10) . The mixture was calendered at a thickness of approximately 0.5 
+mm, after which it was then calendered to a final thickness of 110 µm  and dried under vacuum at 60  °C overnight . 
+Final electrode mass loadings were ca. 9.2 mg cm–2. 
+ 
+Cell Assem bly. Cells were constructed in PTFE Swagelok unions of 0.25  in. (6.35 mm) and 0.5  in. (12.70 mm) 
+diameters inside an argon -filled glove box (< 1.0 ppm of H 2O and O 2). The smaller cells were used for electrochemical 
+measurements, whereas the larger cells were used to harvest electrodes for further characterization . Cells were 
+assembled using a  DCQ composite cathode , glass microfiber separator ( Whatman GF/D) , and aluminum  anode 
+(99.99% Alfa, 0.1 -mm thick), with molybdenum current collectors for both electrodes. 6 -mm and 11-mm diameter  
+DCQ and aluminum electrodes were used for the 0.25 and 0.5 in. Swagelok  cells , respectively . 50 and 150 µL of 
+electrolyte  was used for the s maller and larger cell sizes , respectively . Three -electrode c ells for cyclic voltammetry 
+measurements were constructed in 0.25 in. -diameter Swagelok cells with an Al wire reference electrode, which was 
+fed through a hole drilled in the center of the PTFE body.  
+ 
+Electrochemical Measurements . Galvanostatic cycling tests were performed in an Arbin Instruments LBT battery 
+cycler using a voltage range of 0.20–1.95 V. Cyclic voltammetry tests were performed a t 0.5 mV s–1 using a BioLogic 
+VSP-300 potentiostat using a voltage range  of 0.05 –2.45 V. The open -circuit potential for Al -DCQ cells was 
+approximately  1.3 V after  assembly.   13  
+X-ray Diffraction (XRD). XRD measurements were performed  on a PANalytical X’Pert Pro powder diffractometer 
+with a Cu Kα radiation source (λ = 0.544 nm). A scan rate of 0. 4° min–1 was used to scan a 2θ range of 9.5°− 60°.  
+ 
+Liquid -State NMR Spectroscopy . Liquid -state NMR spectra were acquired on a Bruker AVANCE III HD 300 NMR 
+spectrometer with a 7.05 T  narrow -bore  (54-mm)  bore superconducting magnet equipped with a 5 -mm multinuclear 
+broadband fluorine observe (BBFO) probe, operating at 300.13 MHz for 1H an d 78.204 MHz for 27Al nuclei . All liquid -
+state 27Al and 1H single -pulse spectra were acquired under quantitative conditions using (i) a radiofrequency field 
+strength of  25 kHz field strength ( 𝜋/2 of 10 µs)  and 16.7 kHz ( 𝜋/2 of 15 µs), respectively, and ( ii) recycle delay s of 
+≥0.5 s  and 2 -15 s, respectively,  which were calibrated such that all nuclear  spins relaxed to thermal equilibrium  (5*T1, 
+the longitudinal relaxation time ). Samples were prepared in a n argon -filled  glovebox (< 1.0 ppm of H 2O and O 2) with 
+coaxial tubes containing an isolated D 2O locking solvent ; both tubes sealed with epoxy to ensure no ingress of air  
+upon removal from the glovebox . 
+ 
+Solid -State NMR Spectroscopy . Solid -state NMR spectra were acquired on a Bruker AVANCE III HD 600 NMR 
+spectrometer with a 14.1 T narrow -bore (54-mm) superconducting magnet operating at 600.140 MHz for 1H, 156.378 
+MHz for 27Al, and 150.910 MHz for 13C nuclei . A Phoenix NMR 1.6 -mm HXY magic -angle -spinning (MAS) probehead 
+was used, where all measurements on discharged electrodes were conducted at 40 kHz MAS , while  measurements 
+on pristine DCQ were conducted at 35 kHz MAS . Air was pumped through the probehead at 600 L h−1 and 298.1  K to 
+mitigate MAS -induced sample heating. 1H and 13C shifts were referenced with respect to tetramethylsilane (TMS) at 
+0 ppm by using adamantane as a secondary chemical shift reference. 27Al shifts were referenced to a 1 M aqueous 
+Al(NO 3)3 solution at 0 p pm.  
+Solid -state 27Al single -pulse MAS NMR experiments were performed under quantitative conditions by  using  (i) short 
+π/12 rf pulses  (0.31 µs)  to ensure linear excitation of all solid and liquid signals  and (ii) recycle delays of 0.25 -0.40 s 
+such that all 27Al nuclear spins relax to thermal equilibrium (>5 × T1). 27Al rf pulses were calibrated on  1 M aqueous 
+Al(NO 3)3 where  an rf field strength of 135 kHz (π/2 of 1.85 µs)  was used for all broadband pulses . 27Al spin -echo 
+experiments were perfor med using 4 rotor periods in the full -echo delay to optimize liquid signal intensity vs. the 
+solid signal intensity. 27Al{1H} D -HMQC  experiments were performed using the SR421 symmetry -based recoupling 
+scheme, which recouples 27Al-1H dipolar interactions while simultaneously decoupling 1H-1H homonuclear 
+interactions.  Central -transition (CT) selective  pulses used a 27Al rf field strength of 10.4 kHz ( π/2 of 24 µs) . SR421 
+recoupl ing pulses  used  a 1H rf field  strength  of 80 kHz (2× MAS frequency). Preparatory , diverging  27Al double -
+frequency sweep (DFS) pulses were used to achieve up to three -fold signal enhancements. DFS pulses were swept 
+from 50 kHz to 1 MHz prior to each scan.  27Al{27Al} MQ -MAS experiments were performed using a three -pulse 
+sequence with excitation and conversion rf pulses of 3.5 µs and 1.1 µs, a CT -selective π/2 readout pulse  of 24 µs, 
+and a z-filter delay of 25 µs . Triple -quantum to single -quantum coherence selection was obtained via phase cycling.  
+All solid -state 1H NMR experiments used  an rf field strength of 161 kHz  (π/2 of 1.55 µs) for all broadband pulses . 
+1H{1H} D -DQF experiments were performed using  the BaBa -xy8 scheme for DQ excitation and conversion . The 1H 
+spin-echo experiment performed on pristine DCQ used a 2 -rotor -period full -echo delay  and was used to eliminate 
+probe 1H background signals . 13C{1H} CP -MAS experiments were acquired using  a zero -quan tum (n = +1) Hartmann -
+Hahn matching condition achieved by fixing the 1H rf field at 87.5 kHz (5/2× MAS  rate of 35 k Hz) and optimizing the 
+13C spin -locking power around a 13C rf field of 52.5 kHz (3/2 × MAS). CP contact times of 4 ms were used.  
+ 
+Computatio nal Calculations . DFT calculations were performed in Gaussian 09 using the 6 -31G+(d,p) basis set and 
+the hybrid B3LYP method (Becke’s three -parameter nonlocal exchange functional and Lee−Yang−Parr’s correlation 
+functional). [45] Structures with positional constraints were built in Avogadro [52,53]  before performing gauge -
+independent a tomic orbital (GIAO) calculations in Gaussian 09  to determine the chemical shielding properties and 
+the electric  field gradient (EFG) eigenvalues. The EFG eigenvalues were arranged such that | Vxx|<|Vyy|<| Vzz|. To 
+reduce computational expense, structures without constrained positional parameters were first  roughly optimized 
+with the UFF forcefield in Avogadro, before being optimized a second time in Gaussian 09  using the 6 -31G+(d,p) level 
+of theory . NMR parameters were calculated as discussed above.  Chemica l shielding was referenced to Al3+(OH 2)6 at 
+611 ppm.  
+  14 Bibliography  
+ 
+[1] O.M. Leung, T. Schoetz, T. Prodromakis, C. Ponce de Leon, Review —Progress in Electrolytes for 
+Rechargeable Aluminium Batteries, J. Electrochem. Soc. 168 (2021) 056509. https://doi.org/10.1149/1945 -
+7111/abfb36.  
+[2] C. Wang, A. Creuziger, G. Stafford, C.L. Hussey, Anodic Dissolution of Aluminum in the Aluminum Chloride -
+1-Ethyl -3-methylimidazolium Chloride Ionic Liquid, J. Electrochem. S oc. 163 (2016) H1186 –H1194. 
+https://doi.org/10.1149/2.1061614jes.  
+[3] M. Angell, C.J. Pan, Y. Rong, C. Yuan, M.C. Lin, B.J. Hwang, H. Dai, High Coulombic efficiency aluminum -ion 
+battery using an AlCl3 -urea ionic liquid analog electrolyte, Proc. Natl. Acad.  Sci. U. S. A. 114 (2017) 834 –
+839. https://doi.org/10.1073/pnas.1619795114.  
+[4] H. Wang, S. Gu, Y. Bai, S. Chen, F. Wu, C. Wu, High -Voltage and Noncorrosive Ionic Liquid Electrolyte Used 
+in Rechargeable Aluminum Battery, ACS Appl. Mater. Interfaces. 8 (201 6) 27444 –27448. 
+https://doi.org/10.1021/acsami.6b10579.  
+[5] X. Han, Y. Bai, R. Zhao, Y. Li, F. Wu, C. Wu, Electrolytes for rechargeable aluminum batteries, Prog. Mater. 
+Sci. 128 (2022). https://doi.org/10.1016/j.pmatsci.2022.100960.  
+[6] G.A. Elia, K. Marqu ardt, K. Hoeppner, S. Fantini, R. Lin, E. Knipping, W. Peters, J.F. Drillet, S. Passerini, R. 
+Hahn, An Overview and Future Perspectives of Aluminum Batteries, Adv. Mater. 28 (2016) 7564 –7579. 
+https://doi.org/10.1002/adma.201601357.  
+[7] X. Wen, Y. Liu, A. J adhav, J. Zhang, D. Borchardt, J. Shi, B.M. Wong, B. Sanyal, R.J. Messinger, J. Guo, 
+Materials Compatibility in Rechargeable Aluminum Batteries: Chemical and Electrochemical Properties 
+between Vanadium Pentoxide and Chloroaluminate Ionic Liquids, Chem. Mat er. 31 (2019) 7238 –7247. 
+https://doi.org/10.1021/acs.chemmater.9b01556.  
+[8] D.J. Kim, D.J. Yoo, M.T. Otley, A. Prokofjevs, C. Pezzato, M. Owczarek, S.J. Lee, J.W. Choi, J.F. Stoddart, 
+Rechargeable aluminium organic batteries, Nat. Energy. 4 (2019) 51 –59. h ttps://doi.org/10.1038/s41560 -
+018-0291 -0. 
+[9] L.W. Gordon, A.L. Jadhav, M. Miroshnikov, T. Schoetz, G. John, R.J. Messinger, Molecular -Scale Elucidation 
+of Ionic Charge Storage Mechanisms in Rechargeable Aluminum –Quinone Batteries, J. Phys. Chem. C. 126 
+(2022) 14082 –14093. https://doi.org/10.1021/acs.jpcc.2c04272.  
+[10] D.J. Yoo, J.W. Choi, Elucidating the Extraordinary Rate and Cycling Performance of Phenanthrenequinone in 
+Aluminum -Complex -Ion Batteries, J. Phys. Chem. Lett. 11 (2020) 2384 –2392. 
+https://doi .org/10.1021/acs.jpclett.0c00324.  
+[11] D.J. Yoo, M. Heeney, F. Glöcklhofer, J.W. Choi, Tetradiketone macrocycle for divalent aluminium ion 
+batteries, Nat. Commun. 12 (2021) 1 –9. https://doi.org/10.1038/s41467 -021-22633 -y. 
+[12] J. Bitenc, N. Lindahl, A. Viz intin, M.E. Abdelhamid, R. Dominko, P. Johansson, Concept and electrochemical 
+mechanism of an Al metal anode ‒ organic cathode battery, Energy Storage Mater. 24 (2020) 379 –383. 
+https://doi.org/10.1016/j.ensm.2019.07.033.  
+[13] N. Lindahl, J. Bitenc, R. Domi nko, P. Johansson, Aluminum Metal –Organic Batteries with Integrated 3D Thin 
+Film Anodes, Adv. Funct. Mater. 2004573 (2020) 3 –9. https://doi.org/10.1002/adfm.202004573.  
+[14] L. Zhou, Z. Zhang, L. Cui, F. Xiong, Q. An, Z. Zhou, X.F. Yu, P.K. Chu, K. Zhang, H igh-capacity and small -
+polarization aluminum organic batteries based on sustainable quinone -based cathodes with Al3+ insertion, 
+Cell Reports Phys. Sci. 2 (2021) 100354. https://doi.org/10.1016/j.xcrp.2021.100354.  
+[15] M. Mao, Z. Yu, Z. Lin, Y.S. Hu, H. Li,  X. Huang, L. Chen, M. Liu, L. Suo, Simplifying and accelerating kinetics 
+enabling fast -charge Al batteries, J. Mater. Chem. A. 8 (2020) 23834 –23843. 
+https://doi.org/10.1039/d0ta08348h.  
+[16] Y. Liu, W. Luo, S. Lu, Z. Zhang, Z. Chao, J. Fan, Novel Carbonyl Cathode for Green and Sustainable Aluminum 
+Organic Batteries, ACS Appl. Mater. Interfaces. (2022). https://doi.org/10.1021/acsami.2c14365.  
+[17] Y.T. Kao, S.B. Patil, C.Y. An, S.K. Huang, J.C. Lin, T.S. Lee, Y.C. Lee, H.L. Chou, C.W. Chen, Y.J. Chang, Y.H. Lai, 
+D.Y. Wang, A Quinone -Based Electrode for High -Performance Rechargeable Aluminum -Ion Batteries with a 
+Low-Cost AlCl3/Urea Ionic Liquid Electrolyte, ACS Appl. Mater. Interfaces. 12 (2020) 25853 –25860. 
+https://doi.org/10.1021/acsami.0c04640.  
+[18] G. Wang , E. Dmitrieva, B. Kohn, U. Scheler, Y. Liu, V. Tkachova, L. Yang, Y. Fu, J. Ma, P. Zhang, F. Wang, J. 
+Ge, X. Feng, An Efficient Rechargeable Aluminium –Amine Battery Working Under Quaternization  15 Chemistry, Angew. Chemie - Int. Ed. 61 (2022). https://doi.or g/10.1002/anie.202116194.  
+[19] Z. Yang, F. Wang, P. Meng, J. Luo, C. Fu, Recent advances in developing organic positive electrode materials 
+for rechargeable aluminum -ion batteries, Energy Storage Mater. 51 (2022) 63 –79. 
+https://doi.org/10.1016/j.ensm.2022. 06.018.  
+[20] M. Malik, K.L. Ng, G. Azimi, Physicochemical characterization of AlCl3 -urea ionic liquid analogs: Speciation, 
+conductivity, and electrochemical stability, Electrochim. Acta. 354 (2020) 136708. 
+https://doi.org/10.1016/j.electacta.2020.136708.  
+[21] T. Whewell, V.R. Seymour, K. Griffiths, N.R. Halcovitch, A. V. Desai, R.E. Morris, A.R. Armstrong, J.M. Griffin, 
+A structural investigation of organic battery anode materials by NMR crystallography, Magn. Reson. Chem. 
+60 (2022) 489 –503. https://doi.org /10.1002/mrc.5249.  
+[22] C.M. Widdifield, R.W. Schurko, Understanding chemical shielding tensors using group theory, MO analysis, 
+and modern density -functional theory, Concepts Magn. Reson. Part A Bridg. Educ. Res. 34 (2009) 91 –123. 
+https://doi.org/10.1002/ cmr.a.20136.  
+[23] J. Autschbach, S. Zheng, R.W. Schurko, Analysis of electric field gradient tensors at quadrupolar nuclei in 
+common structural motifs, Concepts Magn. Reson. Part A. 36A (2010) 84 –126. 
+https://doi.org/10.1002/cmr.a.20155.  
+[24] R.W. Schurko,  R.E. Wasylishen, A.D. Phillips, A Definitive Example of Aluminum -27 Chemical Shielding 
+Anisotropy, J. Magn. Reson. 133 (1998) 388 –394. https://doi.org/10.1006/jmre.1998.1460.  
+[25] R. Jay, A.L. Jadhav, L.W. Gordon, R.J. Messinger, Soluble Electrolyte -Coord inated Sulfide Species Revealed 
+in Al –S Batteries by Nuclear Magnetic Resonance Spectroscopy, Chem. Mater. 34 (2022) 4486 –4495. 
+https://doi.org/10.1021/acs.chemmater.2c00248.  
+[26] J. He, X. Shi, C. Wang, H. Zhang, X. Liu, Z. Yang, X. Lu, A quinone electrode with reversible phase conversion 
+for long -life rechargeable aqueous aluminum -metal batteries, Chem. Commun. 57 (2021) 6931 –6934. 
+https://doi.org/10.1039/d1cc02024b.  
+[27] D. Paterno, E. Rock, A. Forbes, R. Iqbal, N. Mohammad, S. Suarez, Aluminum i ons speciation and transport 
+in acidic deep eutectic AlCl3 amide electrolytes, J. Mol. Liq. 319 (2020) 114118. 
+https://doi.org/10.1016/j.molliq.2020.114118.  
+[28] K. Saalwächter, F. Lange, K. Matyjaszewski, C.F. Huang, R. Graf, BaBa -xy16: Robust and broadband 
+homonuclear DQ recoupling for applications in rigid and soft solids up to the highest MAS frequencies, J. 
+Magn. Reson. 212 (2011) 204 –215. https://doi.org/10.1016/j.jmr.2011.07.001.  
+[29] A. Brinkmann, A.P.M. Kentgens, Proton -selective 17O -1H dist ance measurements in fast magic -angle -
+spinning solid -state NMR spectroscopy for the determination of hydrogen bond lengths, J. Am. Chem. Soc. 
+128 (2006) 14758 –14759. https://doi.org/10.1021/ja065415k.  
+[30] M.H. Levitt, Symmetry -Based Pulse Sequences in Mag ic-Angle Spinning Solid -State NMR, in: Encycl. Magn. 
+Reson., John Wiley & Sons, Ltd, Chichester, UK, 2007: pp. 165 –196. 
+https://doi.org/10.1002/9780470034590.emrstm0551.  
+[31] H. Dong, O. Tutusaus, Y. Liang, Y. Zhang, Z. Lebens -Higgins, W. Yang, R. Mohtadi,  Y. Yao, High -power Mg 
+batteries enabled by heterogeneous enolization redox chemistry and weakly coordinating electrolytes, 
+Nat. Energy. 5 (2020) 1043 –1050. https://doi.org/10.1038/s41560 -020-00734 -0. 
+[32] S. Voskian, T.A. Hatton, Faradaic electro -swing re active adsorption for CO2 capture, Energy Environ. Sci. 12 
+(2019) 3530 –3547. https://doi.org/10.1039/c9ee02412c.  
+[33] C. Ferrara, V. Dall’Asta, V. Berbenni, E. Quartarone, P. Mustarelli, Physicochemical Characterization of 
+AlCl3 -1-Ethyl -3-methylimidazolium  Chloride Ionic Liquid Electrolytes for Aluminum Rechargeable Batteries, 
+J. Phys. Chem. C. 121 (2017) 26607 –26614. https://doi.org/10.1021/acs.jpcc.7b07562.  
+[34] C. Liu, W. Chen, Z. Wu, B. Gao, X. Hu, Z. Shi, Z. Wang, Density, viscosity and electrical cond uctivity of AlCl3 -
+amide ionic liquid analogues, J. Mol. Liq. 247 (2017) 57 –63. https://doi.org/10.1016/j.molliq.2017.09.091.  
+[35] S.K. Noh, J.H. Jeon, W.J. Jang, H. Kim, S.H. Lee, M.W. Lee, J. Lee, S. Han, S.J. Kahng, Supramolecular Cl×××H 
+and O×××H intera ctions in self -assembled 1,5 -dichloroanthraquinone layers on Au(111), ChemPhysChem. 
+14 (2013) 1177 –1181. https://doi.org/10.1002/cphc.201201061.  
+[36] Y. Berger, M. Berger -Deguée, A. Castonguay, Carbon -13 nuclear magnetic resonance studies of 
+anthraquinones . IV—correlation of substituent effects for 1 -substituted anthraquinones, Org. Magn. 
+Reson. 15 (1981) 303 –306. https://doi.org/10.1002/mrc.1270150319.  
+[37] J.S. Wilkes, J.S. Frye, G.F. Reynolds, 27A1 and 13C NMR Studies of Aluminum Chloride -Dialkylimidazol ium  16 Chloride Molten Salts, Inorg. Chem. 22 (1983) 3870 –3872. https://doi.org/10.1021/ic00168a011.  
+[38] M. Angell, G. Zhu, M.C. Lin, Y. Rong, H. Dai, Ionic Liquid Analogs of AlCl3 with Urea Derivatives as 
+Electrolytes for Aluminum Batteries, Adv. Funct. Mat er. 30 (2020) 1 –11. 
+https://doi.org/10.1002/adfm.201901928.  
+[39] H.M.A. Abood, A.P. Abbott, A.D. Ballantyne, K.S. Ryder, Do all ionic liquids need organic cations? 
+Characterisation of [AlCl2·nAmide]+ AlCl4 - and comparison with imidazolium based systems, Ch em. 
+Commun. 47 (2011) 3523 –3525. https://doi.org/10.1039/c0cc04989a.  
+[40] M. Li, B. Gao, C. Liu, W. Chen, Z. Wang, Z. Shi, X. Hu, AlCl3/amide ionic liquids for electrodeposition of 
+aluminum, J. Solid State Electrochem. 21 (2017) 469 –476. https://doi.org/10 .1007/s10008 -016-3384 -3. 
+[41] D. Fenzke, D. Freude, T. Fröhlich, J. Haase, NMR intensity measurements of half -integer quadrupole nuclei, 
+Chem. Phys. Lett. 111 (1984) 171 –175. https://doi.org/10.1016/0009 -2614(84)80458 -3. 
+[42] A.L. Jadhav, J.H. Xu, R.J. Mes singer, Quantitative molecular -level understanding of electrochemical 
+aluminum -ion intercalation into a crystalline battery electrode, ACS Energy Lett. 5 (2020) 2842 –2848. 
+https://doi.org/10.1021/acsenergylett.0c01138.  
+[43] M.A. Hope, K.J. Griffith, B. Cui , F. Gao, S.E. Dutton, S.S.P. Parkin, C.P. Grey, The Role of Ionic Liquid 
+Breakdown in the Electrochemical Metallization of VO 2 : An NMR Study of Gating Mechanisms and VO 2 
+Reduction, J. Am. Chem. Soc. 140 (2018) 16685 –16696. https://doi.org/10.1021/jacs. 8b09513.  
+[44] D. Massiot, F. Fayon, M. Capron, I. King, S. Le Calvé, B. Alonso, J.O. Durand, B. Bujoli, Z. Gan, G. Hoatson, 
+Modelling one - and two -dimensional solid -state NMR spectra, Magn. Reson. Chem. 40 (2002) 70 –76. 
+https://doi.org/10.1002/mrc.984.  
+[45] M.J. Frisch, G.W. Trucks, H.B. Schlegel, G.E. Scuseria, M.A. Robb, J.R. Cheeseman, G. Scalmani, V. Barone, B. 
+Mennucci, G.A. Petersson, H. Nakatsuji, M. Caricato, X. Li, H.P. Hratchian, A.F. Izmaylov, J. Bloino, G. Zheng, 
+J.L. Sonnenberg, M. Hada, M. Eha ra, K. Toyota, R. Fukuda, J. Hasegawa, M. Ishida, T. Nakajima, Y. Honda, O. 
+Kitao, H. Nakai, T. Vreven, J.A. Montgomery Jr., J.E. Peralta, F. Ogliaro, M. Bearpark, J.J. Heyd, E. Brothers, 
+K.N. Kudin, V.N. Staroverov, R. Kobayashi, J. Normand, K. Raghavacha ri, A. Rendell, J.C. Burant, S.S. Iyengar, 
+J. Tomasi, M. Cossi, N. Rega, J.M. Millam, M. Klene, J.E. Knox, J.B. Cross, V. Bakken, C. Adamo, J. Jaramillo, 
+R. Gomperts, R.E. Stratmann, O. Yazyev, A.J. Austin, R. Cammi, C. Pomelli, J.W. Ochterski, R.L. Martin , K. 
+Morokuma, V.G. Zakrzewski, G.A. Voth, P. Salvador, J.J. Dannenberg, S. Dapprich, A.D. Daniels, Ö. Farkas, 
+J.B. Foresman, J. V Ortiz, J. Cioslowski, D.J. Fox, Gaussian 09 Revision E.01, (2009).  
+[46] J. Cuny, S. Messaoudi, V. Alonzo, E. Furet, J. -F. Hal et, E. Le Fur, S.E. Ashbrook, C.J. Pickard, R. Gautier, L. Le 
+Polles, DFT calculations of quadrupolar solid -state NMR properties: Some examples in solid -state inorganic 
+chemistry, J. Comput. Chem. 29 (2008) 2279 –2287. https://doi.org/10.1002/jcc.21028.  
+[47] A. Aerts, A. Brown, A revised nuclear quadrupole moment for aluminum: Theoretical nuclear quadrupole 
+coupling constants of aluminum compounds, J. Chem. Phys. 150 (2019). 
+https://doi.org/10.1063/1.5097151.  
+[48] J.H. Xu, A.L. Jadhav, D.E. Turney, R.J. Mess inger, Molecular -level environments of intercalated 
+chloroaluminate anions in rechargeable aluminum -graphite batteries revealed by solid -state NMR 
+spectroscopy, J. Mater. Chem. A. 8 (2020) 16006 –16017. https://doi.org/10.1039/d0ta02611e.  
+[49] L.J. Criscent i, S.L. Brantley, K.T. Mueller, N. Tsomaia, J.D. Kubicki, Theoretical and 27Al CPMAS NMR 
+investigation of aluminum coordination changes during aluminosilicate dissolution, Geochim. Cosmochim. 
+Acta. 69 (2005) 2205 –2220. https://doi.org/10.1016/j.gca.2004.10 .020.  
+[50] A.C. Forse, J.M. Griffin, V. Presser, Y. Gogotsi, C.P. Grey, Ring current effects: Factors affecting the NMR 
+chemical shift of molecules adsorbed on porous carbons, J. Phys. Chem. C. 118 (2014) 7508 –7514. 
+https://doi.org/10.1021/jp502387x.  
+[51] E. Lam, A. Comas -Vives, C. Copéret, Role of Coordination Number, Geometry, and Local Disorder on 27Al 
+NMR Chemical Shifts and Quadrupolar Coupling Constants: Case Study with Aluminosilicates, J. Phys. 
+Chem. C. 121 (2017) 19946 –19957. https://doi.org/10.102 1/acs.jpcc.7b07872.  
+[52] M.D. Hanwell, D.E. Curtis, D.C. Lonie, T. Vandermeersch, E. Zurek, G.R. Hutchison, Avogadro: an advanced 
+semantic chemical editor, visualization, and analysis platform, J. Cheminform. 4 (2012) 17. 
+https://doi.org/10.1186/1758 -2946 -4-17. 
+[53] Avogadro Chemistry, Avogadro: an open -source molecular builder and visualization tool. Version 1.2.0, 
+(2016). http://avogadro.cc/.  
+ 

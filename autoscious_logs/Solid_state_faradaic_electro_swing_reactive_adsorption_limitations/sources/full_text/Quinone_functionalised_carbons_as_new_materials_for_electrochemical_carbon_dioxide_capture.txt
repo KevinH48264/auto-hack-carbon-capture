@@ -1,0 +1,718 @@
+Quinone-functionalised carbons as new materials for electrochemical carbon dioxide capture
+https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/6480b011e64f843f417740bf/original/quinone-functionalised-carbons-as-new-materials-for-electrochemical-carbon-dioxide-capture.pdf
+Quinone -functionalised carbons as new material s for 
+electrochemical carbon dioxide capture  
+ 
+Niamh  A. Hartley,1 Suzi M. Pugh,1 Zhen Xu,1 Daniel  C. Y. Leong,1 Adam Jaffe,2 
+Alexander  C. Forse1 
+ 
+1 Yusuf Hamied  Department of Chemistry, University of Cambridge, Cambridge,  
+Cambridgeshire, UK.  
+2 Department of Chemistry and Biochemistry, University of Notre Dame, Notre Dame, IN, 
+United States.  
+ 
+Abstract  
+The need for cost -effective carbon  dioxide  capture technology is rapidly increasing. To limit 
+the global temperature increase to 1.5 °C within the next century, the level of CO 2 mitigation 
+needs to increase drastically. Current  capture  technology , i.e., amine scrubbing, provides 
+several challenges  that limit widespread deployment: high regeneration energy, high 
+operational costs and degradation issues . An emerging energy -efficient technology that can 
+address some of the limitations of amines  is electrochemically driven carbon dioxide capture . 
+For e xample , redox -active  quinone  molecules are capable of captur ing carbon dioxide 
+following electrochemical reduction, and can then be regenerated upon electrochemical 
+oxidation. Despite great advances in the chemistry of quinones for electrochemical CO 2 
+capture, however, the integration of quinones in carbon capture devices remains an ongoing 
+challenge. Here we present a new class of quinone -functionalized electrodes for 
+electrochemical CO 2 capture, using the diazonium radical reaction to graft quinone molecules 
+to a porous  carbon surface. By grafting redox -active molecules to this conductive surface,  not 
+only is carbon dioxide capture significantly enhanced when the bound quinone species a re 
+electrochemically reduced, but the functionalization process also improves  the energy storage 
+of the  carbon  material. Through constant current experiments in the presence of CO 2, 
+reversible carbon capture was observed with initial  uptake capacities at 0.4 mmol g–1 which 
+stabilizes to 0.2 mmol g–1 over 100 cycles  with an energy consumption of 254 kJ mol–1 per 
+cycle . Our facile low -cost synthesis of quinone -functionalised carbons is highly tunable since 
+both the carbon and redox -active molecule can be modified, and our work therefore paves the 
+way for the design and discovery of improved electrode  materials for electroche mical CO 2 
+capture.  
+  Introduction  
+Due to the rapid increase in anthropogenic CO 2 emissions over the past century, a number of 
+technologies have been developed to reduce CO 2 emissions from point  sources.1–3 The most 
+mature  technology is amine scrubbing, which employs amine molecules to capture CO 2 at a 
+high concentration.4 Limitations of this technology include lo w CO 2 capacities , parasitic side -
+reactions and large  regeneration  energies .5,6 Amine scrubbing utilizes a temperature -swing 
+process and requires high temperatures to release CO 2 and regenerate the amines . 
+Electrochemically driven  carbon dioxide capture is emerging as an energy -efficient alternative 
+to thermally driven processes .7 Electrochemical systems can be operated under isothermal 
+conditions, limiting energy loss via heat.  A range of electrochemical carbon dioxide capture 
+systems have been reported, including those based on electrochemically driven pH swings,8 
+capacitive systems,9,10 and systems that employ redox -active molecules such as quinones , 
+both in protic and aprotic electrolytes .11–15 Using redox -active quinone molecules is one of the 
+largest areas of research for new technologies due to their  highly reversible redox -activity and 
+stoichiometric capture of CO 2 upon reduction.  
+Electrochemically  driven carboxylation of reduced quinones ha s been well docum ented .16,17 
+While neutral anthraquinone does not show carbon dioxide binding, electrochemical reduction 
+to form  a radical anion (1 electron reduction) or dianion (2 electron reduction) activates this 
+molecule to bind  CO 2 in either an EEC C or ECEC (E = electron transfer, C = chemical reaction) 
+mechanism  (Scheme 1 ).18 While most early studies used analytical electrochemistry 
+techniques to study the  carbon dioxide capture of quinones and other redox -active 
+molecules,19,20 more recent work has begun to develop practical devices that can capture 
+carbon dioxide in an electrochemically driven process.21  
+ 
+One approach  for making devices  is to use quinones  dissolved in solution  in a flow  battery -
+like system ,22,23 though these systems suffer from low quinone solubility as well as the  
+crossover of redox -active molecules through the separator membrane , causing capac ity fade . 
+An alternative  approach  that can address these issues  is to immobilize quinones in a solid -
+state  electrode in a battery -like architecture. Initial approaches in this direction used solid -state Scheme 1. Anthraquinone redox activity in the presence of CO 2. This scheme shows an EEC C mechanism , though an 
+ECEC mechanism is also thought to operate . 
+quinone electrodes  to electrochemically capture carbon dioxide , yet they  suffered from  
+significant  instability due to quinone dissolution into the organic electrolyte s used,24,25  leading  
+to a cap acity loss when cycling. Research by Voskian et al.26 address ed this challenge by 
+developing electrodes comprised of poly(anthraquinone) and carbon nanotubes  and 
+demonstrated electrochemical CO 2 capture  at a variety of CO 2 concentrations. Notably, the  
+poly(anthraquinone) electrodes could be stacked, allowing higher CO 2 adsorption capacities 
+to be achieved. However , a limitation  of this approach is the complex synthesis of the polymer 
+electrode, which requires expensive coupling agents . This motivates  the need for the 
+development of new classes of inexpensive , easily synthesized  quinone -functionalized  
+electrodes that are  broadly tunable for electrochemical CO 2 capture . 
+In the search for new quinone -based electro des for electrochemical carbon dioxide capture, 
+we were inspired by previous work on the covalent functionalisation of carbon electrodes for 
+energy storage applications.27 Quinone functionalisation provides additional energy storage 
+capacity through Faradaic processes, adding to the initial capacity of the carbon from non-
+Faradaic electrochemical double -layer capacitance.28 The use of a covalent attachment 
+between quinon e molecules and the carbon backbone prevents the dissolution of the redox -
+active molecule into the electrolyte, increasing the cycle  life of the electrode.  Furthermore, this 
+attachment ensures facile electron transfer to and from grafted molecules. A popul ar approach 
+for covalently attaching  quinones to activated carbon is to use the spontaneous diazonium 
+radical reaction.29,30 This well -understood reaction allows a range of materials to be 
+investigated, as the reaction s are tolerant to a diverse set of  quinones and conductive carbon 
+materials ,31,32 and only  require an inexpensive radical initiator to be stirred with the activated 
+carbon material and quinone molecule present in solution.  Quinone -functionalised activated 
+carbon s have previously been reported as improved energy storage material s, however , they  
+have not yet been implemented in carbon capture technology. 33  
+In this work we develop quinone -functionalised porous carbon materials for electrochemically 
+driven carbon d ioxide capture. We demonstrate that the incorporation of quinones increases 
+the energy storage capacity of the carbon electrodes, while at the same time introducing 
+electrochemically mediated carbon dioxide capture. Our work paves the way for the 
+developme nt of new materials that can help mitigate climate change.   
+  Experimental:  
+Material synthesis and purification  
+CMK -3 mesoporous carbon (Type B , >99 %)  was purchased from ACS materials LLC. 
+Microporous YP -80F was purchased from Kuraray. Polytetrafluoroethylene preparation 
+(PTFE) (60 wt % dispersion in H 2O), tert -Butyl nitrite (90 %) and 9,10-anthraquinone (97 %) 
+were purchased from Sigma -Aldrich.  
+2-Aminoant hraquinone (>80 %) was purchased from Tokyo Chemical Industry and further 
+purified by sulphuric acid recrystallization.34 Analytical grade  sulphuric acid ( 18M, > 95 %) and 
+methanol (99.9 %) were purchased from Fischer Scientific. Acetonitrile, extra dry over 
+molecular sieve s (99.9 %) , was purchased from Acros Organics. N,N-Dimethylformamide (99 
+%) was purchased from Alfa Aesar. Acetone and ethanol (>99 %) were purchased from VWR 
+Chemicals. Nylon membrane disk s (diam. 47 mm , nylon 0.22 μm) were purchased from GVS 
+North America.  
+1-Butyl -3-methylimidazolium bis(trifluoromethyl sulfonyl)imide (99 %) was purchased from 
+Iolitec. Carbon dioxide vapour withdrawal cylinder was purchased from BOC. The 3-electrode 
+cell set -up was purchased from Swagelok (PFA -820-3) and stainless steel current collectors 
+were custom -made.  
+Synthesis of functionalized CMK -3 (f-CMK -3). 
+Pognon et al. have previously shown that anthraquinone -grafted carbons can be synthesized  
+by adding a diazonium radical  initiator  and 2-aminoanthraquinone ( 2-AAQ ) to a porous carbon 
+material.29 This study found that  the anthraquinone loading on the surface could be changed 
+using a variety of concentrations and mixing times . Our synthesis adapted  the conditions  that 
+showed the highest anthraquinone loading  from the literature protocol by mixing 2 -AAQ and 
+CMK -3 together for 24 hours prior to the addition of a radical initiator , allow ing time for the 2 -
+AAQ to diffuse into the inner pores in the carbon network, promoting an even distribution and 
+reducing side reactions such as polymerization.35–38 For a microporous carbon, the diffusion 
+of anthraquinone into the carbon network can block some  pores, leading to a loss of surface 
+area and a lower  quinone loading .39 Pore blockages also affect the electrochemical behaviour, 
+as it limits ionic transport of the electrolyte to the charged surface, thus leading to a loss in 
+electrochemical capacity.40 This can be overcome by using mesoporous carbons with pore 
+sizes between 2 and 10 nm to facilitate electrolyte accessibility . As such, CMK -3, a 
+mesoporous carbon with a pore diameter > 4 nm, was  ultimately  chosen for electrochemical 
+quinone grafting.  Mesopor ous CMK -3 (50 mg, 1 equiv.) and 2 -AAQ (0.28 g, 3 equiv.) were stirred in degassed 
+acetonitrile for 16 hours  under N 2. Tert-butyl nitrite ( 0.13 g, 1 equiv. compared to 2 - AAQ) was 
+added and the mixture was stirred for 30 min , and then  another 1 equiv. of tert-butyl nitrite 
+was added to the organic suspension. This process was repeated until a total of 3 equiv. of 
+tert-butyl nitrite w ere added. The s uspension was kept at ambient temperature while stirring 
+under N 2. After 4 h, the reaction mixture was vacuum  filtered on a nylon filtration membrane 
+and the f-CMK -3 powder was washed with successive aliquots of acetonitrile  (500 mL) , DMF  
+(500 mL) , acetone (100 mL) and methanol (100 mL) and dried in a vacuum oven at 100  °C for 
+12 h.  The final weight percentage increase after functionalisation was 2 2 ± 7 wt. %.  
+For a control experiment, the procedure was repeated without including the tert -butyl nitrite 
+reagent (which is required to form the diazonium species, and for covalent functionalisation to 
+take place).  
+Gas sorption. Low-pressure  N2 isotherms (adsorption and desorption) were collected using 
+an Anton Parr Autosorb iQ -XR at 77 K. An oven -dried sample cell (Type A long cell, 9 mm 
+outer diameter, LG bulb) was tared before being loaded with a sample. Ex-situ degassing 
+(110 °C, dynamic vacuum, 16 h) was performed before the evacuated tube was weighed again 
+to determine the sample mass. Isotherms were collected over 24 – 30 h, and the samples 
+were reweighed following analysis to ensure accurate mass readings. Sorption isotherms 
+were evacuated in As iQwin version 5.21 software. Brunauer –Emmett –Teller (BET)  surface 
+areas were calculated from isotherms using the BET equation and Rouquerol’s consistency 
+criteria implemented in AsiQwin.41,42  
+Fourier -transform infrared spectroscopy (FT -IR). Spectra were  recorded on  PerkinElmer 
+FT-IR Spectrometer in the region of 600 – 3600 cm-1.  
+Elemental Analysis.  C, H and N concentrations were determined via CHN combustion 
+analysis using an Exeter Analytical CE -440, with combustion at 975  °C. 
+Thermogravim etric Analysis (TGA).  Spectra were recorded on T GA/DSC 2  from Mettler 
+Toledo . Samples of typically 20 mg were placed in CC21 Cylindrical Alumina C rucible and 
+heated from 25 to 900 °C at 5 °C /min, under flowing N 2 atmosphere.  
+Scanning Electron  Microscopy – Energy Dispersive X -ray (SEM -EDX) . SEM images and 
+chemical composition were acquired using a TESCAN MIRA3 FEG -SEM equipped with an 
+Oxford Instruments X -maxN 80 EDX detector. SEM images were acquired at 5kV and EDX 
+spectra at 10kV  
+Solid State NMR. Experiments were performed using a Bruker Avance I spectrometer 
+equipped with a 9.4 T wide -bore magnet, corresponding to a 1H Larmor frequency ( 0) of 400 MHz, using a Bruker 3.2 mm HXY triple resonance probe at an MAS frequency ( R) of 20 kHz. 
+13C MAS NMR experiments were acquired using a radiofrequency field strength ( 1) of 62.5 
+kHz. Recycle delays were experimentally optimised to 10 s for f -CMK3/Cr(acac) 3 and 0.5 s for 
+u-CMK3/Cr(acac) 3. Number of transients acquired were 2048 and 6144, respectively. Sample 
+prepara tion: 50 mg of CMK -3 was mixed with 1 ml 0.5 wt/vl% Cr(acac) 3 in EtOH to create a 
+slurry. The solvent was allowed to evaporate overnight, affording a solid.  
+Electrode preparation.  
+Freestanding composite electrode films were prepared by adapting an existing literature 
+method.43 f-CMK -3 powder (50 mg) was mixed with ethanol ( ca. 1.5 mL) to produce a loose 
+slurry. This was sonicated for 15 min before being added to a PTFE dispersion in a few drops 
+of ethanol in a watch glass. The slurry was stirred by hand in the watch glass for 30 min under 
+ambient conditio ns. The film was gradually formed upon ffdrying of the slurry before being 
+transferred to a glass surface, where it was kneaded with a spatula  for 10 mins to ensure 
+homogenous incorporation of the activated  material and PTFE and then rolled into a 
+freestanding film using a homemade aluminium  rolling pin. The film was dried in vacuo  at 
+100  °C for at least 24 h to remove any excess ethanol. The masses of components were 
+calculated so that the final film had a composition of 95 wt% f -CMK -3 and 5 wt% PTFE.  
+The same procedure was used for all freestanding composite films and all films had a 
+thickness of ca. 250 𝜇m. A similar procedure  was used to make YP -80F films, except the 
+carbon material used was  as-purchased  microporous YP -80F. 
+For a control experiment,  CMK -3 (50 mg)  was prepared in the presence of  dissolved  
+anthraquinon e (5 mg, 10 wt. %) in ethanol (5 mL). The suspension was stirred for 2 hours then 
+kneaded to create an electrode film. Similarly, another control experiment followed the 
+diazonium radical reaction without the addition of the radical initiator . CMK -3 (50 mg , 1 equiv. ) 
+and 2 -AAQ (0.28 g, 0.3 equiv.)   were stirred in degassed acetonitrile for 16 hours  under N 2 
+and then washed following the synthetic procedure explained above.  
+Two-electrode c ells for electrochemical analysis were prepared as coin cells in Cambr idge 
+Energy Solutions CR2032 SS316 coin cell cases. Film electrodes were cut from freestanding 
+composite f -CMK -3 and YP -80F films with areal mass loadings of f -CMK -3 ranging between 
+5 − 11 mg cm-2. The m inimum weight ratio between the negative (f-CMK -3) and positive 
+(YP80F) electrode was 1: >2.5 , respectively . This ensured excess charging capacity  on the 
+YP-80F electrode  (relative to the f -CMK -3 electrode) . Therefore,  the potential on the working 
+f-CMK -3 electrode is expected to limit the stable working voltage range for the cel l. Whatman 
+glass microfiber filter (GF/A) was used as a separator  and dried in vacuo at 100 °C for 24 h 
+prior to use. 1 -Butyl -3-methylimidazolium bis(trifluoromethyl sulfonyl)imide  ionic liquid  (200 𝜇m) was used as an electrolyte in all experiments. All electrochemical cells were assembled 
+inside a glovebox under an inert nitrogen (N 2) atmosphere. Each coin cell contained two 
+SS316 spacer  disks and one SS316 spring to ensure sufficient and consistent pressure in the 
+cells. The coin cells were sealed in the glovebox using a Compact Hydraulic Coin Cell Crimper 
+(Cambridge Energy Solutions) before being removed for testing.  
+Electrochemical Cel l Characterisation.  
+Cyclic voltammetry (CV)  and constant current  experiments were performed on Biologic 
+potentiostats (VSP -3e and VMP -3e) and the electrochemical set -up was controlled with 
+Biologic EC -Lab V11.43 software. The CV scans were performed at a scan rate of 5 mV s-1 
+for all cells unless otherwise stated.  
+Electrochemical gas cell  experiments.  
+Electrochemical gas adsorption experiments were carried out with a custom -made device  
+reported previo usly (Figure S1.1 ).44 Electrochemical cells for gas measurements were 
+assembled in meshed coin cells from MTI Corporation  (CR2032 -CASE -MESH, 1  mm holes ) 
+and placed in gas manifold devices with f-CMK3 -K electrodes  exposed to the gas reservoir. 
+Devices were then evacuated for 10 mins and filled with pure CO 2 gas (> 1.01 bar) . This was 
+repeated three times  to fully exchange the N 2 gas (from the glovebox environment in which 
+the cells were prepared) with CO 2. The electrochemical cells were placed in an incubator oven 
+(SciQuip Incu -80S) at 35  °C. This temperature was consistent with similar literature systems, 
+enabling accurate comparison.26 The constant  current was applied across the cell and the 
+increase and  decrease in pressure in the device, upon release and capture, respectively, was 
+monitored using a pressure transducer (Omega, PX309 -030A5V)  which was connected to the 
+potentiostat as an external device, enabling simultaneous electrochemistry and cell gas 
+pressure measurements.  
+Constant -current experiments with constant voltage holding steps were carried out while 
+simultaneously monitoring how the CO 2 pressure in the system varied. A decrease in pressure 
+is then characteristic of CO 2 capture by the functionalized electrode an d an increase in 
+pressure is CO 2 release . The pressure difference between  capture and release was then used 
+to calculate the numb er of CO 2 molecules captured using the ideal gas law.  
+  Results and Discussion  
+Electrode fabrication and c haracter ization  
+ 
+Targeting a quinone -functionalised carbon material for electrochemical CO 2 capture, we 
+adapted a previously developed synthetic route that employs a diazonium radical reaction 
+(Scheme 2 ). We selected CMK -3 mesoporous carbon and 2 -aminoanthraquinone  to yield the 
+anthraquinone functionalised carbon, f -CMK -3. We hypothesized that t he use of a 
+mesoporous carbon for the functionalisation reaction would  avoid pore blockage,  leaving 
+sufficient porosity following functionalization for electrolyte and CO 2 access during 
+electrochemical CO 2 capture.45  
+N2 gas sorption  isotherms at 77  K showed  typical  Type IV adsorption -desorption hysteresis  
+loops for u-CMK -3 and f -CMK -3, consistent with the presence  of mesopores,46 as well as a 
+steep uptake a t low relative pressures (0.0 to 0.1 P/P 0), consistent with the presence of 
+micropores  (Figure 1A  & Section S2). Upon quinone grafting, f -CMK -3 show s a decrease in  
+adsorbed  volume at relative pressures  greater  than 0.5 P/P 0, suggesting that anthraquinone 
+molecules have been grafted in the carbon mesopores, rather than in the micropores . Our 
+findings are consistent with previous studies, that also attributed a decrease in surface area  
+after quinone  grafting to the presence of quinone s on the carbon structure.32 However, gas 
+sorption  alone  cannot be used to infer whether chemical grafting of anthraquinone has taken  
+Scheme 2. Functionalisation of CMK -3 using 2 -AAQ and tert -butyl nitr ite (TBN) used as the radical initiator.  -
+ 
+ 
+place , as a similar sorption profile  may be seen regardless of whether anthraquinone was 
+physisorbed or chemisorbed to the carbon surface . Furthermore, as molecular nitrogen has a 
+significantly smaller radius than ions used in the ionic liquid electrolyte,  1-butyl -3-
+methylimidazolium bis( trifluoromethyl sulfonyl )imide  ([bmim][T FSI]), gas sorption cannot 
+provide information about the electrochemical accessibility of pores.47 In summary, the gas 
+sorption measurements support the presence of  anthraquinones  within the mesoporous 
+carbon  and show that significant porosity is retained, which should enable CO 2 species to 
+enter the pores in electrochemical carbon capture measurements.  
+To ascertain whether anthraquinone was covalently attached to  the CMK -3 support , FT-IR 
+was used to monitor the loss of amine group s from 2-AAQ following  functionalization  (Figure 
+1B & Figure S 3.1) as well as the presence of the quinone carbonyls . 48 Activated c arbon is 
+Figure 1. Characterization of u -CMK -3 (black line) and f -CMK -3 (red line). A) N2 gas sorption  adsorption (filled squares)  and 
+desorption  (hollow squares ) isotherms at 1 10 °C. B) FT -IR comparison of the absorbance difference  spectrum  between f -
+CMK -3 and u -CMK -3 (red line)  and 2-amino anthraquinone (grey line).  C) Solid state 13C NMR of u -CMK -3 (black) and f -CMK -
+3 (red) . Both samples were  mixed with Cr(acac) 3 to enhance longitudinal (T 1) relaxation , see experimental section .59 Red 
+shaded area shows a  peak  in the carbonyl region  for f-CMK -3. D) CVs of CMK -3, in [bmim][TFSI], at 1 mV s-1. The counter 
+electrode was an oversized YP80F: PTFE (95: 5 wt.%)  electrode, as described in the Experimental section. The capacity was 
+calculated from the red shaded area.  
+ 
+ highly absorbing of IR light,  resulting in low signal intensity  for both CMK -3 samples . However,  
+weak anthraquinone peaks can still be identified in f -CMK -3. The peaks for N –H and C –N 
+bonds, shown at 3500  (Figure S 3.2), 1650 – 1580 (blue shaded) and 1342 – 1266 cm-1, 
+respectively , 49 were observed in the 2-AAQ spectrum but w ere absent in  u-CMK -3 and  f-CMK -
+3. Though the signal intensities are weak for these samples , C–N modes are predicted to have 
+strong transmittance due to aryl resonance and  their absence , as well as the lack of N –H 
+peaks in the f -CMK -3 spectrum , support  the lo ss of amine groups  during anthraquinone 
+grafting . This was also supported by energy -dispersive X -ray spectroscopy ( EDX) 
+measurements where nitrogen was absent in the chemical composition of f -CMK -3 (Figure  
+S4.1 and Figure S4.2 ). X-ray photoelectron spectroscopy (XPS) did show a trace amount of 
+nitrogen however, the origin was unknown ( Figure S 5.1). Meanwhile,  the stretch of the 
+carbonyl group at 1650  cm-1 (red shaded) was seen in both the 2 -AAQ and f -CMK -3 spectra  
+but not the u -CMK -3 spectrum, confirming the presence of quinone in the functionalised 
+carbon . Peaks seen in f -CMK -3 at 1290  cm-1 are also present in anthraquinone and therefore 
+are not assigned to C –N bond in 2 -AAQ. The absence of N–H peaks in the f-CMK -3 spectrum 
+supports the loss of the amine group during the radical synthesis, resulting in anthraquinone 
+being covalently grafted to the CMK -3 structure. Solid state 13C NMR was used to further 
+confirm the presence of anthraquinone in the f -CMK -3 structure ( Figure 1C ). An intense  broad 
+peak  was observed at approximately 120 ppm for both samples, and was assigned to 
+graphitic -like sp2-hybridised carbon. The highlighted  peak at 180 ppm for f-CMK -3 structure 
+supports the  additional presence of carbonyl bonds  in anthra quinone units after 
+functionalisation. Consis tent with this, X -ray photoelectron spectroscopy (XPS) showed an 
+increase in the carbonyl  signal following functionalisation ( Figure S 5.1). 
+Electrochemical measure ments  further support the success of the functionalisation reaction 
+and allow the amount of electrochemically accessible anthraquinone to be quantified. Cyclic 
+voltammetry (CV) curves  on two -electrode cells  show clear differences  in the charge storage  
+behavio urs of f-CMK -3 and u -CMK -3 (Figure 1D). In these measurements , a microporous 
+carbon, YP80F, with excess  charge  storage capacity was used as the positively charged 
+electrode . The CV curve of  the u-CMK -3 cell (black line) displays  typical electrochemical  
+double -layer capacitive beha viour, identified by  a square -like CV with the absence of obvious 
+redox peaks . This so-called “double -layer capacity ” seen in activated carbon materials arises 
+from capacitor -like energy storage at the in terface  between the electronically charge d carbon 
+surface and oppositely charged  ions in the electrolyte.  In contrast , the CV curve of  f-CMK -3 
+exhibits two charge storage mechanisms : (a) double -layer capacitance , evidenced by a 
+rectangular contribution, and (b) Faradaic charge storage, evidenced by  two redox  couples 
+centered  at cell voltages of  –1.5 V and –2.2 V which correspond  to the two 1 e– reduction/oxidation  processes  of anthra quinone.50 A slight loss of double -layer capacity was 
+seen at  low cell voltages (e.g. , –0.5 V ) upon functionalization , likely  owing to the reduction in 
+surface area and pore blockage after anthraquinone  functionalization  on CMK -3, as seen by 
+gas sorption . However, the overall charge -storage capacity increased by 25% from 39 to 52 
+mA h g–1 owing to the addition of the Faradaic contributions . 
+Assuming  any difference in charge  storage  for the two carbons could be attributed to 
+anthraquinone, the estimated quin one loading was calculated to be 9 ± 1 wt.% (Section S6), 
+which was within  the range of what is expected from the literature synthesis.29 In this case, 
+the small  loss of double -layer capacity upon functionalization was ignored for simplification.  
+The cell voltage window was limited by the stability of the electrolyte therefore two full 
+reduction peaks could not be obtained . This suggests the quinone loading  report ed above  is 
+an underestimation of the amount of AQ present.  Indeed, a simple estimation of the 
+anthraquinone loading based on the sample mass increase following function alisation gave a 
+higher value of 22 ± 7 wt. % (see experimental). This means that we ca nnot rule out the 
+presence of some electro chemically inactive anthraquinone in f -CMK -3. We also explored 
+further techniques to explore the incorporation of anthraquinones in f -CMK -3, including EDX 
+(Table S 4.1), XPS ( Table S 5.2) and TGA , (Figure S7.1)). However, accurate quantification 
+of anthraquinone loading from these techniques was not p ossible. Ultimately, we believe the 
+electrochemical techniques are the best method to determine quinone  loading as they indicate  
+the quantity of quinone that is electrochemically accessible and therefore would partake in an 
+electrochemical carbon capture process.  
+To further confirm anthraquinone was chemisorbed to CMK -3, control experiments were 
+carried out . When the reaction  was carri ed out without the addition of the TBN radical initiator, 
+the resulting electrode  material showed a cyclic voltammogram very similar to u -CMK -3, with 
+no obvious Faradaic contributions from anthraquinone observed , suggesting that physisorbed 
+anthraquinone and 2 -AAQ is removed during the washing steps of the synthesis  (Figure 
+S8.1). Similarly, when u-CMK -3 was mixed with dissolved anthraquinone during the electrode 
+film-making  process,  clear redox peaks were again not observed  (Figure S 8.1). In summary, 
+the grafting of anthraquinone onto the carbon surface was confirmed using a range of 
+characterization techniques  and control experiments , with the amount of electrochemically 
+accessible anthraquinone on the surface estimated with a lower limit of 9 wt.%.29  
+Electrochemical c arbon  dioxide  capture measurements  
+Having successfully prepared anthraquinone -functionalised CMK -3, i.e., f-CMK -3, 
+electrochemistry measurements were carried out in the presence of CO 2 to access whether 
+this material could capture CO 2 in an electrochemically driven process. Preliminary evidence for electrochemical CO 2 capture was obtained from CV experiments , where differences in the 
+two-electrode CV profiles were observed under N 2 and CO 2 (Figure 2A). Under N 2, the CV 
+curve of the cell  show s two redox events , while  under CO 2, the redox peaks are shifted , 
+coalescing into a single broad  peak at –1.9 V. A smaller peak at –0.75 V is also observed  and 
+has been previously linked to  a stabilized quinone intermediate .13 Peak shifts have  previously 
+been reported in other quinone -based systems under the presen ce of CO 2,11,52 with the second 
+reduction peak generally reported to shift  to more positive potentials  while the potential of the 
+first reduction peak remains largely unchanged.  A shift in the second reduction peak to more 
+positive potentials is caused by the reaction of the reduced quinone species with carbon 
+dioxide. This is thought to make the second reduction more thermodynamically favorable 
+through the stabilization of the pr oducts, leading to a shift of the second reduction peak to 
+more positive potentials . The movement of both redox peaks that we observe for f-CMK -3 has 
+not been previously reported in quinone -based CO 2 capture  chemistry . The  cause for the  
+coalescence  of the two redox events  is currently unknown , however , a shifting of peaks in the 
+CV curves gave preliminary evidence for carbon dioxide capture by f -CMK -3. More conclusive evidence for electrochemically driven CO 2 capture was provided by charging 
+experiments during which the CO 2 pressure  was mo nitored  in a custom electrochemical cell . 
+To isolate the Faradaic and double -layer capacity  contributions to CO 2 capture , three different  
+voltage  windows were explored . A voltage  window of 0 to –1 V was  first used to avoid 
+anthraquinone redox -activity on f -CMK -3, which  meant any pressure variation seen would not 
+be due to anthraquinone redox ( Figure 2B). The measurements in this voltage range  show 
+negligible pressure variation s, similar to what is seen for u -CMK -3 in the sam e voltage range 
+(Figure  S9.2). Experiments under  an N2 environment  also showed minimal pressure variation  
+(Figure S 10.2 & S11.2). 
+A voltage range of –1 to –2 V was then used to isolate anthraquinone redox activity and 
+monitor electrochemically driven adsorption ( Figure 2C). When  the f-CMK -3 cell was charged 
+to –2 V, a decrease in pressure ( red line) is observed, indicating the capture of CO 2. When  
+the f-CMK -3 electrode is  then discharged to 0 V , the pressure in the system increases owing 
+to the release of CO 2. The pressure oscillations are synchronous with the electrochemical 
+charging and discharging , demonstrating  that the reduction and oxidation of anthraquinone 
+drive  the capture and release of carbon dioxide.  This cell voltage range shows that targeting 
+Figure 2. Data from f -CMK -3 cell in gas manifold under CO 2 atmosphere. A) CV under N 2 (black dashed line) and CO 2 
+(blue line) at 1 mV s-1. B-D show pressure and voltage data of f -CMK -3 under CO 2 with different cell voltage windows. 
+Experiments ran was a constant current at 0.1 A g–1 then voltage was held for 10 mins. B) 0 to -1 V, pressure – green line. 
+C) -1 to -2 V, pressure – red line. D) 0 to -2.5 V, pressure – blue line.  
+the redox activity of anthraquinone leads to carbon capture.  Finally, experiments where the 
+voltage was cycled between 0 and –2.5 V again revealed reversible capture and release of 
+carbon dioxide, and showed larger magnitude pressure variations, corresponding to a large r 
+CO 2 capacity ( Figure 2D ).  
+For optimization  experiments, t he voltage  was limited to  –2 V to minimize any parasitic side 
+reactions at large cell voltages . Degradation was seen to increase when a larger voltage range 
+was used ( Figure S 12.1 and S 12.2) therefore a cell voltage window between -1 to -2 V was 
+used . To optimize  the CO 2 capture capability of the electrode,  the current density was varied 
+and a value  of 0.1 A g–1 was found to be slow enough for carbon dioxide to be captured by 
+reduced anthraquinones  but fast enough to limit any additional  degradation of the cell  (Figure  
+S13.1). Adsorption capacity values of around 0.4 mmol g–1 were seen  with an energy 
+consumption of 256 kJ mol–1 (Section S14). This energy consumption is higher than  for the 
+polyanthraquinone system developed by Vosk ian et al. , howeve r, the corresponding  
+adsorption capacities were not reported for th at system.26 These capacities were comparable 
+to the theoretical value for 1 equivalen t of CO 2 per anthraquinone molecule , calculated a s 0.46 
+mmol g–1 from our estimated quinone loading (Sections S15 & S16). Previous anthra quinone 
+capture systems were able to obtain a 1.5 CO 2: quinone ratio ,26 suggesting  there is potential 
+to optimize f -CMK -3 to obtain higher CO 2 capacities . Other studies obtained an adsorption 
+capacity of 5.9 mmol CO2 gAQ-1 which is comparable to our experimental value of 4.44  mmol CO2 
+gAQ-1 assuming a quinone loading  of 9 wt.% . However , these literature values were only seen 
+in the initial 50 cycles before the cell degraded. 24  
+The electronic charge  stored was calculated from the electrochemistry  measurements, 
+providing  information on the electrochemical behavio ur of f-CMK -3 under CO 2 (Section  S17, 
+Figure S1 7.3). Electronic c harge values were approximately  1.0 mmol g–1 (i.e., 1.0 mmol of 
+electrons per g ram of f-CMK -3)—much  higher than the CO 2 adsorption values. The F aradaic 
+efficiency , the percentage of total charge extracted during cell discharge relative to during cell 
+charging,  was seen to increase above 90% during cycling  (Figure S1 7.4). However, t he 
+charge -capture efficiency  of the cell —i.e., the proportion of electronic charge s that were  used 
+for CO 2 capture —was ca. 20% after cycl ing (Figure S1 7.4). In other words,  approximately 
+80% of the electronic charge  stored is not utilized for CO 2 capture and is used for other 
+processes , e.g., capacitive  and Faradaic  charging. A downward pressure slope was present 
+in this limited voltage range  (Figure S 17.2), indicating some  degradation  may be taking place . 
+Open circuit voltage (OCV) experiments were used to confirm no gas leakage in the system  
+(Figures S 9.1, S10.1, S11.1 & 17.1). In the future, more stable quinone molecules  and carbon 
+supports  could reduce the amount of degradation seen within the system.53  Further  experiments were r un between 0 to –2.5 V  with a 10 -minute voltage  hold after each 
+cycle  to allow maximum adsorption (Figure 2D). From the initial cycles, f -CMK -3 had an 
+adsorption capacity  of around 1 mmol g–1, which rapidly decreased upon cycling , presumably 
+due to degradation  processes  (see below) .54,55 After the system began to stabilise, the 
+adsorption  capacity leveled to around  0.4 mmol g–1, similar to what is seen for a limited cell 
+voltage range of –1 to –2 V, but this larger voltage window proved more energy intensive, 
+exhibiting  a higher energy co nsumption of 830 kJ mol–1. Additionally, a steeper  negative  
+pressure slope  for this larger voltage window suggests increased material degradation (Figure 
+S17.5). Observe electronic c harge values in the larger voltage window were around 2 .5 mmol 
+g–1 and are larger than the adsorption values , indicating poorer Faradaic efficiency  (Figure 
+S17.6 & S17.7). A charge -capture efficiency  of below  20 %  indicates a lower proportion of 
+charge was used for CO 2 capture processes  compared to  the more limited voltage window  of 
+–1 to –2 V. In summary, c arbon capture has been shown to be facilitated by the presence of 
+anthraquinone on CMK -3 however degradation occurs even in limi ted potential windows.  
+Interestingly, control experiments on the unfunctionalized carbon,  u-CMK -3, also show ed a 
+small amount of reversible CO 2 capture with  an initial adsorption capacity of 0.15 mmol g–1  
+when cycled within a −1 to −2 V window (Figure S 9.3), which is higher than what is seen 
+under N 2 atmosphere  (Figure S 11.2). It can be assumed  that some redox -active functionalities 
+are present on the u-CMK -3 surface, shown by a high oxygen content in elemental analysis  
+and XPS (Table S6.1  and Table S 18.1).56 These functionalities are likely to only give broad 
+features  in the CV experiments , indistinguishable from the double -layer capacitance , but may 
+contribute to electrochemical CO 2 capture  when anthraquinone is not present.57 This 
+unexpected electrochemical CO 2 adsorption  may also be due to the carbon electrode  
+polarization causing enhanced CO 2 physisorption . This would not be seen under N 2 due to the 
+lack of polarizability. The difference in adsorption capacity between f -CMK -3 and u -CMK -3 
+was assigned to grafted anthraquinone —around 0.2 mmol g–1—confirming grafting of 
+anthraquinone on CMK -3 improves carbon adsorption .  
+Finally, l ong cycling studies were carried out between  –1 to –2 V to monitor  the cell 
+degradation over 200 cycles (Figure 3A). Following initial  losses, the CO 2 adsorption capacity  
+began to  stabilize around 0.2 mmol g–1. u-CMK -3 showed much smaller adsorption capacities, 
+with n o overlap  seen  between u -CMK -3 and f -CMK -3 within error  (Figure 3A ). We hypothesize 
+that some  anthraquinone was lost from f-CMK -3 during  cycling under CO 2. The loss of 
+anthraquinone after CO 2 capture was further investigated using electrochemical techniques.  
+The CV curve of f-CMK -3 showed a large decrease in Faradaic contribution with minimal loss 
+to double -layer capacity  after 200 cycles  (Figure 3B). Anthraquinone  loading was recalculated to be 3.4 %; this account ed for the difference in  electronic charge of u-CMK -3 and f -CMK -3 
+after 200 cycles. The lack of stability under CO 2 was not seen under an N2 atmosphere. When 
+cycling up  to 3000 cycles , electronic charge capacity retention was  84% under N 2 whereas 
+under CO 2 this was limited to  54% (Figure S20.1). The observed l ack of long-term stability 
+could be due to an irreversible reaction between f -CMK -3 and CO 2. Figure 3C shows that the 
+electronic charge values were maintained at around 1 mmol g–1 with Faradaic efficienc ies 
+above 95 % after 200 cycles.  The charge -capture efficiency was slightly lower than the value 
+of 20% observed in the above experiment ( Figure 2C), indicating degradation is still present 
+in f-CMK -3 materials .  
+The loss of electronic charge from anthraquinone degradation under CO 2 was investigated 
+using 1H NMR  (Figure S21.1). After cycling, the ionic liquid electrolyte was collected and NMR 
+spectra s howed the presence of the [bmim][TFSI] electrolyte  (as expected)  as well as some 
+unknown aromatic peaks. These were compared to anthraquinone  (Figure S21.1), but could 
+not be accurately assigned . This could suggest a small amount of anthraquinone ha s 
+Figure 3. Long cycling experiment of f -CMK -3 and u -CMK -3 under CO2, cycled between -1 to -2 V at 0.1 A g –1 with 
+voltage hold for 10 minutes. A) Adsorption capacity of f -CMK -3 (red) and u -CMK -3 (black). The moving average for 
+capture (solid line) and release (dashed ) were calculated from raw data (filled and hollow circles respectively). Errors 
+of moving average (transparent) were also calculated ( Section S 19). B) CV cycles of f -CMK -3 before (black) and after 
+(red) cycling under CO 2, showing a  capacity decrease of 28%. C) Charge  and efficiency  data given for f -CMK -3 
+experiment. Charge (solid red line) and discharge (dashed red line) plotted. Faradaic efficiency ( solid black line) and 
+charge -capture efficiency (solid black line) also plotted.  degraded and was released into the electrolyte. However, it is unknown if this degradation can 
+account for a n electronic capacity loss of 28%, thus still allowing for the possibility that  some 
+anthraquinone becom es electrochemically inacc essible after a reaction with CO 2. In the future, 
+a full investigation of the factors determining stability in these systems will be carried out, so 
+that more stable sorbents can be obtained.  Finally, we note that our materials are readily 
+tunable since both the porous carbon and the redox -active support can be readily varied. 
+Indeed,  we functionalised a second porous carbon which also showed evidence for 
+electrochemical CO 2 capture ( Figure S 22.1).  
+Conclusion and Outlo ok 
+In this work we have developed  a new class of q uinone -functionalised carbon materials for 
+electrochemically driven CO 2 capture. Structural characterization  and electrochemistry  
+measurements showed that  anthraquinones were  successfully grafted to CMK -3 mes oporous 
+carbon  using the diazonium radical reaction  to yield f -CMK -3. Following quinone 
+functionalisation, clear increases in electrochemical charge storage capacity were obtained 
+due to anthraquinone redox reactions.  By incorporating f -CMK -3 in an electrochemical gas 
+cell and applying a cell voltage in the range of –1 to –2 V in the presence of CO 2, CO 2 
+adsorption capacities ca. 0.4 mmol g–1 were demonstrated that  utilize the Faradaic redox 
+reactions of anthraquinone on the carbon surface. The addition of anthraquinone  therefore  
+improves both the carbon capture and energy storage abilities of the solid -state electrode.  
+Upon cycling, however, a loss of carbon  dioxide  adsorption i s seen which could be due to  an 
+irreversible reaction between anthraquinone and CO 2. Our facile synthesis method lends itself 
+to the preparation of a large family of sorbents for electrochemical CO 2 capture. Indeed, the 
+porous carbon support and the redox -active molecules can readily be varied to prepare a large 
+family of materials . Research beyond the scope of this study  into the carbon -capture 
+mechanism  within these systems is ongoing . Furthermore,  more work to investigate the 
+efficienc y of electrochemical capture systems in more realistic conditions, in lower 
+concentrations of CO 2, and in the presence of oxygen and moisture  need s to be carried out . 
+These conditions have yet to be investigate d for this material but ha ve been carried out for 
+other systems .15,58  In the future, we envisage that optimization of these materials will lead to 
+higher electrochemical CO 2 capture capacities, as well as improved stability under operating 
+conditio ns. Our work opens the door to studies of an entirely new class of materials for 
+electrochemical CO 2 capture.  
+  Data Availability  
+All raw experimental data files are available in the Cambridge Research Repository, Apollo, 
+with the identifier https://doi.org/10.17863/CAM.95424 . 
+Supporting Information  
+Supporting information Available: This material is available free of charge via the Internet 
+at http://pubs.acs.org .  
+Authors Contribution  
+N. A. H , A. J.  and A. C. F designed the research. N. A. H performed the material synthesis 
+and electrode film fabrication. N. A. H. performed and analysed the FT -IR, TGA, SEM -EDX 
+and gas experiment s. N. A. H and D. C. Y. L performed and analysed  the electrochemistry 
+experiments. S. M. P performed the solid state  13C NMR experiments. Z. X and N. A. H. 
+interpreted the XPS data. All authors interpreted the results and contributed to the writing of 
+the manuscript  
+Conflict of interest  
+There are no conflicts to declare  
+Acknowledgments  
+This work was supported by an EPSRC New Horizons award (EP/V 048090/1) , a UKRI Future 
+Leaders Fellowship to A.C.F. (MR/T043024/1) , and an EPSRC doctoral training award to 
+N.A.H. (ref EP/T517847/1). D.C.Y.L. acknowledges the RSC for the award of an 
+Undergraduate Research Bursar y. We thank Israel Temprano for their support with equipment 
+for electrochemical gas sorption measurements. We thank Jamie W. Gittins and Emma J. 
+Latchem for their collaboration and technical expertise.  We thank Mengnan Wang at the 
+Department of Chemical Engineering, Imperial College Lon don for running the XPS samples.   
+For the purpose of open access, the author has applied a Creative Commons Attribution (CC 
+BY) licence to any Author Accepted Manuscript version arising.  
+References  
+(1) Tollefson, J.; Weiss, K. R. Nations Adopt Historic G lobal Climate Accord. 
+Nature  2015 , 528, 315 –316. (2) Masson -Delmotte, V.; Zhai, P.; Pirani, A.; Connors, S. L.; Pean, C.; Berger, S.; 
+Caud, N.; Chen, Y.; Goldfarb, L.; Gomis, M. I.; Huang, M.; Leitzell, K.; Lonnoy , 
+E.; Matthews, J. B. R.; Maycock, T. K.; Waterfield, T.; Yelekci, O.; Yu, R.; Zhou, 
+B. IPCC, 2021: Summary for Policymakers. In: Climate Change 2021: The 
+Physical Science Basis. Contribution of Working Group I to the Sixth 
+Assessment Report of the Intergo vernmental Panel on Climate Change ; 
+Cambridge, 2021. https://doi.org/10.1017/9781009157896.001.  
+(3) Gao, W.; Liang, S.; Wang, R.; Jiang, Q.; Zhang, Y.; Zheng, Q.; Xie, B.; Toe, C. 
+Y.; Zhu, X.; Wang, J.; Huang, L.; Gao, Y.; Wang, Z.; Jo, C.; Wang, Q.; Wang,  
+L.; Liu, Y.; Louis, B.; Scott, J.; Roger, A. -C.; Amal, R.; He, H.; Park, S. -E. 
+Industrial Carbon Dioxide Capture and Utilization: State of the Art and Future 
+Challenges. Chem Soc Rev  2020 . https://doi.org/10.1039/d0cs00025f.  
+(4) Rochelle, G. T. Amine Scru bbing for CO2 Capture. Carbon Capture and 
+Greenhouse Gases  2010 , 325 (September 2009), 1652 –1654. 
+https://doi.org/10.1007/978 -3-642-28036 -8_100191.  
+(5) Vasudevan, S.; Farooq, S.; Karimi, I. A.; Saeys, M.; Quah, M. C. G.; Agrawal, 
+R. Energy Penalty Estimate s for CO2 Capture: Comparison between Fuel 
+Types and Capture -Combustion Modes. Energy  2016 , 103, 709 –714. 
+https://doi.org/10.1016/j.energy.2016.02.154.  
+(6) Forse, A. C.; Milner, P. J. New Chemistry for Enhanced Carbon Capture: 
+Beyond Ammonium Carbamates. Chemical Science . Royal Society of 
+Chemistry January 14, 2021, pp 508 –516. https://doi.org/10.1039/d0sc06059c.  
+(7) Clarke, L. E.; Leonard, M. E.; Hatton, T. A.; Brushett, F. R. Thermodynamic 
+Modeling of CO2Separation Systems with Soluble, Redox -Active Captu re 
+Species. Ind Eng Chem Res  2022 , 61 (29), 10531 –10546. 
+https://doi.org/10.1021/acs.iecr.1c04185.  
+(8) Jin, S.; Wu, M.; Gordon, R. G.; Aziz, M. J.; Kwabi, D. G. PH Swing Cycle for 
+CO2capture Electrochemically Driven through Proton -Coupled Electron 
+Transfer . Energy Environ Sci  2020 , 13 (10), 3706 –3722. 
+https://doi.org/10.1039/d0ee01834a.  
+(9) Liu, C.; Landskron, K. Design, Construction, and Testing of a Supercapacitive 
+Swing Adsorption Module for CO2 Separation. Chemical Communications  
+2017 , 53 (26), 3661 –3664. https://doi.org/10.1039/c7cc01055a.  (10) Kokoszka, B.; Jarrah, N. K.; Liu, C.; Moore, D. T.; Landskron, K. 
+Supercapacitive Swing Adsorption of Carbon Dioxide. Angewandte Chemie - 
+International Edition  2014 , 53 (14), 3698 –3701. 
+https://doi.org/10.1002/anie.201310308.  
+(11) Barlow, J. M.; Yang, J. Y. Oxygen -Stable Electrochemical CO2Capture and 
+Concentration with Quinones Using Alcohol Additives. J Am Chem Soc  2022 , 
+144 (31), 14161 –14169. https://doi.org/10.1021/jacs.2c04044.  
+(12) Gurkan, B.; Simeon, F.; Hatton, T. A. Quinone  Reduction in Ionic Liquids for 
+Electrochemical CO2 Separation. ACS Sustain Chem Eng  2015 , 3 (7), 1394 –
+1405. https://doi.org/10.1021/acssuschemeng.5b00116.  
+(13) Simeon, F.; Stern, M. C.; Diederichsen, K. M.; Liu, Y.; Herzog, H. J.; Hatton, T. 
+A. Electroche mical and Molecular Assessment of Quinones as CO2 -Binding 
+Redox Molecules for Carbon Capture. Journal of Physical Chemistry C  2022 , 
+126 (3), 1389 –1399. https://doi.org/10.1021/acs.jpcc.1c09415.  
+(14) Kang, J. S.; Kim, S.; Hatton, T. A. Redox -Responsive Sorb ents and Mediators 
+for Electrochemically Based CO2 Capture. Curr Opin Green Sustain Chem  
+2021 , 100504. https://doi.org/10.1016/j.cogsc.2021.100504.  
+(15) Liu, Y.; Ye, H. Z.; Diederichsen, K. M.; Van Voorhis, T.; Hatton, T. A. 
+Electrochemically Mediated Carb on Dioxide Separation with Quinone 
+Chemistry in Salt -Concentrated Aqueous Media. Nat Commun  2020 , 11 (1), 1 –
+11. https://doi.org/10.1038/s41467 -020-16150 -7. 
+(16) Journal, T.; Mizen, M. B.; Wrighton, M. S. Reductive Addition of CO2 to 9,1 0-
+Phenanthrenequinon e. J. of Electroche m. Soc. 1989 , 136 (4), 941 –946. 
+(17) Apaydin, D. H.; Głowacki, E. D.; Portenkirchner, E.; Sariciftci , N. S. Direct 
+Electrochemical Capture and Release of Carbon Dioxide Using an Industrial 
+Organic Pigment: Quinacridone. Angewandte Chemie - International Edition  
+2014 , 53 (26), 6819 –6822. https://doi.org/10.1002/anie.201403618.  
+(18) Dubois, D. L.; Miedaner , A.; Bell, W.; Smart, J. C. Chapter 4 - 
+ELECTROCHEMICAL CONCENTRATION OF CARBON DIOXIDE. In 
+Electrochemical and Electrocatalytic Reactions of Carbon Dioxide ; 1993; pp 
+94–117. https://doi.org/10.1016/B978 -0-444-88316 - 2.50008 -5. (19) Comeau Simpson, T.; Du rand, R. R. Reactivity of Carbon Dioxide with 
+Quinones. Electrochim Acta  1990 , 35 (9), 1399 –1403. 
+https://doi.org/10.1016/0013 -4686(90)85012 -C. 
+(20) Nagaoka, T.; Nishii, N.; Fujii, K.; Ogura, K. Mechanisms of Reductive Addition 
+of CO2, to Quinones in Acetonitrile ; Elsevier Sequoia S.A; Vol. 322.  
+(21) Hemmatifar, A.; Kang, J. S.; Ozbek, N.; Tan, K. J.; Hatton, T. A. 
+Electrochemically Mediated Direct CO2 Capture by a Stackable Bipolar Cell. 
+ChemSusChem  2022 , 15 (6). https://doi.org/10.1002/cssc.202102533 . 
+(22) Pan, F.; Wang, Q. Redox Species of Redox Flow Batteries: A Review. 
+Molecules  2015 , 20 (11), 20499 –20517. 
+https://doi.org/10.3390/molecules201119711.  
+(23) Diederichsen, K. M.; Liu, Y.; Ozbek, N.; Seo, H.; Hatton, T. A. Toward Solvent -
+Free Continuous -Flow Electrochemically Mediated Carbon Capture with High -
+Concentration Liquid Quinone Chemistry. Joule  2022 , 6 (1), 221 –239. 
+https://doi.org/10.1016/j.joule.2021.12.001.  
+(24) Wielend, D.; Apaydin, D. H.; Sariciftci , N. S. Anthraquinone Thin -Film 
+Electrodes for Reversible CO2 Capture and Release. J Mater Chem A Mater  
+2018 , 6 (31), 15095 –15101. https://doi.org/10.1039/c8ta04817g.  
+(25) Liang, Y.; Tao, Z.; Chen, J. Organic Electrode Materials for Rechargeable 
+Lithium Ba tteries. Advanced Energy Materials . s, pp 742 –769. 
+https://doi.org/10.1002/aenm.201100795.  
+(26) Voskian, S.; Hatton, T. A. Faradaic Electro -Swing Reactive Adsorption for CO2 
+Capture. Energy Environ Sci  2019 , 12 (12), 3530 –3547. 
+https://doi.org/10.1039/c9ee 02412c.  
+(27) Wielend, D.; Salinas, Y.; Mayr, F.; Bechmann, M.; Yumusak, C.; Neugebauer, 
+H.; Brüggemann, O.; Sariciftci, N. S. Immobilized Poly(Anthraquinones) for 
+Electrochemical Energy Storage Applications: Structure -Property Relations. 
+ChemElectroChem  2021, 8 (22), 4360 –4370. 
+https://doi.org/10.1002/celc.202101315.  
+(28) Kalinathan, K.; DesRoches, D. P.; Liu, X.; Pickup, P. G. Anthraquinone 
+Modified Carbon Fabric Supercapacitors with Improved Energy and Power 
+Densities. J Power Sources  2008 , 181 (1), 182 –185. 
+https://doi.org/10.1016/j.jpowsour.2008.03.032.  (29) Pognon, G.; Brousse, T.; Demarconnay, L.; Bélanger , D. Performance and 
+Stability of Electrochemical Capacitor Based on Anthraquinone Modified 
+Activated Carbon. J Power Sources  2011 , 196 (8), 4117 –4122. 
+https://doi.org/10.1016/j.jpowsour.2010.09.097.  
+(30) Jaffe, A.; Saldivar Valdes, A.; Karunadasa, H. I. Q uinone -Functionalized 
+Carbon Black Cathodes for Lithium Batteries with High Power Densities. 
+Chemistry of Materials  2015 , 27 (10), 3568 –3571. 
+https://doi.org/10.1021/acs.chemmater.5b00990.  
+(31) Schmidt, G.; Gallon, S.; Esnouf, S.; Bourgoin, J. -P.; Chenevie r, P. Mechanism 
+of the Coupling of Diazonium to Single -Walled Carbon Nanotubes and Its 
+Consequences. Chemistry European Journal  2009 , 15, 2101 –2110.  
+(32) Malka, D.; Hanna, O.; Hauser, T.; Hayne, S.; Luski, S.; Elias, Y.; Attias, R.; 
+Brousse, T.; Aurbach, D. Improving the Capacity of Electrochemical Capacitor 
+Electrode by Grafting 2 -Aminoanthraquinone over Kynol Carbon Cloth Using 
+Diazonium Chemistry. J Electrochem Soc  2018 , 165 (14), A3342 –A3349. 
+https://doi.org/10.1149/2.0531814jes.  
+(33) Hu, Y. R .; Dong, X. L.; Zhuang, H. K.; Yan, D.; Hou, L.; Li, W. C. Introducing 
+Electrochemically Active Oxygen Species to Boost the Pseudocapacitance of 
+Carbon -Based Supercapacitor. ChemElectroChem  2021 , 8 (16), 3073 –3079. 
+https://doi.org/10.1002/celc.202100641.  
+(34) Groggins, P. H.; Newton, H. P. 2 -Aminoanthraquinone from Chlorobenzene 
+and Phthalic Anhydride Further Studies in Its Preparation. Ind Eng Chem  1929 , 
+21 (4), 369 –375. https://doi.org/10.1021/ie50232a032.  
+(35) Kariuki, J. K.; McDermott, M. T. Formation o f Multilayers on Glassy Carbon 
+Electrodes via the Reduction of Diazonium Salts. Langmuir  2001 , 17 (19), 
+5947 –5951. https://doi.org/10.1021/la010415d.  
+(36) Kariuki, J. K.; McDermott, M. T. Nucleation and Growth of Functionalized Aryl 
+Films on Graphite Elect rodes. Langmuir  1999 , 15 (19), 6534 –6540. 
+https://doi.org/10.1021/la990295y.  
+(37) Anariba, F.; DuVall, S. H.; McCreery, R. L. Mono -and Multilayer Formation by 
+Diazonium Reduction on Carbon Surfaces Monitored with Atomic Force 
+Microscopy “Scratching.” Anal Chem  2003 , 75 (15), 3837 –3844. 
+https://doi.org/10.1021/ac034026v.  (38) Delamar, M.; D esarmot, G; Fagebaume, O.; Hitmi, R .; Pinson, J .; Saveant, J.  
+M.; Modification of carbon fiber  surfaces by electrochemical reduction of aryl 
+diazonium salts: Application to carbon epoxy composites . Carbon  1997 ; Vol. 
+35. 
+(39) Brousse, T.; Cougnon, C.; Bélanger, D. Grafting of Quinones on Carbons as 
+Active Electrode Materials in Electrochemical Capac itors. Journal of the 
+Brazilian Chemical Society , 2018 , pp 989 –997. https://doi.org/10.21577/0103 -
+5053.20180015.  
+(40) Lebègue, E.; Benoit, C.; Brousse, T.; Gaubicher, J.; Cougnon, C. Effect of the 
+Porous Texture of Activated Carbons on the Electrochemical Properties of 
+Molecule -Grafted Carbon Products in Organic Media. J Electrochem Soc  2015 , 
+162 (12), A2289 –A2295. https://doi.org/10.1149/2.0481512jes.  
+(41) Brunauer , S.; Emmett, P. H.; Teller, E. Adsorption of Gases in Multimolecular 
+Layers. J. Am. Chem. Soc  1938 , 60, 309 –319. 
+(42) Thommes, M.; Kaneko, K.; Neimark, A. v.; Olivier, J. P.; Rodriguez -Reinoso, F.; 
+Rouquerol, J.; Sing, K. S. W. Physisorption of Gases, wit h Special Reference to 
+the Evaluation of Surface Area and Pore Size Distribution (IUPAC Technical 
+Report). Pure and Applied Chemistry  2015 , 87 (9–10), 1051 –1069. 
+https://doi.org/10.1515/pac -2014 -1117.  
+(43) Chmiola, J.; Yushin, G.; Gogotsi, Y.; Portet, C.; Simon, P.; Taberna, P. L. 
+Anomalous Increase in Carbon Capacitance at Pore Sizes Less Than 1 
+Nanometer. Science (1979)  2006 , 313 (5794), 1760 –1763. 
+https://doi.org/10.1126/science.113219.  
+(44) Binford, T. B.; Mapstone, G.; Temprano, I.; Forse, A. C. Enhanc ing the 
+Capacity of Supercapacitive Swing Adsorption CO2 Capture by Tuning 
+Charging Protocols. Nanoscale  2022 , 14 (22), 7980 –7984. 
+https://doi.org/10.1039/d2nr00748g.  
+(45) Forse, A. C.; Griffin, J. M.; Merlet, C.; Carretero -Gonzalez, J.; Raji, A. R. O.; 
+Trease, N. M.; Grey, C. P. Direct Observation of Ion Dynamics in 
+Supercapacitor Electrodes Using in Situ Diffusion NMR Spectroscopy. Nat 
+Energy  2017 , 2 (3). https://doi.org/10.1038/nenergy.2016.216.  (46) Kruk, M.; Jaroniec, M. Gas Adsorption Characterization  of Ordered Organic -
+Inorganic Nanocomposite Materials. Chemistry of Materials . 2001, pp 3169 –
+3183. https://doi.org/10.1021/cm0101069.  
+(47) Groen, J. C.; Peffer , L. A. A.; Perez -Ramirez, J. Pore Size Determination in 
+Modified Micro - and Mesoporous Materials. Pitfalls and Limitations in Gas 
+Adsorption Data Analysis. Microporous and Mesoporous Materials  2003 , 60, 1–
+17. 
+(48) Hussain, C. M.; Saridara, C.; Mitra, S. M odifying the Sorption Properties of 
+Multi -Walled Carbon Nanotubes via Covalent Functionalization. Analyst  2009 , 
+134 (9), 1928 –1933. https://doi.org/10.1039/b823316k.  
+(49) Sigma Aldrich. IR Spectrum Table & Chart . 
+https://www.sigmaaldrich.com/GB/en/technical -documents/technical -
+article/analytical -chemistry/photometry -and-reflectometry/ir -spectrum -table 
+(accessed 2022 -12-05). 
+(50) Han, C.; Li, H.; Shi, R.; Zhang, T.; Tong, J.; Li, J.; Li, B. Organic Quinones 
+towards Advanced Electrochemical Energy Storage: Recent Advances and 
+Challenges. J Mater Chem A Mater  2019 , 7 (41), 23378 –23415. 
+https://doi.org/10.1039/c9ta05252f.  
+(51) Toupin, M.; Bélanger, D. Spontaneous Functionalization of Carbon Black by 
+Reaction with 4 -Nitrophenyldiazonium Cations. Langmuir  2008 , 24 (5), 1910 –
+1917. https://doi.org/10.1021/la702556n.  
+(52) Bui, A. T.; Hartley, N. A.; Thom, A. J. W.; Forse, A. C. Trade -Off between 
+Redox Potential and the Strength of Electrochemical CO2Capture in Quinones. 
+Journ al of Physical Chemistry C  2022 , 126 (33), 14163 –14172. 
+https://doi.org/10.1021/acs.jpcc.2c03752.  
+(53) Tabor, D. P.; Gómez -Bombarelli, R.; Tong, L.; Gordon, R. G.; Aziz, M. J.; 
+Aspuru -Guzik, A. Mapping the Frontiers of Quinone Stability in Aqueous Media: 
+Implications for Organic Aqueous Redox Flow Batteries. J Mater Chem A Mater  
+2019 , 7 (20), 12833 –12841. https://doi.org/10.1039/c9ta03219c.  
+(54) Compton, R. G.; Banks, C. E. Equilibrium Electrochemistry and the Nernst 
+Equation. In Understanding Voltammetry ; 2010; pp 1 –34. (55) Gennaro, A.; Isse, A. A.; Vianeuo, E. Solubility and Electrochemical 
+Determination of CO2 in Some Dipolar Aprotic Solvents , J. Electro ana. Chem. 
+Interfacial Electrochem.; 1990 ; Vol. 289 , 203 -215. 
+(56) Demiral, İ.; Samdan, C.; Demiral, H. Enrichment of the Surface Functional 
+Groups of Activated Carbon by Modification Method. Surfaces and Interfaces  
+2021 , 22. https://doi.org/10.1016/j.surfin.2020.100873.  
+(57) Ghimbeu, C. M.; Gadiou, R.; Dentzer, J.; Schwartz, D.; Vix -Guterl, C. I nfluence 
+of Surface Chemistry on the Adsorption of Oxygenated Hydrocarbons on 
+Activated Carbons. Langmuir  2010 , 26 (24), 18824 –18833. 
+https://doi.org/10.1021/la103405j.  
+(58) Kolle, J. M.; Fayaz, M.; Sayari , A. Understanding the Effect of Water on CO 2 
+Adsorption . Chem Rev  2021 . https://doi.org/10.1021/acs.chemrev.0c00762.  
+(59) Levy, G. C.; Cargioli, J. D. Spin -Lattice Relaxation in Solutions Containing 
+Cr(III) Paramagnetic Relaxation Agents. Journal of Mag netic Resonance  1973 , 
+10, 231 –234. 
+  
+ 
