@@ -1,0 +1,717 @@
+… synthesis of high quantum yield oxygen-doped, nitrogen-rich, photoluminescent polymer carbon nanoribbons as an effective fluorescent sensing platform for sensitive …
+https://pubs.acs.org/doi/abs/10.1021/ac501085d
+Download Hi-Res ImageDownload to MS-PowerPointCite This:Anal. Chem. 2014, 86, 15, 7436-7445
+ADVERTISEMENT
+RETURN TO ISSUEPREVArticleNEXTGet e-AlertscloseOne-Pot Green Synthesis of High Quantum Yield Oxygen-Doped, Nitrogen-Rich, Photoluminescent Polymer Carbon Nanoribbons as an Effective Fluorescent Sensing Platform for Sensitive and Selective Detection of Silver(I) and Mercury(II) IonsZhong-Xia Wang and Shou-Nian Ding*View Author Information School of Chemistry and Chemical Engineering, Southeast University, Nanjing, Jiangsu 211189, China*E-mail: snding@seu.edu.cn. Fax: (+86) 25-52090621.Cite this: Anal. Chem. 2014, 86, 15, 7436–7445Publication Date (Web):June 30, 2014Publication History
+Received25 March 2014Accepted30 June 2014Published online9 July 2014Published inissue 5 August 2014https://doi.org/10.1021/ac501085dCopyright © 2014 American Chemical SocietyRequest reuse permissionsArticle Views2578Altmetric2Citations140LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.
+Share
+Add toView InAdd Full Text with ReferenceAdd Description
+ExportRISCitationCitation and abstractCitation and referencesMore Options
+Share onFacebookTwitterWechatLinked InReddit
+Read OnlinePDF (3 MB)
+Get e-AlertscloseSupporting Info (1)»Supporting Information
+Supporting Information
+SUBJECTS:Fluorescence,Show MoreGet e-Alertsclose
+Analytical Chemistry
+Get e-AlertsAbstractThis work reports on a facile, economical, and green preparative strategy toward water-soluble, fluorescent oxygen-doped, nitrogen-rich, photoluminescent polymer carbon nanoribbons (ONPCRs) with a quantum yield of approximately 25.61% by the hydrothermal process using uric acid as a carbon–nitrogen source for the first time. The as-prepared fluorescent ONPCRs showed paddy leaf-like structure with 80–160 nm length and highly efficient fluorescent quenching ability in the presence of mercury(II) (Hg2+) or silver (Ag+) ions due to the formed nonfluorescent metal complexes via robust Hg2+-O or Ag+-N interaction with the O and N of fluorescent ONPCRs, which allowed the analysis of Hg2+ and Ag+ ions in a very simple method. By employing this sensor, excellent linear relationships existed between the quenching degree of the ONPCRs and the concentrations of Hg2+ and Ag+ ions in the range of 2.0 nM to 60 μM and 5.0 nM to 80 μM, respectively. By using ethylenediaminetetraacetate and ammonia as the masking agent of Hg2+ and Ag+ ions, respectively, Hg2+ or Ag+ ions were exclusively detected in coexistence with Ag+ or Hg2+ ions with high sensitivity, and the detection limits as low as 0.68 and 1.73 nM (3σ) were achieved, respectively, which also provided a reusable detection method for Hg2+ and Ag+ ions. Therefore, the easily synthesized fluorescent ONPCRs may have great potential applications in the detection of Hg2+ and Ag+ ions for biological assay and environmental protection.Supporting InformationARTICLE SECTIONSJump ToAbstractSupporting InformationFigures S1–S7 and Tables S1–S4. This material is available free of charge via the Internet at http://pubs.acs.org/.ac501085d_si_001.pdf (1.66 MB)
+Terms & Conditions
+Most electronic Supporting Information files are available without a subscription to ACS Web Editions. Such files may be downloaded by article for research use (if there is a public use license linked to the relevant article, that license may permit other uses). Permission may be obtained from ACS for other uses through requests via the RightsLink permission system: http://pubs.acs.org/page/copyright/permissions.html.
+Cited By
+Citation StatementsbetaSmart citations by scite.ai include citation statements extracted from the full text of the citing article. The number of the statements may be higher than the number of citations provided by ACS Publications if one paper cites another multiple times or lower if scite has not yet processed some of the citing articles.SupportingSupporting2MentioningMentioning79ContrastingContrasting0Explore this article's citation statements on scite.aipowered by
+This article is cited by 140 publications.Samrah Kamal, Mohd Khalid, M. Shahnawaz Khan, M. Shahid, Musheer Ahmad. Amine- and Imine-Functionalized Mn-Based MOF as an Unusual Turn-On and Turn-Off Sensor for d10 Heavy Metal Ions and an Efficient Adsorbent to Capture Iodine. Crystal Growth & Design 2022, 22
+(5)
+, 3277-3294. https://doi.org/10.1021/acs.cgd.2c00092Xingjuan Zhao, Shirley Campbell, Patrick Z. El-Khoury, Yuechen Jia, Gregory Q. Wallace, Audrey Claing, C. Geraldine Bazuin, Jean-Francois Masson. Surface-Enhanced Raman Scattering Optophysiology Nanofibers for the Detection of Heavy Metals in Single Breast Cancer Cells. ACS Sensors 2021, 6
+(4)
+, 1649-1662. https://doi.org/10.1021/acssensors.1c00332Dong Dong, Jizhao Zhang, Runshi Zhang, Fang Li, Yueguo Li, Yunfang Jia. Multiprobe Assay for Clinical SEPT9 Methylation Based on the Carbon Dot-Modified Liquid-Exfoliated Graphene Field Effect Transistor with a Potential to Present a Methylation Panorama. ACS Omega 2020, 5
+(26)
+, 16228-16237. https://doi.org/10.1021/acsomega.0c02022Qi-Le Li, Lin-Xing Shi, Ke Du, Yong Qin, Shu-Jie Qu, De-Qian Xia, Zhen Zhou, Zeng-Guang Huang, Shou-Nian Ding. Copper-Ion-Assisted Precipitation Etching Method for the Luminescent Enhanced Assembling of Sulfur Quantum Dots. ACS Omega 2020, 5
+(10)
+, 5407-5411. https://doi.org/10.1021/acsomega.9b04465Aschalew Tadesse, Mebrahtu Hagos, Dharmasoth RamaDevi, Kaloth Basavaiah, Neway Belachew. Fluorescent-Nitrogen-Doped Carbon Quantum Dots Derived from Citrus Lemon Juice: Green Synthesis, Mercury(II) Ion Sensing, and Live Cell Imaging. ACS Omega 2020, 5
+(8)
+, 3889-3898. https://doi.org/10.1021/acsomega.9b03175Yuan Yu, Peixin Tang, Bogdan Barnych, Cunyi Zhao, Gang Sun, Mingqiao Ge. Design and Synthesis of Core–Shell Carbon Polymer Dots with Highly Stable Fluorescence in Polymeric Materials. ACS Applied Nano Materials 2019, 2
+(10)
+, 6503-6512. https://doi.org/10.1021/acsanm.9b01446Ching-Yu Wang, Cheng-Che Hsu. Online, Continuous, and Interference-Free Monitoring of Trace Heavy Metals in Water Using Plasma Spectroscopy Driven by Actively Modulated Pulsed Power. Environmental Science & Technology 2019, 53
+(18)
+, 10888-10896. https://doi.org/10.1021/acs.est.9b02970Liuying He, Yuexiang Lu, Xinyu Gao, Panshu Song, Zixin Huang, Shuang Liu, Yueying Liu. Self-Cascade System Based on Cupric Oxide Nanoparticles as Dual-Functional Enzyme Mimics for Ultrasensitive Detection of Silver Ions. ACS Sustainable Chemistry & Engineering 2018, 6
+(9)
+, 12132-12139. https://doi.org/10.1021/acssuschemeng.8b02476Ting Han, Haiqin Deng, Zijie Qiu, Zheng Zhao, Haoke Zhang, Hang Zou, Nelson L. C. Leung, Guogang Shan, Mark R. J. Elsegood, Jacky W. Y. Lam, Ben Zhong Tang. Facile Multicomponent Polymerizations toward Unconventional Luminescent Polymers with Readily Openable Small Heterocycles. Journal of the American Chemical Society 2018, 140
+(16)
+, 5588-5598. https://doi.org/10.1021/jacs.8b01991Liguo
+Xu, Rongrong
+Hu, and Ben Zhong
+Tang
+. Room Temperature Multicomponent Polymerizations of Alkynes, Sulfonyl Azides, and Iminophosphorane toward Heteroatom-Rich Multifunctional Poly(phosphorus amidine)s. Macromolecules 2017, 50
+(16)
+, 6043-6053. https://doi.org/10.1021/acs.macromol.7b01096Yuefang
+Hu, Liangliang
+Zhang, Xuefeng
+Li, Rongjun
+Liu, Liyun
+Lin, and Shulin
+Zhao
+. Green Preparation of S and N Co-Doped Carbon Dots from Water Chestnut and Onion as Well as Their Use as an Off–On Fluorescent Probe for the Quantification and Imaging of Coenzyme A. ACS Sustainable Chemistry & Engineering 2017, 5
+(6)
+, 4992-5000. https://doi.org/10.1021/acssuschemeng.7b00393Wei
+Gu, Xueyu
+Pei, Yuxiao
+Cheng, Cuiling
+Zhang, Jidong
+Zhang, Yinghan
+Yan, Caiping
+Ding, and Yuezhong
+Xian
+. Black Phosphorus Quantum Dots as the Ratiometric Fluorescence Probe for Trace Mercury Ion Detection Based on Inner Filter Effect. ACS Sensors 2017, 2
+(4)
+, 576-582. https://doi.org/10.1021/acssensors.7b00102Peng
+Miao, Yuguo
+Tang, and Lei
+Wang
+. DNA Modified Fe3O4@Au Magnetic Nanoparticles as Selective Probes for Simultaneous Detection of Heavy Metal Ions. ACS Applied Materials & Interfaces 2017, 9
+(4)
+, 3940-3947. https://doi.org/10.1021/acsami.6b14247Zi
+Long, De-Cai
+Fang, Hong
+Ren, Jin
+Ouyang, Lixin
+He, and Na
+Na
+. Excited Oxidized-Carbon Nanodots Induced by Ozone from Low-Temperature Plasma to Initiate Strong Chemiluminescence for Fast Discrimination of Metal Ions. Analytical Chemistry 2016, 88
+(15)
+, 7660-7666. https://doi.org/10.1021/acs.analchem.6b01499Xiaohua
+Zhu, Tingbi
+Zhao, Zhou
+Nie, Yang
+Liu, and Shouzhuo
+Yao
+. Non-Redox Modulated Fluorescence Strategy for Sensitive and Selective Ascorbic Acid Detection with Highly Photoluminescent Nitrogen-Doped Carbon Nanoparticles via Solid-State Synthesis. Analytical Chemistry 2015, 87
+(16)
+, 8524-8530. https://doi.org/10.1021/acs.analchem.5b02167Sahil, Suresh
+Kumar, Yash B.
+Barot, Roli
+Mishra, Dilbag
+Singh, Neeraj
+Gupta. Nitrogen-doped fluorescent active fullerenes as a fluorescent probe for the detection of Hg2+ ions in aqueous solutions. Environmental Nanotechnology, Monitoring & Management 2023, 20 , 100845. https://doi.org/10.1016/j.enmm.2023.100845Zhong-Xia
+Wang, Kai-Qi
+Liu, Xiang-Ying
+Meng, Feng
+Li, Heng-Ye
+Li, Hang
+Gao, Wei
+Wang. An eco-friendly fluorometric assay for high-sensitive meloxicam quantitation in biological matrices. The Analyst 2023, 148
+(18)
+, 4339-4345. https://doi.org/10.1039/D3AN01211EJiantao
+Zhu, Mengxin
+Shen, Jiwei
+Shen, Chaozhan
+Wang, Yinmao
+Wei. Nitrogen and bromine co-doped carbon dots with red fluorescence for sensing of Ag+ and visual monitoring of glutathione in cells. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 2023, 296 , 122642. https://doi.org/10.1016/j.saa.2023.122642K.
+Anusuyadevi, R.
+Balamurugan, A.
+Chandra Bose, S.
+Velmathi. Facile single step synthesis of carbon nano-sponges as a fluorimetric sensor for 4-nitroaniline and pseudocapacitor. Materials Today Chemistry 2023, 32 , 101659. https://doi.org/10.1016/j.mtchem.2023.101659Yixuan
+Chang, Fanwei
+Kong, Zihao
+Zhu, Ziai
+Wang, Chunxia
+Chen, Xiaobai
+Li, Hongwei
+Ma. Lignin-derived dual-function red light carbon dots for hypochlorite detection and anti-counterfeiting. Frontiers of Chemical Science and Engineering 2023, 17
+(7)
+, 966-975. https://doi.org/10.1007/s11705-022-2244-1Qiuping
+Li, You
+Zhou. Recent advances in fluorescent materials for mercury(
+ii
+) ion detection. RSC Advances 2023, 13
+(28)
+, 19429-19446. https://doi.org/10.1039/D3RA02410EYunhao
+Zhou, Jiahui
+Shi, Juan
+Ning, Guizhen
+Hu, Yanmei
+Zhou. Carbon dots-based modularization fluorescent probe for simultaneous detection of Hg2+ and Cu2+ in water, cells and zebrafish. Dyes and Pigments 2023, 214 , 111232. https://doi.org/10.1016/j.dyepig.2023.111232Qing-Wei
+Cao, Tian-Cai
+Yue, Qing-Wei
+Dong, Qi-Chao
+Ma, Ze-Bei
+Xie, Duo-Zhi
+Wang, Lu-Lu
+Wang. Effective detection of Ag
++
+, Hg
+2+
+and dye adsorption properties studies of Ln-MOFs based on a benzimidazole carboxylic acid ligand. Dalton Transactions 2023, 52
+(18)
+, 6008-6018. https://doi.org/10.1039/D3DT00579HJing
+Zhu, Lei
+Hu, Xiangying
+Meng, Feng
+Li, Wenjuan
+Wang, Guiyang
+Shi, Zhongxia
+Wang. Synergism of Photo-Induced Electron Transfer and Aggregation-Induced Quenching Mechanisms for Highly Sensitive Detection of Silver Ion and Captopril. Molecules 2023, 28
+(9)
+, 3650. https://doi.org/10.3390/molecules28093650Mohd.
+Muddassir, Abdullah
+Alarifi, Naaser A. Y.
+Abduh, Waseem Sharaf
+Saeed, Abdulnasser Mahmoud
+Karami, Mohd.
+Afzal. Multifunctional Zn(II) Coordination Polymer as Highly Selective Fluorescent Sensor and Adsorbent for Dyes. International Journal of Molecular Sciences 2023, 24
+(10)
+, 8512. https://doi.org/10.3390/ijms24108512Yuquan
+Min, Xin
+Han, Youguo
+Qi, Lin
+Jiang, Yanxi
+Song, Yilin
+Ma, Jian
+Zhang, Hongqi
+Li. A novel near‐infrared fluorescent and colorimetric probe for selective detection of
+Ag
++
+and
+Hg
+2+
+. Coloration Technology 2023,
+https://doi.org/10.1111/cote.12687Zhong-Xia
+Wang, Lei
+Hu, Xiao-Qiong
+Li, Yi-Lei
+Jia, Ting
+Wang, Wei
+Wang. Boron-enriched rice-like homologous carbon nanoclusters with a 51.5% photoluminescent quantum yield for highly sensitive determination of endogenous hydroxyl radicals in living cells. Journal of Materials Chemistry B 2023, 11
+(7)
+, 1523-1532. https://doi.org/10.1039/D2TB02409HLei
+Hu, Xiao-Qiong
+Li, Yi-Lei
+Jia, Mei-Jie
+Wei, Heng-Ye
+Li, Fen-Ying
+Kong, Wei
+Wang, Zhong-Xia
+Wang. Electropositive far-ultraviolet carbon nanoparticles-based photoluminescent photoinduced-electron transfer sensor for sodium dodecyl sulfate and sodium lauryl sulfonate detection. Dyes and Pigments 2023, 208 , 110859. https://doi.org/10.1016/j.dyepig.2022.110859Binduja
+Mohan, Noushija Mannanthara
+Kunhumon, Sankarasekaran
+Shanmugaraju. Fluorescence sensing and bioimaging of Cu(
+ii
+) ions using amino-1,8-naphthalimide-based small-molecule chemosensors. Sensors & Diagnostics 2023, 51 https://doi.org/10.1039/D3SD00115FYaqin
+Zhang, Shengye
+Dong, Jiaxin
+Chen, Wenli
+Gao, Xingbo
+Shi. Amines-mediated β-glucose pentaacetate to generate photoluminescent polymer-carbon nanodots for visual monitoring the freshness of shrimp. Talanta 2022, 249 , 123706. https://doi.org/10.1016/j.talanta.2022.123706Sameera
+Sh. Mohammed Ameen, Nidhal M.
+Sher Mohammed, Khalid M.
+Omer. Visual monitoring of silver ions and cysteine using bi-ligand Eu-based metal organic framework as a reference signal: Color tonality. Microchemical Journal 2022, 181 , 107721. https://doi.org/10.1016/j.microc.2022.107721Xiaoyan
+He, Hui
+Jia, Nan
+Sun, Miaomiao
+Hou, Zheping
+Tan, Xiaoquan
+Lu. Fluorescent hydrogels based on oxidized carboxymethyl cellulose with excellent adsorption and sensing abilities for Ag+. International Journal of Biological Macromolecules 2022, 213 , 955-966. https://doi.org/10.1016/j.ijbiomac.2022.06.029Panpan
+Wang, Junxia
+Wang, Tingting
+Liu, Zhengpeng
+Sun, Ming
+Gao, Kai
+Huang, Xuedong
+Wang. Loquat fruit-based carbon quantum dots as an “ON-OFF” probe for fluorescent assay of MnO4− in waters based on the joint action of inner filter effect and static quenching. Microchemical Journal 2022, 178 , 107374. https://doi.org/10.1016/j.microc.2022.107374Qinqin
+Chen, Huiling
+Liu, Na
+Niu, Wei
+Feng, Juan
+Hou. A facile “off–on” pattern based on one-pot synthesis of N-doped carbon dots for sensitive detection of Ag
++
+and S
+2
+O
+3
+2−. New Journal of Chemistry 2022, 46
+(23)
+, 11296-11302. https://doi.org/10.1039/D2NJ00919FKemin
+Qi, Yuping
+Ye, Bin
+Wei, Mengxin
+Li, Yanxin
+Lun, Xiaoyun
+Xie, Haijiao
+Xie. N-CQDs from reed straw enriching charge over BiO2−x/BiOCl p-n heterojunction for improved visible-light-driven photodegradation of organic pollutants. Journal of Hazardous Materials 2022, 432 , 128759. https://doi.org/10.1016/j.jhazmat.2022.128759Satyajit
+Mahata, Sandeep
+Kumar, Souradeep
+Dey, Biman B.
+Mandal, Vadivelu
+Manivannan. A probe with hydrazinecarbothioamide and 1,8-naphthalimide groups for “turn-on” fluorescence detection of Hg2+ and Ag+ ions and live-cell imaging studies. Inorganica Chimica Acta 2022, 535 , 120876. https://doi.org/10.1016/j.ica.2022.120876Zahra
+Golsanamlou, Houman
+Kholafazad-Kordasht, Jafar
+Soleymani, Abolghasem
+Jouyban. Quantification of methotrexate in plasma samples using highly fluorescent nanoparticles. Journal of Pharmaceutical and Biomedical Analysis 2022, 214 , 114716. https://doi.org/10.1016/j.jpba.2022.114716Xuemei
+Dong, Minhui
+Wang, Yecang
+Tang. Green synthesis of fluorescent carbon nanospheres from chrysanthemum as a multifunctional sensor for permanganate, Hg(II), and captopril. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 2022, 271 , 120886. https://doi.org/10.1016/j.saa.2022.120886Lin
+Jiang, Tao
+Zheng, Zhenxiang
+Xu, Jiayin
+Li, Hongqi
+Li, Junjie
+Tang, Shicheng
+Liu, Yiyang
+Wang. New NIR spectroscopic probe with a large Stokes shift for Hg2+ and Ag+ detection and living cells imaging. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 2022, 271 , 120916. https://doi.org/10.1016/j.saa.2022.120916Qinhai
+Xu, Kang
+Li, Peng
+Wang. pH-Sensitive Silver-Containing Carbon Dots Based on Folic Acid. Materials 2022, 15
+(5)
+, 1880. https://doi.org/10.3390/ma15051880Hao
+Guo, Liping
+Peng, Ning
+Wu, Bingqing
+Liu, Mingyue
+Wang, Yuan
+Chen, Zhilan
+Pan, Yinsheng
+Liu, Wu
+Yang. A novel fluorescent Si/CDs for highly sensitive Hg2+ sensing in water environment. Colloids and Surfaces A: Physicochemical and Engineering Aspects 2022, 634 , 128023. https://doi.org/10.1016/j.colsurfa.2021.128023Jasvir
+Kaur, Prabhat K.
+Singh. Nanomaterial based advancement in the inorganic pyrophosphate detection methods in the last decade: A review. TrAC Trends in Analytical Chemistry 2022, 146 , 116483. https://doi.org/10.1016/j.trac.2021.116483Yaqin
+Zhang, Shengye
+Dong, Jiaxin
+Chen, Wenli
+Gao, Xingbo
+Shi. Amines-Mediated β-Glucose Pentaacetate to Generate Photoluminescent Polymer-Carbon Nanodots for Visual Monitoring the Freshness of Shrimp. SSRN Electronic Journal 2022, 13 https://doi.org/10.2139/ssrn.4093000Rui
+Zhang, Zhi-Ping
+Qian, Fu-Qing
+Lu, Shu-Wei
+Wang, Ya-Jun
+Liu, Yan
+Xiao. A Fluorescent Sensor of Boronic Acid Functionalized Hydrothermal Carbon Spheres for Facility Detection of Copper Ions, D-Fructose. SSRN Electronic Journal 2022,
+https://doi.org/10.2139/ssrn.4147122Sonaimuthu
+Mohandoss, Subramanian
+Palanisamy, SangGuan
+You, Jae-Jin
+Shim, Yong Rok
+Lee. Rapid detection of silver ions based on luminescent carbon nanodots for multicolor patterning, smartphone sensors, and bioimaging applications. Analytical Methods 2021, 13
+(47)
+, 5719-5726. https://doi.org/10.1039/D1AY01746BNatasha
+Anwar, Abbas
+Khan, Mohib
+Shah, J. J.
+Walsh, Z.
+Anwar. Hybridization of Gold Nanoparticles with Poly(ethylene glycol) Methacrylate and Their Biomedical Applications. Russian Journal of Physical Chemistry A 2021, 95
+(13)
+, 2619-2631. https://doi.org/10.1134/S0036024421130033Yu-Jie
+Ding, Xing
+Jin, Zhong-Xia
+Wang, Wei
+Wang. Green Emission Carbon Nanodots as Fluorescence Turn-on Probe for Detecting Picolinic Acid. Journal of Analytical Chemistry 2021, 76
+(8)
+, 920-929. https://doi.org/10.1134/S1061934821080037Feng
+Li, Qi-Le
+Li, Lei
+Hu, Hong-Yu
+Zhu, Wen-Juan
+Wang, Fen-Ying
+Kong, Heng-Ye
+Li, Zhong-Xia
+Wang, Wei
+Wang. Ratiometric detection of
+p
+-nitrophenol and its derivatives using a dual-emissive neuron cell-like carbonized probe based on a π⋯π stacking quenching mechanism. The Analyst 2021, 146
+(14)
+, 4566-4575. https://doi.org/10.1039/D1AN00891AZhong-Xia
+Wang, Yuan-Fei
+Gao, Xian-He
+Yu, Paramasivam
+Balasubramanian, Fen-Ying
+Kong, Wei
+Wang, Wei
+Chen, Hua-Ping
+Peng. Boron carbon oxyphosphide heterostructured nanodots with phosphate tunable emission for switchable dual detection channels of 6-mercaptopurine assay. Talanta 2021, 226 , 122067. https://doi.org/10.1016/j.talanta.2020.122067Jiantao
+Zhu, Huiyuan
+Chu, Jiwei
+Shen, Chaozhan
+Wang, Yinmao
+Wei. Green preparation of carbon dots from plum as a ratiometric fluorescent probe for detection of doxorubicin. Optical Materials 2021, 114 , 110941. https://doi.org/10.1016/j.optmat.2021.110941Weixia
+Wang, Jie
+Chen, Dake
+Wang, Yanmei
+Shen, Like
+Yang, Tuo
+Zhang, Jia
+Ge. Facile synthesis of biomass waste-derived fluorescent N, S, P co-doped carbon dots for detection of Fe
+3+
+ions in solutions and living cells. Analytical Methods 2021, 13
+(6)
+, 789-795. https://doi.org/10.1039/D0AY02186EXin
+Zhang, Jian
+Qu, Shou-Nian
+Ding. Photoluminescent sea urchin-shaped carbon-nanobranched polymers as nanoprobes for the selective and sensitive assay of hypochlorite. RSC Advances 2021, 11
+(14)
+, 8134-8141. https://doi.org/10.1039/D0RA07608BZhong-Xia
+Wang, Xing
+Jin, Wen-Juan
+Wang, Fen-Ying
+Kong, Jing
+Zhu, Heng-Ye
+Li, Yu-Jie
+Ding, Wei
+Wang. Green synthesis of a deep-ultraviolet carbonized nanoprobe for ratiometric fluorescent detection of feroxacin and enrofloxacin in food and serum samples. The Analyst 2021, 146
+(3)
+, 874-881. https://doi.org/10.1039/D0AN02114HSheng-Chun
+Hung, Chih-Cheng
+Lu, Yu-Ting
+Wu. An Investigation on Design and Characterization of a Highly Selective LED Optical Sensor for Copper Ions in Aqueous Solutions. Sensors 2021, 21
+(4)
+, 1099. https://doi.org/10.3390/s21041099Jiantao
+Zhu, Huiyuan
+Chu, Tianshu
+Wang, Chaozhan
+Wang, Yinmao
+Wei. Fluorescent probe based nitrogen doped carbon quantum dots with solid-state fluorescence for the detection of Hg2+ and Fe3+ in aqueous solution. Microchemical Journal 2020, 158 , 105142. https://doi.org/10.1016/j.microc.2020.105142Na
+Du, Zhi
+Dou, Yapei
+Wu, Qiuhua
+Wu, Guolin
+Zhang, Xue
+Liu. Fluorescent nanoprobe array based on carbon nanodots for qualitative and quantitative determination of biogenic polyamine. Microchimica Acta 2020, 187
+(9)
+https://doi.org/10.1007/s00604-020-04492-4Avudaiappan
+G., Mariya
+Vibija J., Sreekumar
+K.. Azide functionalized porphyrin based dendritic polymers for
+in vivo
+monitoring of Hg
+2+
+ions in living cells. Analytical Methods 2020, 12
+(23)
+, 2995-3003. https://doi.org/10.1039/D0AY00769BRong
+Liu, Shanshan
+Duan, Lijiao
+Bao, Zhaoyang
+Wu, Jun
+Zhou, Ruqin
+Yu. Photonic crystal enhanced gold-silver nanoclusters fluorescent sensor for Hg2+ ion. Analytica Chimica Acta 2020, 1114 , 50-57. https://doi.org/10.1016/j.aca.2020.04.011Quanbao
+Ma, Xun
+Fang, Junting
+Zhang, Lili
+Zhu, Xiabing
+Rao, Qi
+Lu, Zhijun
+Sun, Huan
+Yu, Qunlin
+Zhang. Discrimination of cysteamine from mercapto amino acids through isoelectric point-mediated surface ligand exchange of β-cyclodextrin-modified gold nanoparticles. Journal of Materials Chemistry B 2020, 8
+(18)
+, 4039-4045. https://doi.org/10.1039/D0TB00462FHaiyang
+Su, Qiang
+Tian, Cameron-Alexander
+Hurd Price, Lin
+Xu, Kun
+Qian, Jian
+Liu. Nanoporous core@shell particles: Design, preparation, applications in bioadsorption and biocatalysis. Nano Today 2020, 31 , 100834. https://doi.org/10.1016/j.nantod.2019.100834Wang
+Xiao‐Yan, Hu
+Xue‐Yan, Wang
+Tian‐Qi, Fu
+Xu‐Cheng. Crown daisy leaf waste–derived carbon dots: A simple and green fluorescent probe for copper ion. Surface and Interface Analysis 2020, 52
+(4)
+, 148-155. https://doi.org/10.1002/sia.6733Huilin
+Zhang, Yifang
+Gao, Yuan
+Jiao, Wenjing
+Lu, Shaomin
+Shuang, Chuan
+Dong. Highly sensitive fluorescent carbon dots probe with ratiometric emission for the determination of ClO
+−
+. The Analyst 2020, 145
+(6)
+, 2212-2218. https://doi.org/10.1039/C9AN02570GNa
+Du, Qiuhua
+Wu, Lijiang
+Chen, Guolin
+Zhang, Xue
+Liu. Fluorescent carbon nanodots-based artificial tongue for determining and discriminating cigarettes. Journal of Hazardous Materials 2020, 384 , 121118. https://doi.org/10.1016/j.jhazmat.2019.121118Ching‐Yu
+Wang, Cheng‐Che
+Hsu. Characterization of plasma in aqueous solution using bipolar pulsed power: Tailoring plasma and optical emission with implication for detecting lead. Plasma Processes and Polymers 2020, 17
+(2)
+https://doi.org/10.1002/ppap.201900159Shu Juan
+Zhuo, Jing
+Fang, Jing
+Wang, Chang Qing
+Zhu. One-step hydrothermal synthesis of silver-doped carbon quantum dots for highly selective detection of uric acid. Methods and Applications in Fluorescence 2020, 8
+(1)
+, 015005. https://doi.org/10.1088/2050-6120/ab5d8cXiaohua
+Zhu, Xiao
+Pang, Youyu
+Zhang, Shouzhuo
+Yao. Titanium carbide MXenes combined with red-emitting carbon dots as a unique turn-on fluorescent nanosensor for label-free determination of glucose. Journal of Materials Chemistry B 2019, 7
+(48)
+, 7729-7735. https://doi.org/10.1039/C9TB02060HYuan-Fei
+Gao, Xing
+Jin, Fen-Ying
+Kong, Zhong-Xia
+Wang, Wei
+Wang. One-pot green and simple synthesis of actinian nickel-doped carbon nanoflowers for ultrasensitive sensing of quercetin. The Analyst 2019, 144
+(24)
+, 7283-7289. https://doi.org/10.1039/C9AN01907CZhijun
+Zhu, Yanling
+Zhai, Zhenhua
+Li, Peiyuan
+Zhu, Sui
+Mao, Chengzhou
+Zhu, Dan
+Du, Laurence A.
+Belfiore, Jianguo
+Tang, Yuehe
+Lin. Red carbon dots: Optical property regulations and applications. Materials Today 2019, 30 , 52-79. https://doi.org/10.1016/j.mattod.2019.05.003Zhong-Xia
+Wang, Xing
+Jin, Yuan-Fei
+Gao, Fen-Ying
+Kong, Wen-Juan
+Wang, Wei
+Wang. Fluorometric and colorimetric determination of hypochlorite using carbon nanodots doped with boron and nitrogen. Microchimica Acta 2019, 186
+(6)
+https://doi.org/10.1007/s00604-019-3443-4Xi-Jin
+Wu, Fan
+Kong, Chun-Qin
+Zhao, Shou-Nian
+Ding. Ratiometric fluorescent nanosensors for ultra-sensitive detection of mercury ions based on AuNCs/MOFs. The Analyst 2019, 144
+(8)
+, 2523-2530. https://doi.org/10.1039/C8AN02414FLi
+Zhao, Huiyu
+Li, Haochi
+Liu, Meitong
+Liu, Ning
+Huang, Zhongyu
+He, Yi
+Li, Yanhua
+Chen, Lan
+Ding. Microwave-assisted facile synthesis of polymer dots as a fluorescent probe for detection of cobalt(II) and manganese(II). Analytical and Bioanalytical Chemistry 2019, 411
+(11)
+, 2373-2381. https://doi.org/10.1007/s00216-019-01678-5Zhong-Xia
+Wang, Yuan-Fei
+Gao, Xing
+Jin, Xian-He
+Yu, Xi
+Tao, Fen-Ying
+Kong, Da-He
+Fan, Wei
+Wang. Excitation-independent emission carbon nanoribbon polymer as a ratiometric photoluminescent probe for highly selective and sensitive detection of quercetin. The Analyst 2019, 144
+(7)
+, 2256-2263. https://doi.org/10.1039/C9AN00094APengcheng
+Zhu, Dandan
+Lyu, Pei Kang
+Shen, Xinxing
+Wang. Sulfur-rich carbon dots as a novel fluorescent imaging probe for distinguishing the pathological changes of mouse-bone cells. Journal of Luminescence 2019, 207 , 620-625. https://doi.org/10.1016/j.jlumin.2018.12.010Xiangying
+Meng, Jinjuan
+Qiao, Ronglan
+Zhao, Hairong
+Chu, Ying
+Wang, Xiangyu
+Chen, Zhengjun
+Yi. “Turn-On” Fluorescent Assay of Biothiols Based on Nitrogen-Rich Polymer Carbon Nanostrips and Its Application in Cell Imaging. Journal of Chemistry 2019, 2019 , 1-12. https://doi.org/10.1155/2019/2847961Zhong-Xia
+Wang, Yuan-Fei
+Gao, Xian-He
+Yu, Fen-Ying
+Kong, Wen-Juan
+Wang, Wei-Xin
+Lv, Wei
+Wang. Carbon nanospheres with dual-color emission and their application in ratiometric pyrophosphate sensing. The Analyst 2019, 144
+(2)
+, 550-558. https://doi.org/10.1039/C8AN01676CJinping
+Song, Qi
+Ma, Sufang
+Zhang, Huijun
+Liu, Yong
+Guo, Feng
+Feng. S,N-Co-doped carbon nanoparticles with high quantum yield for metal ion detection, IMP logic gates and bioimaging applications. New Journal of Chemistry 2018, 42
+(24)
+, 20180-20189. https://doi.org/10.1039/C8NJ04527EJianhua
+Chu, Qiyao
+Yu, Dexin
+Yang, Lidong
+Xing, Cheng-Yen
+Lao, Min
+Wang, Kun
+Han, Zhiwei
+Liu, Lin
+Zhang, Wenya
+Du, Kai
+Xi, Yanping
+Bao, Wei (Alex)
+Wang. Thickness-control of ultrathin bimetallic Fe–Mo selenide@N-doped carbon core/shell “nano-crisps” for high-performance potassium-ion batteries. Applied Materials Today 2018, 13 , 344-351. https://doi.org/10.1016/j.apmt.2018.10.004Deepak
+Kukkar, Kowsalya
+Vellingiri, Vanish
+Kumar, Akash
+Deep, Ki-Hyun
+Kim. A critical review on the metal sensing capabilities of optically active nanomaterials: Limiting factors, mechanism, and performance evaluation. TrAC Trends in Analytical Chemistry 2018, 109 , 227-246. https://doi.org/10.1016/j.trac.2018.09.009Liang
+Luo, Pei
+Wang, Yuanhao
+Wang, Fu
+Wang. pH assisted selective detection of Hg(II) and Ag(I) based on nitrogen-rich carbon dots. Sensors and Actuators B: Chemical 2018, 273 , 1640-1647. https://doi.org/10.1016/j.snb.2018.07.090Zhong-Xia
+Wang, Yuan-Fei
+Gao, Xian-He
+Yu, Fen-Ying
+Kong, Wei-Xin
+Lv, Wei
+Wang. Photoluminescent coral-like carbon-branched polymers as nanoprobe for fluorometric determination of captopril. Microchimica Acta 2018, 185
+(9)
+https://doi.org/10.1007/s00604-018-2961-9Jian-Cheng
+Jin, Bei-Bei
+Wang, Zi-Qiang
+Xu, Xiao-Hang
+He, Han-Feng
+Zou, Qi-Qi
+Yang, Feng-Lei
+Jiang, Yi
+Liu. A novel method for the detection of silver ions with carbon dots: Excellent selectivity, fast response, low detection limit and good applicability. Sensors and Actuators B: Chemical 2018, 267 , 627-635. https://doi.org/10.1016/j.snb.2018.04.036L.
+Lu, Y. H.
+Zheng. Electrochemical Detection of Hg(II) in Environmental Water Samples Based on Multiwalled Carbon Nanotube–Reduced Graphene Oxide Hybrid Film. Journal of Water Chemistry and Technology 2018, 40
+(4)
+, 213-218. https://doi.org/10.3103/S1063455X18040069Guo
+Wei, Yuliang
+Jiang, Fang
+Wang. A novel AIEE polymer sensor for detection of Hg2+ and Ag+ in aqueous solution. Journal of Photochemistry and Photobiology A: Chemistry 2018, 358 , 38-43. https://doi.org/10.1016/j.jphotochem.2018.03.006Sen
+Liao, Xinyi
+Zhao, Fawei
+Zhu, Miao
+Chen, Zhiliang
+Wu, Xiangzhi
+song, Hua
+Yang, Xiaoqing
+Chen. Novel S, N-doped carbon quantum dot-based "off-on" fluorescent sensor for silver ion and cysteine. Talanta 2018, 180 , 300-308. https://doi.org/10.1016/j.talanta.2017.12.040Hui
+Wang, Yang
+Liu, Gang
+Liu. Label-Free Biosensor Using a Silver Specific RNA-Cleaving DNAzyme Functionalized Single-Walled Carbon Nanotube for Silver Ion Determination. Nanomaterials 2018, 8
+(4)
+, 258. https://doi.org/10.3390/nano8040258Sada
+Venkateswarlu, Buddolla
+Viswanath, Ankireddy Seshadri
+Reddy, Minyoung
+Yoon. Fungus-derived photoluminescent carbon nanodots for ultrasensitive detection of Hg2+ ions and photoinduced bactericidal activity. Sensors and Actuators B: Chemical 2018, 258 , 172-183. https://doi.org/10.1016/j.snb.2017.11.044Mojtaba
+Shamsipur, Karam
+Molaei, Fatemeh
+Molaabasi, Saman
+Hosseinkhani, Naader
+Alizadeh, Mohsen
+Alipour, Soroush
+Moassess. One-step synthesis and characterization of highly luminescent nitrogen and phosphorus co-doped carbon dots and their application as highly selective and sensitive nanoprobes for low level detection of uranyl ion in hair and water samples and application to cellular imaging. Sensors and Actuators B: Chemical 2018, 257 , 772-782. https://doi.org/10.1016/j.snb.2017.11.018Fangfang
+Du, Xiaojuan
+Gong, Wenjing
+Lu, Yang
+Liu, Yifang
+Gao, Shaomin
+Shuang, Ming
+Xian, Chuan
+Dong. Bright-green-emissive nitrogen-doped carbon dots as a nanoprobe for bifunctional sensing, its logic gate operation and cellular imaging. Talanta 2018, 179 , 554-562. https://doi.org/10.1016/j.talanta.2017.11.030Yuan
+Zhao, Xuan
+Yang, Linyan
+Cui, Yali
+Sun, Qijun
+Song. PVP-capped Pt NPs-depended catalytic nanoprobe for the simultaneous detection of Hg2+ and Ag+. Dyes and Pigments 2018, 150 , 21-26. https://doi.org/10.1016/j.dyepig.2017.11.007Xian-He
+Yu, Zhong-Xia
+Wang, Yuan-Fei
+Gao, Fen-Ying
+Kong, Wei-Xin
+Lv, Hong-Fei
+Ma, Wei
+Wang. Novel Ratiometric Electrochemical Sensor for Sensitive Detection of Ag+ Ion Using High Nitrogen Doped Carbon Nanosheets. International Journal of Electrochemical Science 2018, 13
+(3)
+, 2875-2886. https://doi.org/10.20964/2018.03.07Sheng
+Chen, Wenji
+Wang, Mingming
+Yan, Qin
+Tu, Shu-Wei
+Chen, Tianbao
+Li, Mao-Sen
+Yuan, Jinyi
+Wang. 2-Hydroxy benzothiazole modified rhodol: aggregation-induced emission and dual-channel fluorescence sensing of Hg2+ and Ag+ ions. Sensors and Actuators B: Chemical 2018, 255 , 2086-2094. https://doi.org/10.1016/j.snb.2017.09.008Muhammad
+Saleem, Muhammad
+Rafiq, Muhammad
+Hanif, Muhammad Ashraf
+Shaheen, Sung-Yum
+Seo. A Brief Review on Fluorescent Copper Sensor Based on Conjugated Organic Dyes. Journal of Fluorescence 2018, 28
+(1)
+, 97-165. https://doi.org/10.1007/s10895-017-2178-zZhong-Xia
+Wang, Qi-Le
+Li, Fen-Ying
+Kong, Wei
+Wang, Shou-Nian
+Ding. Picomolar Level Detection of Copper(II) and Mercury(II) Ions Using Dual-Stabilizer-Capped CdTe Quantum Dots. Journal of Analysis and Testing 2018, 2
+(1)
+, 90-97. https://doi.org/10.1007/s41664-017-0038-0Yu
+Shi, Na
+Chen, Yuanyuan
+Su, Houyu
+Wang, Yao
+He. Silicon nanohybrid-based SERS chips armed with an internal standard for broad-range, sensitive and reproducible simultaneous quantification of lead(
+ii
+) and mercury(
+ii
+) in real systems. Nanoscale 2018, 10
+(8)
+, 4010-4018. https://doi.org/10.1039/C7NR07935DHaijuan
+Zhang, Baoxin
+Zhang, Cuixia
+Di, Mohammad Chand
+Ali, Jia
+Chen, Zhan
+Li, Jing
+Si, Hong
+Zhang, Hongdeng
+Qiu. Label-free fluorescence imaging of cytochrome
+c
+in living systems and anti-cancer drug screening with nitrogen doped carbon quantum dots. Nanoscale 2018, 10
+(11)
+, 5342-5349. https://doi.org/10.1039/C7NR08987BZhong-Xia
+Wang, Xian-He
+Yu, Feng
+Li, Fen-Ying
+Kong, Wei-Xin
+Lv, Wei
+Wang. Multiplexed ratiometric photoluminescent detection of pyrophosphate using anisotropic boron-doped nitrogen-rich carbon rugby ball-like nanodots. Journal of Materials Chemistry B 2018, 6
+(12)
+, 1771-1781. https://doi.org/10.1039/C7TB02708GAschalew
+Tadesse, Dharmasoth
+RamaDevi, Mabrahtu
+Hagos, GangaRao
+Battu, K.
+Basavaiah. Synthesis of nitrogen doped carbon quantum dots/magnetite nanocomposites for efficient removal of methyl blue dye pollutant from contaminated water. RSC Advances 2018, 8
+(16)
+, 8528-8536. https://doi.org/10.1039/C8RA00158HBuhong
+Gao, Yu
+Sun, Yingchun
+Miao, Huihua
+Min, Li
+Xu, Chaobo
+Huang. Facile Preparation of Highly Luminescent Nitrogen-Doped Carbonaceous Nanospheres and Potential Application in Intracellular Imaging of Quercetin. Australian Journal of Chemistry 2018, 71
+(11)
+, 882. https://doi.org/10.1071/CH18370Zhong-Xia
+Wang, Xian-He
+Yu, Feng
+Li, Fen-Ying
+Kong, Wei-Xin
+Lv, Da-He
+Fan, Wei
+Wang. Preparation of boron-doped carbon dots for fluorometric determination of Pb(II), Cu(II) and pyrophosphate ions. Microchimica Acta 2017, 184
+(12)
+, 4775-4783. https://doi.org/10.1007/s00604-017-2526-3Zhengquan
+Yan, Qi
+Zhao, Meijun
+Wen, Lei
+Hu, Xuezhong
+Zhang, Jinmao
+You. A novel polydentate ligand chromophore for simultaneously colorimetric detection of trace Ag + and Fe3 +. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy 2017, 186 , 17-22. https://doi.org/10.1016/j.saa.2017.06.007Load all citationsDownload PDFback
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+You’ve supercharged your research process with ACS and Mendeley!
+ContinueSTEP 1:Login with ACS IDLogged in SuccessClick to create an ACS IDSTEP 2:Login with MendeleyLogged in SuccessCreate a Mendeley account
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please login with your ACS ID before connecting to your Mendeley account.Login with ACS ID
+MENDELEY PAIRING EXPIREDReconnectYour Mendeley pairing has expired. Please reconnect
+This website uses cookies to improve your user experience. By continuing to use the site, you are accepting our use of cookies. Read the ACS privacy policy.
+CONTINUE
+Recently Viewedclose modalRecently ViewedYou have not visited any articles yet, Please visit some articles to see contents here.
+✓Thanks for sharing!AddToAnyMore…Live Chat

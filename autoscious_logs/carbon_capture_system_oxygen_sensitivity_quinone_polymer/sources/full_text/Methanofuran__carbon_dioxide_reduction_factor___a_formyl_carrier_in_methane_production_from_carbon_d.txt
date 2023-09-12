@@ -1,0 +1,304 @@
+Methanofuran (carbon dioxide reduction factor), a formyl carrier in methane production from carbon dioxide in Methanobacterium
+https://pubs.acs.org/doi/pdf/10.1021/bi00325a028
+Download Hi-Res ImageDownload to MS-PowerPointCite This:Biochemistry 1985, 24, 4, 995-999
+ADVERTISEMENT
+RETURN TO ISSUEPREVArticleNEXTGet e-AlertscloseMethanofuran (carbon dioxide reduction factor), a formyl carrier in methane production from carbon dioxide in MethanobacteriumJohn A. Leigh, Kenneth L. Rinehart, Jr., and Ralph S. WolfeCite this: Biochemistry 1985, 24, 4, 995–999Publication Date (Print):February 1, 1985Publication History
+Published online1 May 2002Published inissue 1 February 1985https://doi.org/10.1021/bi00325a028© American Chemical SocietyRequest reuse permissionsArticle Views213Altmetric-Citations58LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.
+Share
+Add toView InAdd Full Text with ReferenceAdd Description
+ExportRISCitationCitation and abstractCitation and referencesMore Options
+Share onFacebookTwitterWechatLinked InReddit
+PDF (630 KB)
+Access Through
+Institution Name
+Loading Institutional Login Options...
+Access Through Your Institution
+Add or Change Institution
+More Access OptionsGet e-Alertsclose
+Get e-Alertsclose
+Biochemistry
+Get e-AlertsNote:
+In lieu of an abstract, this is the article's first page.
+To access the full text, please choose an option below.
+Get Access To This Article
+You may be able to access through {InstitutionName}. Please contact your library or account administrator.
+Access Through
+Institution Name
+Loading Institutional Login Options...
+Access Through Your Institution
+Add or Change Institution
+Log In with ACS ID
+Purchase Access
+Purchase access
+Purchase this article for 48 hours
+Checkout
+Already purchased with Guest checkout?
+Restore Access
+ACS members enjoy benefits including 50 free articles a year and reduced priced individual subscription. Learn More
+Forgot ACS ID or Password?
+RECOMMENDED
+There are currently no recommended articles to display.
+Cited By
+Citation StatementsbetaSmart citations by scite.ai include citation statements extracted from the full text of the citing article. The number of the statements may be higher than the number of citations provided by ACS Publications if one paper cites another multiple times or lower if scite has not yet processed some of the citing articles.SupportingSupporting4MentioningMentioning46ContrastingContrasting0Explore this article's citation statements on scite.aipowered by
+This article is cited by 58 publications.Kylie D.
+Allen and Robert H.
+White
+. Identification of Structurally Diverse Methanofuran Coenzymes in Methanococcales That Are Both N-Formylated and N-Acetylated. Biochemistry 2014, 53
+(39)
+, 6199-6210. https://doi.org/10.1021/bi500973hRobert H.
+White. Biosynthesis of the 2-(aminomethyl)-4-(hydroxymethyl)furan subunit of methanofuran. Biochemistry 1988, 27
+(12)
+, 4415-4420. https://doi.org/10.1021/bi00412a031Kyle C.
+Costa, William B.
+Whitman, . Model Organisms To Study Methanogenesis, a Uniquely Archaeal Metabolism. Journal of Bacteriology 2023, 70 https://doi.org/10.1128/jb.00115-23Hong-Sheng
+Liao, Yi-Hsin
+Chung, Ming-Hsiun
+Hsieh. Glutamate: A multifunctional amino acid in plants. Plant Science 2022, 318 , 111238. https://doi.org/10.1016/j.plantsci.2022.111238Florian P.
+Rosenbaum, Volker
+Müller. Energy conservation under extreme energy limitation: the role of cytochromes and quinones in acetogenic bacteria. Extremophiles 2021, 25
+(5-6)
+, 413-424. https://doi.org/10.1007/s00792-021-01241-0William E.
+Balch, James G.
+Ferry. The Wolfe cycle of carbon dioxide reduction to methane revisited and the Ralph Stoner Wolfe legacy at 100 years.
+2021, 1-23. https://doi.org/10.1016/bs.ampbs.2021.07.003Volker
+Müller, Nilanjan Pal
+Chowdhury, Mirko
+Basen. Electron Bifurcation: A Long-Hidden Energy-Coupling Mechanism. Annual Review of Microbiology 2018, 72
+(1)
+, 331-353. https://doi.org/10.1146/annurev-micro-090816-093440Taylor A.
+Manes, Michael J.
+Rose. Rigid scaffolds for the design of molecular catalysts and biomimetic active sites: A case study of anthracene-based ligands for modeling mono-iron hydrogenase (Hmd). Coordination Chemistry Reviews 2017, 353 , 295-308. https://doi.org/10.1016/j.ccr.2017.09.022. Chapter 3 Biochemistry of the Biohythane Production Process.
+2017, 67-128. https://doi.org/10.1201/9781315364612-4Mark C
+Walker, Wilfred A
+van der Donk. The many roles of glutamate in metabolism. Journal of Industrial Microbiology and Biotechnology 2016, 43
+(2-3)
+, 419-430. https://doi.org/10.1007/s10295-015-1665-yMitchell T.
+Shea, Mary E.
+Walter, Nikolas
+Duszenko, Anne-Lise
+Ducluzeau, Jared
+Aldridge, Shannon K.
+King, Nicole R.
+Buan. pNEB193-derived suicide plasmids for gene deletion and protein expression in the methane-producing archaeon, Methanosarcina acetivorans. Plasmid 2016, 84-85 , 27-35. https://doi.org/10.1016/j.plasmid.2016.02.003Yu
+Wang, Huimin
+Xu, Michael K.
+Jones, Robert H.
+White, . Identification of the Final Two Genes Functioning in Methanofuran Biosynthesis in Methanocaldococcus jannaschii. Journal of Bacteriology 2015, 197
+(17)
+, 2850-2858. https://doi.org/10.1128/JB.00401-15Laura L.
+Grochowski, Robert H.
+White. Biosynthesis of the Methanogenic Coenzymes.
+2010, 711-748. https://doi.org/10.1016/B978-008045382-8.00147-7Laura L.
+Grochowski, Robert H.
+White. Promiscuous Anaerobes. Annals of the New York Academy of Sciences 2008, 1125
+(1)
+, 190-214. https://doi.org/10.1196/annals.1419.001Barbara K
+Pomper, Olivier
+Saurel, Alain
+Milon, Julia A
+Vorholt. Generation of formate by the formyltransferase/hydrolase complex (Fhc) from
+Methylobacterium extorquens
+AM1. FEBS Letters 2002, 523
+(1-3)
+, 133-137. https://doi.org/10.1016/S0014-5793(02)02962-9Stephen W.
+Ragsdale. Biocatalytic One‐Carbon Conversion.
+2002https://doi.org/10.1002/0471227617.eoc031Uwe
+Deppenmeier. The unique biochemistry of methanogenesis.
+2002, 223-283. https://doi.org/10.1016/S0079-6603(02)71045-3David E.
+Metzler, Carol M.
+Metzler, David J.
+Sauke. Coenzymes of Oxidation—Reduction Reactions.
+2001, 765-835. https://doi.org/10.1016/B978-012492543-4/50018-0Julia A.
+Vorholt, Rudolf K.
+Thauer. The Active Species of 'CO2' Utilized by Formylmethanofuran Dehydrogenase from Methanogenic Archaea. European Journal of Biochemistry 1997, 248
+(3)
+, 919-924. https://doi.org/10.1111/j.1432-1033.1997.00919.xKenneth M.
+Noll. [46] Thiol coenzymes of methanogens.
+1995, 470-482. https://doi.org/10.1016/0076-6879(95)51151-2Peter A.
+Bertram, Rudolf K.
+Thauer. Thermodynamics of the Formylmethanofuran Dehydrogenase Reaction in Methanobacterium Thermoautotrophicum. European Journal of Biochemistry 1994, 226
+(3)
+, 811-818. https://doi.org/10.1111/j.1432-1033.1994.t01-1-00811.xRalph S.
+Wolfe. An Historical Overview of Methanogenesis.
+1993, 1-32. https://doi.org/10.1007/978-1-4615-2391-8_1Rudolf K.
+Thauer, Reiner
+Hedderich, Reinhard
+Fischer. Reactions and Enzymes Involved in Methanogenesis from CO2 and H2.
+1993, 209-252. https://doi.org/10.1007/978-1-4615-2391-8_5Lacy
+Daniels. Chapter 3 Biochemistry of methanogenesis.
+1993, 41-112. https://doi.org/10.1016/S0167-7306(08)60252-5Peter
+Schönhei. Chapter 4 Bioenergetics and transport in methanogens and related thermophilic archaea.
+1993, 113-172. https://doi.org/10.1016/S0167-7306(08)60253-7Marion
+KARRASCH, Gerhard
+BORNER, Marion
+ENSSLE, Rudolf K.
+THAUER. The molybdoenzyme formylmethanofuran dehydrogenase from Methanosarcina barkeri contains a pterin cofactor. European Journal of Biochemistry 1990, 194
+(2)
+, 367-372. https://doi.org/10.1111/j.1432-1033.1990.tb15627.xThomas A.
+Bobik, Anthony A.
+DiMarco, Ralph S.
+Wolfe. Formyl-methanofuran synthesis in
+Methanobacterium thermoautotrophicum. FEMS Microbiology Letters 1990, 87
+(3-4)
+, 323-326. https://doi.org/10.1111/j.1574-6968.1990.tb04931.xJ.
+Breitung, G.
+Börner, M.
+Karrasch, A.
+Berkessel, R.K.
+Thauer. N
+-Furfurylformamide as a pseudo-substrate for formylmethanofuran converting enzymes from methanogenic bacteria. FEBS Letters 1990, 268
+(1)
+, 257-260. https://doi.org/10.1016/0014-5793(90)81022-GServé W. M.
+Kengen, Piet J. H.
+Daas, Jan T.
+Keltjens, Chris
+van der Drift, Godfried D.
+Vogels. Stimulation of the methyltetrahydromethanopterin: coenzyme M methyltransferase reaction in cell-free extracts of Methanobacterium thermoautotrophicum by the heterodisulfide of coenzyme M and 7-mercaptoheptanoylthreonine phosphate. Archives of Microbiology 1990, 154
+(2)
+, 156-161. https://doi.org/10.1007/BF00423326R. S.
+Wolfe. Novel Coenzymes of Archaebacteria.
+1990, 1-12. https://doi.org/10.1007/978-3-642-75969-7_1MICHAEL
+BLAUT, VOLKER
+MÜLLER, GERHARD
+GOTTSCHALK. Energetics of Methanogens.
+1990, 505-537. https://doi.org/10.1016/B978-0-12-307212-2.50021-1Alan D.
+Moodie, W. John
+Ingledew. Microbial Anaerobic Respiration.
+1990, 225-269. https://doi.org/10.1016/S0065-2911(08)60123-XR S
+Tanner, M J
+McInerney, D P
+Nagle. Formate auxotroph of Methanobacterium thermoautotrophicum Marburg. Journal of Bacteriology 1989, 171
+(12)
+, 6534-6538. https://doi.org/10.1128/jb.171.12.6534-6538.1989Andreas
+Mahlmann, Uwe
+Deppenmeier, Gerhard
+Gottschalk. Methanofuran-b is required for CO
+2
+formation from formaldehyde by
+Methanosarcina barkeri. FEMS Microbiology Letters 1989, 61
+(1-2)
+, 115-120. https://doi.org/10.1111/j.1574-6968.1989.tb03563.xD.
+M�ller-Zinkhan, G.
+B�rner, R. K.
+Thauer. Function of methanofuran, tetrahydromethanopterin, and coenzyme F420 in Archaeoglobus fulgidus. Archives of Microbiology 1989, 152
+(4)
+, 362-368. https://doi.org/10.1007/BF00425174T A
+Bobik, R S
+Wolfe. Activation of formylmethanofuran synthesis in cell extracts of Methanobacterium thermoautotrophicum. Journal of Bacteriology 1989, 171
+(3)
+, 1423-1427. https://doi.org/10.1128/jb.171.3.1423-1427.1989G.
+Börner, M.
+Karrasch, R.K.
+Thauer. Formylmethanofuran dehydrogenase activity in cell extracts of
+Methanobacterium thermoautotrophicum
+and of
+Methanosarcina barkeri. FEBS Letters 1989, 244
+(1)
+, 21-25. https://doi.org/10.1016/0014-5793(89)81153-6Ken F.
+Jarrell, Susan F.
+Koval. Ultrastructure and Biochemistry of
+Methanococcus Voltae. Critical Reviews in Microbiology 1989, 17
+(1)
+, 53-87. https://doi.org/10.3109/10408418909105722R H
+White. Structural diversity among methanofurans from different methanogenic bacteria. Journal of Bacteriology 1988, 170
+(10)
+, 4594-4597. https://doi.org/10.1128/jb.170.10.4594-4597.1988P E
+Rouvière, R S
+Wolfe. Novel biochemistry of methanogenesis.. Journal of Biological Chemistry 1988, 263
+(17)
+, 7913-7916. https://doi.org/10.1016/S0021-9258(18)68417-0Thomas A.
+Bobik, Mark I.
+Donnelly, Kenneth L.
+Rinehart, Ralph S.
+Wolfe. Structure of a methanofuran derivative found in cell extracts of Methanosarcina barkeri. Archives of Biochemistry and Biophysics 1987, 254
+(2)
+, 430-436. https://doi.org/10.1016/0003-9861(87)90121-4W J
+Jones, D P
+Nagle, W B
+Whitman. Methanogens and the diversity of archaebacteria. Microbiological Reviews 1987, 51
+(1)
+, 135-177. https://doi.org/10.1128/mr.51.1.135-177.1987Lars G.
+Ujungdahl. Comparative Biochemistry of C1-Carriers.
+1987, 121-128. https://doi.org/10.1007/978-94-009-3539-6_16Kenneth M.
+Noll, Mark I.
+Donnelly, Ralph S.
+Wolfe. Biochemical Aspects of Methane Formation in Methanobacterium Thermoautotrophicum.
+1987, 55-61. https://doi.org/10.1007/978-94-009-3539-6_7C.
+van der Drift, J. T.
+Keltjens, G. D.
+Vogels. Intermediary Steps in Methanogenesis.
+1987, 62-69. https://doi.org/10.1007/978-94-009-3539-6_8Kenneth M.
+Noll, Mark I.
+Donnelly, Ralph S.
+Wolfe. Biochemical aspects of methane formation in methanobacterium thermoautotrophicum. Antonie van Leeuwenhoek 1987, 53
+(1)
+, 15-21. https://doi.org/10.1007/BF00422630R
+Sparling, L
+Daniels. Source of carbon and hydrogen in methane produced from formate by Methanococcus thermolithotrophicus. Journal of Bacteriology 1986, 168
+(3)
+, 1402-1407. https://doi.org/10.1128/jb.168.3.1402-1407.1986M I
+Donnelly, R S
+Wolfe. The role of formylmethanofuran: tetrahydromethanopterin formyltransferase in methanogenesis from carbon dioxide.. Journal of Biological Chemistry 1986, 261
+(35)
+, 16653-16659. https://doi.org/10.1016/S0021-9258(18)66615-3Harland G.
+Wood, Steve W.
+Ragsdale, Ewa
+Pezacka. The acetyl-CoA pathway of autotrophic growth. FEMS Microbiology Letters 1986, 39
+(4)
+, 345-362. https://doi.org/10.1111/j.1574-6968.1986.tb01865.xGeorg
+Fuchs. CO
+2
+fixation in acetogenic bacteria: Variations on a theme. FEMS Microbiology Letters 1986, 39
+(3)
+, 181-213. https://doi.org/10.1111/j.1574-6968.1986.tb01859.xJ.T.
+Keltjens, C.
+Drift. Electron transfer reactions in methanogens. FEMS Microbiology Letters 1986, 39
+(3)
+, 259-303. https://doi.org/10.1111/j.1574-6968.1986.tb01862.xGeorg
+Fuchs, Erhard
+Stupperich. Carbon assimilation pathways in archaebacteria. Systematic and Applied Microbiology 1986, 7
+(2-3)
+, 364-369. https://doi.org/10.1016/S0723-2020(86)80035-2Jan T.
+Keltjens, Gerda C.
+Caerteling, Chris
+Van Der Drift, Godfried D.
+Vogels. Methanopterin and the intermediary steps of methanogenesis. Systematic and Applied Microbiology 1986, 7
+(2-3)
+, 370-375. https://doi.org/10.1016/S0723-2020(86)80036-4Jan T.
+Keltjens, Gerda C.
+Caerteling, Godfried D.
+Vogels. [63] Methanopterin and tetrahydromethanopterin derivatives: Isolation, synthesis, and identification by high-performance liquid chromatography.
+1986, 412-425. https://doi.org/10.1016/0076-6879(86)22201-6Mark I.
+Donnelly, Jorge C.
+Escalante-Semerena, Kenneth L.
+Rinehart, Ralph S.
+Wolfe. Methenyl-tetrahydromethanopterin cyclohydrolase in cell extracts of Methanobacterium. Archives of Biochemistry and Biophysics 1985, 242
+(2)
+, 430-439. https://doi.org/10.1016/0003-9861(85)90227-9Ralph S.
+Wolfe. Unusual coenzymes of methanogenesis. Trends in Biochemical Sciences 1985, 10
+(10)
+, 396-399. https://doi.org/10.1016/0968-0004(85)90068-4W J
+Jones, M I
+Donnelly, R S
+Wolfe. Evidence of a common pathway of carbon dioxide reduction to methane in methanogens. Journal of Bacteriology 1985, 163
+(1)
+, 126-131. https://doi.org/10.1128/jb.163.1.126-131.1985WILLIAM B.
+WHITMAN. Methanogenic Bacteria.
+1985, 3-84. https://doi.org/10.1016/B978-0-12-307208-5.50007-6Download PDF
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+You’ve supercharged your research process with ACS and Mendeley!
+ContinueSTEP 1:Login with ACS IDLogged in SuccessClick to create an ACS IDSTEP 2:Login with MendeleyLogged in SuccessCreate a Mendeley account
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please login with your ACS ID before connecting to your Mendeley account.Login with ACS ID
+MENDELEY PAIRING EXPIREDReconnectYour Mendeley pairing has expired. Please reconnect
+This website uses cookies to improve your user experience. By continuing to use the site, you are accepting our use of cookies. Read the ACS privacy policy.
+CONTINUE
+Recently Viewedclose modalRecently ViewedYou have not visited any articles yet, Please visit some articles to see contents here.
+✓Thanks for sharing!AddToAnyMore…Live Chat

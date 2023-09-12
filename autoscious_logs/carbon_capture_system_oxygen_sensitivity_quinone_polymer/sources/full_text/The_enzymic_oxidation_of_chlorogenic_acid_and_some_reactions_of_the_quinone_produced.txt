@@ -1,0 +1,64 @@
+The enzymic oxidation of chlorogenic acid and some reactions of the quinone produced
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1264879/
+Back to Top
+Skip to main content
+The .gov means it’s official.
+Federal government websites often end in .gov or .mil. Before
+sharing sensitive information, make sure you’re on a federal
+government site.
+The site is secure.
+The https:// ensures that you are connecting to the
+official website and that any information you provide is encrypted
+and transmitted securely.
+Access keys
+NCBI Homepage
+MyNCBI Homepage
+Main Content
+Main Navigation
+Journal List
+Biochem J
+v.98(2); 1966 Feb
+PMC1264879
+As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+the contents by NLM or the National Institutes of Health.
+Learn more:
+PMC Disclaimer
+|
+PMC Copyright Notice
+Biochem J. 1966 Feb; 98(2): 567–580.
+doi: 10.1042/bj0980567PMCID: PMC1264879PMID: 5941350The enzymic oxidation of chlorogenic acid and some reactions of the quinone producedW. S. PierpointAuthor information Copyright and License information PMC DisclaimerBiochemistry Department, Rothamsted Experimental Station, Harpenden, HertsPMC Copyright notice Abstract1. Partially purified preparations of tobacco-leaf o-diphenol oxidase (o-quinol–oxygen oxidoreductase; EC 1.10.3.1) oxidize chlorogenic acid to brown products, absorbing, on average, 1·6atoms of oxygen/mol. oxidized, and evolving a little carbon dioxide. 2. The effect of benzenesulphinic acid on the oxidation suggests that the first stage is the formation of a quinone; the solution does not go brown, oxygen uptake is restricted to 1 atom/mol. oxidized, and a compound is produced whose composition corresponds to that of a sulphone of the quinone derived from chlorogenic acid. 3. Several other compounds that react with quinones affect the oxidation of chlorogenic acid. The colour of the products formed and the oxygen absorbed in their formation suggest that the quinone formed in the oxidation reacts with these compounds in the same way as do simpler quinones. 4. Some compounds that are often used to prevent the oxidation of polyphenols were tested to see if they act by inhibiting o-diphenol oxidase, by reacting with quinone intermediates, or both. 5. Ascorbate inhibits the enzyme and also reduces the quinone. 6. Potassium ethyl xanthate, diethyldithiocarbamate and cysteine inhibit the enzyme to different extents, and also react with the quinone. The nature of the reaction depends on the relative concentrations of inhibitor and chlorogenic acid. Excess of inhibitor prevents the solution from turning brown and restricts oxygen uptake to 1 atom/mol. of chlorogenic acid oxidized; smaller amounts do not prevent browning and slightly increase oxygen uptake. 7. 2-Mercaptobenzothiazole inhibits the enzyme, and also probably reacts with the quinone; inhibited enzyme is reactivated as if the inhibitor is removed as traces of quinone are produced. 8. Thioglycollate and polyvinylpyrrolidone inhibit the enzyme. Thioglycollate probably reduces the quinone to a small extent.Full textFull text is available as a scanned copy of the original print version. Get a printable copy (PDF file) of the complete article (2.0M), or click on a page image below to browse page by page. Links to PubMed are also available for Selected References. 567568569570571572573574575576577578579580 Selected ReferencesThese references are in PubMed. This may not be the complete list of references from this article.	BARUAH P, SWAIN T. The effect of L-ascorbic acid on the in vitro activity of polyphenoloxidase from potato. Biochem J. 1953 Oct;55(3):392–399. [PMC free article] [PubMed] [Google Scholar]Beevers H, James WO. The behaviour of secondary and tertiary amines in the presence of catechol and belladonna catechol oxidase. Biochem J. 1948;43(4):636–639. [PMC free article] [PubMed] [Google Scholar]CLAYTON RA. Properties of tobacco polyphenol oxidase. Arch Biochem Biophys. 1959 Apr;81(2):404–417. [PubMed] [Google Scholar]FARKAS GL, KIRALY Z, SOLYMOSY F. Role of oxidative metabolism in the localization of plant viruses. Virology. 1960 Nov;12:408–421. [PubMed] [Google Scholar]HARRISON BD, PIERPOINT WS. THE RELATION OF POLYPHENOLOXIDASE IN LEAF EXTRACTS TO THE INSTABILITY OF CUCUMBER MOSAIC AND OTHER PLANT VIRUSES. J Gen Microbiol. 1963 Sep;32:417–427. [PubMed] [Google Scholar]HENZE RE. Inhibition of enzymatic browning of chlorogenic acid solutions with cysteine and glutathione. Science. 1956 Jun 29;123(3209):1174–1175. [PubMed] [Google Scholar]HESS EH. The polyphenolase of tobacco and its participation in amino acid metabolism. I. Manometric studies. Arch Biochem Biophys. 1958 Mar;74(1):198–208. [PubMed] [Google Scholar]HILL JM, MANN PJ. The inhibition of pea-seedling diamine oxidase by chelating agents. Biochem J. 1962 Oct;85:198–207. [PMC free article] [PubMed] [Google Scholar]HULME AC, JONES JD, WOOLTORTON LS. MITOCHONDRIAL PREPARATIONS FROM FLOWERS. Nature. 1964 Feb 22;201:795–797. [PubMed] [Google Scholar]Jackson H, Kendal LP. The oxidation of catechol and homocatechol by tyrosinase in the presence of amino-acids. Biochem J. 1949;44(4):477–487. [PMC free article] [PubMed] [Google Scholar]James WO, Roberts EA, Beevers H, De Kock PC. The secondary oxidation of amino-acids by the catechol oxidase of belladonna. Biochem J. 1948;43(4):626–636. [PMC free article] [PubMed] [Google Scholar]PIERPOINT WS, HARRISON BD. COPPER-DEPENDENT AND IRON-DEPENDENT INACTIVATIONS OF CUCUMBER MOSAIC VIRUS BY POLYPHENOLS. J Gen Microbiol. 1963 Sep;32:429–440. [PubMed] [Google Scholar]Pugh CE, Raper HS. The Action of Tyrosinase on Phenols: With some Observations on the Classification of Oxidases. Biochem J. 1927;21(6):1370–1383. [PMC free article] [PubMed] [Google Scholar]WOJTCZAK L, CHMURZYNSKA W. Inhibition studies on insect polyphenol oxidase. Acta Biochim Pol. 1960;7:39–49. [PubMed] [Google Scholar]Articles from Biochemical Journal are provided here courtesy of The Biochemical Society
+Other Formats
+Page Browse
+PDF (2.0M)
+Actions
+Cite
+Collections
+Add to Collections
+Create a new collection
+Add to an existing collection
+Name your collection:
+Name must be less than
+characters
+Choose a collection:
+Unable to load your collection due to an error
+Please try again
+Add
+Cancel
+Share
+Permalink
+Copy
+RESOURCES
+Similar articles
+Cited by other articles
+Links to NCBI Databases
+[x]
+Cite
+Copy
+Download .nbib
+.nbib
+Format:
+AMA
+APA
+MLA
+NLM
+External link. Please review our privacy policy.

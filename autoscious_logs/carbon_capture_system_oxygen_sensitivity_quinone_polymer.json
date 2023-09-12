@@ -1,0 +1,864 @@
+[
+  {
+    "position": 0,
+    "title": "Electrochemically Mediated Direct CO2 Capture by a Stackable Bipolar Cell",
+    "result_id": "y3xcMp5BMiQJ",
+    "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cssc.202102533",
+    "snippet": "\u2026 due to the oxygen sensitivity of quinones. These experiments \u2026 of the quinone-based electrochemical CO 2 capture system in \u2026 with initial investigation into the quinone polymer \u2026",
+    "publication_info": {
+      "summary": "A Hemmatifar, JS Kang, N Ozbek, KJ Tan\u2026 - \u2026, 2022 - Wiley Online Library",
+      "authors": [
+        {
+          "name": "A Hemmatifar",
+          "link": "https://scholar.google.com/citations?user=NSqlwH8AAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NSqlwH8AAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "NSqlwH8AAAAJ"
+        },
+        {
+          "name": "JS Kang",
+          "link": "https://scholar.google.com/citations?user=mdzFUDcAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=mdzFUDcAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "mdzFUDcAAAAJ"
+        },
+        {
+          "name": "N Ozbek",
+          "link": "https://scholar.google.com/citations?user=42WfIjIAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=42WfIjIAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "42WfIjIAAAAJ"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "wiley.com",
+        "file_format": "PDF",
+        "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/pdf/10.1002/cssc.202102533"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=y3xcMp5BMiQJ",
+      "cited_by": {
+        "total": 20,
+        "link": "https://scholar.google.com/scholar?cites=2608219281906498763&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "2608219281906498763",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2608219281906498763&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:y3xcMp5BMiQJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3Ay3xcMp5BMiQJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cluster=2608219281906498763&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "2608219281906498763",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=2608219281906498763&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 1,
+    "title": "Oxygen-Stable Electrochemical CO2 Capture and Concentration with Quinones Using Alcohol Additives",
+    "result_id": "X4TKhaRcEKAJ",
+    "link": "https://pubs.acs.org/doi/abs/10.1021/jacs.2c04044",
+    "snippet": "Current methods for CO2 capture and concentration (CCC) are energy intensive due to their reliance on thermal cycles, which are intrinsically Carnot limited in efficiency. In contrast, electrochemically driven CCC (eCCC) can operate with much higher theoretical efficiencies. However, most reported systems are sensitive to O2, precluding their practical use. In order to achieve O2-stable eCCC, we pursued the development of molecular redox carriers with reduction potentials positive of the O2/O2\u2013redox couple. Prior efforts to chemically modify \u2026",
+    "publication_info": {
+      "summary": "JM Barlow, JY Yang - Journal of the American Chemical Society, 2022 - ACS Publications",
+      "authors": [
+        {
+          "name": "JM Barlow",
+          "link": "https://scholar.google.com/citations?user=Y9k606IAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Y9k606IAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "Y9k606IAAAAJ"
+        },
+        {
+          "name": "JY Yang",
+          "link": "https://scholar.google.com/citations?user=0KGsbfoAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0KGsbfoAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "0KGsbfoAAAAJ"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "acs.org",
+        "file_format": "HTML",
+        "link": "https://pubs.acs.org/doi/full/10.1021/jacs.2c04044"
+      },
+      {
+        "title": "Full View",
+        "link": "https://scholar.google.com/scholar?output=instlink&q=info:X4TKhaRcEKAJ:scholar.google.com/&hl=en&num=20&as_sdt=0,44&scillfp=17166455452212487399&oi=lle"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=X4TKhaRcEKAJ",
+      "html_version": "https://pubs.acs.org/doi/full/10.1021/jacs.2c04044",
+      "cited_by": {
+        "total": 22,
+        "link": "https://scholar.google.com/scholar?cites=11533820507384874079&as_sdt=5,44&sciodt=0,44&hl=en&num=20",
+        "cites_id": "11533820507384874079",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=5%2C44&cites=11533820507384874079&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:X4TKhaRcEKAJ:scholar.google.com/&scioq=Oxygen-Stable+Electrochemical+CO2+Capture+and+Concentration+with+Quinones+Using+Alcohol+Additives&hl=en&num=20&as_sdt=0,44",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C44&engine=google_scholar&hl=en&num=20&q=related%3AX4TKhaRcEKAJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=11533820507384874079&hl=en&num=20&as_sdt=0,44",
+        "cluster_id": "11533820507384874079",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C44&cluster=11533820507384874079&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 2,
+    "title": "Trade-Off between Redox Potential and the Strength of Electrochemical CO2 Capture in Quinones",
+    "result_id": "LhJRMHYTN9UJ",
+    "link": "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.2c03752",
+    "snippet": "\u2026 This raises questions about whether functional group substitutions can be used to address oxygen sensitivity issues in these systems while maintaining sufficient CO 2 reactivity. \u2026",
+    "publication_info": {
+      "summary": "AT Bui, NA Hartley, AJW Thom\u2026 - The Journal of Physical \u2026, 2022 - ACS Publications",
+      "authors": [
+        {
+          "name": "AT Bui",
+          "link": "https://scholar.google.com/citations?user=0q-Nre8AAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0q-Nre8AAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "0q-Nre8AAAAJ"
+        },
+        {
+          "name": "AJW Thom",
+          "link": "https://scholar.google.com/citations?user=gO8gZ2oAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gO8gZ2oAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "gO8gZ2oAAAAJ"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "acs.org",
+        "file_format": "PDF",
+        "link": "https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.2c03752"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=LhJRMHYTN9UJ",
+      "cited_by": {
+        "total": 13,
+        "link": "https://scholar.google.com/scholar?cites=15363770052135424558&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "15363770052135424558",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=15363770052135424558&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:LhJRMHYTN9UJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3ALhJRMHYTN9UJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 11,
+        "link": "https://scholar.google.com/scholar?cluster=15363770052135424558&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "15363770052135424558",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=15363770052135424558&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 3,
+    "title": "Electrochemical concentration of carbon dioxide",
+    "result_id": "ejF-j1YwQ8sJ",
+    "type": "Book",
+    "link": "https://books.google.com/books?hl=en&lr=&id=IIdW_BvALq0C&oi=fnd&pg=PA94&dq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&ots=304bRvgAlI&sig=0OiePP_vu0V-N1ogb4VeX5M5eng",
+    "snippet": "\u2026 the quinones and the log of the binding constant of the quinone \u2026 including molecular sieves (6), polymer bound amines (7), \u2026 This oxygen sensitivity could result in the removal of oxygen \u2026",
+    "publication_info": {
+      "summary": "DL DuBois, A Miedaner, W Bell, JC Smart - 1993 - books.google.com",
+      "authors": [
+        {
+          "name": "W Bell",
+          "link": "https://scholar.google.com/citations?user=cjZztbkAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=cjZztbkAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "cjZztbkAAAAJ"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ejF-j1YwQ8sJ",
+      "cited_by": {
+        "total": 21,
+        "link": "https://scholar.google.com/scholar?cites=14646603561471717754&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "14646603561471717754",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=14646603561471717754&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ejF-j1YwQ8sJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3AejF-j1YwQ8sJ%3Ascholar.google.com%2F"
+    }
+  },
+  {
+    "position": 4,
+    "title": "\u2026 synthesis of high quantum yield oxygen-doped, nitrogen-rich, photoluminescent polymer carbon nanoribbons as an effective fluorescent sensing platform for sensitive \u2026",
+    "result_id": "olVXA9lOucgJ",
+    "link": "https://pubs.acs.org/doi/abs/10.1021/ac501085d",
+    "snippet": "\u2026 the structural carbon atoms which are mainly organic quinone-like polymer and aromatic \u2026 2 and \u03bd 1 stretching vibrations of carbon\u2013carbon double bonds (C\u2550C) and carbon\u2013nitrogen/\u2026",
+    "publication_info": {
+      "summary": "ZX Wang, SN Ding - Analytical chemistry, 2014 - ACS Publications"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=olVXA9lOucgJ",
+      "cited_by": {
+        "total": 146,
+        "link": "https://scholar.google.com/scholar?cites=14463678372247983522&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "14463678372247983522",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=14463678372247983522&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:olVXA9lOucgJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3AolVXA9lOucgJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=14463678372247983522&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "14463678372247983522",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=14463678372247983522&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 5,
+    "title": "Electrochemically mediated carbon dioxide separation with quinone chemistry in salt-concentrated aqueous media",
+    "result_id": "35rz7oWmI6IJ",
+    "type": "Html",
+    "link": "https://www.nature.com/articles/s41467-020-16150-7",
+    "snippet": "\u2026 slower electron exchange along the polymeric backbone and the \u2026 , confirming the relatively low sensitivity of reduced PAQ towards \u2026 the effects of oxygen on quinone capture processes. \u2026",
+    "publication_info": {
+      "summary": "Y Liu, HZ Ye, KM Diederichsen, T Van Voorhis\u2026 - Nature \u2026, 2020 - nature.com",
+      "authors": [
+        {
+          "name": "Y Liu",
+          "link": "https://scholar.google.com/citations?user=K2XdY4oAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=K2XdY4oAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "K2XdY4oAAAAJ"
+        },
+        {
+          "name": "HZ Ye",
+          "link": "https://scholar.google.com/citations?user=vgR_go8AAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=vgR_go8AAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "vgR_go8AAAAJ"
+        },
+        {
+          "name": "KM Diederichsen",
+          "link": "https://scholar.google.com/citations?user=wkM_UqsAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wkM_UqsAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "wkM_UqsAAAAJ"
+        },
+        {
+          "name": "T Van Voorhis",
+          "link": "https://scholar.google.com/citations?user=4p5aaGEAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=4p5aaGEAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "4p5aaGEAAAAJ"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "nature.com",
+        "file_format": "HTML",
+        "link": "https://www.nature.com/articles/s41467-020-16150-7"
+      },
+      {
+        "title": "Full View",
+        "link": "https://scholar.google.com/scholar?output=instlink&q=info:35rz7oWmI6IJ:scholar.google.com/&hl=en&num=20&as_sdt=0,10&scillfp=10209432093005219330&oi=lle"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=35rz7oWmI6IJ",
+      "html_version": "https://www.nature.com/articles/s41467-020-16150-7",
+      "cited_by": {
+        "total": 78,
+        "link": "https://scholar.google.com/scholar?cites=11683364952499002079&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "11683364952499002079",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=11683364952499002079&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:35rz7oWmI6IJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3A35rz7oWmI6IJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 10,
+        "link": "https://scholar.google.com/scholar?cluster=11683364952499002079&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "11683364952499002079",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=11683364952499002079&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 6,
+    "title": "Electrochemical Carbon Dioxide Capture and Concentration",
+    "result_id": "de9yuti4wgsJ",
+    "link": "https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.2c00681",
+    "snippet": "\u2026 other quinones as well as other types of redox-active capture \u2026 Their PCET chemistry does show significant O 2 sensitivity, \u2026 architecture by using polymeric quinone-based electrodes \u2026",
+    "publication_info": {
+      "summary": "AM Zito, LE Clarke, JM Barlow, D B\u00edm, Z Zhang\u2026 - Chemical \u2026, 2023 - ACS Publications",
+      "authors": [
+        {
+          "name": "AM Zito",
+          "link": "https://scholar.google.com/citations?user=Og-0jU4AAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Og-0jU4AAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "Og-0jU4AAAAJ"
+        },
+        {
+          "name": "JM Barlow",
+          "link": "https://scholar.google.com/citations?user=Y9k606IAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Y9k606IAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "Y9k606IAAAAJ"
+        },
+        {
+          "name": "D B\u00edm",
+          "link": "https://scholar.google.com/citations?user=eBI4cCQAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eBI4cCQAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "eBI4cCQAAAAJ"
+        },
+        {
+          "name": "Z Zhang",
+          "link": "https://scholar.google.com/citations?user=oYBJT_kAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=oYBJT_kAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "oYBJT_kAAAAJ"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "chemrxiv.org",
+        "file_format": "PDF",
+        "link": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/63393258114b7ea829251b3f/original/electrochemical-carbon-dioxide-capture-and-concentration.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=de9yuti4wgsJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=847442920879615861&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "847442920879615861",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=847442920879615861&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:de9yuti4wgsJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3Ade9yuti4wgsJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=847442920879615861&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "847442920879615861",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=847442920879615861&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 7,
+    "title": "Analysis of technologies for carbon dioxide capture from the air",
+    "result_id": "O3P6D5XkFCMJ",
+    "link": "https://www.mdpi.com/2076-3417/12/16/8321",
+    "snippet": "\u2026 carbon capture, making them less sensitive to regeneration conditions. \u2026 Any reactions between quinone and oxygen (causing the \u2026 by tuning the electron density of the quinone polymer. \u2026",
+    "publication_info": {
+      "summary": "G Leonzio, PS Fennell, N Shah - Applied Sciences, 2022 - mdpi.com",
+      "authors": [
+        {
+          "name": "G Leonzio",
+          "link": "https://scholar.google.com/citations?user=gdmEmtgAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gdmEmtgAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "gdmEmtgAAAAJ"
+        },
+        {
+          "name": "PS Fennell",
+          "link": "https://scholar.google.com/citations?user=NxZER2sAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=NxZER2sAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "NxZER2sAAAAJ"
+        },
+        {
+          "name": "N Shah",
+          "link": "https://scholar.google.com/citations?user=Cvv27xEAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Cvv27xEAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "Cvv27xEAAAAJ"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "mdpi.com",
+        "file_format": "PDF",
+        "link": "https://www.mdpi.com/2076-3417/12/16/8321/pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=O3P6D5XkFCMJ",
+      "cited_by": {
+        "total": 11,
+        "link": "https://scholar.google.com/scholar?cites=2527896619731022651&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "2527896619731022651",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=2527896619731022651&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:O3P6D5XkFCMJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3AO3P6D5XkFCMJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=2527896619731022651&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "2527896619731022651",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=2527896619731022651&engine=google_scholar&hl=en&num=20"
+      },
+      "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:O3P6D5XkFCMJ:scholar.google.com/+carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10"
+    }
+  },
+  {
+    "position": 8,
+    "title": "Continuous carbon capture in an electrochemical solid-electrolyte reactor",
+    "result_id": "-EqTSVaibswJ",
+    "link": "https://www.nature.com/articles/s41586-023-06060-1",
+    "snippet": "\u2026 rates, oxygen sensitivity or system complexity 1,2,3,4,5,6 . \u2026 processes (HER/HOR, quinone redox couples, flow battery redox \u2026 After polymerization in an ice bath for nearly one day, the \u2026",
+    "publication_info": {
+      "summary": "P Zhu, ZY Wu, A Elgazzar, C Dong, TU Wi, FY Chen\u2026 - Nature, 2023 - nature.com",
+      "authors": [
+        {
+          "name": "P Zhu",
+          "link": "https://scholar.google.com/citations?user=AfFztsIAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=AfFztsIAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "AfFztsIAAAAJ"
+        },
+        {
+          "name": "ZY Wu",
+          "link": "https://scholar.google.com/citations?user=sIT2cFMAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sIT2cFMAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "sIT2cFMAAAAJ"
+        },
+        {
+          "name": "TU Wi",
+          "link": "https://scholar.google.com/citations?user=OVLJtC0AAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OVLJtC0AAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "OVLJtC0AAAAJ"
+        },
+        {
+          "name": "FY Chen",
+          "link": "https://scholar.google.com/citations?user=uYJDSvwAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=uYJDSvwAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "uYJDSvwAAAAJ"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "rice.edu",
+        "file_format": "PDF",
+        "link": "https://wang.rice.edu/files/2023/06/10.1038_s41586-023-06060-1.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-EqTSVaibswJ",
+      "cited_by": {
+        "total": 2,
+        "link": "https://scholar.google.com/scholar?cites=14730889922660748024&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "14730889922660748024",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=14730889922660748024&engine=google_scholar&hl=en&num=20"
+      },
+      "versions": {
+        "total": 8,
+        "link": "https://scholar.google.com/scholar?cluster=14730889922660748024&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "14730889922660748024",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=14730889922660748024&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 9,
+    "title": "Oxygen uptake by gallic acid as a model for similar reactions in wines",
+    "result_id": "AR9j5f3Uu68J",
+    "link": "https://pubs.acs.org/doi/pdf/10.1021/jf00088a002",
+    "snippet": "\u2026 Production of carbon dioxide was not detected. After \u2026 musthave occurred beyond the polymeric quinone stage. The reaction \u2026 Bromcresol green is ordinarily sensitive to carboxy acids, but \u2026",
+    "publication_info": {
+      "summary": "V Tulyathan, RB Boulton\u2026 - Journal of agricultural and \u2026, 1989 - ACS Publications"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=AR9j5f3Uu68J",
+      "cited_by": {
+        "total": 119,
+        "link": "https://scholar.google.com/scholar?cites=12662948964222574337&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "12662948964222574337",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=12662948964222574337&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:AR9j5f3Uu68J:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3AAR9j5f3Uu68J%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=12662948964222574337&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "12662948964222574337",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=12662948964222574337&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 10,
+    "title": "Electrocatalysis at conducting polymers",
+    "result_id": "q2erGot5QA8J",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0379677999001708",
+    "snippet": "\u2026 polymer electrodes is the hydroquinone/benzoquinone \u2026 fast response and high sensitivity to solute hydrogen peroxide, \u2026 the insertion reactions of carbon dioxide into intermediates are \u2026",
+    "publication_info": {
+      "summary": "A Malinauskas - Synthetic Metals, 1999 - Elsevier"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=q2erGot5QA8J",
+      "cited_by": {
+        "total": 428,
+        "link": "https://scholar.google.com/scholar?cites=1099011947433256875&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "1099011947433256875",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=1099011947433256875&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:q2erGot5QA8J:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3Aq2erGot5QA8J%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 5,
+        "link": "https://scholar.google.com/scholar?cluster=1099011947433256875&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "1099011947433256875",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=1099011947433256875&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 11,
+    "title": "The enzymic oxidation of chlorogenic acid and some reactions of the quinone produced",
+    "result_id": "lcUVqNqsq3EJ",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1264879/",
+    "snippet": "\u2026 oxidized, and evolving a little carbon dioxide. 2. The effect of \u2026 the rest, and polymerization of the hydroxyquinone would \u2026 less sensitive to pH than is the hydration of o-benzoquinone; pH \u2026",
+    "publication_info": {
+      "summary": "WS Pierpoint - Biochemical Journal, 1966 - ncbi.nlm.nih.gov"
+    },
+    "resources": [
+      {
+        "title": "nih.gov",
+        "file_format": "PDF",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1264879/pdf/biochemj00758-0220.pdf;The"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=lcUVqNqsq3EJ",
+      "cited_by": {
+        "total": 250,
+        "link": "https://scholar.google.com/scholar?cites=8190830402426226069&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "8190830402426226069",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=8190830402426226069&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:lcUVqNqsq3EJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3AlcUVqNqsq3EJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 6,
+        "link": "https://scholar.google.com/scholar?cluster=8190830402426226069&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "8190830402426226069",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=8190830402426226069&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 12,
+    "title": "Weak chemiluminescence of oxidation reactions",
+    "result_id": "ssLlf7lA7G4J",
+    "link": "https://www.nature.com/articles/198281a0",
+    "snippet": "\u2026 like semi-quinones with molecular oxygen are also accom\u2026 or when an atmosphere of carbon dioxide is maintained above \u2026 note that radiation-induced polymerization in the solid state is \u2026",
+    "publication_info": {
+      "summary": "J Stauff, H Schmidkunz, G Hartmann - Nature, 1963 - nature.com"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=ssLlf7lA7G4J",
+      "cited_by": {
+        "total": 132,
+        "link": "https://scholar.google.com/scholar?cites=7992834604134679218&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "7992834604134679218",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=7992834604134679218&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:ssLlf7lA7G4J:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3AssLlf7lA7G4J%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=7992834604134679218&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "7992834604134679218",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=7992834604134679218&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 13,
+    "title": "Electrochemical carbon dioxide capture to close the carbon cycle",
+    "result_id": "-FnNtyF3mbsJ",
+    "type": "Html",
+    "link": "https://pubs.rsc.org/en/content/articlehtml/2021/ee/d0ee03382k",
+    "snippet": "\u2026 and multi-ion transport modeling in solution and polymer \u2026 polymerized quinone (formed into a composite with carbon \u2026 for CO 2 , are highly sensitive to water and oxygen, making the \u2026",
+    "publication_info": {
+      "summary": "R Sharifian, RM Wagterveld, IA Digdaya\u2026 - Energy & \u2026, 2021 - pubs.rsc.org",
+      "authors": [
+        {
+          "name": "RM Wagterveld",
+          "link": "https://scholar.google.com/citations?user=FRlZ_qYAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=FRlZ_qYAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "FRlZ_qYAAAAJ"
+        },
+        {
+          "name": "IA Digdaya",
+          "link": "https://scholar.google.com/citations?user=kKlEt2cAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kKlEt2cAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "kKlEt2cAAAAJ"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "rsc.org",
+        "file_format": "HTML",
+        "link": "https://pubs.rsc.org/en/content/articlehtml/2021/ee/d0ee03382k"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=-FnNtyF3mbsJ",
+      "html_version": "https://pubs.rsc.org/en/content/articlehtml/2021/ee/d0ee03382k",
+      "cited_by": {
+        "total": 185,
+        "link": "https://scholar.google.com/scholar?cites=13517966743230568952&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "13517966743230568952",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=13517966743230568952&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:-FnNtyF3mbsJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3A-FnNtyF3mbsJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 10,
+        "link": "https://scholar.google.com/scholar?cluster=13517966743230568952&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "13517966743230568952",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=13517966743230568952&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 14,
+    "title": "Methanofuran (carbon dioxide reduction factor), a formyl carrier in methane production from carbon dioxide in Methanobacterium",
+    "result_id": "OWEZsnIc9PUJ",
+    "link": "https://pubs.acs.org/doi/pdf/10.1021/bi00325a028",
+    "snippet": "\u2026 involves a complex oxygen-sensitive multienzyme system; so \u2026 resolved for an unknown factor, named the carbon dioxide \u2026 hydroxy-/?-quinones, and polymeric products led to nonspecific \u2026",
+    "publication_info": {
+      "summary": "JA Leigh, KL Rinehart Jr, RS Wolfe - Biochemistry, 1985 - ACS Publications"
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=OWEZsnIc9PUJ",
+      "cited_by": {
+        "total": 84,
+        "link": "https://scholar.google.com/scholar?cites=17722821712549601593&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "17722821712549601593",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=17722821712549601593&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:OWEZsnIc9PUJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3AOWEZsnIc9PUJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 9,
+        "link": "https://scholar.google.com/scholar?cluster=17722821712549601593&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "17722821712549601593",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=17722821712549601593&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 15,
+    "title": "Nanofibrous and graphene-templated conjugated microporous polymer materials for flexible chemosensors and supercapacitors",
+    "result_id": "eZfS6_tlfkkJ",
+    "link": "https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b03290",
+    "snippet": "\u2026 used as sensitive sensors in the detection of nitroaromatic and benzoquinone vapors as \u2026 traces that are introduced during carbonization or from absorbed oxygen or water molecules\u2026",
+    "publication_info": {
+      "summary": "K Yuan, P Guo-Wang, T Hu, L Shi, R Zeng\u2026 - Chemistry of \u2026, 2015 - ACS Publications",
+      "authors": [
+        {
+          "name": "K Yuan",
+          "link": "https://scholar.google.com/citations?user=adUKk58AAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=adUKk58AAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "adUKk58AAAAJ"
+        },
+        {
+          "name": "L Shi",
+          "link": "https://scholar.google.com/citations?user=kX4FyXAAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=kX4FyXAAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "kX4FyXAAAAAJ"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=eZfS6_tlfkkJ",
+      "cited_by": {
+        "total": 168,
+        "link": "https://scholar.google.com/scholar?cites=5295782344501925753&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "5295782344501925753",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=5295782344501925753&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:eZfS6_tlfkkJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3AeZfS6_tlfkkJ%3Ascholar.google.com%2F"
+    }
+  },
+  {
+    "position": 16,
+    "title": "Mixed ceria-based metal oxides biosensor for operation in oxygen restrictive environments",
+    "result_id": "D-kTaukKuAwJ",
+    "link": "https://pubs.acs.org/doi/abs/10.1021/ac800808a",
+    "snippet": "\u2026 sensitivity of 86 mA M \u22121 in the presence of oxygen and of 5.6 \u00d7 10 \u22129 M and a sensitivity of 65 mA M \u22121 in the absence of oxygen\u2026 the adsorption (or polymerization) of quinone onto the \u2026",
+    "publication_info": {
+      "summary": "J Njagi, C Ispas, S Andreescu - Analytical chemistry, 2008 - ACS Publications",
+      "authors": [
+        {
+          "name": "C Ispas",
+          "link": "https://scholar.google.com/citations?user=w23ylPsAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=w23ylPsAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "w23ylPsAAAAJ"
+        },
+        {
+          "name": "S Andreescu",
+          "link": "https://scholar.google.com/citations?user=1FheEykAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=1FheEykAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "1FheEykAAAAJ"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=D-kTaukKuAwJ",
+      "cited_by": {
+        "total": 88,
+        "link": "https://scholar.google.com/scholar?cites=916494521793243407&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "916494521793243407",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=916494521793243407&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:D-kTaukKuAwJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3AD-kTaukKuAwJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 8,
+        "link": "https://scholar.google.com/scholar?cluster=916494521793243407&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "916494521793243407",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=916494521793243407&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 17,
+    "title": "Green to red emitting BODIPY dyes for fluorescent sensing and imaging of carbon dioxide",
+    "result_id": "tzZ_C_biJo0J",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0925400519315114",
+    "snippet": "\u2026 transducers in polymer-based optical carbon dioxide sensors\u2026 polymers such as ethyl cellulose. Finally, the receptor should allow for tuning the sensitivity of the sensors to carbon dioxide\u2026",
+    "publication_info": {
+      "summary": "D Pfeifer, A Russegger, I Klimant, SM Borisov - Sensors and Actuators B \u2026, 2020 - Elsevier",
+      "authors": [
+        {
+          "name": "A Russegger",
+          "link": "https://scholar.google.com/citations?user=2RHBZx0AAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2RHBZx0AAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "2RHBZx0AAAAJ"
+        },
+        {
+          "name": "I Klimant",
+          "link": "https://scholar.google.com/citations?user=OFSihh4AAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=OFSihh4AAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "OFSihh4AAAAJ"
+        },
+        {
+          "name": "SM Borisov",
+          "link": "https://scholar.google.com/citations?user=bOlM-DAAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=bOlM-DAAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "bOlM-DAAAAAJ"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=tzZ_C_biJo0J",
+      "cited_by": {
+        "total": 37,
+        "link": "https://scholar.google.com/scholar?cites=10171066354845562551&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "10171066354845562551",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=10171066354845562551&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:tzZ_C_biJo0J:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3AtzZ_C_biJo0J%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 3,
+        "link": "https://scholar.google.com/scholar?cluster=10171066354845562551&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "10171066354845562551",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=10171066354845562551&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 18,
+    "title": "Trimethyl Lock: A Multifunctional Molecular Tool for Drug Delivery, Cellular Imaging, and Stimuli\u2010Responsive Materials",
+    "result_id": "f_jBzS5sK3kJ",
+    "link": "https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cbic.201800269",
+    "snippet": "\u2026 of carbon dioxide leads to \u2026 -sensitive quinone-type TML moieties have also been used for the stimuli-responsive controlled release of compounds from modified liposomes and polymer-\u2026",
+    "publication_info": {
+      "summary": "OA Okoh, P Klahn - ChemBioChem, 2018 - Wiley Online Library",
+      "authors": [
+        {
+          "name": "P Klahn",
+          "link": "https://scholar.google.com/citations?user=gL6YAakAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=gL6YAakAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "gL6YAakAAAAJ"
+        }
+      ]
+    },
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=f_jBzS5sK3kJ",
+      "cited_by": {
+        "total": 31,
+        "link": "https://scholar.google.com/scholar?cites=8731191250864175231&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "8731191250864175231",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=8731191250864175231&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:f_jBzS5sK3kJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3Af_jBzS5sK3kJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 4,
+        "link": "https://scholar.google.com/scholar?cluster=8731191250864175231&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "8731191250864175231",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=8731191250864175231&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  },
+  {
+    "position": 19,
+    "title": "Perspective and challenges in electrochemical approaches for reactive CO2 separations",
+    "result_id": "1bi_FEAvm-QJ",
+    "type": "Pdf",
+    "link": "https://www.cell.com/iscience/pdf/S2589-0042(21)01393-6.pdf",
+    "snippet": "\u2026 One of the electrochemically mediated CO2 capture systems \u2026 of bipyridine over quinone systems. Monoalkylation of \u2026 of reversible CO2 binding, and solvent sensitivities of CO2 capture \u2026",
+    "publication_info": {
+      "summary": "B Gurkan, X Su, A Klemm, Y Kim, SM Sharada\u2026 - Iscience, 2021 - cell.com",
+      "authors": [
+        {
+          "name": "B Gurkan",
+          "link": "https://scholar.google.com/citations?user=zIQ8g_cAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=zIQ8g_cAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "zIQ8g_cAAAAJ"
+        },
+        {
+          "name": "X Su",
+          "link": "https://scholar.google.com/citations?user=sjKhs9MAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=sjKhs9MAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "sjKhs9MAAAAJ"
+        },
+        {
+          "name": "A Klemm",
+          "link": "https://scholar.google.com/citations?user=TdoDB1cAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=TdoDB1cAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "TdoDB1cAAAAJ"
+        },
+        {
+          "name": "SM Sharada",
+          "link": "https://scholar.google.com/citations?user=U6IAZYgAAAAJ&hl=en&num=20&oi=sra",
+          "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=U6IAZYgAAAAJ&engine=google_scholar_author&hl=en",
+          "author_id": "U6IAZYgAAAAJ"
+        }
+      ]
+    },
+    "resources": [
+      {
+        "title": "cell.com",
+        "file_format": "PDF",
+        "link": "https://www.cell.com/iscience/pdf/S2589-0042(21)01393-6.pdf"
+      }
+    ],
+    "inline_links": {
+      "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=1bi_FEAvm-QJ",
+      "cited_by": {
+        "total": 18,
+        "link": "https://scholar.google.com/scholar?cites=16472812014310242517&as_sdt=40005&sciodt=0,10&hl=en&num=20",
+        "cites_id": "16472812014310242517",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=40005&cites=16472812014310242517&engine=google_scholar&hl=en&num=20"
+      },
+      "related_pages_link": "https://scholar.google.com/scholar?q=related:1bi_FEAvm-QJ:scholar.google.com/&scioq=carbon+capture+system+oxygen+sensitivity+quinone+polymer&hl=en&num=20&as_sdt=0,10",
+      "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C10&engine=google_scholar&hl=en&num=20&q=related%3A1bi_FEAvm-QJ%3Ascholar.google.com%2F",
+      "versions": {
+        "total": 7,
+        "link": "https://scholar.google.com/scholar?cluster=16472812014310242517&hl=en&num=20&as_sdt=0,10",
+        "cluster_id": "16472812014310242517",
+        "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C10&cluster=16472812014310242517&engine=google_scholar&hl=en&num=20"
+      }
+    }
+  }
+]

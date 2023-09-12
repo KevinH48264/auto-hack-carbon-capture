@@ -1,0 +1,105 @@
+Oxygen-Stable Electrochemical CO2 Capture and Concentration with Quinones Using Alcohol Additives
+https://pubs.acs.org/doi/abs/10.1021/jacs.2c04044
+Download Hi-Res ImageDownload to MS-PowerPointCite This:J. Am. Chem. Soc. 2022, 144, 31, 14161-14169
+ADVERTISEMENT
+RETURN TO ISSUEPREVArticleNEXTGet e-AlertscloseOxygen-Stable Electrochemical CO2 Capture and Concentration with Quinones Using Alcohol AdditivesJeffrey M. BarlowJeffrey M. BarlowDepartment of Chemistry, University of California, Irvine, Irvine, California 92697, United StatesMore by Jeffrey M. Barlow and Jenny Y. Yang*Jenny Y. YangDepartment of Chemistry, University of California, Irvine, Irvine, California 92697, United States*Email: j.yang@uci.eduMore by Jenny Y. Yanghttps://orcid.org/0000-0002-9680-8260Cite this: J. Am. Chem. Soc. 2022, 144, 31, 14161–14169Publication Date (Web):July 26, 2022Publication History
+Received15 April 2022Published online26 July 2022Published inissue 10 August 2022https://doi.org/10.1021/jacs.2c04044Copyright © 2022 American Chemical SocietyRequest reuse permissionsArticle Views5185Altmetric7Citations12LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.
+Share
+Add toView InAdd Full Text with ReferenceAdd Description
+ExportRISCitationCitation and abstractCitation and referencesMore Options
+Share onFacebookTwitterWechatLinked InReddit
+Read OnlinePDF (3 MB)
+Get e-AlertscloseSupporting Info (1)»Supporting Information
+Supporting Information
+SUBJECTS:Alcohols,Ethanol,Show MoreGet e-Alertsclose
+Journal of the American Chemical Society
+Get e-AlertsAbstractCurrent methods for CO2 capture and concentration (CCC) are energy intensive due to their reliance on thermal cycles, which are intrinsically Carnot limited in efficiency. In contrast, electrochemically driven CCC (eCCC) can operate with much higher theoretical efficiencies. However, most reported systems are sensitive to O2, precluding their practical use. In order to achieve O2-stable eCCC, we pursued the development of molecular redox carriers with reduction potentials positive of the O2/O2– redox couple. Prior efforts to chemically modify redox carriers to operate at milder potentials resulted in diminished CO2 binding. To overcome these limitations, we used common alcohol additives to anodically shift the reduction potential of a quinone redox carrier, 2,3,5,6-tetrachloro-p-benzoquinone (TCQ), by up to 350 mV, conferring O2 stability. Intermolecular hydrogen-bonding interactions with the dianion and CO2-bound forms of TCQ were correlated to alcohol pKa to identify ethanol as the optimal additive, as it imparts beneficial changes to both the reduction potential and CO2-binding constant, the two key properties of eCCC redox carriers. We demonstrated a full cycle of eCCC in aerobic simulated flue gas using TCQ and ethanol, two commercially available compounds. Based on the system properties, an estimated minimum of 21 kJ/mol is required to concentrate CO2 from 10 to 100% or twice as efficient as state-of-the-art thermal amine capture systems and other reported redox carrier-based systems. Furthermore, this approach of using hydrogen-bond donor additives is general and can be used to tailor the redox properties of other quinone/alcohol combinations for specific CO2-capture applications.Supporting InformationARTICLE SECTIONSJump ToAbstractSupporting InformationThe Supporting Information is available free of charge at https://pubs.acs.org/doi/10.1021/jacs.2c04044.Materials and methods; quinone reduction potentials and CO2-binding constants; cyclic voltammograms; relationship between reduction potential and CO2-binding constants; plot of E(TCQ●–/ TCQ2−)1/2 versus pKa (H2O); electrochemical data; variable scan rate cyclic voltammograms; redox potentials and peak–peak separation; electronic absorption spectra; 13C{1H} NMR spectra; FTIR spectra; normalized electronic absorption spectra; plots of Log(KCO2) for TCQ versus Log([ROH]); plots of F(ΔE1/2) versus Log([ROH]); measured Henry’s law constants; example photos of the bulk electrolysis H-cell; measured and calculated values for an eCCC cycle; calculated moles of free CO2; charge versus time plots; thermodynamic values; and reduction potentials and estimated minimum energetic requirements (PDF)ja2c04044_si_001.pdf (1.8 MB)
+Terms & Conditions
+Most electronic Supporting Information files are available without a subscription to ACS Web Editions. Such files may be downloaded by article for research use (if there is a public use license linked to the relevant article, that license may permit other uses). Permission may be obtained from ACS for other uses through requests via the RightsLink permission system: http://pubs.acs.org/page/copyright/permissions.html.
+Cited By
+Citation StatementsbetaSmart citations by scite.ai include citation statements extracted from the full text of the citing article. The number of the statements may be higher than the number of citations provided by ACS Publications if one paper cites another multiple times or lower if scite has not yet processed some of the citing articles.SupportingSupporting1MentioningMentioning31ContrastingContrasting0Explore this article's citation statements on scite.aipowered by
+This article is cited by 12 publications.Yu Xu, Mingze Zheng, Charles B. Musgrave, III, Lingyu Zhang, William A. Goddard, III, Brandon C. Bukowski, Yayuan Liu. Assessing the Kinetics of Quinone–CO2 Adduct Formation for Electrochemically Mediated Carbon Capture. ACS Sustainable Chemistry & Engineering 2023, 11
+(30)
+, 11333-11341. https://doi.org/10.1021/acssuschemeng.3c03321Kyle M. Diederichsen, Stephen J. A. DeWitt, T. Alan Hatton. Electrochemically Facilitated Transport of CO2 between Gas Diffusion Electrodes in Flat and Hollow Fiber Geometries. ACS ES&T Engineering 2023, 3
+(7)
+, 1001-1012. https://doi.org/10.1021/acsestengg.3c00030Alessandra M. Zito, Lauren E. Clarke, Jeffrey M. Barlow, Daniel Bím, Zisheng Zhang, Katelyn M. Ripley, Clarabella J. Li, Amanda Kummeth, McLain E. Leonard, Anastassia N. Alexandrova, Fikile R. Brushett, Jenny Y. Yang. Electrochemical Carbon Dioxide Capture and Concentration. Chemical Reviews 2023, 123
+(13)
+, 8069-8098. https://doi.org/10.1021/acs.chemrev.2c00681Berk Delibas, Kareesa J. Kron, Daniel E. Cotton, Noemi Salazar, Shaama Mallikarjun Sharada, Jahan M. Dawlaty. Inferring the Energetics of CO2–Aniline Adduct Formation from Vibrational Spectroscopy. The Journal of Physical Chemistry A 2023, 127
+(24)
+, 5162-5170. https://doi.org/10.1021/acs.jpca.3c01406Xiang-Da Zhang, Tianyang Liu, Chang Liu, De-Sheng Zheng, Jian-Mei Huang, Qian-Wen Liu, Wei-Wen Yuan, Yue Yin, Ling-Rui Huang, Ming Xu, Yafei Li, Zhi-Yuan Gu. Asymmetric Low-Frequency Pulsed Strategy Enables Ultralong CO2 Reduction Stability and Controllable Product Selectivity. Journal of the American Chemical Society 2023, 145
+(4)
+, 2195-2206. https://doi.org/10.1021/jacs.2c09501Corina Schimanofsky, Dominik Wielend, Stefanie Kröll, Sabine Lerch, Daniel Werner, Josef M. Gallmetzer, Felix Mayr, Helmut Neugebauer, Mihai Irimia-Vladu, Engelbert Portenkirchner, Thomas S. Hofer, Niyazi Serdar Sariciftci. Direct Electrochemical CO2 Capture Using Substituted Anthraquinones in Homogeneous Solutions: A Joint Experimental and Theoretical Study. The Journal of Physical Chemistry C 2022, 126
+(33)
+, 14138-14154. https://doi.org/10.1021/acs.jpcc.2c03129Mary E.
+Zick, Donovan
+Cho, Jianheng
+Ling, Phillip J.
+Milner. Carbon Capture Beyond Amines: CO
+2
+Sorption at Nucleophilic Oxygen Sites in Materials. ChemNanoMat 2023, 9
+(1)
+https://doi.org/10.1002/cnma.202200436Jiaju
+Fu, Pan
+Li, Yuan
+Lin, Huitong
+Du, Hongzhi
+Liu, Wenlei
+Zhu, Hongqiang
+Ren. Fight for carbon neutrality with state-of-the-art negative carbon emission technologies. Eco-Environment & Health 2022, 1
+(4)
+, 259-279. https://doi.org/10.1016/j.eehl.2022.11.005Kyle M.
+Diederichsen, Rezvan
+Sharifian, Jin Soo
+Kang, Yayuan
+Liu, Seoni
+Kim, Betar M.
+Gallant, David
+Vermaas, T. Alan
+Hatton. Electrochemical methods for carbon dioxide separations. Nature Reviews Methods Primers 2022, 2
+(1)
+https://doi.org/10.1038/s43586-022-00148-0Abdulaziz W.
+Alherz, Haley A.
+Petersen, Nicholas R.
+Singstock, Sohan N.
+Sur, Charles B.
+Musgrave, Oana R.
+Luca. Predictive energetic tuning of quinoid O-nucleophiles for the electrochemical capture of carbon dioxide. Energy Advances 2022, 1
+(11)
+, 900-907. https://doi.org/10.1039/D2YA00114DJeffrey M.
+Barlow, Lauren E.
+Clarke, Zisheng
+Zhang, Daniel
+Bím, Katelyn M.
+Ripley, Alessandra
+Zito, Fikile R.
+Brushett, Anastassia N.
+Alexandrova, Jenny Y.
+Yang. Molecular design of redox carriers for electrochemical CO
+2
+capture and concentration. Chemical Society Reviews 2022, 51
+(20)
+, 8415-8433. https://doi.org/10.1039/D2CS00367HYayuan
+Liu, Éowyn
+Lucas, Ian
+Sullivan, Xing
+Li, Chengxiang
+Xiang. Challenges and opportunities in continuous flow processes for electrochemically mediated carbon capture. iScience 2022, 25
+(10)
+, 105153. https://doi.org/10.1016/j.isci.2022.105153Download PDFback
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+You’ve supercharged your research process with ACS and Mendeley!
+ContinueSTEP 1:Login with ACS IDLogged in SuccessClick to create an ACS IDSTEP 2:Login with MendeleyLogged in SuccessCreate a Mendeley account
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please login with your ACS ID before connecting to your Mendeley account.Login with ACS ID
+MENDELEY PAIRING EXPIREDReconnectYour Mendeley pairing has expired. Please reconnect
+This website uses cookies to improve your user experience. By continuing to use the site, you are accepting our use of cookies. Read the ACS privacy policy.
+CONTINUE
+Recently Viewedclose modalRecently ViewedYou have not visited any articles yet, Please visit some articles to see contents here.
+✓Thanks for sharing!AddToAnyMore…Live Chat

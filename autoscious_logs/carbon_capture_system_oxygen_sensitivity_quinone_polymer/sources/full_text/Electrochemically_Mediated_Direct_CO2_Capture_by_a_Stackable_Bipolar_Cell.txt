@@ -1,0 +1,391 @@
+Electrochemically Mediated Direct CO2 Capture by a Stackable Bipolar Cell
+https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/cssc.202102533
+Opens in a new window Opens an external website Opens an external website in a new window
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising purposes. To learn more, view the following link:
+Privacy Policy
+Skip to Article Content
+Skip to Article Information
+Journals
+ChemistryEurope Open access
+Chemistry—A European Journal
+European Journal of Inorganic Chemistry
+European Journal of Organic Chemistry
+ChemistryOpen Open access
+ChemistrySelect
+Chemistry—Methods Open access
+Analysis & Sensing
+Analytical Science Advances Open access
+Electrochemical Science Advances
+Open access
+Batteries & Supercaps
+ChemBioChem
+ChemCatChem
+ChemElectroChem
+Open access
+ChemMedChem
+ChemPhotoChem
+ChemPhysChem
+ChemPlusChem
+ChemSusChem
+ChemSystemsChem
+About / Get Published
+Diversity, Equity & Inclusion (DE&I)
+Free Guide to Writing
+Open Access Advantage
+Events
+Virtual Events
+EurJIC–Woehler Young Investigator Prize
+Collections
+Society Volumes
+Reviews
+Editors' Choice: Spotlights
+Fellows 2020/21
+Chemistry Nobel Prize 2022
+David Milstein 75
+François Diederich Tribute
+Ulf Diederichsen Tribute
+Open Science
+Noncovalent Interactions
+Perovskite Materials and Devices
+Beyond Lithium-Ion Batteries
+XXII International Symposium on Homogeneous Catalysis
+Quantum Bioinorganic Chemistry (QBIC)
+All Special Collections
+WeChat
+ChemSusChemVolume 15, Issue 6 e202102533
+Research ArticleOpen Access
+Electrochemically Mediated Direct CO2 Capture by a Stackable Bipolar Cell
+Dr. Ali Hemmatifar,
+Dr. Ali Hemmatifar
+orcid.org/0000-0001-6716-3144
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 USASearch for more papers by this authorDr. Jin Soo Kang,
+Dr. Jin Soo Kang
+orcid.org/0000-0001-8894-2630
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 USASearch for more papers by this authorDr. Nil Ozbek,
+Dr. Nil Ozbek
+orcid.org/0000-0002-2814-5442
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 USASearch for more papers by this authorDr. Kai-Jher Tan,
+Dr. Kai-Jher Tan
+orcid.org/0000-0001-7705-3774
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 USASearch for more papers by this authorProf. T. Alan Hatton,
+Corresponding Author
+Prof. T. Alan Hatton
+tahatton@mit.edu
+orcid.org/0000-0002-4558-245X
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 USASearch for more papers by this author
+Dr. Ali Hemmatifar,
+Dr. Ali Hemmatifar
+orcid.org/0000-0001-6716-3144
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 USASearch for more papers by this authorDr. Jin Soo Kang,
+Dr. Jin Soo Kang
+orcid.org/0000-0001-8894-2630
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 USASearch for more papers by this authorDr. Nil Ozbek,
+Dr. Nil Ozbek
+orcid.org/0000-0002-2814-5442
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 USASearch for more papers by this authorDr. Kai-Jher Tan,
+Dr. Kai-Jher Tan
+orcid.org/0000-0001-7705-3774
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 USASearch for more papers by this authorProf. T. Alan Hatton,
+Corresponding Author
+Prof. T. Alan Hatton
+tahatton@mit.edu
+orcid.org/0000-0002-4558-245X
+Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139 USASearch for more papers by this author
+First published: 21 January 2022
+https://doi.org/10.1002/cssc.202102533Citations: 9AboutFiguresReferencesRelatedInformationPDFSectionsPDF
+ToolsRequest permissionExport citationAdd to favoritesTrack citation
+ShareShare
+Give accessShare full text accessClose modalShare full-text accessPlease review our Terms and Conditions of Use and check box below to share full-text version of article.I have read and accept the Wiley Online Library Terms and Conditions of UseShareable LinkUse the link below to share a full-text version of this article with your friends and colleagues. Learn more.Copy URL
+Share a linkShare onEmailFacebookTwitterLinkedInRedditWechat
+Graphical Abstract
+Connecting for saving energy consumption: Poly(vinylanthraquinone)-based system for electrochemically-mediated direct air capture of CO2 is herein developed and investigated. Operation of the cell is systematically explored under various configurations, based on which a stackable bipolar cell with nearly equal distribution of applied voltages throughout eight pairs of electrodes is demonstrated, leading to the energy consumption as low as 113 kJ/mol at atmospheric level of CO2.
+Abstract
+The unprecedented increase in atmospheric CO2 concentration calls for effective carbon capture technologies. With distributed sources contributing to about half of the overall emission, CO2 capture from the atmosphere [direct air capture, (DAC)] is more relevant than ever. Herein, an electrochemically mediated DAC system is reported which utilizes affinity of redox-active quinone moieties towards CO2 molecules, and unlike incumbent chemisorption technologies which require temperature or pH swing, relies solely on the electrochemical voltage for CO2 capture and release. The design and operation of a DAC system is demonstrated with stackable bipolar cells using quinone chemistry. Specifically, poly(vinylanthraquinone) (PVAQ) negative electrode undergoes a two-electron reduction reaction and reversibly complexes with CO2, leading to CO2 sequestration from the feed stream. The subsequent PVAQ oxidation, conversely, results in release of CO2. The performance of both small- and meso-scale cells for DAC are evaluated with feed CO2 concentrations as low as 400 ppm (0.04 %), and energy consumption is demonstrated as low as 113 kJ per mole of CO2 captured. Notably, the bipolar cell construct is modular and expandable, equally suitable for small and large plants. Moving forward, this work presents a viable and highly customizable electrochemical method for DAC.
+Introduction
+The unprecedented increase in the atmospheric concentration of greenhouse gasses (specifically CO2) with its direct effect on global climate patterns is of major concern for the 21st century. Atmospheric CO2 levels which remained constant at around 280 ppm in the preindustrial era, have grown over recent decades to exceed 400 ppm, and the trajectory of ever-increasing anthropogenic CO2 emissions suggests that the CO2 level could be nearly doubled within this century.1, 2 The upper boundary of CO2 concentration to avoid catastrophic climate and environmental changes was estimated to be around 500 ppm by the Intergovernmental Panel on Climate Change,3 and we are approaching this limit at an alarming rate. Therefore, a multitude of technologies have been developed in an effort to mitigate CO2 emissions: from solvent scrubbing4 and oxy-fuel combustion5 to thermal6, 7 or electrochemical methods8, 9 for CO2 capture from the point sources (such as power plants) that are mostly responsible for the rise of atmospheric CO2 concentration.
+A significant contribution (roughly half) to overall CO2 emissions can be attributed to distributed sources, and thus removal of existing CO2 from air (often noted as direct air capture, or DAC) is also essential for ensuring the CO2 levels do not go beyond the targeted range.10 DAC is a potential solution for climate change mitigation, with a number of technologies moving towards commercialization. While the applicability of DAC still requires validation, recent techno-economic assessments suggest reduction in CO2 capture costs when implemented on a large-scale.11 As the CO2 concentration in ambient air is extremely dilute, chemisorbents with stronger affinity for CO2 than typical sorbents used for point-sources have been employed for selective capture via DAC.10, 12 For instance, alkaline hydroxides13-15 or carbonates16, 17 that strongly bind to CO2 enable removal of CO2 in the form of carbonate or bicarbonate, respectively, which then can be decomposed in a subsequent step to give a pure CO2 stream for sequestration and regenerate the sorbent for additional capture of CO2. However, in addition to many of these sorbents being highly basic,10 the thermodynamic benefit of CO2 capture from ambient air comes with an energy penalty in the regeneration step, and an energy-intensive temperature swing is often needed to turn carbonate back to CO2-capture sorbents,10, 15 though there have been reports on emerging techniques to regenerate the sorbents near room temperature.18, 19 Ionic liquids have also been considered as potential sorbents for CO2 capture as they have capabilities to dissolve CO2.20 Significant advances were made through the introduction of functional groups such as amines,21, 22 but low gravimetric capacities of ionic liquids originating from their large molecular weight are challenges to overcome.23 Alternatively, amine-functionalized porous supports (e. g., zeolites, metal-organic frameworks, etc.) show promising performances in DAC, as CO2 can be chemisorbed on amine groups immobilized over large surface areas.24-26 This method is favorable as it requires less energy input for regeneration of sorbents relative to conventional amine scrubbing methods (due to the lack of water in the process), but rapid decrease of CO2-capture capacity in long-term operations is an issue to be addressed.25, 26
+In recent years, there have been various attempts to incorporate electrochemical methods in CO2 capture process.27 Notably, the electrochemical swing methods are distinct from other techniques that require thermal cycling in that they rely solely on the electronic and/or electrochemical behavior of the active materials. These methods typically function by application of voltage (and/or current) to an electrochemical cell with one or more anode-cathode pairs and subsequent CO2 capture/release through pH modulation,28 electric double layer formation,29, 39 or nucleophilicity modulation of capturing moieties.31 Electrochemically-mediated bonding has particular potential for use in DAC, since chemisorption has been proposed to be a more suitable approach than physisorption for the selective and efficient removal of CO2 under low concentrations as well as in the presence of other gases.12, 32-34
+In the current work, we focus on the latter technique, in which electrochemically tunable affinity of moieties (such as quinones) towards CO2 molecules allows cyclic capture and release of CO2. Voskian and Hatton31 recently demonstrated an effective electro-swing adsorption bed system exploiting the ability of quinones to capture CO2 under reducing conditions, and then to release this gas upon oxidation. In their system, it was necessary to directly address each of the cells in a stack individually, which can add complexity to the construction and operation of the beds. We here build upon and expand this work in both system design and operation to demonstrate a capture system with stackable bipolar cells using quinone chemistry for DAC. Specifically, we develop and construct a modular, expandable, and easy-to-fabricate cell stack with bipolar electrodes and demonstrate its applicability in DAC with feed concentrations as low as 400 ppm (0.04 %) and energy consumption as low as 113 kJ mol−1. Notably, our proposed bipolar stack design eliminates the need for external electric interconnects between adjacent cells and ensures simpler implementation. Moreover, compartments other than essential components such as electrodes, electrolyte, and gas diffusion layer could be removed from the inside of the stacked bipolar cell, leading to a substantial improvement in terms of efficient volume utilization (i. e., less space needed for the system setup).
+As shown in Figure 1, we employ the intrinsic affinity of redox-active quinone moieties towards CO2 (in liquid phase) and use their reversible complexation with CO2 molecules to demonstrate successful CO2 capture and release from the gas phase (feed stream) via quinone reduction and oxidation, respectively. Specifically, to this end, we use poly(vinylanthraquinone)-carbon nanotube (PVAQ-CNT) composite cathodes and poly(vinylferrocene)-CNT (PVFc-CNT) composite anodes. In short, upon reduction at the cathode, quinone moieties in PVAQ-CNT (which is immobilized on a conductive substrate and wetted with an ionic liquid electrolyte) undergo two-electron redox reaction and complex with dissolved CO2 molecules. The subsequent CO2 deficit in the electrolyte (liquid phase) is then replenished by diffusive transport of CO2 through the gas-liquid interface (from the gas to the liquid phase) and through the electrolyte from the interface to the quinone sites. Conversely, quinone oxidation results in decomplexation and diffusive release of CO2 from the liquid towards the gas-liquid interface and finally into the gas phase (sweep stream).
+Figure 1Open in figure viewerPowerPoint
+Schematic of the electrochemical cell with a PVAQ-CNT cathode and a PVFc-CNT anode for CO2 separation from a feed stream. The anode and cathode composites are immobilized on a conductive substrate and are wetted with a room temperature ionic liquid. Cathode reduction results in quinone complexation with dissolved CO2 and subsequent uptake of CO2 from the feed stream. Cathode oxidation, on the other hand, results in decomplexation and release of CO2.
+We use a series of these capture modules to construct a novel, easy-to-fabricate, and highly modular bipolar stack (refer to Experimental Section for more information) and develop an integrated CO2 capture/release system for DAC applications using computer-controlled valves and mass flow controllers (MFCs). We perform capture and release studies on a single-pair electrode cell (a proof-of-concept cell) as well as a meso-scale eight-pair bipolar cell, and demonstrate successful CO2 uptake at concentrations as low as 400 ppm, which enables the operation at a narrower voltage window that leads to a small energy consumption. In short, our work lays out a viable electrochemical route for DAC based on the reversible carboxylation of quinone moieties using a modular and highly customizable bipolar cell.
+Experimental Section
+Materials
+Reagents were purchased from Sigma Aldrich and PolySciences and used without further purification. The ionic liquid electrolyte obtained from IoLiTec Inc. was 1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide ([BMIM][TFSI]). The electrode substrate was AvCarb EP40 carbon fiber paper without polytetrafluoroethylene (PTFE) treatment, obtained from Fuel Cell Store.
+PVAQ synthesis
+PVAQ was synthesized via free-radical polymerization with slight modifications from a previously reported procedure.35 2-Vinylanthraquinone (2.13 mmol, 98 %) and 2,2′-azobis(2-methylpropionitrile) (23 μmol, 98 %) were added to a three-necked flask, which was then vacuum purged with nitrogen. 1,2-Dichloroethane (21 mL, anhydrous 99.8 %) was introduced into the vessel, and the dispersion was stirred and heated under reflux at 80 °C for 21.5 h. All components dissolved in the solvent upon heating, but the solution became cloudy again by the end of the reaction. The resulting mixture was allowed to cool to room temperature, after which the solid product was purified via multiple cycles of precipitation with methanol, separation by centrifugation, and re-dissolution in chloroform. The final washed polymer was dried under vacuum at room temperature with a yield of 82 %.
+Electrode preparation and characterization
+The electrodes in the flow cells used in this work were 2×2 cm2, 2.5×15 cm2, and 1×15 cm2 in size. The PVAQ-CNT and PVFc-CNT electrodes were both prepared by drop casting dispersion solutions onto the carbon paper substrates. A stock solution of 40 mg PVAQ and 120 mg multiwalled-CNT was dissolved in 20 mL N-methyl-2-pyrrolidone (NMP) solvent. Similarly, a second stock solution of 80 mg PVFc and 80 mg multiwalled-CNT dissolved in 20 mL NMP was also prepared. The polymers were dispersed with the CNTs via sonication of individual stock solutions for 1 h in an ice bath to generate separate PVAQ-CNT and PVFc-CNT inks. The inks were then drop cast onto their corresponding substrates in increments of 100 μL and dried at 80 °C in a convection oven. Electrodes with various sizes and active material loadings were prepared during this work. Specifics of the size and loadings are given in the following sections accordingly. For the reference, 100 μL cm−2 PVAQ-CNT loading is equivalent to 0.85 μmol PVAQ cm−2 (or 0.8 mg cm−2 of PVAQ-CNT), and 100 μL cm−2 PVFc-CNT loading is equivalent to 1.87 μmol PVFc cm−2 (or 0.8 mg cm−2 of PVFc-CNT).
+Further, electrochemical characterization (cyclic voltammetry, electrochemical impedance spectroscopy) and charge/discharge cycles (chronoamperometry and chronopotentiometry) were performed, respectively, on a PARSTAT 4000A potentiostat (Princeton Applied Research) and a Keithley 2440 sourcemeter (Keithley Instruments). Three-electrode characterizations were performed in a BASi cell with Pt wire and Ag/AgCl (3 M NaCl) counter and reference electrodes, respectively. Experiments were performed with [BMIM][TFSI] electrolyte under both N2 and CO2 (saturated) conditions.
+Stackable bipolar cell design
+The bipolar cell, as shown in Figure 2, uses multiple capture modules with in-series electrical connections. Each module consists of a PVFc-CNT positive electrode, a separator, a PVAQ-CNT negative electrode, and a porous electrically conductive medium (such as titanium foam) serving as an air conduit. Specifically, as depicted in Figure 2a, each module was composed of (1) a pair of 185 μm thick PVAQ-CNT and PVFc-CNT electrodes, (2) a 50 μm thick polypropylene separator (Celgard), (3) a 1 mm thick nickel foam with 60 ppi pore size acting as air conduit, and (4) titanium sheets acting as current collectors. The modules were stacked face to face as in Figure 2b, resulting in a series of capture modules in which the opposite electrodes of adjacent modules are electrically – but not ionically – connected via the air conduit (hence the name bipolar stack), while opposite electrodes in the same module are ionically – but not electronically – connected by the separator. The assembly was then sandwiched between two acrylic endplates and sealed with silicone rubber gaskets and fasteners (McMaster-Carr). We henceforth call this assembly the stackable bipolar cell (or simply, the cell). The design described here, which to some extent is reminiscent of the fuel cell structure, eliminates the need for external electric interconnects between the adjacent modules and ensures simpler implementation while greatly increasing the modularity. The external voltage is simply equally split between electrode pairs, driving the quinone redox reactions and subsequent capture and release of CO2.
+Figure 2Open in figure viewerPowerPoint
+Schematic of (a) a single capture module and (b) a bipolar cell with multiple in-series modules (three pairs shown). (c) Simplified three-dimensional (3D) drawing and (d) photograph of the cell. Modules consist of anode, cathode, separator, and porous conductive air conduit. The stacking provides electrical contact between opposite electrodes of adjacent modules (via the conductive air conduit) and ionic connection between opposite electrodes in the same module (via the separator). By design, the external voltage is then simply equally split between the electrode pairs, driving similar capture dynamics in each module. (e) Schematic diagram of our continuous CO2 capture and release system with MFCs, three-way valves, power source, CO2 sensor, and our electrochemical cell. A power source was used for application of voltage/current to the cell. A digital multimeter with a custom-built eight-channel relay pack was used to monitor the voltage of individual modules.
+Carbon capture and release platform
+The capture and release platform, as shown in the schematic of Figure 2e, was composed of N2 and 5 % CO2 (in nitrogen) feed gas lines (Airgas), three MFCs (Cole-Parmer), computer-controlled three-way valves, a power source, a flow-through CO2 sensor (ExplorIR-W 5 %), and our bipolar cell. We note that the gas mixture of N2 and CO2 was used here for the cell operation due to the oxygen sensitivity of quinones. These experiments were designed specifically to demonstrate the operational behavior of the quinone-based electrochemical CO2 capture system in a stackable bipolar cell configuration, which would let us draw connection between the current finding and practical application (which uses the air as the feed stream) once the oxygen-sensitivity challenge is resolved. The two feed streams were mixed at 125 : 1 ratio to generate a 400 ppm (0.04 %) CO2 stream in N2 carrier gas with total flowrate of 600 mL min−1. This corresponds to flowrates of roughly 4.8 and 595.2 mL min−1, respectively, which are comfortably within the operating range of each MFC. The resulting 400 ppm CO2 stream was then passed through a third MFC, reducing the flowrate to 5 mL min−1 by venting the excess flow directly to the atmosphere; the use of only two MFCs (instead of three), resulted in an exceedingly slow and hard to achieve flowrate for the 5 % CO2 stream. The final 400 ppm feed stream was then passed through the bipolar cell, and, subsequently, the flow-through CO2 detector. The two computer-controlled valves immediately upstream and downstream of the cell stack were used to allow or block the feed through the cell on demand. A power source (Keithley 2440) was used for application of voltage/current to the cell, and a single-channel digital multimeter (Fluke) in conjunction with a custom-built 8-channel relay pack was used to monitor the voltage level of individual modules during the operation of the cell. All components of the setup (MFCs, valves, power source, relays, voltage meter, and CO2 sensor) were connected to and controlled by a computer.
+Results and Discussion
+Electrochemically mediated CO2 separation
+Quinone moieties, and thus PVAQ polymers, undergo two-electron charge transfer upon oxidation and reduction in aprotic electrolytes and can reversibly complex with electrophiles such as CO2 (but not N2) during the process.31, 36, 37 This reversible carboxylation of PVAQ-CNT electrodes results in great selectivity towards CO2, and, once paired with counter electrodes such as PVFc-CNT to balance the charge, can be a viable solution for carbon capture applications. Further, the electrolyte can play a significant role in the operation of the cell. Specifically, due to flow of gas over the wetted electrodes, electrolyte evaporation can be a major concern. Aqueous electrolytes require frequent electrolyte replenishment, and, moreover, tend to dissolve quinones, resulting in quick capacity fade. Room temperature ionic liquids (RTILs), however, have negligible vapor pressure with minimal evaporation and eliminate the need for electrolyte replenishment. In this work, [BMIM][TFSI] electrolyte is used due to its low vapor pressure and good CO2 solubility (around 4 g L−1).38
+Figure 3 shows cyclic voltammograms (CVs) of individual electrodes in a three-electrode setup (BASi) with Pt wire counter electrode and a leakless Ag/AgCl reference (eDAQ) in [BMIM][TFSI] electrolyte at a slow scan rate of 5 mV s−1. As evident from the CV curve, the PVAQ-CNT cathode in CO2-deprived electrolyte (under N2 atmosphere) has two distinct reduction peaks corresponding to two-step activation of quinone centers in the absence of CO2. In a CO2-rich environment, on the other hand, the two peaks merge into a single peak close to the first reduction potential, which is a direct indication of reversible complexation of quinone centers with dissolved CO2, with a redox potential of around −0.7 V (measured as the average of reduction and oxidation potentials). Together with the PVFc-CNT electrode, the electrochemical voltage window (measured as the distance between average redox potential of PVAQ-CNT and PVFc-CNT electrodes) is approximately 1.1 V. As a result, in a cell with a PVFc-CNT anode and a PVAQ-CNT cathode, one can expect complete activation of both quinone and ferrocene moieties theoretically at voltages above 1.1 V, although a larger voltage window would be needed to overcome the kinetic barriers.
+Figure 3Open in figure viewerPowerPoint
+CVs of PVAQ-CNT and PVFc-CNT electrodes in three-electrode setup (Pt counter and Ag/AgCl reference electrode) in [BMIM][TFSI] electrolyte at 5 mV s−1 scan rate. Notably, PVAQ-CNT shows two distinct quinone redox peaks in the absence of CO2 (under N2), while the two peaks merge in a CO2-rich environment. In the cathodic scan, the second reduction peak (located at a more negative potential) undergoes positive potential shift by the complexation between quinone and dissolved CO2; formation of carbonate at one of the carbonyl groups makes the quinone aromatic ring relatively neutral, leading to a facilitated reduction of second carbonyl group that leads to nucleophilic addition of another CO2 [forming quinone bis(carbonate)]. In the anodic scan, one peak appears under CO2 at a relatively positive potential compared to those observed under N2. This is attributable to the larger driving force required for oxidation of quinone bis(carbonate) than that needed for quinone dianion oxidation.37
+Capture and release cycles: proof of concept
+Before study of a multi-pair electrode cell, in this section, we demonstrate capture and release cycles in a small-scale cell with a single electrode pair. The cell had a bed volume – the empty space within the cell through which the gas flow and contact occurs – of 1.5 mL with 2×2 cm2 electrodes, and the feed stream was 400 ppm CO2 in N2 carrier gas. The electrode loadings were 0.3 μmol cm−2 PVAQ-CNT and 0.6 μmol cm−2 PVFc-CNT. In the following, we first demonstrate the capture and release of atmospheric-level CO2 (400 ppm) in a three-step cycle (capture, release at no-flow, and flush) and later show continuous cyclic operation of the cell under quasi-steady-state condition.
+Figure 4a shows effluent CO2 concentration vs number of bed volumes (i. e., total volume gas introduced to the cell relative to the actual bed volume available for flow) for the cell operated in a capture-release-flush sequence. Prior to start of the experiment, a constant flow of N2 at 5 mL min−1 was fed to the cell for 1 h. The feed gas was then immediately switched to 400 ppm CO2 (at
+) and a voltage of 1.5 V was applied across the cell. The capture-release-flush sequence is as follows: (1) capture step upon application of 1.5 V to the cell and under 5 mL min−1 flowrate, (2) release step at 0 V cell voltage and stopped flow, and finally (3) flush step under the flow of 400 ppm CO2 with 5 mL min−1 flowrate at the same cell voltage (0 V). A separate control experiment under the same conditions but at 0 V throughout was also performed. The control is used to reveal the mixing and gas dispersion effects in the cell in the absence of electrochemical CO2 uptake. As evident from Figure 4a, the breakthrough curve for the control experiment shows an initial region with zero effluent CO2 concentration, followed by a sharp increase in the concentration. The two regions correspond respectively to (1) the delay due to gas detector position and (2) convective transport and dispersion of the gas inside the cell. The capture/release experiment shows a similar breakthrough profile, but with two important differences: complete CO2 removal up to 10 bed volumes, and slower effluent concentration recovery compared to the control experiment. The latter is partly due to dispersion of gas and partly to electrochemical adsorption of CO2 into the cell. The area between the two breakthrough curves is indicative of the amount of CO2 captured, which is approximately equal to the released amount during the flush step, as expected.
+Figure 4Open in figure viewerPowerPoint
+(a) Effluent CO2 concentration vs bed volume for capture-release-flush cell operation as well as the control run. The breakthrough curves during the capture step show complete CO2 removal of about 10 bed volumes with subsequent concentration recovery that is slower compared to the control experiment. (b) Cyclic operation of a fresh cell with 1.5 and 0 V during capture and release steps, respectively. Dynamic steady state is achieved after six cycles. (c) Captured and release amounts of CO2 as well as Coulombic efficiency during each cycle.
+Figure 4b shows cyclic operation of a fresh cell for six complete cycles at 1.5 and 0 V during the capture and release steps, respectively, each for a duration of around 800 s (45 bed volumes). The results show successful capture and release of CO2 at the low concentration of 400 ppm, even in presence of N2 gas in 2500-fold abundance. The cell achieves near-complete removal of CO2 in the first cycle but only partial release at 0 V, with the captured amount being significantly larger than the released amount (refer to Figure 4c). While these effects are partially due to mass transfer limitations within the electrolyte and across the gas-liquid interface, and have been attributed to a tradeoff between capacity and throughput of the system in other flow studies,39, 40 the primary reason is the physical solubility of CO2 in the electrolyte in equilibrium with the sweep stream; when the electrodes are reactivated for adsorption, this residual CO2 immediately complexes with the quinones, reducing their availability for capture of CO2 from the fresh feed stream. A simple modeling analysis of these issues is given in a later section, where it is shown that the capacity is directly impacted by the amount of CO2 captured by the activated quinones relative to that physically dissolved in the electrolyte. After a number of cycles, the cell reaches dynamic steady state in which subsequent cycles become progressively similar, as is evident from Figure 4c, where CO2 uptake and released amounts converge. The amounts (in moles) are calculated by integrating the area bounded by the CO2 concentration profile and 400 ppm line (inlet concentration) using the relation below:
+(1)
+with
+,
+,
+, and
+being the flowrate, bed volume, universal gas constant, and temperature (20 °C), respectively,
+and
+are time and number of bed volumes, and
+is CO2 partial pressure in the feed stream which is related to the ppm value
+as in
+with
+being the atmospheric pressure. Lastly, Figure 4c also shows the Coulombic efficiency of up to around 92 % (defined as charge transferred during charging over that during discharging), suggesting effective direct air capture using quinone chemistry and the fabricated cell. The low efficiency in the first cycle is because a part of the CO2 released by the quinones remains physically in the electrolyte solution and does not transport to the sweep stream.
+Voltage distribution and capture dynamics
+We here discuss the effectiveness of the bipolar stack in splitting the voltage equally across multiple electrode pairs and the associated mass transport limitations. Figure 5a and b show an example of cell and module voltages, current, and effluent concentration profiles for a bipolar cell with three electrode pairs (denoted as modules 1 to 3) with 400 ppm influent CO2 and 5 mL min−1 flowrate. The cell had active material loading density similar to that in the previous section, but with larger electrodes (2.5×15 cm) and bed volume (12 mL). The experiment consisted of a capture step at 3.6 V (1.2 V across each module) for a duration of 2 h, followed by a series of release and flush steps at 3, 2.4, 1.8, 1.2, 0.6, and 0 V levels. Release and flush steps were performed under no-flow and 5 mL min−1 flowrate conditions, respectively. Results in Figure 5a, as expected, show equal voltage split across the three modules, with positive current during capture and negative current during subsequent release steps, confirming the effectiveness of our bipolar stack design. The results in Figure 5b show almost complete CO2 removal during the capture step and step-wise release during the subsequent flush steps.
+Figure 5Open in figure viewerPowerPoint
+(a) Voltage of the cell and individual modules as well as the measured current and (b) effluent concentration during capture at 3.6 V and stepwise release and flush at 3, 2.4, 1.8, 1.2, 0.6, and 0 V. Results show near-perfect voltage split across the modules. (c) Cumulative captured amount vs bed volume reveals an initial advection-limited region followed by a diffusion-limited region. (d) Cumulative released CO2 vs electrochemical voltage window of each module.
+The capture dynamics during charging at 3.6 V are presented in Figure 5c, where we compare the cumulative captured amount (in μmol of CO2) and the theoretical value of complete CO2 removal (dashed line). The captured amount
+is calculated as
+with
+and
+being inlet and outlet CO2 molar concentrations, respectively, where the molar concentration
+is related to ppm value
+as in
+The results show two distinct regions: (1) an initial advection-limited region up to about 30 bed volumes with complete CO2 removal, followed by (2) a diffusion-limited region where capture rate progressively slows down, possibly due to mass transfer limitations within the electrolyte and/or across the gas-liquid interface as the electrolyte equilibrates with the gas stream. Lastly, Figure 5d summarizes the cumulative CO2 amount released vs electrochemical voltage window of each module (
+), defined for our 3-pair electrode cell as
+. The data suggest a sigmoidal trend for release of CO2 vs the module voltage window, where
+results in less than 20 % CO2 release and
+has diminishing effect on the released amount. This is in accordance with Nernst equation predictions with an around 1.1 V electrochemical voltage for the PVAQ-CNT / PVFc-CNT cell discussed earlier and suggests the optimized operation to be at (or slightly larger than) the electrode pair electrochemical voltage (e. g., 1.2 V). Voltage windows much wider than 1.3 V are not favorable, as they increase the energy consumption without appreciable increase in the system throughput. Additionally, as shown by Voskian and Hatton,31 lower energetics can be attained with working capacities (i. e., released amount vs maximum capacity) of about 50 %–60 %, corresponding here to a cell voltage of about 0.8 V.
+Capture and release with bipolar stack
+In this section, we discuss direct air capture (and release) and the associated energy consumption via the meso-scale eight-pair cell discussed in the Experimental Section. The cell had about 14 mL bed volume with 1×15 cm2 electrodes with loadings of 0.5 μmol cm−2 (PVFc-CNT) and 0.25 μmol cm−2 (PVAQ-CNT), operating at a 5 mL min−1 flowrate. Importantly, inspired by the observations made in the previous section and in an attempt to minimize the overall energy consumption, we limit the operating voltage window of each module to between 1.2 V (for capture) to 0.6 V (for release) and thus operate the cell in 4.8 to 9.6 V range. Additionally, each capture and release cycle consisted of an initial constant current step (±0.5 mA) followed by operation for a period with constant voltage across the cell. The current is limited to prevent excessive resistive (Coulombic) loss during the voltage switch. Figures 6a and b show voltages of individual modules, total current, and the effluent CO2 concentration for seven consecutive cycles. Results show roughly similar voltage profiles for the eight modules (0.6 to 1.2 V) in the bipolar stack. The narrower flow channel (compared to 2.5×15 cm2 in the previous section) enabled a more efficient capture of CO2 as shown in Figure S1 (Supporting Information). Additionally, similar to Figure 4b, the effluent concentration profile reaches a dynamic steady state, resulting in stable capture and release after 6–7 cycles.
+Figure 6Open in figure viewerPowerPoint
+(a) Voltage of eight individual modules and the corresponding cell voltage as well as (b) effluent CO2 concentration for a multi-pair bipolar cell with 14 mL bed volume. Concentration profile reaches dynamic steady state with stable capture and release after 6–7 cycles. (c) Specific energy consumption (energy consumption per moles captured) for each cycle. Results show a clear tradeoff between capture rate and energy efficiency.
+The corresponding specific energy consumption (kJ mol−1 CO2) shown in Figure 6c continuously decreases: from 900 kJ mol−1 in the first cycle down to around 100 kJ mol−1 during the steady state operation of the cell. The values here are calculated as the sum of electrical and pneumatic work over the course of a single cycle; we note, however, that the pressure drop across the cell at 5 mL min−1 flowrate is on the order of tens of Pa, resulting in negligible pneumatic energy consumption. The trend in Figure 6c clearly shows a tradeoff between capture rate and energy efficiency: the first cycle demonstrates highest capture amount (and highest capture rate) at the expense of lowest energy efficiency (≈900 kJ mol−1), while subsequent cycles with lower capture amount require progressively less energy down to only around 100 kJ mol−1. This level of energy consumption matches that in the state-of-the-art DAC systems, with reported values in the range of 100–150 kJ mol−1. That said, we note that the interplay of the two metrics together, and not just the energy consumption, defines the figures of merit relevant to practical DAC operation and plant design. We note below that the physical solubility of the CO2 in the electrolyte plays an important role in dictating the overall performance of the system for any given quinone loading.
+Notes on operation of a full-size system
+In this work, we focused on capture of CO2 from a feed with release to a sweep stream at the same CO2 partial pressure
+(corresponding to a concentration of 400 ppm) to demonstrate the cyclic operation under flow conditions. In practice, however, it would be desirable to recover the CO2 as a pure or concentrated stream, either through desorption of the CO2 under slight vacuum – which would require subsequent costly compression – or preferably, desorption into a sweep stream of pure CO2 at elevated pressure
+(where
+). Such operation would be comprised of four main steps, as indicated in Figure 7a to d: (a) CO2 is taken up by reduced quinones until breakthrough; (b) air in the column is purged, displaced by pure CO2 at the desired product pressure
+; (c) quinones are oxidized to release CO2 into the pure gas sweep stream; (d) the pure CO2 in the column is displaced by the feed stream to be treated; this displaced CO2 is part of the final product. Once the column has been filled with fresh air, the quinones are again reduced, and CO2 is adsorbed. Figure 7e indicates that the CO2 is adsorbed from the stagnant air filling the column before the next cycle is begun, but this step can be implicit in the first step of the next cycle. The nominal concentrations and flow rates of the effluent gas during the different stages are also shown.
+Figure 7Open in figure viewerPowerPoint
+Schematic of an alternative swing process with capture from an air feed stream with CO2 partial pressure
+and desorption into a sweep stream of pure CO2 at elevated pressure
+(with
+). The corresponding effluent CO2 partial pressure, flowrate, and cell voltage during steps (a) to (e) is also shown.
+The overall efficiency of the process relies on adsorption and desorption rates under different partial pressures, which highlights the importance of electrolyte selection, and specifically, the role of CO2 solubility in the electrolyte on the performance of the process. We here demonstrate the effect of CO2 solubility on both the working capacity and the transport dynamics. To this end, we consider the simple system show in Figure 8, which captures many of the salient features of the adsorption swing process. For simplicity, we assume a constant feed gas partial pressure
+, quinone concentration
+, and interfacial concentration of the dissolved gas
+(with
+being the Henry's constant). The dissolved gas in the electrolyte diffuses into the electrode and reacts rapidly with quinone moieties at a reaction front that segregates the electrode into two regions: one with dissolved gas and fully-reacted quinones, and the other without dissolved gas and unreacted quinones (
+initial concentration). As the gas reaches the reaction front the quinone is consumed and the front moves further away from the interface. Under these conditions, with the quinone concentration significantly higher than the gas concentration, the reaction front moves sufficiently slowly that the pseudo-steady state assumption can be justified. The position of the reaction front
+is obtained by equating the rate of quinone consumption to the flux of dissolved gas to the front. The defining equations are:
+(2)
+(3)
+Figure 8Open in figure viewerPowerPoint
+Schematic showing concentration profiles of dissolved CO2 based on a simplified quasi-steady state model during capture step (left) at partial pressure
+and release step (right) at higher partial pressure
+.
+The solution to this set of equations is simply
+and
+. The molar flux of CO2 is thus
+. Upon desorption, on the other hand, quinones release their full load of CO2 (i. e.,
+), and the CO2 remaining in the electrolyte equilibrates at
+, as the electrolyte equilibrates with the sweep stream with partial pressure
+(
+). In the next cycle, this dissolved CO2 complexes fully with the reduced quinones such that the available quinone for uptake of the feed CO2 is now at concentration
+, which is lower than the initial amount
+. The total capacity for CO2 adsorption is given by sum of the amount dissolved in the electrolyte and the amount that complexes with the available quinone, i. e.,
+(4)
+This is the maximum working capacity, which places a constraint on the quinone concentration required for a desired operation at partial pressures:
+This result clearly shows that, for a given partial pressure swing, electrolytes having a higher capacity for CO2 (lower
+) require higher quinone loading. Thus, from an overall utilization perspective, a lower solubility in the electrolyte is desired. On the other hand, low solubilities have an adverse effect on transport rates, as the flux during the subsequent capture step is now given by
+and the capture time (time to fully load the electrode of thickness
+) is approximately
+.
+To gain insight into desorption dynamics, we consider the development of the CO2 concentration profile by assuming an initially uniform CO2 concentration of
+and purely diffusive CO2 transport through the electrode towards the interface, which is at concentration of
+. The first-order (long-time) solution can be written as:
+(5)
+This solution, although simplified, indicates that for a given feed partial pressure
+, with recovery into a sweep stream at
+, the important parameters governing both the working capacity and the fluxes are
+and
+, i. e., the quinone concentration (loading) relative to the CO2 concentration in the electrolyte at equilibrium and the ratio of the product partial pressure relative to that in the feed. Lastly, we note that while this derivation has been for an idealized system, and it has been assumed that equilibrium is reached in both the adsorption and desorption steps, the general conclusions regarding the impact of the governing parameters identified here can be expected to hold under more realistic operating conditions with smaller working capacities under non-equilibrium conditions.
+Conclusions
+Carbon capture is crucial for mitigation of the unprecedented rise in the atmospheric concentration of anthropogenic CO2. With the vast scale of distributed emission sources, this work focuses on direct air capture (DAC), as a viable solution for carbon removal. We demonstrated an electrochemically mediated DAC system with modular and expandable bipolar cell structure that utilizes redox activity of quinone moieties for effective capture and release of CO2. Our electrochemical cell consisted of a series of PVAQ-CNT cathodes, poly(vinylferrocene)-CNT (PVFc-CNT) anodes, 1-butyl-3-methylimidazolium bis(trifluoromethylsulfonyl)imide ([BMIM][TFSI]) ionic liquid electrolytes and separators (collectively, a module) that were electrically in-series. This led to a significant decrease in required volume for the system implementation, paving a way for potential application of the presented electrochemical technique at a large scale. Detailed investigation on the characteristics of the system depending on the operation voltage was carried out, which led to the successful demonstration of capture from (and release to) an extremely dilute stream of 400 ppm (0.04 %) CO2 via a meso-scale eight-pair bipolar cell; specific energy consumption as low as 113 kJ per mole of CO2 at the optimized condition attests to the promise for electrochemically mediated DAC. We note that electrochemical techniques, unlike incumbent technologies that often require temperature and/or pH swings, rely entirely on simple voltage modulation, eliminating the need for use of chemical agents and addressing subsequent waste problems. Although a rigorous technoeconomic analysis and technological breakthroughs (such as addressing oxygen sensitivity of quinones and improving electrode architecture for enhanced uptake rates) are yet needed for actual applications, the abovementioned advantages of the electrochemical process presented in this study suggest that this technique is a promising option for mitigation of CO2.
+Acknowledgements
+This work was supported by Royal Dutch Shell. The authors greatly acknowledge Satoshi Morikawa and Dr. Hyowon Seo for their valuable assistance with initial investigation into the quinone polymer synthesis.
+Conflict of interest
+The authors declare no conflict of interest.
+Open Research
+Data Availability Statement
+The data that support the findings of this study are available from the corresponding author upon reasonable request.
+Supporting Information
+As a service to our authors and readers, this journal provides supporting information supplied by the authors. Such materials are peer reviewed and may be re-organized for online delivery, but are not copy-edited or typeset. Technical support issues arising from supporting information (other than missing files) should be addressed to the authors.
+Filename
+Description
+cssc202102533-sup-0001-misc_information.pdf218.5 KB
+Supporting Information
+Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.
+References
+1R. Alley, T. Berntsen, N. L. Bindoff, Z. Chen, A. Chidthaisong, P. Friedlingstein, J. Gregory, G. Hegerl, M. Heimann, B. Hewitson, B. Hoskins, F. Joos, J. Jouzel, V. Kattsov, U. Lohmann, M. Manning, T. Matsuno, M. Molina, N. Nicholls, J. Overpeck, D. Qin, G. Raga, V. Ramaswamy, J. Ren, M. Rusticucci, S. Solomon, R. Somerville, T. F. Stocker, P. Stott, R. J. Stouffer, P. Whetton, R. A. Wood, D. Wratt, J. Arblaster, G. Brasseur, J. H. Christensen, K. Denman, D. W. Fahey, P. Forster, E. Jansen, P. D. Jones, R. Knutti, H. Le Treut, P. Lemke, G. Meehl, P. Mote, D. Randall, D. A. Stone, K. E. Trenberth, J. Willebrand, F. Zwiers, Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change. Geneva, Switzerland, 2007. https://www.ipcc.ch/report/ar4/wg1/ https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-spm-1.pdf.
+2X. Shi, H. Xiao, H. Azarabadi, J. Song, X. Wu, X. Chen, K. S. Lackner, Angew. Chem. Int. Ed. 2020,
+59,
+6984–7006;
+Angew. Chem. 2020,
+132,
+7048–7072.
+3R. K. Pachauri, M. R. Allen, V. R. Barros, J. Broome, W. Cramer, R. Christ, J. A. Church, L. Clarke, Q. Dahe, P. Dasgupta, N. K. Dubash, O. Edenhofer, I. Elgizouli, C. B. Field, P. Forster, P. Friedlingstein, J. Fuglestvedt, L. Gomez-Echeverri, S. Hallegatte, G. Hegerl, M. Howden, K. Jiang, B. J. Cisneros, V. Kattsov, H. Lee, K. J. Mach, J. Marotzke, M. D. Mastrandrea, L. Meyer, J. Minx, Y. Mulugetta, K. O'Brien, M. Oppenheimer, J. J. Pereira, R. Pichs-Madruga, G.-K. Plattnerm H.-O. Pörtner, S. B. Power, B. Preston, N. H. Ravindranath, A. Reisinger, K. Riahi, M. Rusticucci, R. Scholes, K. Seyboth, Y. Sokona, R. Stavins, T. F. Stocker, P. Tschakert, D. van Vuuren, J.-P. van Ypersele, R. K. Pachauri, L. A. Meyer, Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II, and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Geneva, Switzerland, 2014.https://www.ipcc.ch/report/ar5/syr/ https://www.ipcc.ch/site/assets/uploads/2018/02/SYR AR5 FINAL full.pdf.
+4G. T. Rochelle, Science 2009,
+325,
+1652–1654.
+5F. L. Horn, M. Steinberg, Fuel 1982,
+61,
+415–422.
+6T. Harada, C. Halliday, A. Jamal, T. A. Hatton, J. Mater. Chem. A 2019,
+7,
+21827–21834.
+7C. Halliday, T. Harada, T. A. Hatton, Ind. Eng. Chem. Res. 2020,
+59,
+8937–8945.
+8Y. Liu, H. Z. Ye, K. M. Diederichsen, T. Van Voorhis, T. A. Hatton, Nat. Commun. 2020,
+11,
+2278.
+9M. Wang, M. Rahimi, A. Kumar, S. Hariharan, W. Choi, T. A. Hatton, Appl. Energy 2019,
+255, 113879.
+10E. S. Sanz-Pérez, C. R. Murdock, S. A. Didas, C. W. Jones, Chem. Rev. 2016,
+116,
+11840–11876.
+11M. Fasihi, O. Efimova, C. Breyer, J. Cleaner Prod. 2019,
+224,
+957–980.
+12C. W. Jones, Annu. Rev. Chem. Biomol. Eng. 2011,
+2,
+31–52.
+13K. Lackner, H.-J. Ziock, P. Grimes, Carbon Dioxide Extraction from Air: Is It an Option? 24th Annual Technical Conference on Coal Utilization & Fuel Systems. Clearwater, Florida, 1999. https://www.osti.gov/biblio/770509-carbon-dioxide-extraction-from-air-optionhttps://www.osti.gov/servlets/purl/770509.
+14F. Zeman, Environ. Sci. Technol. 2007,
+41,
+7558–7563.
+15D. W. Keith, G. Holmes, D. St. Angelo, K. Heidel, Joule 2018,
+2,
+1573–1594.
+16V. Nikulshina, N. Ayesa, M. E. Gálvez, A. Steinfeld, Chem. Eng. J. 2008,
+140,
+62–70.
+17G. Hu, N. J. Nicholas, K. H. Smith, K. A. Mumford, S. E. Kentish, G. W. Stevens, Int. J. Greenhouse Gas Control 2016,
+53,
+28–40.
+18G. H. Rau, Environ. Sci. Technol. 2008,
+42,
+8935–8940.
+19C. Zhou, J. Ni, H. Chen, X. Guan, Sustain. Energy Fuels 2021,
+5,
+4355–4367.
+20L. A. Blanchard, D. Hancu, E. J. Beckman, J. F. Brennecke, Nature 1999,
+398,
+28–29.
+21Z. Xue, Z. Zhang, J. Han, Y. Chen, T. Mu, Int. J. Greenhouse Gas Control 2011,
+5,
+628–633.
+22G. Cui, J. Wang, S. Zhang, Chem. Soc. Rev. 2016,
+45,
+4307–4339.
+23S. Zeng, X. Zhang, L. Bai, X. Zhang, H. Wang, J. Wang, D. Bao, M. Li, X. Liu, S. Zhang, Chem. Rev. 2017,
+117,
+9625–9673.
+24X. Xu, C. Song, J. M. Andresen, B. G. Miller, A. W. Scaroni, Energy Fuels 2002,
+16,
+1463–1469.
+25W. R. Lee, S. Y. Hwang, D. W. Ryu, K. S. Lim, S. S. Han, D. Moon, J. Choi, C. S. Hong, Energy Environ. Sci. 2014,
+7,
+744–751.
+26T. Gelles, S. Lawson, A. A. Rownaghi, F. Rezaei, Adsorption 2020,
+26,
+5–50.
+27J. S. Kang, S. Kim, T. A. Hatton, Curr. Opin. Green Sustain. Chem. 2021,
+31, 100504.
+28S. Jin, M. Wu, R. G. Gordon, M. J. Aziz, D. G. Kwabi, Energy Environ. Sci. 2020,
+13,
+3706–3722.
+29L. Legrand, O. Schaetzle, R. C. F. de Kler, H. V. M. Hamelers, Environ. Sci. Technol. 2018,
+52,
+9478–9485.
+30S. Zhu, J. Li, A. Toth, K. Landskron, ACS Appl. Energ. Mater. 2019,
+2,
+7449–7456.
+31S. Voskian, T. A. Hatton, Energy Environ. Sci. 2019,
+12,
+3530–3547.
+32S. A. Didas, S. Choi, W. Chaikittisilp, C. W. Jones, Acc. Chem. Res. 2015,
+48,
+2680–2687.
+33P. Bollini, S. A. Didas, C. W. Jones, J. Mater. Chem. 2011,
+21,
+15100–15120.
+34D. G. Madden, H. S. Scott, A. Kumar, K.-J. Chen, R. Sanii, A. Bajpai, M. Lusi, T. Curtin, J. J. Perry, M. J. Zaworotko, Philos. Trans. R. Soc. London Ser. A 2017,
+375, 20160025.
+35W. Choi, D. Harada, K. Oyaizu, H. Nishide, J. Am. Chem. Soc. 2011,
+133,
+19839–19843.
+36M. B. Mizen, M. S. Wrighton, J. Electrochem. Soc. 1989,
+136,
+941–946.
+37F. Simeon, M. C. Stern, K. M. Diederichsen, Y. Liu, H. J. Herzog, T. A. Hatton, J. Phys. Chem. C 2022,
+126,
+1389–1399.
+38I. Bahadur, K. Osman, C. Coquelet, P. Naidoo, D. Ramjugernath, J. Phys. Chem. B 2015,
+119,
+1503–1514.
+39A. Hemmatifar, J. W. Palko, M. Stadermann, J. G. Santiago, Water Res. 2016,
+104,
+303–311.
+40A. Ramachandran, A. Hemmatifar, S. A. Hawks, M. Stadermann, J. G. Santiago, Water Res. 2018,
+140,
+323–334.
+Citing Literature
+Volume15, Issue6March 22, 2022e202102533
+FiguresReferencesRelatedInformation
+Close Figure ViewerReturn to FigurePrevious FigureNext FigureCaption
+Download PDF
+Log in to Wiley Online Library
+Email or Customer ID
+Password
+Forgot password?
+NEW USER >
+INSTITUTIONAL LOGIN >
+Change Password
+Old Password
+New Password
+Too Short
+Weak
+Medium
+Strong
+Very Strong
+Too Long
+Password Changed Successfully
+Your password has been changed
+Create a new account
+Email
+Returning user
+Forgot your password?
+Enter your email address below.
+Email
+Please check your email for instructions on resetting your password.
+If you do not receive an email within 10 minutes, your email address may not be registered,
+and you may need to create a new Wiley Online Library account.
+Request Username
+Can't sign in? Forgot your username?
+Enter your email address below and we will send you your username
+Email
+Close
+If the address matches an existing account you will receive an email with instructions to retrieve your username
+✓Thanks for sharing!AddToAnyMore…

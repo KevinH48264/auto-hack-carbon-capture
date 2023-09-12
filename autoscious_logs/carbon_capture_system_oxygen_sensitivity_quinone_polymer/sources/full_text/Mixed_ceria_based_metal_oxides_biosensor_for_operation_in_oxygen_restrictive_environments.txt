@@ -1,0 +1,403 @@
+Mixed ceria-based metal oxides biosensor for operation in oxygen restrictive environments
+https://pubs.acs.org/doi/abs/10.1021/ac800808a
+Download Hi-Res ImageDownload to MS-PowerPointCite This:Anal. Chem. 2008, 80, 19, 7266-7274
+ADVERTISEMENT
+RETURN TO ISSUEPREVArticleNEXTGet e-AlertscloseMixed Ceria-Based Metal Oxides Biosensor for Operation in Oxygen Restrictive EnvironmentsJohn Njagi, Cristina Ispas, and Silvana Andreescu*View Author Information Department of Chemistry and Biomolecular Science, Clarkson University Potsdam, New York 13699-5810* Corresponding author. Phone: 1 315 268 2394. Fax: 1 315 268 6610. E-mail: eandrees@clarkson.eduCite this: Anal. Chem. 2008, 80, 19, 7266–7274Publication Date (Web):August 23, 2008Publication History
+Received22 April 2008Accepted21 July 2008Published online23 August 2008Published inissue 1 October 2008https://doi.org/10.1021/ac800808aCopyright © 2008 American Chemical SocietyRequest reuse permissionsArticle Views2133Altmetric-Citations67LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.
+Share
+Add toView InAdd Full Text with ReferenceAdd Description
+ExportRISCitationCitation and abstractCitation and referencesMore Options
+Share onFacebookTwitterWechatLinked InReddit
+Read OnlinePDF (773 KB)
+Get e-AlertscloseSUBJECTS:Biotechnology,Oxides,Oxygen,Show MoreGet e-Alertsclose
+Analytical Chemistry
+Get e-AlertsAbstractThe unique catalytic, electrochemical, and oxygen storage properties of ceria and mixed ceria/titania hybrid composites were used to fabricate a new type of electrochemical enzyme biosensor. These materials provided increased analytical performance and possibilities for operation in oxygen-free conditions of an oxidase enzyme biosensor using tyrosinase as a model example. The investigation of the enzymatic reaction in the presence and absence of oxygen was first carried out using cyclic voltammetry. The results were used to identify the role of each metal oxide in the immobilization matrix and fabricate a simple amperometric tyrosinase biosensor for the detection of phenol and dopamine. The biosensor was optimized and characterized with respect to response time, detection limit, linear concentration range, sensitivity, and kinetic parameters. The detection limit for phenol was in the nanomolar range, with a detection limit of 9.0 × 10−9 M and a sensitivity of 86 mA M−1 in the presence of oxygen and of 5.6 × 10−9 M and a sensitivity of 65 mA M−1 in the absence of oxygen. The optimized biosensor also showed selective determination of the neurotransmitter dopamine with a detection limit of 3.4 × 10−8 M and a sensitivity of 14.9 mA M−1 in the presence of oxygen and of 4.2 × 10−8 M and 14.8 mA M−1 in the absence of oxygen. This strategy shows promise for increasing the sensitivity of oxidase enzyme sensors and provides opportunities for operation in oxygen limited conditions. It can also be extended for the development of other enzyme biosensors.Cited By
+Citation StatementsbetaSmart citations by scite.ai include citation statements extracted from the full text of the citing article. The number of the statements may be higher than the number of citations provided by ACS Publications if one paper cites another multiple times or lower if scite has not yet processed some of the citing articles.SupportingSupporting0MentioningMentioning60ContrastingContrasting0Explore this article's citation statements on scite.aipowered by
+This article is cited by 67 publications.Romi Singh Maharjan, Ajay Vikram Singh, Javaria Hanif, Daniel Rosenkranz, Rashad Haidar, Amruta Shelar, Shubham Pratap Singh, Aditya Dey, Rajendra Patil, Paolo Zamboni, Peter Laux, Andreas Luch. Investigation of the Associations between a Nanomaterial’s Microrheology and Toxicology. ACS Omega 2022, 7
+(16)
+, 13985-13997. https://doi.org/10.1021/acsomega.2c00472Sijin Park, Juil Hwang, Hee-Jae Jeon, Woo Ri Bae, In-Kyung Jeong, Tae Gi Kim, Jaheon Kang, Young-Geun Han, Euiheon Chung, Dong Yun Lee. Cerium Oxide Nanoparticle-Containing Colorimetric Contact Lenses for Noninvasively Monitoring Human Tear Glucose. ACS Applied Nano Materials 2021, 4
+(5)
+, 5198-5210. https://doi.org/10.1021/acsanm.1c00603Gunasekaran Manibalan, Govindhasamy Murugadoss, Rangasamy Thangamuthu, Pitchai Ragupathy, Manavalan Rajesh Kumar, Rangasamy Mohan Kumar, Ramasamy Jayavel. High Electrochemical Performance and Enhanced Electrocatalytic Behavior of a Hydrothermally Synthesized Highly Crystalline Heterostructure CeO2@NiO Nanocomposite. Inorganic Chemistry 2019, 58
+(20)
+, 13843-13861. https://doi.org/10.1021/acs.inorgchem.9b01723Lili Tong, Xiuxiu Wang, Wen Gao, Zhenhua Liu, Zhenzhen Chen, Guiying Cheng, Wenhua Cao, Meiju Sui, Bo Tang. CeO2 Nanowire-BODIPY-Adenosine Triphosphate Fluorescent Sensing Platform for Highly Specific and Sensitive Detection of Arsenate. Analytical Chemistry 2018, 90
+(24)
+, 14507-14513. https://doi.org/10.1021/acs.analchem.8b04354Tongfang
+Xiao, Fei
+Wu, Jie
+Hao, Meining
+Zhang, Ping
+Yu, and Lanqun
+Mao
+. In Vivo Analysis with Electrochemical Sensors and Biosensors. Analytical Chemistry 2017, 89
+(1)
+, 300-313. https://doi.org/10.1021/acs.analchem.6b04308Jing
+Bai and Baoxue
+Zhou
+. Titanium Dioxide Nanomaterials for Sensor Applications. Chemical Reviews 2014, 114
+(19)
+, 10131-10176. https://doi.org/10.1021/cr400625jAkhtar
+Hayat and Silvana
+Andreescu
+. Nanoceria Particles As Catalytic Amplifiers for Alkaline Phosphatase Assays. Analytical Chemistry 2013, 85
+(21)
+, 10028-10032. https://doi.org/10.1021/ac4020963Maryna
+Ornatska, Erica
+Sharpe, Daniel
+Andreescu, and Silvana
+Andreescu
+. Paper Bioassay Based on Ceria Nanoparticles as Colorimetric Probes. Analytical Chemistry 2011, 83
+(11)
+, 4273-4280. https://doi.org/10.1021/ac200697yJohn
+Njagi, Mykyta M.
+Chernov, J. C.
+Leiter and Silvana
+Andreescu
+. Amperometric Detection of Dopamine in Vivo with an Enzyme Based Carbon Fiber Microbiosensor. Analytical Chemistry 2010, 82
+(3)
+, 989-996. https://doi.org/10.1021/ac9022605Pavithra
+Narasimhappa, Praveen C
+Ramamurthy. Bio-mimicking the Melanogenesis Pathway using Tyrosinase for Dopamine Sensing. Electrochimica Acta 2023, 52 , 143187. https://doi.org/10.1016/j.electacta.2023.143187Pongpat
+Sukhavattanakul, Penwisa
+Pisitsak, Sarute
+Ummartyotin, Ravin
+Narain. Polysaccharides for Medical Technology: Properties and Applications. Macromolecular Bioscience 2023, 23
+(2)
+https://doi.org/10.1002/mabi.202200372Bittu
+Kumar, Shashank
+Poddar, Sudip K.
+Sinha. Electrochemical cholesterol sensors based on nanostructured metal oxides: Current progress and future perspectives. Journal of the Iranian Chemical Society 2022, 19
+(10)
+, 4093-4116. https://doi.org/10.1007/s13738-022-02605-9Dongxiao
+Ma, Jianhui
+Liu, Hanbiao
+Liu, Jiangle
+Yi, Fangquan
+Xia, Dong
+Tian, Changli
+Zhou. Multiplexed electrochemical aptasensor based on mixed valence Ce(III, IV)-MOF for simultaneous determination of malathion and chlorpyrifos. Analytica Chimica Acta 2022, 1230 , 340364. https://doi.org/10.1016/j.aca.2022.340364Xinxin
+Xiao, Xiaomei
+Yan, Jens
+Ulstrup. Enhancement of bioelectrochemical dioxygen reduction with oxygen-enriching materials. Current Opinion in Electrochemistry 2022, 34 , 100966. https://doi.org/10.1016/j.coelec.2022.100966Namita
+Bedi, Dhaval K.
+Srivastava, Arti
+Srivastava, Supratim
+Mahapatra, Daphika S.
+Dkhar, Pranjal
+Chandra, Ashutosh
+Srivastava. Marine biological macromolecules as matrix material for biosensor fabrication. Biotechnology and Bioengineering 2022, 119
+(8)
+, 2046-2063. https://doi.org/10.1002/bit.28122Kamrun Nahar
+Fatema, Won-Chun
+Oh. Metal oxide nanostructures and their biological applications (nonlinear photonics, plasmonic nanostructures, etc.).
+2022, 397-432. https://doi.org/10.1016/B978-0-323-85824-3.00003-8Shubha
+Banavar, Aaditya
+Deshpande, Shantanu
+Sur, Silvana
+Andreescu. Ceria nanoparticle theranostics: harnessing antioxidant properties in biomedicine and beyond. Journal of Physics: Materials 2021, 4
+(4)
+, 042003. https://doi.org/10.1088/2515-7639/ac0594Zohreh
+Darvishi Chaghaganooj, Neda
+Asasian-Kolur, Seyedmehdi
+Sharifian, Mika
+Sillanpää. Ce and Mn/bio-waste-based activated carbon composite: Characterization, phenol adsorption and regeneration. Journal of Environmental Chemical Engineering 2021, 9
+(4)
+, 105788. https://doi.org/10.1016/j.jece.2021.105788Bogdan
+Bucur, Cristina
+Purcarea, Silvana
+Andreescu, Alina
+Vasilescu. Addressing the Selectivity of Enzyme Biosensors: Solutions and Perspectives. Sensors 2021, 21
+(9)
+, 3038. https://doi.org/10.3390/s21093038Ricardo M
+Santos, Anton
+Sirota. Phasic oxygen dynamics confounds fast choline-sensitive biosensor signals in the brain of behaving rodents. eLife 2021, 10 https://doi.org/10.7554/eLife.61940Amira
+Bensana, Fethi
+Achi. Analytical performance of functional nanostructured biointerfaces for sensing phenolic compounds. Colloids and Surfaces B: Biointerfaces 2020, 196 , 111344. https://doi.org/10.1016/j.colsurfb.2020.111344Malatesh S
+Pujar, Shirajahammad M
+Hunagund, Delicia A
+Barretto, Vani R
+Desai, Shivaprasadagouda
+Patil, Shyam Kumar
+Vootla, Ashok H
+Sidarai. Synthesis of cerium-oxide NPs and their surface morphology effect on biological activities. Bulletin of Materials Science 2020, 43
+(1)
+https://doi.org/10.1007/s12034-019-1962-6Season S.
+Chen, Po-Chun
+Han, Wai-Kei
+Kuok, Jian-Yu
+Lu, Yesong
+Gu, Tansir
+Ahamad, Saad M.
+Alshehri, Hailemichael
+Ayalew, Hsiao-hua
+Yu, Kevin C.-W.
+Wu. Synthesis of MOF525/PEDOT Composites as Microelectrodes for Electrochemical Sensing of Dopamine. Polymers 2020, 12
+(9)
+, 1976. https://doi.org/10.3390/polym12091976James A.
+Behan, Filip
+Grajkowski, Dilushan R.
+Jayasundara, Laia
+Vilella-Arribas, Max
+García-Melchor, Paula E.
+Colavita. Influence of carbon nanostructure and oxygen moieties on dopamine adsorption and charge transfer kinetics at glassy carbon surfaces. Electrochimica Acta 2019, 304 , 221-230. https://doi.org/10.1016/j.electacta.2019.02.103Jiushang
+Zheng, Bin
+Wang, Ailing
+Ding, Bo
+Weng, Jiucun
+Chen. Synthesis of MXene/DNA/Pd/Pt nanocomposite for sensitive detection of dopamine. Journal of Electroanalytical Chemistry 2018, 816 , 189-194. https://doi.org/10.1016/j.jelechem.2018.03.056Fahimeh
+Charbgoo, Mohammad
+Ramezani, Majid
+Darroudi. Bio-sensing applications of cerium oxide nanoparticles: Advantages and disadvantages. Biosensors and Bioelectronics 2017, 96 , 33-43. https://doi.org/10.1016/j.bios.2017.04.037Fei
+Wu, Ping
+Yu, Lanqun
+Mao. Bioelectrochemistry for in vivo analysis: Interface engineering toward implantable electrochemical biosensors. Current Opinion in Electrochemistry 2017, 5
+(1)
+, 152-157. https://doi.org/10.1016/j.coelec.2017.08.008Nathiya
+Dhananjayan, Muthukumaran
+Palanisamy, Wilson
+Jeyaraj, Gurunathan
+Karuppasamy. Stable and robust nanobiocomposite preparation using aminated guar gum (mimic activity of graphene) with electron beam irradiated polypyrrole and Ce-Ni bimetal: Effective role in simultaneous sensing of environmental pollutants and pseudocapacitor applications. Electrochimica Acta 2017, 246 , 484-496. https://doi.org/10.1016/j.electacta.2017.06.075Do Hyun
+Kim, Jaehyun
+Hur, Hyun Gyu
+Park, Moon
+Il Kim. Reagentless colorimetric biosensing platform based on nanoceria within an agarose gel matrix. Biosensors and Bioelectronics 2017, 93 , 226-233. https://doi.org/10.1016/j.bios.2016.08.113Fatemeh Sadat
+Sangsefidi, Masoud
+Salavati-Niasari, Hossein
+Khojasteh, Mehdi
+Shabani-Nooshabadi. Synthesis, characterization and investigation of the electrochemical hydrogen storage properties of CuO–CeO2 nanocomposites synthesized by green method. International Journal of Hydrogen Energy 2017, 42
+(21)
+, 14608-14620. https://doi.org/10.1016/j.ijhydene.2017.04.103Young Je
+Yoo, Yan
+Feng, Yong Hwan
+Kim, Camila Flor J.
+Yagonia. Enzymes for Biosensors.
+2017, 181-188. https://doi.org/10.1007/978-94-024-1026-6_14Anahita
+Karimi, Silvana
+Andreescu. CeO
+2
+-Assisted Biocatalytic Nanostructures for Laccase-Based Biocathodes and Biofuel Cells. Journal of The Electrochemical Society 2017, 164
+(9)
+, G92-G98. https://doi.org/10.1149/2.0931709jesAlex
+Page, Moeen
+Hassanalieragh, Tolga
+Soyata, Mehmet K.
+Aktas, Burak
+Kantarci, Silvana
+Andreescu. Conceptualizing a Real-Time Remote Cardiac Health Monitoring System.
+2017, 160-193. https://doi.org/10.4018/978-1-5225-0571-6.ch007ZhenYong
+LU, Yue
+WANG, ZhiQiang
+ZHANG, Yang
+SHEN, MengFan
+LI. Tyrosinase Modified Poly(thionine) Electrodeposited Glassy Carbon Electrode for Amperometric Determination of Catechol. Electrochemistry 2017, 85
+(1)
+, 17-22. https://doi.org/10.5796/electrochemistry.85.17Selvakumar
+Palanisamy, Kokulnathan
+Thangavelu, Shen-Ming
+Chen, P.
+Gnanaprakasam, Vijayalakshmi
+Velusamy, Xiao-Heng
+Liu. Preparation of chitosan grafted graphite composite for sensitive detection of dopamine in biological samples. Carbohydrate Polymers 2016, 151 , 401-407. https://doi.org/10.1016/j.carbpol.2016.05.076Veronica
+Andrei, Erica
+Sharpe, Alina
+Vasilescu, Silvana
+Andreescu. A single use electrochemical sensor based on biomimetic nanoceria for the detection of wine antioxidants. Talanta 2016, 156-157 , 112-118. https://doi.org/10.1016/j.talanta.2016.04.067Aytekin
+Uzunoglu, Isabella
+Ramirez, Elizabeth
+Andreasen, Lia A.
+Stanciu. Layer by layer construction of ascorbate interference-free amperometric lactate biosensors with lactate oxidase, ascorbate oxidase, and ceria nanoparticles. Microchimica Acta 2016, 183
+(5)
+, 1667-1675. https://doi.org/10.1007/s00604-016-1796-5Aytekin
+Uzunoglu, Lia A.
+Stanciu. Novel CeO2–CuO-decorated enzymatic lactate biosensors operating in low oxygen environments. Analytica Chimica Acta 2016, 909 , 121-128. https://doi.org/10.1016/j.aca.2015.12.044A.
+Karimi, A.
+Othman, S.
+Andreescu. Portable Enzyme-Paper Biosensors Based on Redox-Active CeO2 Nanoparticles.
+2016, 177-195. https://doi.org/10.1016/bs.mie.2016.03.006Jiewu
+Cui, Jinbao
+Luo, Bangguo
+Peng, Xinyi
+Zhang, Yong
+Zhang, Yan
+Wang, Yongqiang
+Qin, Hongmei
+Zheng, Xia
+Shu, Yucheng
+Wu. Synthesis of porous NiO/CeO
+2
+hybrid nanoflake arrays as a platform for electrochemical biosensing. Nanoscale 2016, 8
+(2)
+, 770-774. https://doi.org/10.1039/C5NR05924KGonca
+Bülbül, Akhtar
+Hayat, Xiaobo
+Liu, Silvana
+Andreescu. Reactivity of nanoceria particles exposed to biologically relevant catechol-containing molecules. RSC Advances 2016, 6
+(65)
+, 60007-60014. https://doi.org/10.1039/C6RA07279HJoanna
+Cabaj, Agnieszka
+Jędrychowska, Dorota
+Zając, Sylwia
+Krawiec, Jadwiga
+Sołoducho. Phenolic Compounds Determination Using Laccase-based Electrode Modified with Conducting Polymer Support. International Journal of Electrochemical Science 2016, 11
+(1)
+, 609-620. https://doi.org/10.1016/S1452-3981(23)15868-8Kang
+Wang. Chitosan-Based Supports: Enzyme Immobilization.
+2015, 1593-1634. https://doi.org/10.1081/E-EBPP-120052287Wen-Ting
+Li, Yu
+Wang, Fen-Fang
+Deng, Li-Li
+Liu, Hai-Jun
+Nan, He
+Li. Electrochemical Immunosensor for Carcinoembryonic Antigen Detection Based on Mo–Mn
+3
+O
+4
+/MWCNTs/Chits Nanocomposite Modified ITO Electrode. Nano 2015, 10
+(08)
+, 1550111. https://doi.org/10.1142/S1793292015501118Luminiţa
+Fritea, Alan
+Le Goff, Jean-Luc
+Putaux, Mihaela
+Tertis, Cecilia
+Cristea, Robert
+Săndulescu, Serge
+Cosnier. Design of a reduced-graphene-oxide composite electrode from an electropolymerizable graphene aqueous dispersion using a cyclodextrin-pyrrole monomer. Application to dopamine biosensing. Electrochimica Acta 2015, 178 , 108-112. https://doi.org/10.1016/j.electacta.2015.07.124Zhe-Han
+Yang, Ying
+Zhuo, Ruo
+Yuan, Ya-Qin
+Chai. An amplified electrochemical immunosensor based on in situ-produced 1-naphthol as electroactive substance and graphene oxide and Pt nanoparticles functionalized CeO2 nanocomposites as signal enhancer. Biosensors and Bioelectronics 2015, 69 , 321-327. https://doi.org/10.1016/j.bios.2015.01.035Rıfat Emrah
+Özel, Akhtar
+Hayat, Silvana
+Andreescu. Recent Developments in Electrochemical Sensors for the Detection of Neurotransmitters for Applications in Biomedicine. Analytical Letters 2015, 48
+(7)
+, 1044-1069. https://doi.org/10.1080/00032719.2014.976867Rajeev
+Jain, Ankita
+Sinha. Electrocatalytic quantification of thrombin inhibitor dabigatran etexilate in solubilized system. Ionics 2015, 21
+(5)
+, 1445-1452. https://doi.org/10.1007/s11581-014-1295-9Ajit
+Sadana, Neeti
+Sadana. A Fractal Analysis of the Detection of Biomarkers for Different Diseases on Biosensor Surfaces.
+2015, 597-652. https://doi.org/10.1016/B978-0-444-53794-2.00013-6Gonca
+Bulbul, Akhtar
+Hayat, Silvana
+Andreescu. A generic amplification strategy for electrochemical aptasensors using a non-enzymatic nanoceria tag. Nanoscale 2015, 7
+(31)
+, 13230-13238. https://doi.org/10.1039/C5NR02628HNaimish P.
+Sardesai, Anahita
+Karimi, Silvana
+Andreescu. Engineered Pt-Doped Nanoceria for Oxidase-Based Bioelectrodes Operating in Oxygen-Deficient Environments. ChemElectroChem 2014, 1
+(12)
+, 2082-2088. https://doi.org/10.1002/celc.201402250Soodong
+Noh, Haesik
+Yang. Sensitive Phenol Detection Using Tyrosinase-Based Phenol Oxidation Combined with Redox Cycling of Catechol. Electroanalysis 2014, 26
+(12)
+, 2727-2731. https://doi.org/10.1002/elan.201400383Nathan J.
+Lang, Biwu
+Liu, Juewen
+Liu. Characterization of glucose oxidation by gold nanoparticles using nanoceria. Journal of Colloid and Interface Science 2014, 428 , 78-83. https://doi.org/10.1016/j.jcis.2014.04.025Rıfat Emrah
+Özel, Cristina
+Ispas, Mallikarjunarao
+Ganesana, J.C.
+Leiter, Silvana
+Andreescu. Glutamate oxidase biosensor based on mixed ceria and titania nanoparticles for the detection of glutamate in hypoxic environments. Biosensors and Bioelectronics 2014, 52 , 397-402. https://doi.org/10.1016/j.bios.2013.08.054Rıfat Emrah
+Özel, Kenneth N.
+Wallace, Silvana
+Andreescu. Alterations of intestinal serotonin following nanoparticle exposure in embryonic zebrafish. Environ. Sci.: Nano 2014, 1
+(1)
+, 27-36. https://doi.org/10.1039/C3EN00001JDaniel
+Andreescu, Gonca
+Bulbul, Rifat Emrah
+Özel, Akhtar
+Hayat, Naimish
+Sardesai, Silvana
+Andreescu. Applications and implications of nanoceria reactivity: measurement tools and environmental impact. Environ. Sci.: Nano 2014, 1
+(5)
+, 445-458. https://doi.org/10.1039/C4EN00075GKrystyna
+Jackowska, Pawel
+Krysinski. New trends in the electrochemical sensing of dopamine. Analytical and Bioanalytical Chemistry 2013, 405
+(11)
+, 3753-3771. https://doi.org/10.1007/s00216-012-6578-2Magdalena‐Rodica
+Bujduveanu, Wenjuan
+Yao, Alan
+Le Goff, Karine
+Gorgy, Dan
+Shan, Guo‐Wang
+Diao, Eleonora‐Mihaela
+Ungureanu, Serge
+Cosnier. Multiwalled Carbon Nanotube‐CaCO
+3
+Nanoparticle Composites for the Construction of a Tyrosinase‐Based Amperometric Dopamine Biosensor. Electroanalysis 2013, 25
+(3)
+, 613-619. https://doi.org/10.1002/elan.201200245Silvana
+Andreescu, Maryna
+Ornatska, Joseph S.
+Erlichman, Ana
+Estevez, J. C.
+Leiter. Biomedical Applications of Metal Oxide Nanoparticles.
+2012, 57-100. https://doi.org/10.1007/978-1-4614-0379-1_3Cristina R.
+Ispas, Georgeta
+Crivat, Silvana
+Andreescu. Review: Recent Developments in Enzyme-Based Biosensors for Biomedical Analysis. Analytical Letters 2012, 45
+(2-3)
+, 168-186. https://doi.org/10.1080/00032719.2011.633188Rıfat Emrah
+Özel, Kenneth N.
+Wallace, Silvana
+Andreescu. Chitosan coated carbon fiber microelectrode for selective in vivo detection of neurotransmitters in live zebrafish embryos. Analytica Chimica Acta 2011, 695
+(1-2)
+, 89-95. https://doi.org/10.1016/j.aca.2011.03.057J.
+Maciejewska, K.
+Pisarek, I.
+Bartosiewicz, P.
+Krysiński, K.
+Jackowska, A.T.
+Bieguński. Selective detection of dopamine on poly(indole-5-carboxylic acid)/tyrosinase electrode. Electrochimica Acta 2011, 56
+(10)
+, 3700-3706. https://doi.org/10.1016/j.electacta.2011.01.043Briza
+Pérez-López, Arben
+Merkoçi. Magnetic Nanoparticles Modified with Carbon Nanotubes for Electrocatalytic Magnetoswitchable Biosensing Applications. Advanced Functional Materials 2011, 21
+(2)
+, 255-260. https://doi.org/10.1002/adfm.201001306G
+Alarcón, M
+Guix, A
+Ambrosi, M T
+Ramirez Silva, M E
+Palomar Pardave, A
+Merkoçi. Stable and sensitive flow-through monitoring of phenol using a carbon nanotube based screen printed biosensor. Nanotechnology 2010, 21
+(24)
+, 245502. https://doi.org/10.1088/0957-4484/21/24/245502Md. Mahbubur
+Rahman, A. J. Saleh
+Ahammad, Joon-Hyung
+Jin, Sang Jung
+Ahn, Jae-Joon
+Lee. A Comprehensive Review of Glucose Biosensors Based on Nanostructured Metal-Oxides. Sensors 2010, 10
+(5)
+, 4855-4886. https://doi.org/10.3390/s100504855V. K.
+Ivanov, O. S.
+Polezhaeva, A. E.
+Baranchikov, A. B.
+Shcherbakov. Thermal stability of nanocrystalline CeO2 prepared through freeze drying. Inorganic Materials 2010, 46
+(1)
+, 43-46. https://doi.org/10.1134/S0020168510010103Alex
+Page, Moeen
+Hassanalieragh, Tolga
+Soyata, Mehmet K.
+Aktas, Burak
+Kantarci, Silvana
+Andreescu. Conceptualizing a Real-Time Remote Cardiac Health Monitoring System.
+, 1-34. https://doi.org/10.4018/978-1-4666-8662-5.ch001Download PDF
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+You’ve supercharged your research process with ACS and Mendeley!
+ContinueSTEP 1:Login with ACS IDLogged in SuccessClick to create an ACS IDSTEP 2:Login with MendeleyLogged in SuccessCreate a Mendeley account
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please login with your ACS ID before connecting to your Mendeley account.Login with ACS ID
+MENDELEY PAIRING EXPIREDReconnectYour Mendeley pairing has expired. Please reconnect
+This website uses cookies to improve your user experience. By continuing to use the site, you are accepting our use of cookies. Read the ACS privacy policy.
+CONTINUE
+Recently Viewedclose modalRecently ViewedYou have not visited any articles yet, Please visit some articles to see contents here.
+✓Thanks for sharing!AddToAnyMore…Live Chat

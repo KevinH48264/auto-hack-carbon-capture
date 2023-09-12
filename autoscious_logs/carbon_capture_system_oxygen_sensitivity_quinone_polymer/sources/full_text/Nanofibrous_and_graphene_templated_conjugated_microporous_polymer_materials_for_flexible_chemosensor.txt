@@ -1,0 +1,658 @@
+Nanofibrous and graphene-templated conjugated microporous polymer materials for flexible chemosensors and supercapacitors
+https://pubs.acs.org/doi/abs/10.1021/acs.chemmater.5b03290
+Download Hi-Res ImageDownload to MS-PowerPointCite This:Chem. Mater. 2015, 27, 21, 7403-7411
+ADVERTISEMENT
+RETURN TO ISSUEPREVArticleNEXTGet e-AlertscloseNanofibrous and Graphene-Templated Conjugated Microporous Polymer Materials for Flexible Chemosensors and SupercapacitorsKai Yuan†, Peiyao Guo-Wang‡, Ting Hu‡, Lei Shi§, Rong Zeng‡, Michael Forster†, Thomas Pichler§, Yiwang Chen*‡, and Ullrich Scherf*†View Author Information† Macromolecular Chemistry Group (buwmakro) and Institute for Polymer Technology, Bergische Universität Wuppertal, Gauss-Strasse 20, D-42119 Wuppertal, Germany‡ College of Chemistry/Institute of Polymers, Nanchang University, 999 Xuefu Avenue, Nanchang 330031, China§ Electronic Properties of Materials, Faculty of Physics, University of Vienna, Strudlhofgasse 4, A-1090 Vienna, Austria*E-mail: scherf@uni-wuppertal.de (U.S.).*E-mail: ywchen@ncu.edu.cn (Y.C.).Cite this: Chem. Mater. 2015, 27, 21, 7403–7411Publication Date (Web):October 16, 2015Publication History
+Received25 August 2015Revised16 October 2015Published online22 October 2015Published inissue 10 November 2015https://doi.org/10.1021/acs.chemmater.5b03290Copyright © 2015 American Chemical SocietyRequest reuse permissionsArticle Views6618Altmetric11Citations154LEARN ABOUT THESE METRICSArticle Views are the COUNTER-compliant sum of full text article downloads since November 2008 (both PDF and HTML) across all institutions and individuals. These metrics are regularly updated to reflect usage leading up to the last few days.Citations are the number of other articles citing this article, calculated by Crossref and updated daily. Find more information about Crossref citation counts.The Altmetric Attention Score is a quantitative measure of the attention that a research article has received online. Clicking on the donut icon will load a page at altmetric.com with additional details about the score and the social media presence for the given article. Find more information on the Altmetric Attention Score and how the score is calculated.
+Share
+Add toView InAdd Full Text with ReferenceAdd Description
+ExportRISCitationCitation and abstractCitation and referencesMore Options
+Share onFacebookTwitterWechatLinked InReddit
+Read OnlinePDF (9 MB)
+Get e-AlertscloseSupporting Info (1)»Supporting Information
+Supporting Information
+SUBJECTS:Carbon,Materials,Show MoreGet e-Alertsclose
+Chemistry of Materials
+Get e-AlertsAbstractConjugated microporous polymers (CMPs) are usually obtained as amorphous or semicrystalline powders. Their insolubility and nonprocessability are considered as key bottlenecks that impede CMP applications. In this study, light-emitting, nanofibrous films were fabricated by electrospinning CMP/poly(lactic acid) (PLA) mixtures. The resulting nanofibrous films show a high flexibility combined with high porosity and surface-area-to-volume ratios. The CMP-based nanofibrous films have been used as sensitive sensors in the detection of nitroaromatic and benzoquinone vapors as well as oxidizing metal ions. Moreover, 4-iodophenyl-substituted graphene sheets were used as templates for growing CMP/graphene sandwiches. The graphene-based CMP (G-CMP) sandwiches are characterized by high surface areas and aspect ratios. Furthermore, hierarchically porous two-dimensional carbon nanosheets were obtained by pyrolysis of these carbon-rich G-CMP hybrids. The resulting carbon nanomaterials show excellent supercapacitor behavior with a 48% increased capacitance if compared to porous carbons without the graphene template.Supporting InformationARTICLE SECTIONSJump ToAbstractSupporting InformationThe Supporting Information is available free of charge on the ACS Publications website at DOI: 10.1021/acs.chemmater.5b03290.Detailed synthetic procedures and characterization data and additional experimental results for the CMPs, G-CMPs, nanofibrous films, and corresponding carbons and carbon nanosheets (PDF)cm5b03290_si_001.pdf (4.06 MB)
+Terms & Conditions
+Most electronic Supporting Information files are available without a subscription to ACS Web Editions. Such files may be downloaded by article for research use (if there is a public use license linked to the relevant article, that license may permit other uses). Permission may be obtained from ACS for other uses through requests via the RightsLink permission system: http://pubs.acs.org/page/copyright/permissions.html.
+Cited By
+Citation StatementsbetaSmart citations by scite.ai include citation statements extracted from the full text of the citing article. The number of the statements may be higher than the number of citations provided by ACS Publications if one paper cites another multiple times or lower if scite has not yet processed some of the citing articles.SupportingSupporting1MentioningMentioning104ContrastingContrasting0Explore this article's citation statements on scite.aipowered by
+This article is cited by 154 publications.Jin Hwan Jung, Chang Wan Kang, Seung Uk Son. Cu Nanowire@Microporous Organic Polymer with Hydroquinones: Pseudocapacitive Materials with High Rate Performance. ACS Applied Energy Materials 2022, 5
+(11)
+, 13149-13154. https://doi.org/10.1021/acsaem.2c02701Nana Wan, Qingyun Chang, Fangyuan Hou, Shuaihua Zhang, Xiaohuan Zang, Xiaoxian Zhao, Chun Wang, Zhi Wang, Yusuke Yamauchi. Nanoarchitectured Conjugated Microporous Polymers: State of the Art Synthetic Strategies and Opportunities for Adsorption Science. Chemistry of Materials 2022, 34
+(17)
+, 7598-7619. https://doi.org/10.1021/acs.chemmater.2c00999Songhao Luo, Eydhah Almatrafi, Lin Tang, Biao Song, Chengyun Zhou, Yuxi Zeng, Guangming Zeng, Zhifeng Liu. Processable Conjugated Microporous Polymer Gels and Monoliths: Fundamentals and Versatile Applications. ACS Applied Materials & Interfaces 2022, 14
+(35)
+, 39701-39726. https://doi.org/10.1021/acsami.2c10088Qiu Zhuang, Ruru Gao, Mingyang Shi, Xiangpeng Lin, Aming Xie, Wei Dong. Confining Palladium Nanoparticles in Microporous Tetrastyrene Polymer Enables Efficient Size-Selective Heterogeneous Catalysis. ACS Applied Nano Materials 2021, 4
+(4)
+, 3869-3876. https://doi.org/10.1021/acsanm.1c00282Chang-Rui Guo, Yan-Mei Ying, Maoxing Yu, Yi Xiong, Xun-Gao Liu, Zujin Zhao. Nitrogen-Rich Tetraphenylethene-Based Luminescent Metal–Organic Framework for Efficient Detection of Carcinogens. ACS Omega 2021, 6
+(3)
+, 2177-2183. https://doi.org/10.1021/acsomega.0c05457Laishram Saya, Drashya Gautam, Vipin Malik, W. Rameshwor Singh, Sunita Hooda. Natural Polysaccharide Based Graphene Oxide Nanocomposites for Removal of Dyes from Wastewater: A Review. Journal of Chemical & Engineering Data 2021, 66
+(1)
+, 11-37. https://doi.org/10.1021/acs.jced.0c00743Chang Wan Kang, Sang Moon Lee, Hae Jin Kim, Yoon-Joo Ko, Seung Uk Son. Concomitant Covalent and Noncovalent Assembly: Self-Assembly of Sublimable Caffeine in the Formation of Microporous Organic Polymer for Morphology Evolution and Enhanced Performance. ACS Sustainable Chemistry & Engineering 2020, 8
+(37)
+, 13900-13907. https://doi.org/10.1021/acssuschemeng.0c05290Da Hye Kim, Dong Wook Kim, June Young Jang, Nahyun Lee, Yoon-Joo Ko, Sang Moon Lee, Hae Jin Kim, Kun Na, Seung Uk Son. Fe3O4@Void@Microporous Organic Polymer-Based Multifunctional Drug Delivery Systems: Targeting, Imaging, and Magneto-Thermal Behaviors. ACS Applied Materials & Interfaces 2020, 12
+(33)
+, 37628-37636. https://doi.org/10.1021/acsami.0c12237Vivek C. Wakchaure, Alagar R. Kottaichamy, Aakash D. Nidhankar, Kayaramkodath C. Ranjeesh, Mohammed A. Nazrulla, Musthafa O. Thotiyl, Sukumaran S. Babu. Hexaaminobenzene Derived Two-Dimensional Polymer Supercapacitor with High Specific Capacitance and Energy Density. ACS Applied Energy Materials 2020, 3
+(7)
+, 6352-6359. https://doi.org/10.1021/acsaem.0c00569Jun Young Cheong, Mahsa Mafi, Lothar Benker, Jian Zhu, Michael Mader, Chen Liang, Haoqing Hou, Seema Agarwal, Il-Doo Kim, Andreas Greiner. Ultralight, Structurally Stable Electrospun Sponges with Tailored Hydrophilicity as a Novel Material Platform. ACS Applied Materials & Interfaces 2020, 12
+(15)
+, 18002-18011. https://doi.org/10.1021/acsami.0c03103Jet-Sing M. Lee, Andrew I. Cooper. Advances in Conjugated Microporous Polymers. Chemical Reviews 2020, 120
+(4)
+, 2171-2214. https://doi.org/10.1021/acs.chemrev.9b00399Lin Cui, Shilong Yu, Wenqiang Gao, Xiaomei Zhang, Shengyuan Deng, Chun-yang Zhang. Tetraphenylenthene-Based Conjugated Microporous Polymer for Aggregation-Induced Electrochemiluminescence. ACS Applied Materials & Interfaces 2020, 12
+(7)
+, 7966-7973. https://doi.org/10.1021/acsami.9b21943Supreetha Paleyanda Ponnappa, Jennifer Macleod, Muhammad Umer, Narshone Soda, Amandeep Singh Pannu, Muhammad J. A. Shiddiky, Godwin A. Ayoko, Anthony P. O’Mullane, Prashant Sonar. Electropolymerized Porous Polymer Films on Flexible Indium Tin Oxide Using Trifunctional Furan Substituted Benzene Conjugated Monomer for Biosensing. ACS Applied Polymer Materials 2020, 2
+(2)
+, 351-359. https://doi.org/10.1021/acsapm.9b00826Madagonda M. Vadiyar, Xudong Liu, Zhibin Ye. Macromolecular Polyethynylbenzonitrile Precursor-Based Porous Covalent Triazine Frameworks for Superior High-Rate High-Energy Supercapacitors. ACS Applied Materials & Interfaces 2019, 11
+(49)
+, 45805-45817. https://doi.org/10.1021/acsami.9b17847Venkata Suresh Mothika, Martin Baumgarten, Ullrich Scherf. Neutral, π-Radical-Conjugated Microporous Polymer Films of Nanoscale Thickness for Potential Use in Magnetoelectronics and Sensor Devices. ACS Applied Nano Materials 2019, 2
+(8)
+, 4832-4841. https://doi.org/10.1021/acsanm.9b00776Hao Zhou, Bing Zhao, Cheng Fu, Ziqi Wu, Chonggang Wang, Yun Ding, Bao-Hang Han, Aiguo Hu. Synthesis of Conjugated Microporous Polymers through Cationic Cyclization Polymerization. Macromolecules 2019, 52
+(10)
+, 3935-3941. https://doi.org/10.1021/acs.macromol.9b00437Hai-Peng Liang, Amitava Acharjya, Dejene Assefa Anito, Sarah Vogl, Tian-Xiong Wang, Arne Thomas, Bao-Hang Han. Rhenium-Metalated Polypyridine-Based Porous Polycarbazoles for Visible-Light CO2 Photoreduction. ACS Catalysis 2019, 9
+(5)
+, 3959-3968. https://doi.org/10.1021/acscatal.8b04032Peipei Chen, Xueying Qiao, Jianhui Liu, Fangquan Xia, Dong Tian, Changli Zhou. Dual-Signaling Amplification Electrochemical Aptasensor Based on Hollow Polymeric Nanospheres for Acetamiprid Detection. ACS Applied Materials & Interfaces 2019, 11
+(16)
+, 14560-14566. https://doi.org/10.1021/acsami.9b00308Subhajit Bhunia, Kousik Bhunia, Bidhan Chandra Patra, Sabuj Kanti Das, Debabrata Pradhan, Asim Bhaumik, Anirban Pradhan, Santanu Bhattacharya. Efficacious Electrochemical Oxygen Evolution from a Novel Co(II) Porphyrin/Pyrene-Based Conjugated Microporous Polymer. ACS Applied Materials & Interfaces 2019, 11
+(1)
+, 1520-1528. https://doi.org/10.1021/acsami.8b20142Jinhui Zhu, Chongqing Yang, Chenbao Lu, Fan Zhang, Zhanhui Yuan, Xiaodong Zhuang. Two-Dimensional Porous Polymers: From Sandwich-like Structure to Layered Skeleton. Accounts of Chemical Research 2018, 51
+(12)
+, 3191-3202. https://doi.org/10.1021/acs.accounts.8b00444Doo Hun Lee, Kyoung Chul Ko, Ju Hong Ko, Shin Young Kang, Sang Moon Lee, Hae Jin Kim, Yoon-Joo Ko, Jin Yong Lee, Seung Uk Son. In Situ Water-Compatible Polymer Entrapment: A Strategy for Transferring Superhydrophobic Microporous Organic Polymers to Water. ACS Macro Letters 2018, 7
+(6)
+, 651-655. https://doi.org/10.1021/acsmacrolett.8b00263A. T.
+Ezhil Vilian, Rajamanickam Sivakumar, Yun Suk Huh, Ji Ho Youk, Young-Kyu Han. Palladium Supported on an Amphiphilic Triazine–Urea-Functionalized Porous Organic Polymer as a Highly Efficient Electrocatalyst for Electrochemical Sensing of Rutin in Human Plasma. ACS Applied Materials & Interfaces 2018, 10
+(23)
+, 19554-19563. https://doi.org/10.1021/acsami.8b00579Silan Bai, Qiong Hu, Qiang Zeng, Min Wang, Lishi Wang. Variations in Surface Morphologies, Properties, and Electrochemical Responses to Nitro-Analyte by Controlled Electropolymerization of Thiophene Derivatives. ACS Applied Materials & Interfaces 2018, 10
+(13)
+, 11319-11327. https://doi.org/10.1021/acsami.8b00554Junpyo Lee, Jaewon Choi, Daye Kang, Yoon Myung, Sang Moon Lee, Hae Jin Kim, Yoon-Joo Ko, Sung-Kon Kim, Seung Uk Son. Thin and Small N-Doped Carbon Boxes Obtained from Microporous Organic Networks and Their Excellent Energy Storage Performance at High Current Densities in Coin Cell Supercapacitors. ACS Sustainable Chemistry & Engineering 2018, 6
+(3)
+, 3525-3532. https://doi.org/10.1021/acssuschemeng.7b03836M. Zubair
+Khalid Baig, Prabhat Kumar
+Sahu, Moloy
+Sarkar, and Manab
+Chakravarty
+. Haloarene-Linked Unsymmetrically Substituted Triarylethenes: Small AIEgens To Detect Nitroaromatics and Volatile Organic Compounds. The Journal of Organic Chemistry 2017, 82
+(24)
+, 13359-13367. https://doi.org/10.1021/acs.joc.7b02438Atian
+Xie, Jiangdong
+Dai, Jiuyun
+Cui, Jihui
+Lang, Maobin
+Wei, Xiaohui
+Dai, Chunxiang
+Li, and Yongsheng
+Yan
+. Novel Graphene Oxide–Confined Nanospace Directed Synthesis of Glucose-Based Porous Carbon Nanosheets with Enhanced Adsorption Performance. ACS Sustainable Chemistry & Engineering 2017, 5
+(12)
+, 11566-11576. https://doi.org/10.1021/acssuschemeng.7b02917Hyunjae
+Lee, Jaewon
+Choi, Yoon
+Myung, Sang Moon
+Lee, Hae Jin
+Kim, Yoon-Joo
+Ko, MinHo
+Yang, and Seung Uk
+Son
+. Yolk–Shell Polystyrene@Microporous Organic Network: A Smart Template with Thermally Disassemblable Yolk To Engineer Hollow MoS2/C Composites for High-Performance Supercapacitors. ACS Omega 2017, 2
+(11)
+, 7658-7665. https://doi.org/10.1021/acsomega.7b01426Yaozu
+Liao, Zhonghua
+Cheng, Weiwei
+Zuo, Arne
+Thomas, and Charl F. J.
+Faul
+. Nitrogen-Rich Conjugated Microporous Polymers: Facile Synthesis, Efficient Gas Storage, and Heterogeneous Catalysis. ACS Applied Materials & Interfaces 2017, 9
+(44)
+, 38390-38400. https://doi.org/10.1021/acsami.7b09553Ahmed B.
+Soliman, Mohamed H.
+Hassan, Tran Ngoc
+Huan, Arwa A.
+Abugable, Worood A.
+Elmehalmey, Stavros G.
+Karakalos, Manuel
+Tsotsalas, Marita
+Heinle, Mady
+Elbahri, Marc
+Fontecave, and Mohamed H.
+Alkordi
+. Pt Immobilization within a Tailored Porous-Organic Polymer–Graphene Composite: Opportunities in the Hydrogen Evolving Reaction. ACS Catalysis 2017, 7
+(11)
+, 7847-7854. https://doi.org/10.1021/acscatal.7b02246Chang Wan
+Kang, Jaewon
+Choi, Yoon-Joo
+Ko, Sang Moon
+Lee, Hae Jin
+Kim, Jong Pil
+Kim, and Seung Uk
+Son
+. Thin Coating of Microporous Organic Network Makes a Big Difference: Sustainability Issue of Ni Electrodes on the PET Textile for Flexible Lithium-Ion Batteries. ACS Applied Materials & Interfaces 2017, 9
+(42)
+, 36936-36943. https://doi.org/10.1021/acsami.7b12653Eric
+Singh, M.
+Meyyappan, and Hari Singh
+Nalwa
+. Flexible Graphene-Based Wearable Gas and Chemical Sensors. ACS Applied Materials & Interfaces 2017, 9
+(40)
+, 34544-34586. https://doi.org/10.1021/acsami.7b07063Zidong
+He, Minghong
+Zhou, Tianqi
+Wang, Yang
+Xu, Wei
+Yu, Buyin
+Shi, and Kun
+Huang
+. Hyper-Cross-Linking Mediated Self-Assembly Strategy To Synthesize Hollow Microporous Organic Nanospheres. ACS Applied Materials & Interfaces 2017, 9
+(40)
+, 35209-35217. https://doi.org/10.1021/acsami.7b08657Anyi
+Chen, Min
+Zhao, Ying
+Zhuo, Yaqin
+Chai, and Ruo
+Yuan
+. Hollow Porous Polymeric Nanospheres of a Self-Enhanced Ruthenium Complex with Improved Electrochemiluminescent Efficiency for Ultrasensitive Aptasensor Construction. Analytical Chemistry 2017, 89
+(17)
+, 9232-9238. https://doi.org/10.1021/acs.analchem.7b02003Ahmed B.
+Soliman, Rana R.
+Haikal, Arwa A.
+Abugable, Mohamed H.
+Hassan, Stavros G.
+Karakalos, Perry J.
+Pellechia, Hamdy H.
+Hassan, Magdi H.
+Yacoub, and Mohamed H.
+Alkordi
+. Tailoring the Oxygen Reduction Activity of Hemoglobin through Immobilization within Microporous Organic Polymer–Graphene Composite. ACS Applied Materials & Interfaces 2017, 9
+(33)
+, 27918-27926. https://doi.org/10.1021/acsami.7b06146Yijin
+Cai, Ying
+Luo, Yong
+Xiao, Xiao
+Zhao, Yeru
+Liang, Hang
+Hu, Hanwu
+Dong, Luyi
+Sun, Yingliang
+Liu, and Mingtao
+Zheng
+. Facile Synthesis of Three-Dimensional Heteroatom-Doped and Hierarchical Egg-Box-Like Carbons Derived from Moringa oleifera Branches for High-Performance Supercapacitors. ACS Applied Materials & Interfaces 2016, 8
+(48)
+, 33060-33071. https://doi.org/10.1021/acsami.6b10893Sujoy
+Bandyopadhyay, Amith G.
+Anil, Anto
+James, and Abhijit
+Patra
+. Multifunctional Porous Organic Polymers: Tuning of Porosity, CO2, and H2 Storage and Visible-Light-Driven Photocatalysis. ACS Applied Materials & Interfaces 2016, 8
+(41)
+, 27669-27678. https://doi.org/10.1021/acsami.6b08331Baltasar
+Bonillo, Reiner Sebastian
+Sprick, and Andrew I.
+Cooper
+. Tuning Photophysical Properties in Conjugated Microporous Polymers by Comonomer Doping Strategies. Chemistry of Materials 2016, 28
+(10)
+, 3469-3480. https://doi.org/10.1021/acs.chemmater.6b01195Keke
+Zhang, Xiaoyun
+Dong, Bing
+Zeng, Kanghui
+Xiong, Xianjun
+Lang. Red light photocatalysis of conjugated microporous polymers based on fused thiophenes for selective oxidation of amines. Journal of Colloid and Interface Science 2023, 651 , 622-632. https://doi.org/10.1016/j.jcis.2023.08.003Jiahe
+Zhan, Ahmed F.M.
+EL-Mahdy. Redox-Active Benzodithiophene-4,8-dione-Based conjugated microporous polymers for High-Performance faradaic supercapacitor energy storage. Chemical Engineering Journal 2023, 473 , 145124. https://doi.org/10.1016/j.cej.2023.145124Nimisha
+Kaippamangalath, Arunkumar Chitteth
+Rajan, Praveen C.
+Ramamurthy. Engineering conjugated porous polymers for nitroaromatic sensing. Chemical Papers 2023, 7 https://doi.org/10.1007/s11696-023-02996-wSidra
+Mushtaq, Fancheng
+Meng, Zixing
+Zhang, Zhiheng
+Wang, Biao
+Jiang, Bai
+Xue, Fan
+Zhang. Fully sp
+2
+-carbon connected polymeric frameworks with rotatable conformation-enhanced lithium-storage performance. Journal of Materials Chemistry A 2023, 11
+(32)
+, 17217-17225. https://doi.org/10.1039/D3TA02363JCatherine M.
+Aitchison, Soranyel
+Gonzalez‐Carrero, Shilin
+Yao, Max
+Benkert, Zhiyuan
+Ding, Neil P.
+Young, Benjamin
+Willner, Floriana
+Moruzzi, Yuanbao
+Lin, Junfu
+Tian, Peter D.
+Nellist, James R.
+Durrant, Iain
+McCulloch. Templated 2D Polymer Heterojunctions for Improved Photocatalytic Hydrogen Production. Advanced Materials 2023, 58 https://doi.org/10.1002/adma.202300037Huijuan
+Zhu, Yibing
+Xie. Hydrogen-bonding interaction promoted supercapacitance of polylactic acid-graphene-microcrystalline cellulose/polyaniline nanofiber. Materials Today Chemistry 2023, 30 , 101535. https://doi.org/10.1016/j.mtchem.2023.101535Wenliang
+Song, Yu
+Zhang, Chinh Hoang
+Tran, Ha Kyung
+Choi, Deng-Guang
+Yu, Il
+Kim. Porous Organic Polymers with Defined Morphologies: Synthesis, Assembly, and Emerging Applications. Progress in Polymer Science 2023, 8 , 101691. https://doi.org/10.1016/j.progpolymsci.2023.101691Sahel
+Fajal, Subhajit
+Dutta, Sujit K.
+Ghosh. Porous organic polymers (POPs) for environmental remediation. Materials Horizons 2023, 13 https://doi.org/10.1039/D3MH00672GTaher A.
+Gaber, Lamiaa Reda
+Ahmed, Ahmed F. M.
+EL-Mahdy. Efficient faradaic supercapacitor energy storage using redox-active pyrene- and benzodithiophene-4,8-dione-tethered conjugated microporous polymers. Journal of Materials Chemistry A 2023, 5 https://doi.org/10.1039/D3TA03198EYawen
+Cao, Yuncan
+Jia, Xiaodong
+Meng, Xueying
+Fan, Jie
+Zhang, Ji
+Zhou, Dariusz
+Matoga, Christopher W.
+Bielawski, Jianxin
+Geng. Covalently grafting conjugated porous polymers to MXene offers a two-dimensional sandwich-structured electrocatalytic sulfur host for lithium–sulfur batteries. Chemical Engineering Journal 2022, 446 , 137365. https://doi.org/10.1016/j.cej.2022.137365Zhitao
+Wang, Yanju
+Huang, Hui
+Li, Xiu‐Mei
+Li. Neutral and Cationic Phenothiazine‐Based Porous Organic Polymers via a Simple and Cost‐Effective Method for Iodine Capture. ChemistrySelect 2022, 7
+(33)
+https://doi.org/10.1002/slct.202202468Mingyang
+Shi, Kaiming
+Zhang, Qiu
+Zhuang, Cheng
+Zhang, Xiangpeng
+Lin, Aming
+Xie, Wei
+Dong. Sulfonated tetraphenylethylene polymers with negative charges for high-capacity removal of organic dyes from waste water. Colloids and Surfaces A: Physicochemical and Engineering Aspects 2022, 647 , 128948. https://doi.org/10.1016/j.colsurfa.2022.128948Weiyi
+Zhang, Hongyu
+Zuo, Zhonghua
+Cheng, Yu
+Shi, Zhengjun
+Guo, Nan
+Meng, Arne
+Thomas, Yaozu
+Liao. Macroscale Conjugated Microporous Polymers: Controlling Versatile Functionalities Over Several Dimensions. Advanced Materials 2022, 34
+(18)
+https://doi.org/10.1002/adma.202104952Xu
+Liu, Cheng-Fang
+Liu, Shihao
+Xu, Tao
+Cheng, Shi
+Wang, Wen-Yong
+Lai, Wei
+Huang. Porous organic polymers for high-performance supercapacitors. Chemical Society Reviews 2022, 51
+(8)
+, 3181-3225. https://doi.org/10.1039/D2CS00065BQianwen
+Su, Ju
+Wen, Dongyang
+Wang, Lizhi
+Zhang, Ming
+Li. Two-stage polymerization towards C–C bonded Conjugated microporous polymer membranes with excellent nanofiltration performance. Journal of Membrane Science 2022, 647 , 120314. https://doi.org/10.1016/j.memsci.2022.120314Kyoungil
+Cho, Chang Wan
+Kang, Sang Hyun
+Ryu, June Young
+Jang, Seung Uk
+Son. The rise of morphology-engineered microporous organic polymers (ME-MOPs): synthesis and benefits. Journal of Materials Chemistry A 2022, 10
+(13)
+, 6950-6964. https://doi.org/10.1039/D2TA00044JShitao
+Wang, Hongtao
+Li, Huanan
+Huang, Xiaohua
+Cao, Xiudong
+Chen, Dapeng
+Cao. Porous organic polymers as a platform for sensing applications. Chemical Society Reviews 2022, 51
+(6)
+, 2031-2080. https://doi.org/10.1039/D2CS00059HChao
+Liu, Puxin
+Cheng, Rongchao
+Shi, Fei
+Ge, Xiao
+Han, Siming
+Qi, Geng
+Li, Jialiang
+Xu. Second harmonic generation from tetraphenylethylene functionalized graphdiyne. 2D Materials 2022, 9
+(1)
+, 014006. https://doi.org/10.1088/2053-1583/ac3c9aJun
+Huang, Kai
+Yuan, Yiwang
+Chen. Wide Voltage Aqueous Asymmetric Supercapacitors: Advances, Strategies, and Challenges. Advanced Functional Materials 2022, 32
+(4)
+https://doi.org/10.1002/adfm.202108107Mobina
+Khakbaz, Ahad
+Ghaemi, Gity
+Mir Mohamad Sadeghi. Synthesis methods of microporous organic polymeric adsorbents: a review. Polymer Chemistry 2021, 12
+(48)
+, 6962-6997. https://doi.org/10.1039/D1PY01145FMengke
+Peng, Weizu
+Yang, Longbin
+Li, Kaiyang
+Zhang, Li
+Wang, Ting
+Hu, Kai
+Yuan, Yiwang
+Chen. Fast assembly of MXene hydrogels by interfacial electrostatic interaction for supercapacitors. Chemical Communications 2021, 57
+(82)
+, 10731-10734. https://doi.org/10.1039/D1CC04574ABingcai
+Luo, Ying
+Chen, Yubao
+Zhang, Jianqiang
+Huo. Nitrogen-rich anthraquinone–triazine conjugated microporous polymer networks as high-performance supercapacitor. New Journal of Chemistry 2021, 45
+(37)
+, 17278-17286. https://doi.org/10.1039/D1NJ03180EXiaofang
+Zhang, Zongying
+Xiao, Xufei
+Liu, Peng
+Mei, Yingkui
+Yang. Redox-active polymers as organic electrode materials for sustainable supercapacitors. Renewable and Sustainable Energy Reviews 2021, 147 , 111247. https://doi.org/10.1016/j.rser.2021.111247Chang Wan
+Kang, Yoon-Joo
+Ko, Sang Moon
+Lee, Hae Jin
+Kim, Jaewon
+Choi, Seung Uk
+Son. Carbon black nanoparticle trapping: a strategy to realize the true energy storage potential of redox-active conjugated microporous polymers. Journal of Materials Chemistry A 2021, 9
+(33)
+, 17978-17984. https://doi.org/10.1039/D1TA04782EAyesha
+Kausar. Green Nanocomposites for Energy Storage. Journal of Composites Science 2021, 5
+(8)
+, 202. https://doi.org/10.3390/jcs5080202Hongwei
+Ma, Yu
+Chen, Xiaobai
+Li, Bin
+Li. Advanced Applications and Challenges of Electropolymerized Conjugated Microporous Polymer Films. Advanced Functional Materials 2021, 31
+(33)
+https://doi.org/10.1002/adfm.202101861María
+González-Béjar. Photoactive Hybrid Materials based on Conjugated Porous Polymers and Inorganic Nanoparticles. Advanced Photonics Research 2021, 2
+(8)
+https://doi.org/10.1002/adpr.202100060Boying
+Zhang, Wenbo
+Wang, Linan
+Liang, Zhice
+Xu, Xiaoyun
+Li, Shanlin
+Qiao. Prevailing conjugated porous polymers for electrochemical energy storage and conversion: Lithium-ion batteries, supercapacitors and water-splitting. Coordination Chemistry Reviews 2021, 436 , 213782. https://doi.org/10.1016/j.ccr.2021.213782Bingyu
+Huang, Longbin
+Li, Xiannong
+Tang, Weijuan
+Zhai, Yaoshuai
+Hong, Ting
+Hu, Kai
+Yuan, Yiwang
+Chen. Pyrolysis-free polymer-based oxygen electrocatalysts. Energy & Environmental Science 2021, 14
+(5)
+, 2789-2808. https://doi.org/10.1039/D1EE00306BRituporn
+Gogoi, Sunil
+Dutt, Prem F.
+Siril. Conjugated Polymer‐Based Nanocomposites as Photocatalysts.
+2021, 267-296. https://doi.org/10.1002/9783527820115.ch8Rana R.
+Haikal, Amrit
+Kumar, Daniel
+O'Nolan, Naveen
+Kumar, Stavros G.
+Karakalos, Abdou
+Hassanien, Michael J.
+Zaworotko, Mohamed H.
+Alkordi. Mixed-metal hybrid ultramicroporous material (HUM) precursor to graphene-supported tetrataenite as a highly active and durable NPG catalyst for the OER. Dalton Transactions 2021, 50
+(15)
+, 5311-5317. https://doi.org/10.1039/D0DT04118ASonghao
+Luo, Zhuotong
+Zeng, Han
+Wang, Weiping
+Xiong, Biao
+Song, Chengyun
+Zhou, Abing
+Duan, Xiaofei
+Tan, Qingyun
+He, Guangming
+Zeng, Zhifeng
+Liu, Rong
+Xiao. Recent progress in conjugated microporous polymers for clean energy: Synthesis, modification, computer simulations, and applications. Progress in Polymer Science 2021, 115 , 101374. https://doi.org/10.1016/j.progpolymsci.2021.101374M. G. Monika
+Bai, H. Vignesh
+Babu, V.
+Lakshmi, M. Rajeswara
+Rao. Structure–property–function relationship of fluorescent conjugated microporous polymers. Materials Chemistry Frontiers 2021, 5
+(6)
+, 2506-2551. https://doi.org/10.1039/D0QM00769BZhengdong
+Liu, Yuhang
+Yin, Mustafa
+Eginligil, Laiyuan
+Wang, Juqing
+Liu, Wei
+Huang. Two-dimensional conjugated microporous polymer films: fabrication strategies and potential applications. Polymer Chemistry 2021, 12
+(6)
+, 807-821. https://doi.org/10.1039/D0PY01368DHailong
+Ning, Zhiyuan
+Yang, Dechao
+Wang, Zhuoyue
+Meng, Yinyan
+Li, Xiaoqian
+Ju, Changguo
+Wang. Graphene-based semi-coke porous carbon with N-rich hierarchical sandwich-like structure for efficient separation of CO2/N2. Microporous and Mesoporous Materials 2021, 311 , 110700. https://doi.org/10.1016/j.micromeso.2020.110700Tianhui
+Niu, Chan
+Yao, Wei
+Xie, Shuran
+Zhang, Yanhong
+Xu. A red luminescent Eu
+3+
+doped conjugated microporous polymer for highly sensitive and selective detection of aluminum ions. Polymer Chemistry 2021, 12
+(3)
+, 356-360. https://doi.org/10.1039/D0PY01482FTapas Kumar
+Dutta, Abhijit
+Patra. Post‐synthetic Modification of Covalent Organic Frameworks through in situ Polymerization of Aniline for Enhanced Capacitive Energy Storage. Chemistry – An Asian Journal 2021, 16
+(2)
+, 158-164. https://doi.org/10.1002/asia.202001216Qianwen
+Su, Ju
+Wen, Dongyang
+Wang, Lizhi
+Zhang, Ming
+Li. Simple Solution Coating Towards C-C Bonded Conjugated Microporous Polymer Membranes with Excellent Nanofiltration Performance. SSRN Electronic Journal 2021, 120 https://doi.org/10.2139/ssrn.3976711Muhammad A.
+Sabri, Mohammad H.
+Al-Sayah, Susan
+Sen, Taleb H.
+Ibrahim, Oussama M.
+El-Kadri. Fluorescent aminal linked porous organic polymer for reversible iodine capture and sensing. Scientific Reports 2020, 10
+(1)
+https://doi.org/10.1038/s41598-020-72697-xYuwei
+Zhang, Qikun
+Sun, Zhongping
+Li, Yongfeng
+Zhi, He
+Li, Ziping
+Li, Hong
+Xia, Xiaoming
+Liu. Light-emitting conjugated microporous polymers based on an excited-state intramolecular proton transfer strategy and selective switch-off sensing of anions. Materials Chemistry Frontiers 2020, 4
+(10)
+, 3040-3046. https://doi.org/10.1039/D0QM00384KRuru
+Gao, Wei
+Zhao, Qian
+Qiu, Aming
+Xie, Siyao
+Cheng, Yingzhi
+Jiao, Xihao
+Pan, Wei
+Dong. Fluorescent conjugated microporous polymer (CMP) derived sensor array for multiple Organic/Inorganic contaminants detection. Sensors and Actuators B: Chemical 2020, 320 , 128448. https://doi.org/10.1016/j.snb.2020.128448Weizu
+Yang, Bingyu
+Huang, Longbin
+Li, Kaiyang
+Zhang, Yizhe
+Li, Jun
+Huang, Xiannong
+Tang, Ting
+Hu, Kai
+Yuan, Yiwang
+Chen. Covalently Sandwiching MXene by Conjugated Microporous Polymers with Excellent Stability for Supercapacitors. Small Methods 2020, 4
+(10)
+https://doi.org/10.1002/smtd.202000434So Young
+Park, Chang Wan
+Kang, Sang Moon
+Lee, Hae Jin
+Kim, Yoon‐Joo
+Ko, Jaewon
+Choi, Seung Uk
+Son. Nanoparticulate Conjugated Microporous Polymer with Post‐Modified Benzils for Enhanced Pseudocapacitor Performance. Chemistry – A European Journal 2020, 26
+(54)
+, 12343-12348. https://doi.org/10.1002/chem.202002311Weijie
+Zhang, Sizhe
+Li, Xiang
+Tang, Juntao
+Tang, Chunyue
+Pan, Guipeng
+Yu. Phenothiazine core promoted charge transfer in conjugated microporous polymers for photocatalytic Ugi-type reaction and aerobic selenation of indoles. Applied Catalysis B: Environmental 2020, 272 , 118982. https://doi.org/10.1016/j.apcatb.2020.118982Wei
+Zhou, Li
+Yang, Fu‐Yu
+Zhou, Qi‐Wen
+Deng, Xiao
+Wang, Dong
+Zhai, Guo‐Qing
+Ren, Ke‐Li
+Han, Wei‐Qiao
+Deng, Lei
+Sun. Salen‐Based Conjugated Microporous Polymers for Efficient Oxygen Evolution Reaction. Chemistry – A European Journal 2020, 26
+(34)
+, 7720-7726. https://doi.org/10.1002/chem.202001039Wunengerile
+Zhang, Yongsheng
+Bao, Agula
+Bao. Preparation of nitrogen-doped hierarchical porous carbon materials by a template-free method and application to CO2 capture. Journal of Environmental Chemical Engineering 2020, 8
+(3)
+, 103732. https://doi.org/10.1016/j.jece.2020.103732Tongmou
+Geng, Lanzhen
+Ma, Guofeng
+Chen, Can
+Zhang, Weiyong
+Zhang, Qingyuan
+Niu. Fluorescent conjugated microporous polymers containing pyrazine moieties for adsorbing and fluorescent sensing of iodine. Environmental Science and Pollution Research 2020, 27
+(16)
+, 20235-20245. https://doi.org/10.1007/s11356-019-06534-8Abdul Jabbar
+Khan, Muddasir
+Hanif, Muhammad Sufyan
+Javed, Shahid
+Hussain, Weijie
+Zhong, Muhammad
+Saleem, Zhongwu
+Liu. Energy storage properties of hydrothermally processed, nanostructured, porous CeO2 nanoparticles. Journal of Electroanalytical Chemistry 2020, 865 , 114158. https://doi.org/10.1016/j.jelechem.2020.114158Rajangam
+Vinodh, Rajendran Suresh
+Babu, Chandu V. V Muralee
+Gopi, Chinnadurai
+Deviprasath, Raji
+Atchudan, Leandro Marques
+Samyn, Ana Lucia Ferreira
+de Barros, Hee-Je
+Kim, Moonsuk
+Yi. Influence of annealing temperature in nitrogen doped porous carbon balls derived from hypercross-linked polymer of anthracene for supercapacitor applications. Journal of Energy Storage 2020, 28 , 101196. https://doi.org/10.1016/j.est.2020.101196Huaqian
+Liu, You
+Wang, Wanqi
+Mo, Hongliang
+Tang, Zhiyong
+Cheng, Yu
+Chen, Shitong
+Zhang, Hongwei
+Ma, Bin
+Li, Xiaobai
+Li. Dendrimer‐Based, High‐Luminescence Conjugated Microporous Polymer Films for Highly Sensitive and Selective Volatile Organic Compound Sensor Arrays. Advanced Functional Materials 2020, 30
+(13)
+https://doi.org/10.1002/adfm.201910275Rana R.
+Haikal, Mohamed H.
+Hassan, Mohamed H.
+Alkordi. Microporous Solids En Route to Heterogeneous Electrocatalysis: The Oxygen Reduction Reaction. Energy Technology 2020, 8
+(3)
+https://doi.org/10.1002/ente.201900964Yan
+He, Zhonghua
+Cheng, Hongyu
+Zuo, Chunna
+Yan, Yaozu
+Liao. Green Synthesis of Pyridyl Conjugated Microporous Polymers as Precursors for Porous Carbon Microspheres for Efficient Electrochemical Energy Storage. ChemElectroChem 2020, 7
+(4)
+, 959-966. https://doi.org/10.1002/celc.201901975Yan‐Dong
+Ma, Jian‐Fei
+Gao, Xi‐Wen
+Chen, Ling‐Bin
+Kong. Design of Ultra‐Microporous Carbons by Interpenetrating MF Prepolymer into PAAS Networks at Molecule Level for Enhanced Electrochemical Performance. ChemElectroChem 2020, 7
+(2)
+, 476-485. https://doi.org/10.1002/celc.201901942Yuquan
+Li, Bin
+Ni, Xiaodan
+Li, Xianghui
+Wang, Dafeng
+Zhang, Qingfei
+Zhao, Jinliang
+Li, Ting
+Lu, Wenjie
+Mai, Likun
+Pan. High-Performance Na-Ion Storage of S-Doped Porous Carbon Derived from Conjugated Microporous Polymers. Nano-Micro Letters 2019, 11
+(1)
+https://doi.org/10.1007/s40820-019-0291-zHuixin
+Li, Wei
+Lyu, Yaozu
+Liao. Engineering Redox Activity in Conjugated Microporous Polytriphenylamine Networks Using Pyridyl Building Blocks toward Efficient Supercapacitors. Macromolecular Rapid Communications 2019, 40
+(24)
+https://doi.org/10.1002/marc.201900455V.
+Priyanka, G.
+Savithiri, R.
+Subadevi, V.
+Suryanarayanan, M.
+Sivakumar. Physicochemical exfoliation of graphene sheets using graphitic carbon nitride. New Journal of Chemistry 2019, 43
+(41)
+, 16200-16206. https://doi.org/10.1039/C9NJ02149CXue
+Wang, Tianyang
+Wang, James
+Borovilas, Xiaodong
+He, Shanyi
+Du, Yuan
+Yang. Vertically-aligned nanostructures for electrochemical energy storage. Nano Research 2019, 12
+(9)
+, 2002-2017. https://doi.org/10.1007/s12274-019-2392-xSang Hyun
+Ryu, Doo Hun
+Lee, Sang Moon
+Lee, Hae Jin
+Kim, Yoon-Joo
+Ko, Kyoung Chul
+Ko, Seung Uk
+Son. Morphology engineering of a Suzuki coupling-based microporous organic polymer (MOP) using a Sonogashira coupling-based MOP for enhanced nitrophenol sensing in water. Chemical Communications 2019, 55
+(64)
+, 9515-9518. https://doi.org/10.1039/C9CC05011FTongmou
+Geng, Can
+Zhang, Guofeng
+Chen, Lanzhen
+Ma, Weiyong
+Zhang, Hongyu
+Xia. Synthesis of tetraphenylethylene-based fluorescent conjugated microporous polymers for fluorescent sensing and adsorbing iodine. Microporous and Mesoporous Materials 2019, 284 , 468-475. https://doi.org/10.1016/j.micromeso.2019.04.036Ravneet
+Kaur, Jagpreet
+Singh Sidhu, Narinder
+Singh, Inderpreet
+Kaur, Navneet
+Kaur. Cystamine-cobalt complex based fluorescent sensor for detection of NADH and cancer cell imaging. Sensors and Actuators B: Chemical 2019, 293 , 144-150. https://doi.org/10.1016/j.snb.2019.04.105Haizhou
+Huang, Shi
+Su, Nan
+Wu, Hao
+Wan, Shu
+Wan, Hengchang
+Bi, Litao
+Sun. Graphene-Based Sensors for Human Health Monitoring. Frontiers in Chemistry 2019, 7 https://doi.org/10.3389/fchem.2019.00399Tongmou
+Geng, Guofeng
+Chen, Lanzhen
+Ma, Can
+Zhang, Weiyong
+Zhang, Heng
+Xu. The spirobifluorene-based fluorescent conjugated microporous polymers for reversible adsorbing iodine, fluorescent sensing iodine and nitroaromatic compounds. European Polymer Journal 2019, 115 , 37-44. https://doi.org/10.1016/j.eurpolymj.2019.02.047Sang Hyun
+Ryu, Doo Hun
+Lee, Yoon‐Joo
+Ko, Sang Moon
+Lee, Hae Jin
+Kim, Kyoung Chul
+Ko, Seung Uk
+Son. Aligned Tubular Conjugated Microporous Polymer Films for the Aggregation‐Induced Emission‐Based Sensing of Explosives. Macromolecular Chemistry and Physics 2019, 220
+(11)
+https://doi.org/10.1002/macp.201900157Load all citationsDownload PDFback
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+Pair your accounts.
+Export articles to Mendeley
+Get article recommendations from ACS based on references in your Mendeley library.
+You’ve supercharged your research process with ACS and Mendeley!
+ContinueSTEP 1:Login with ACS IDLogged in SuccessClick to create an ACS IDSTEP 2:Login with MendeleyLogged in SuccessCreate a Mendeley account
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please note: If you switch to a different device, you may be asked to login again with only your ACS ID.
+Please login with your ACS ID before connecting to your Mendeley account.Login with ACS ID
+MENDELEY PAIRING EXPIREDReconnectYour Mendeley pairing has expired. Please reconnect
+This website uses cookies to improve your user experience. By continuing to use the site, you are accepting our use of cookies. Read the ACS privacy policy.
+CONTINUE
+Recently Viewedclose modalRecently ViewedYou have not visited any articles yet, Please visit some articles to see contents here.
+✓Thanks for sharing!AddToAnyMore…Live Chat

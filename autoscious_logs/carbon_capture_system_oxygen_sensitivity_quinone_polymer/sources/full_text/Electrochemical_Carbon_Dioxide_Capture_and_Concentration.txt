@@ -1,0 +1,1782 @@
+Electrochemical Carbon Dioxide Capture and Concentration
+https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/63393258114b7ea829251b3f/original/electrochemical-carbon-dioxide-capture-and-concentration.pdf
+ 1 Electrochemical Carbon Dioxide Capture and Concentration  
+ 
+Alessandra M. Zito†, Lauren E. Clarke †, Jeffrey Barlow †, Daniel Bím†, Zisheng Zhang , Katelyn  Ripley, 
+Clarabella Li, Amanda Kummeth,  McLain E. Leonard, Anastassia N. Alexandrova, * Fikile Brushett, * Jenny 
+Y. Yang * 
+†equal contribution  
+*ana@chem.ucla.edu , Brushett@mit.edu , j.yang@uci.edu  
+ 
+1. Introduction  
+Burgeoning population and industrialization  have resulted in significantly increased global energy 
+demand  and fossil fuel consumption . As a result, anthropogenic carbon dioxide  (CO 2) emissions have 
+quickly grown to unsustainable levels.  Despite aggressive targets and policies implemented globally  to 
+reduce emissions  over the last several years , our annual rate of net CO 2 released has reac hed record levels, 
+exceeding 36 Gt CO 2/year  from fossil fuels and industry  in both 2019 and 2021.1-3 To limit global 
+temperature rise to well below  2°C, as called for by the 2015 Paris agreement,5 rapid and widespread 
+decarbonization efforts are needed across all sectors of our economy .  
+In 20 20, the power  (i.e., electricity , heat)  and industrial  (e.g., cement  production,  
+chemicals/petrochemicals manufacturing ) sectors  account ed for over 50%  of total emissions worldwide.6 
+Within these sectors, large scale stationary “point -source s” make up the majority of these emissions , 
+which are generated from burning fossil fuels or as chemical process byproducts .7 The remain ing 
+generators of CO 2 emissions consist of small, disperse, and often mobile source s, primarily from the 
+transportation, waste , and agricultur al sectors .2, 6, 8 The transition towards decarbonizing all of these 
+sectors  will need to be driven by a significant  expansion of renewable s and electrification, coupled with 
+energy efficiency improvements . However, pathways towards decarbonization also call for large scale 
+carbon capture  and storage (CCS)  or utilization/conversion  (CCU) . The proposed  suite of carbon capture 
+technologies can specifically  address emissions from existing fossil -fuel based infrastructure , account for 
+hard -to-decarbonize sectors  (e.g., industrial  byproducts) , and enabl e net-negative applications .1 9, 10 
+Considerable progress has been made in the development and optimization of carbon capture 
+systems , particularly for coal and natural gas power plant applications.1 According to the Global CCS 
+institute, more than 100 commercial scale CCS facilities are operational , in construction, or in 
+development stages as of 2021 , most of which capture CO 2 from the power and industrial sectors .11, 12 
+However, i n order to meet the Paris agreement , not only would all “point -source” processes need to 
+approach net -zero  carbon emissions , but emissions from other  distributed  sources also need to be 
+significantly reduced or eliminated .13  Direct air capture (DAC) of CO 2 represents a carbon -negative  2 technology that could further act to lower emissions from non -point -source emitters.14, 15 There are 
+currently fewer  commercialized DAC processes  (19 plants opera ting worldwide) , and those that do exist 
+are relatively small -scale , although DAC  is currently receiving increas ed levels of attention and monetary 
+support from both public - and private -sector organizations.16 
+Despite the role CCS is project to play in emissions reduction, a major drawback to current 
+technolog ies is that carbon capture and concentration (CCC) methods remain energy -intensive and costly , 
+prevent ing widespread implementation.17-21 One of the most mature CCC technologies is the utilization of 
+amine -based  absorbent solutions for capture from power plant flue gas. Such a process exploits the 
+natural affinity of amines for absorbing CO 2 at room temperature, followed by the thermal regener ation 
+of the absorber to enable cyclic use.22 A weakness  of this approach , and thermally driven separation in 
+general,  is the Carnot limitation incurred by the temperature  swing s necessary  for absorptio n and 
+desorption. As a result, a typical alkanolamine capture process operating between ~37–117 °C can only 
+approach a maximum of ~21% energetic efficiency.23 After decades  of research, most state -of-the-art 
+amine  capture systems still have high heating demands of > 2.3 GJ/ton CO 2 (>110 kJ/mol CO 2). Therefore, 
+current systems are  limited to ca. < 20% of the Carnot efficiency , or < 5% overall energetic efficiency , upon 
+optimization at scale.24-27 To put this efficiency into context, 20 –30% of the entire power output of a typical 
+coal-fired power plant would be required to power a retrofitted CCC process alone.28, 29  Using these 
+systems,  every ton of captured  CO 2 would cost an estimated  $50-100 for power generation plants and 
+$40-120 for indus trial sources ( i.e., cement, iron, or steel) .30-33 CCC systems for DAC  are further 
+underdeveloped , and the heating de mand s are much higher due to the significantly lower CO 2 
+concentrations . Typical thermochemical DAC systems require > 5 GJ/ton CO2 (or > 240 kJ/mol CO 2), 
+operating at <  10% of the energetic efficiency , resulting in higher system costs ; however, it is important 
+to note that due to the earl y development stage of  DAC technologies, these energy estimates  are 
+generated with less certainty than point -source capture facilities .18, 34  Reported  DAC  cost estimates are in 
+the range of $ 130–1000/ton CO 2, dependent upon the source of heat to drive regeneration (i.e., waste 
+heat or generated heat) and the carbon footprint associated with this heat .18, 33-36  Specifically , methods 
+which fall on the lower end of this cost range typically assume access to a source of waste heat to carry 
+out process heating needs. Reaching net -zero emissions by 2040 is estimated to require about 2 ,000 l arge -
+scale CCS facilities  worldwide .37 While most current commercial demonstrations primarily  use 
+thermochemical approaches, achievement of large -scale carbon capture will likely require a diverse 
+portfolio of options. Development of methods which offer higher energetic efficiencies  than thermally - 3 driven processes and are operated with low -carbon energy sources could enable more widespread 
+deployment of CCC.  
+More efficient CO 2 separation strategies would specifically enable operation closer to the 
+thermodynamic minimum for system energy requirements.  To separat e a species from a gaseous mixture , 
+the minimum energy  is equal to the  difference in Gibbs free energy before and afte r separation. In the 
+limit of “skimming”, where an infinitesimal quantity  of CO 2 is removed from a feed gas mixture at ambient 
+pressures, the Gibbs free energy of separation ( Δ𝐺) is given by Equation 1.38  
+Δ𝐺=−𝑅𝑇ln(𝑃CO2
+𝑃0)             Eq. 1  
+where 𝑅 is the ideal gas constant (8.314 J  mol-1 K-1), 𝑇 is the absolute temperature  (K), 𝑃CO2 is the partial 
+pressure of CO 2 in the feed gas mixture, and 𝑃0 is the ambient pressure. The relationship between the 
+change of free energy and partial pressure  demonstrates  that CO 2 separation is an endergonic process 
+whose energetics depend on the reaction conditions as well as the required changes in concentration. For 
+example, for DAC , separating 400 ppm CO 2 from air at standard temperature (T = 298.15 K) and pressure 
+(1 bar) to generate a pu re CO 2 stream at 1 bar will require  at least 19 kJ/mol CO 2. However, concentration 
+from a flue gas stream containing 15 mol% CO 2 at ambient conditions  requires a  minimum work of 
+separation of 4.7 kJ/mol CO 2. Note that “skimming” considered in Equation 1 re presents a lower bound  
+of energy requirements, which  will increase with the fraction of CO 2 removed from the feed gas.  
+Considering 90% removal of CO 2 from a flue gas mixture (15 mol% CO 2), and using expressions 
+demonstrated in previous work ,18, 38 at least 6.4 kJ/mol CO 2 is required. T he minimum thermodynamic 
+work  constitutes a limit which is unachievable under practical conditions due to irreversible  losses  (e.g., 
+entropic losses) ; however,  all processes , whether they are  thermochemical, electrochemical, or 
+otherwise, aim to  balance these losses with process efficiency, selectivity, and yield , with a goal  of 
+minimizing cost.  
+Electrochemical carbon capture an d concentration (eCCC)  offer s a promising alternative to 
+thermochemical pr ocesses  as it circumvent s the limitations of temperature -driven capture  and release .39-
+43 More specifically , electrochemical carbon capture systems are not bounded by Carnot efficiencies, and 
+can theoretically  approach operation at the thermodynamic minimu m energy requirement (i.e., 100% 
+energetic efficiencies ).41 As such, in electrochemical systems, the minimum cell potential ( 𝐸cell) is related 
+to the minimum separation work (represented by the change in Gibbs free energy).  
+𝐸cell=−∆G
+𝑛𝐹     Eq. 2   4 where 𝑛 is the mole s of electrons transferred per mole of CO 2 captured , 𝐹 is the Faraday constant ( 96485 
+C mol-1), and together, they describe the charge transferred during the reaction. As CO 2 separation is a 
+nonspontaneous process ( ∆G > 0), the cell potential, or difference between the potential of the cathode 
+and anode , is negative ( 𝐸cell < 0). This minimum cell potential is directly related to the relative CO 2 
+concentrations at the two electrodes via the Nernst equation. To perturb the re action equilibrium and 
+drive the process  toward favorable CO 2 separation , the actual cell potential  must be greater than |𝐸cell|, 
+resulting in energetic losses . This deviation from 𝐸cell is dependent on the thermodynamic cycle of the 
+separation system and overpotentials that result from  resistive losses in the electrochemical cell(s). These 
+cell resistances arise from a summation of inefficiencies associated with kinetic, ohmic, and trans port 
+phenomena that underlie system operation and their magnitudes are influenced by the chosen cell 
+materials and reactor  operating conditions (i.e., current density) . Thus, cell potential and associated 
+energy requ irements are influenced  by several desig n and operati onal factors . Despite these potential 
+energetic penalties, an advantage of electrochemical systems is their ability to apply electric currents ( via 
+polarized electrode surfaces ) that directly act on target redox -active molecules rather than on  the entire 
+capture medium via heating and cooling,  thus  reducing or eliminating sensible heat losses.  Due to these 
+differences in process energetics, electrochemical systems can potentially operate with reduced energy 
+requirements over thermochemical systems and are therefore particularly attractive.  Additionally, eCCC 
+systems present an opportunity to operate at milder conditions  (i.e., at or near room temperature) , allow 
+for modular designs  that can more readily be scaled up or down, and can run on electricity from renewabl e 
+sources .  
+This review will begin by discussing the  history of eCCC , describing early work in the field and the 
+motivation for pursuing such a  process . We will then trans ition towards discussing more recent 
+approaches , with a heavier emphasis on methods that employ redox mediators to facilitate CO 2 capture 
+and release . These methods rely more on optimization through chemical design and  include pH -mediated 
+systems (Section 3), electrochemically -mediated amine regeneration (Section 4), and direct capture with 
+redox -active molecules (Section 5) . For each approach, we provide a general overview of the system, 
+discuss redox mediator chemistries that have been studied in  literature, and highlight requirements for 
+future  generations of redox mediators. We also describe previous demonstrations of each method and 
+current cell/system designs that have been used at the lab -scale.  To conclude  (Section 6) , we  summarize 
+achieveme nts in the field, current challenges, and opportunities for improving these technologies. Overall, 
+this review is a comprehensive survey of the eCCC field and evaluates the chemical, theoretical, and 
+electrochemical engineering aspects of this approach. We  hope this work  can be used to assist the  5 community in the development of modern economical eCCC technologies that can be utilized in large -
+scale CCS processes.  
+ 
+2. History of eCCC: Early work and Motivatio n. 
+2.1 Low Temperature  Carbonation Cells . Electrochemical carbon dioxide capture uses electron 
+transfer reactions to capture and concentrate carbon dioxide. The original motivation for using an 
+electrochemical approach to CCC can be traced back to 1969, when Huebscher and Babin sky were 
+interested in developing an efficient way to separate carbon dioxide from the atmosphere to be used for 
+life support systems, specifically for use in submarines as well as  air and space  travel.4  
+The system design can operate continuously and includes two electrochemical concentration cell 
+stacks, a process air blower, and a dehumidifying -humidifying unit (Figure 1). The process of CO 2 
+separation can be broken down into two stages , which are both typically operated at temperatures of 
+65°C or lower . The first stage (Stage I, Figure 1) feature s the carbonation cell, in which a CO 2-rich air stream 
+(0.6%) is supplied to the cathode , where both CO 2 and oxygen (O 2) are removed  (Scheme 1, cathodic 
+reactions).  Then, a concentrated mixture of CO 2 (66.7%) and O2 (33.3%) is generated  at the anode (Scheme 
+1, anodic reactions).  
+Since the first stage captures  both oxygen and carbon dioxide, the second stage (Stage II, Figure 1) is 
+used  for their  separation . The cell is similar to the carbonation cell in Stage I, but it uses an acidic 
+electrolyte such that  oxygen is reduced at the cathode and react s with protons to form water  (i.e., O2+
+4H++4e–→2H2O). During this reduction step which removes oxygen, CO 2 can be recovered  at high 
+purities. At the anode of the Stage II cell, water decomposes via oxidation to reform oxygen and protons 
+(H+); the O2 is transferred out of the cell, and the protons  are re-consumed  at the cathode.  Scheme 1. Reactions governing Huebscher and Babinsky’s low-temperature carbonation cell.4 
+Cathod ic Reactions        Anod ic Reactions  
+O2+2H2O+4e–→4OH–     HCO3–→CO2+OH–  
+CO2+OH–→HCO3–      CO32–+H2O→CO2+2OH– 
+HCO3–+OH–→CO32–+H2O     4OH–→O2+2H2O+4e–  6 This system captured CO 2 
+from low levels with 
+concentration  at high purities (97–
+98%)  and was  stable for over 1000 
+hours  of operation . Additionally, 
+this system was similar or lighter 
+in weight than other systems at 
+the time ,44,45 making it an effective 
+option for mobile applications . 
+However , the process is energy 
+intensive, requiring cell voltage s 
+ca. ≥ 1 V for both stage I and stage II . This voltage  is quite high, considering that the minimum cell voltage 
+for separating 0.6% CO 2 is ca. 0.1 V (from  eq. 1 and 2). Despite these limitations associated with Huebscher 
+and Babinsky’s system, it was the first demonstration of  electrochemical CO 2 capture and concentration.  
+Later, in 1971, Wynveen and Quattrone used an ambient -temperature eCCC system  for aircrafts ,46 
+which was also demonstrated by Wynveen et al. for spacecrafts.47 Winnick et al. also explored the use of 
+this system for O 2 regeneration during manned space missions using carbon capture, concentration, and 
+conversion.48 Wynveen and Quattrone’s technology contained electrochemical  cells operating 
+continuously in series, where each used an aqueous cesium carbonate (Cs 2CO 3) electrolyte. The electrodes 
+were made of a fine mesh onto which Teflon and platinum were cast,  forming a porous platinum 
+electrode. The setup was similar to that of a fuel cell, where the cathode and anode were separated by 
+the electrolyte (supported by a porous matrix), and gas -phase reactants were fed directly to the 
+electrodes. The feed gas on the cathode side is  humid , CO 2-containing cabin air . The cathode had a similar 
+function to the Stage I cathode of the Huebscher and Babinsky method described above  (Scheme 1 ), 
+where both CO 2 and O 2 are reduced and thus captured . On the anode side, hydrogen is fed to the cell,  
+Figure 1 . Huebscher and Babinsky model for the first known eCCC 
+system. From ref 42 Reprinted with permission from SAE 
+International.   
+ 
+Scheme 2. Reactions Governing Wynveen and Quattrone’s Low -Temperature Carbonation Cell  
+Cathode Reactions      Anode Reaction  
+O2+2H2O+4e–→4OH–     2H2+4OH–→4H2O+4e– 
+CO2+OH–→HCO3–      CO32–+H2O→HCO3–+OH–  
+HCO3–+OH–→CO32–+H2O     HCO3–→CO2+OH–  7 which is oxidized , reducing the solu tion pH , leading to the dissociation of either bicarbonate ions or 
+carbonic acid into CO 2 (similar to the anode reaction of Scheme 2).  
+A major problem  associated with this system was the poor ionic selectivity  of the electrolyte -imbibed 
+porous matrix used to separate the electrodes . The architecture  was improved by Eisaman et al. by the 
+use of anion exchange membranes ,49 but the current density of the CO 2 conce ntrator was low (0.5 mA 
+cm-2) and the system required a particularly high humidity in order to prevent electrolyte precipitat ion. 
+Additionally, the energy requir ed to run the  process was 350 kJ/mol CO 2 for separation from air , which is 
+significantly higher than the minimum separation work, yielding low energetic efficiencies . 
+2.2 High Temperature Molten Cell Electrolyzers . Carbonation cells  for CO 2 capture , as described in 
+Section 2.1 in the context of low temperature applications , can also be operated at higher temperatures.  
+These  technologies have adapted molten carbonate fuel cell platforms for carbon capture and 
+concentration (i.e., driven mode), with some methods also using schemes that can generate energy 
+simultaneously (i.e., fuel-cell mode). Compared to the low temperature carbonation cells, which use 
+aqueous -based electrolytes, these devices employ  molten salt electrolytes . This  enable s lower sensitivity 
+to feed -gas humidity and higher conductivity , and in previous demonstrat ions,  allowed for higher current 
+densities with either similar or improved system efficiencies.  The higher temperatures also improve 
+electrode kinetics, which can reduce the need for noble metal catalysts .50, 51 The reaction mechanisms  are 
+similar to that described for low-temperature  carbonation cells  in Section 2.1 , where CO 2 is consumed at 
+the cathode and discharged at the anode, but the cells are run at much higher temperatures ( ≥500°C). 
+Kang and Winnick  demonstrated a molten carbonate CO 2 capture device in a driven mode, where CO 2 was 
+concentrated  from 1% to 5.8%   and 0.25% to 3.4% in a lab -scale cell .52 The low CO 2 concentration at the 
+anode was due to use of a nitrogen sweep gas to collect the released CO 2; therefore the level of CO 2 
+concentration at the anode is expected t o be higher in a more optimized and scaled up device. However, 
+similar to low temperature devices, this type of cell is limited in its ability to recover C O2 at high purities 
+due to the simultaneous production of O 2 at the anode (as described in Scheme 1 ). Additionally, to keep 
+the molten carbonate electrolyte from decomposing, the voltage range was limited, which also limited 
+accessible current densities in this demonstration . 
+  
+3. pH-Mediated eCCC Systems  
+3.1 Overv iew 
+Electrochemically generated pH changes in  aqueous solutions presents a particularly unique approach 
+for the absorption and release of carbon dioxide. Like other solvents, the concentration of  physically  8 dissolved  CO 2 in water remains constant at a given temperature and pressure in accordance with Henry’s 
+law. Unlike other solvents , however, water readily reacts with dissolved CO 2 in solution to form a complex 
+buffer consisting of carbonic acid, bicarbonate, and carbon ate (eq. 3–5).  
+CO2(aq)+H2O  𝐾1  ↔  H2CO3      Eq. 3 
+H2CO3+OH–  𝐾2  ↔  HCO3–+H2O    Eq. 4 
+HCO3–+OH–  𝐾3  ↔  CO32–+H2O    Eq. 5 
+The concentration and proportion of these species is dependent upon the solution pH . At high pH, t he 
+reactivity of CO 2 with hydroxide results in a  larger concentration of CO 2 to effectively be “stored” in 
+solution in the form of carbonate or bicarbonate . Acidification of the solution reverses the buffer 
+equilibrium and releases the captured gas. Recently, research groups have sought  to exploit this 
+characteristic of aqueous systems for the development of electrochemical  CCC systems. Here, we provide 
+a short overview of electrodialysis/electrodeionization systems and more extensively describe pH -swings 
+with redox mediators.  A more thorough description of electrodialysis/electrodeionization is provided in  
+the recent review by  Sharifian et al.53 
+3.1.1 Electrodialysis /Electrodeionization . Bipolar membrane electrodialysis (B PMED) has be en 
+applied as one method for pH -mediated e CCC.54 BPMED uses a combination of cation and anion exchange 
+membranes and a current to separate a solution by charge.  In aqueous media, the water molecules are  
+split into protons and hydroxide ions  to balance charge . Thus, using  a sodium chloride  (NaCl ) electrolyte , 
+the electrolyte separates into sodium hydroxide ( NaOH ) and hydrochloric acid ( HCl). In the capture stage , 
+CO 2 reacts with NaOH to form carbonate (specifically Na 2CO 3•10H 2O), which can be removed through 
+crystallization. The process can also be reversed to release concentrated CO 2. 
+BPMED has been studied for a variety of carbon capture  applications. For direct air capture  (~400 ppm 
+CO 2), Eisaman et al.  found that when using solutions of sodium or potassium hydroxide and applying a 
+constant -current across a BPMED stack, it is possible to remove  CO 2 with an energetic cost of about 200 
+kJ/mol CO 2; the regeneration of CO 2 using B PMED from carbonate requires an additional ~100 kJ/mol 
+CO 2.55, 56 Therefore, t he entire process requires a minimum energy input of about 300 kJ/mol CO 2 to 
+extract and recover carbon dioxide from the atmosphere. Sabatino  et al. noted in their techno -economic 
+review that their direct air capture setup has an energy requirement as low as 236 kJ/mol CO 2, but a 
+minimum cost of $773/ton CO 2 due to the high cos ts of bipolar and ion exchange membranes  57 
+BPMED was also used to remove CO 2 from seawater, samples were run through a B PMED system to 
+separate them into acidified and basified sea water solutions. The minimum total electrochemical  9 energetic input for extracting 59% of the total CO 2 in solution was 242 kJ/mol, which was expected to 
+improve with t he scale -up of the BPMED to commercial -scale seawater capture systems .58 Additionally , 
+Carlson and coworkers attempted to capture CO 2 from flue gas using a combination of BPMED and 
+electrodeionization.59 This system effectively modulated the solution pH , and capture was achieved from 
+a 15% stream to 80% CO 2. 
+3.1.2  pH swing with PCET mediators . Other systems 
+capitalize on pH changes by using redox -active proton 
+mediators. Compounds capable of proton coupled 
+electron transfer (PCET) have the potential to be 
+particularl y useful for  pH-swing  eCCC processes , which 
+utilize an electrochemical bias to shift pH in one direction 
+or the othe r to facilitate CO 2 capture or release . In a 
+typical system, a CO 2-containing feed stream  is contacted 
+with a  basic solution and captured in the form of  dissolved 
+inorganic carbon  (HCO3-, CO32-, and CO 2(aq)). To release the 
+captured gas, a potential is applied (E app1, Figure 2) to oxidize the mediator, which consequently undergoes 
+deprotonation. Acidification due  to mediator deprotonation shifts the equilibrium to favor CO 2 evolution. 
+To regenerate the basic solution, a more negative potential (E app2, Figure 2) is applied to reduce, and 
+consequently protonate, the mediator. The resulting increase in solution basic ity promotes CO 2 capture 
+via dissolved inorganic carbon  formation , completing the overall cycle.  
+For efficient CO 2 separation via pH -swing eCCC, an ideal PCET redox mediator should be highly soluble  
+and have a  sufficiently high pKa difference in its reduced/oxidized forms to generate large pH changes 
+adequate for CO 2 capture and release . The mediator must also be stable under both acidic and alkaline 
+conditions for extended periods of time.  Additionally, these  molecules must exhibit  stability in the 
+presence of the feed gas composition of interest. For example, air contains high concentrations of oxygen, 
+and thus the mediator must be O 2-stable  in these DAC applications . Lastly, mediators capable of concerted 
+proton -electron transfer (CPET)  reactions  are beneficial as they can enable operation  at mild er 
+potentials.60 Several classes of molecules have been identified as candidate redox mediators for pH-swing 
+driven eCCC , includ ing quinones ,61-68 phenazines,  69, 70 redox -active amines,71 inorganic compounds , 61,72 
+and even a riboflavin compound.73 
+3.2 Demonstrations  Figure 2 . General representation of a pH 
+mediated eCCC cycle.  
+Figure 2.General representation of a pH-
+mediated eCCC system. 10 3.2.1 Quinones.  Quinones are a well -studied family of molecules that have been shown to readily 
+undergo 2 H+, 2 e– PCET reactions to interconvert between their quinone and hydroquinone forms  
+(Scheme 3).74, 75 Reduced quinones have also been used directly to capture CO 2 in aprotic conditions , as 
+described  in Section 5. In this section, their use in pH -
+swing  cycles  will be discussed. The ubiquity of 
+quinones in nature and other fields of research have 
+led to a large catalogue of commercially available or 
+readily accessible derivatives that span an extensive 
+range of measured redox potentials and 
+solubilities.61-63 Additionally, many quinones undergo 
+PCET  reactions in aqueous solutions  with facile 
+conversion between  quinone and hydroquinone 
+forms.74 Unfortunately, most commercially -available 
+quinones have limited solubility and stability in 
+aqueous solution s, confining the current landscape of suitable candidates to only a handful of examples.64-
+66 However, these types of properties can b e improved with molecular functionalization .67 Huang et. al. 
+reported the utilization of tiron  (disodium 4,5 -dihydroxy -1,3-benzenedisul fonate , an ortho -
+hydroquinone ) as a redox -active pH mediator to successfully capture and release carbon dioxide from 
+simulated flue gas streams.62 In a proof -of-concept demonstration with  0.7 M quinone conc entration  in 
+solution , the pH was change d between 9.2 and 5.7 using constant current electrolysis at 18 mA cm-2. The 
+system was generally  effective , operat ing at >90% Faradaic efficiency, and the estimated energy 
+requirements were similar to existing thermally -driven systems ( 2.4 GJ/ton CO 2 or 105.6 kJ/mol CO 2). 
+However,  a nitrogen sweep gas was used in this demonstration to remove desorbed CO 2, which is 
+unrepresentative of expected system operation where CO 2 is collected at high concentration s. Thus, 
+energetic and Faradaic efficiencies are expected to be lower than these reported values under more 
+realistic operating conditions. However , the experiment was run in a non -optimized H -cell platform, and 
+performance  would be expected to decrease as  the cell and overall system are engineered for higher 
+performance. Another challenge with this PCET chemistry is its long -term stability;  the system was unable 
+to perform multiple capture -release cycles, limiting its practicality.   
+Scheme 3. Quinones can undergo two separate 
+one-electron reductions in the presence of a 
+proton source to form the semiquinone (SQ) 
+and the hydroquinone (HQ).  
+O
+OOH
+OOH
+OH
+O
+OO
+OpKa,HQ pKa,SQ+e–, H++e–, H+
++e––H+–2H+ 11  Watkins et  al. explored a different system, 
+where 2,6 -dimethylbenzoquinone was used as th e 
+pH mediator of choice and was employed in a gas -
+fed electrolyzer.68 In their system, a poro us separator 
+was soaked in the liquid electrolyte solution 
+containing 10 mM 2,6-dimethyl benz oquinone  and 
+10 mM of the equivalent hydroquinone and 
+supported between two gas diffusion electrodes 
+(depicted in Figure 3). In the ir system, the liquid 
+electrolyte  satur ated separator  works in conjunction 
+with metal catalyst -coated electrodes to effectively 
+drive  a pH gradient across the cell. Using platinum 
+(Pt) deposited electrodes, CO 2 was selectively transported from the feed gas side of the cell  (cathode)  to 
+the collection side of the cell (anode) . They demonstrated CO 2 removal at the cathode and recovery at 
+the anode from a simulated flue gas stream ( 14% CO 2, 3% O 2, and 87% N 2) with no transport of other 
+gases detected . Although no energetic ef ficiencies were reported, large cell voltages were applied 
+(between 1 –2.5 V for the Pt catalyst). Jin et al. estimate d that the required energy of this experimental 
+demonstration  was ~ 600 kJ/mol CO 2.76 Additionally, the low quinone concentrations that were used due 
+to solubility issues limited  the pH range  and thus CO 2 removal efficiency.  
+3.2.2 Phenazines. Phenazines are another promising family of redox -active pH -mediator compounds. 
+Analogous to quinones, phenazines reversibly undergo 2 H+, 2 e– PCET reactions over a wide pH range. 
+Sulfonated phenazine der ivatives have also display ed high aqueous solution solubilities and stabilities . Jin 
+et al. demonstrated use of 3,3’ -(phenazine -2,3-diylbis(oxy))bis(propane -1-sulfonate) in a pH -swing system 
+for carbon capture.69 In the absence of CO 2, the pH was increase d from 4 to 13.4  using 0.1 M phenazine 
+concentration , and then cycled between a pH of 13.4 and 7.5 over four total cycles. When a continuous 
+flowing stream of a CO 2/N2 mixture (CO 2 partial pressure of 0.465 bar) was contacted with the electrolyte, 
+they observed a decrease  in CO 2 partial pressure down to ca. 0.38 bar following deacidificiation and  an 
+increase  up to ca. 0.57 bar following acidification.  They cycled using a stream of 100% CO 2 during the 
+desorption step to simulate more realistic operating conditions , where CO 2 must be released and 
+concentrated to high purities . For their system set -up, Jin et al.  estimate d from thermodynamic 
+calculations that a minimum of 16 –75 and 30 –75 kJ/mol CO 2 is required for capture from 10% and 
+atmospheric CO 2 sources, respectively (8 –35% and 27 –67% energetic efficiency, respectively). Figure 3. General representation of a 
+membrane -supported polymer system 
+developed by Watkins et al. in ref. 65. Figure 
+used with permission from the American 
+Chemical Society.  
+Figure 3.General representation of a membrane-
+supported polymer system developed by Watkins, 
+et. al. Figure adapted used with permission from 
+Ref. XXthe American Chemical Society 12 Comparatively, experimental data indicates that their system can separate carbon dioxide from a mixture 
+containing ca. 46.5% CO 2 with energy requirements in the range of 49 –120 k J/mol CO 2, depending on the 
+operating current density. One limitation of this system , and pH -mediated processes for eCCC in general,  
+is slow CO 2 absorption kinetics. In their specific demonstration, CO 2 absorption had to be continued for 
+roughly 40 minutes  after completion of electrochemical deacidification .  
+In another recent stud y, Xie et al.  utilized a series of phenazine PCET pH -mediators in a continuous 
+flow eCCC setup (Figure 4).70 They 
+identified  7,8-
+dihydroxyphenazine -2-sulfonic 
+acid as the most effective 
+phenazine derivative . Using a  25 
+mM phenazine concentration, 
+capture from a simulated flue gas 
+composition  (15:85 CO 2:N2) with  
+an estimated energy consumption 
+of 0.49 GJ/ ton CO 2 (22 kJ/ mol 
+CO 2) and Faradaic efficienc y >95% 
+was performed . Their estimated 
+energetic efficiencies  are highly competitive with other CCC approaches, surpassing state -of-the-art 
+amine capture systems.28, 29 However, CO 2 release during desorption was measured using a N 2 or argon 
+(Ar) carrier gas, which is  not representative of a real system where carbon dioxide is released and 
+concentrated to high CO 2 concentrations. Thus, energy requirements will be higher  and Faradaic 
+efficiencies will be lower  than reported values in the study . Their system  display ed high stability  in the 
+presence of CO 2 and N 2 over the tested time -scale ; Xie et al. estimated a capacity retention of 97.9% over 
+8 capture -release cycles. However, they anticipate that this phenazine compound may be O 2-sensitive, 
+which could significantly reduce its effective stability  under practical conditions . 
+The same group (Xie et al.) has more recently demonstrated the use of the proton -carrier riboflavin 
+5’-monophosphate sodium salt hydrate  at a concentration of 25 mM in aqueous solutio n as a PCET pH-
+mediator in these types of systems.73 In a similar set -up, they demonstrated  CO 2 capture from a 15:85 
+CO 2:N2 flue gas stream , with  estimated  energy requirement s of 9.8 kJ/mol CO 2 (~48% efficiency)  and 
+Faradaic efficiencies  of >93% . Similar to their previous study, they used a carrier gas (N 2 or Ar)  during 
+desorption . Therefore, expecte d energy requirements and Faradaic efficiency under more practical Figure 4. Continuous flow eCCC system featuring phenazine PCET pH -
+mediators reported by  Xie et. al. Figure used with permission from Ref. 
+67. 
+ 
+ 13 operation is currently unclear for this system.  This chemistry exhibit ed relatively good stability in the 
+N2/CO 2 environment, with 0.39% capacity fade per cycle measured over 21 total cycle s; however, O 2 
+stability was not reported. One current  limitation of this riboflavin derivative is its low solubility, which 
+limits redox -mediator concentration and thus quantity of CO 2 that can be separated in each cell.   
+3.2.3 Redox -Active Amine.  Hatton and coworkers recently investigated a system that uses a redox -
+active amine for capture via pH swing. Cationic 1 -aminopyridinium nitrate was identified as a redox -active 
+pH mediator  as it furnishes a reversible redox couple  in water . An aqueous 0.2  M 1 -aminopyr idinyl 
+solution was reduced in the presence of N 2, then exposed to 100% CO 2.71 Full conversion to the radical 
+had a 53% Fara daic efficiency with an estimated minimum energy consumption of 101 kJ/mol CO 2. 
+However, the  authors  project ed that reducing conversion can enable lower energy requirements. Notably, 
+they studied the stability of the radical in an oxygen ated  atmosphere ove r a period of one month. The 
+radical was not stable over long periods of time, leading to capacity decreases of 6.6 and 46% over 1 and 
+30 days, respectively. However, they also studied the radical in a nitrogen atmosphere and found that 
+after 30 days, the capacity decreased to 55%. The authors conjecture that the radical may be reacting with 
+itself to form 4,4’ -bipyridine.      
+3.2.4 Inorganic Compounds. In a different approach, Rahimi  et al. propose d using manganese oxide 
+(MnO 2) coated electrodes to act as heterogeneous PCET pH -mediator s, according to eq. 6, for CO 2 
+capture .61 
+MnO 2(s) + H+ + e- ⇌ MnOOH (s)      Eq. 6 
+One benefit to this system is that ma nganese oxides  and hydroxides  (MnOOH)  are highly stable at various 
+pH values a nd MnO 2 readily undergo es PCET  reactions in aqueous solutions.72 In this system  the pH 
+mediator  is immobilized on the electrode surface  and requires batch -type operation, where the electrode 
+polarity must be switched periodically to drive CO 2 capture and release via  proton intercalation and 
+deintercalation  of the electrode s, respectively . A cell voltage of 1 V was applied, and polarity was switched 
+every 2 hours for a total of 4 cycles (i.e., 8 hours), where ~0.4 mmol of  CO 2 was captured and recovered  
+each cycle. Energetic efficiencies where not reported; however, Rahimi et  al. estimated with a simple 
+modeling analysis that this pH -swing process could theoretically separate CO 2 from flue gas (15% CO 2) at 
+an energetic cost of 33.2 kJ/mol CO 2 (~14% energetic efficiency).   
+3.3 Cell and System Design  
+Current studies involving pH swings  (and eCCC systems in general) mainly include  proof -of-concept 
+demonstrations with candidate chemistries , which are important in early -stage research. However, there 
+is less research involving characterization of cell performance and opt imization of experimental  14 configurations. T ransitioning towards higher performance pH -swing eCCC systems will require not only 
+optimized redox mediator molecules, but also engineer ed cell/system designs which maximize CO 2 
+separation capacity and simultaneo usly minimize losses associated with kinetics,  ohmics, and  mass 
+transport. Here we briefly review current experimental cell designs  for electrochemical CO 2 separation 
+processes which use a pH  swing , to contextualize where the field is at and highlight key areas for future 
+work.  
+A common experimental set -up employed for pH -swing systems  resembles  a redox -flow battery (RFB) 
+(shown in Figure 4) . Both Xie et al. and Jin et al. used this type of set -up to test their phenazine and 
+riboflavin chemistries, as previously described .77,70, 73 This type of system is comprised of a flow ce ll, two 
+reservoir tanks  to contain the  positive and negative  electrolyte s (7-50 mL) , respectively,  and pumps to 
+circulate the working and counter electrolytes through the cell  (Xie et al. reported using electrolyte flow 
+rates of 200 mL min-1 ).The cell des ign employs porous carbon electrodes (typically paper, cloth, or felt) 
+and engineered flow fields to deliver the electrolyte solution to the electrode. A membrane or separator 
+is used to physically separate the two electrodes while enabling ions (e.g., Na+ or K+) to exchange between 
+the electrolytes to maintain electroneutrality . This s etup  operates in a cyclic fashion  (charge / discharge  
+cycles ), applying a current or cell voltage to deprotonate the mediator, then switching the direction of 
+current flow or  electrode polarity to protonate the mediator. CO 2-containing feed gas (or sweep gas) is 
+then contacted with the liquid electrolyte in the working -side reservoir  during and/or after the 
+protonation (or deprotonation) half -cycle to enable CO 2 capture (or re moval) . Xie et al. used 4 cm2 
+(geometric/projected area) graphite felt electrodes , serpentine  or flow -through flow field s, and a Nafion 
+115 or 117 cation exchange membrane in their experiments .70, 73 Their cell was operated with applied 
+current densities of 10 –30 mA cm-2, resultin g in average cell voltages of ca. 0.06 –0.2 V. While  these  low 
+voltage s led to low energy requirements, the experimental system requires  validat ion with a pure CO 2 
+sweep gas at the anode to understand performance under more realistic operating conditions. 
+Additionally, a  key engineering  challenge for this cell set-up in its current form is a  relatively  high ohmic  
+resistance  (2.48 Ω or 9.92 Ω cm2 measured with EIS ), which may induce large energetic penalties and/or 
+limit achievable current densities.70 Jin et al.  reported a flow cell  consist ing of a Fumatech  cation exchange 
+membrane  (E-620(K)) and 5 cm2 electrodes (although the electrode and flow field type were  not 
+specified ).77 The cell was operated galvanostatically at 50 mA cm-2 with potential holds at the end of each 
+half-cycle. Cell performance metrics (i.e., overpotentials or resistances) and challenges associated with 
+this set -up were not direc tly discussed .  15 Wat kins et al. employed a different cell configuration , similar to  a fuel cell,  to test  solubilized quinone 
+mediators .68 The system  utilized a gas -fed electrochemical reactor (shown in Figure 3 above ) which c ould 
+operate in a continuous fashion. As described previously, the cell contain ed catalyst -coated gas diffusion 
+electrodes and an electrolyte imbibed separator . Their electrodes consisted of Sigracet 25 BC  carbon 
+paper with a hydrophobized microporous layer ( MPL), and they applied a catalyst layer on top of the MPL. 
+Their separator was a hydrophilic porous polypropylene material  (Celgard 3501), which was soaked in 
+liquid electrolyte before assembling and running the cell. The liquid electrolyte was an aqueous solution 
+consisting of 10 mM of the quinone, 10 mM of the hydroquinone, and 1 M NaHCO 3 which served as both 
+the sorbent and supporting salt . Flow fields (25 cm2) were employed to distribute and remove gases to 
+and from the electrodes. Gases that were fed to their system on the capture (cathode) and release (anode) 
+sides were pre-humidified , which is typically done in low-temperature fuel-cell technologies to prevent 
+the membrane/separator from drying out.  Watson et al. explored the use of platinum, pal ladium, and 
+ruthenium catalysts , and found  that platinum enabled the  greatest  CO 2 concentration change and 
+suppressed water splitting across a range of cell potentials  (1–2.5 V) . Cell voltage requirements were high 
+for this system  compared to the approache s mentioned above, without a clear understanding of what 
+phenomena contribute d to this inefficiency (e.g., ohmic resistance, mass transport, etc.) . 
+The MnO 2-based technology of Rahimi et al. makes  use of immobilized rather than solubilized pH 
+mediators. In their demonstration, they used a liquid flow -based setup to test their MnO 2 mediator 
+system. The platform was similar to the RFB -type systems described above, consisting of an  
+electrochemical cel l to drive protonation/deprotonation, reservoir tanks to hold liquid electrolyte for the 
+working and counter sides of the cell, and pumps to circulate electrolyte  between  the cell  and reservoirs . 
+Their liquid -fed cell consist ed of 25.8 cm2 carbon cloth ele ctrodes (AvCarb)  coated with MnO 2 particles, 
+parallel  flow channels to deliver electrolyte to the electrodes, and a  Selemion AM V anion exchange 
+membrane .61 The flow channels also contain ed plastic baffles  to promote turbulence and  enhance mass 
+transport by  specifically  disrupting boundary layer growth, preven ting channeling, and increas ing local 
+velocity.78 Fabrication of the MnO 2 electrodes was demonstrated using two separate methods. The first 
+was a casting method, where MnO 2 powder was synthesized using co -precipitation, and then a slurry 
+containing this active species was cast onto a carbon -based, porous  substrate.79, 80 The second method 
+involved electrodeposition of MnO 2 onto the substrate, which was shown to achieve more uniform  
+deposition and higher capacitance (specific and geometric). Due to the use of redox mediators 
+immobilized on the electrode surface, the cell must be operated in a batch mode , where polarity is 
+switched in cycles to prevent the complete proton saturation and depletion of the electrodes ,  16 respectively. In this study , the cell adopted a symmetric f ormat with identical electrodes on either side, 
+and the experiments were also started  with the same electrolyte concentrations. During each half-cycle, 
+the cell was operated with a constant applied potential of ±1 V, while the measured current density  varied 
+with in the range of ±0–2 mA cm-2. Absorption or desorption of CO 2 was carried out in a separate step 
+following each electrolysis half -cycle by contacting the electrolyte with the feed or sweep gas.  Overall, the 
+current cell format operated with high cell voltages and low operating current densities, and thus, cell 
+optimization work woul d be beneficial.  
+ 
+4. Electrochemically Mediated Amine R egeneration (EMAR)  
+4.1 Overview  
+As previously described , one of the most investigated  methods for CO 2 capture from power plant flue 
+gas uses amine absorbents. The standard amine used for this method is monoethanolamine (MEA) since 
+it has a high rate of CO 2 absorption , easy regeneration, and low replacement cost.81 In this process, the  
+flue gas is bubbled through the amine solution in the absorber, where the amine effectively captures CO 2 
+to form a carbamate. To release the CO 2, the carbamate  solution  is heated (~110 °C for MEA) in order to 
+thermally break the amine -CO 2 bond.82 The released CO 2 is concentrated and coll ected. However, there 
+are challenges with this traditional regeneration process, including  low energetic efficiencies  and 
+degradation  of amines  at high temperatures . Thus,  the operational  temperature must be high  enough to 
+break the bond with CO 2, but low enough that the amine does not degrade. As a result , the temperature s 
+used  for the desorption process are not extreme enough to fully liberate the CO 2 bound to amines  and 
+typically only half of the bound gas is released.83 Additionally, the narrow temperature range decreases 
+the achievable energ etic efficiency of the process  due to greater Carnot  limitations . In order to increase 
+the efficiency of CO 2 release , methods other than temperature swings have been investigated.  
+Electrochemically mediated amine regeneration (EMAR) , developed by Hatton and co -workers , is a 
+promising alternative to temperature swing amine regeneration. EMAR relies on the use of an absorbent 
+blocker that is electrochemically activated and deactivated  to induce th e release of covalently bound CO 2 
+from the amine . This process still capitalizes on  the affinity of amines for binding CO 2. However, when the 
+blocker is activated , it will preferentially bind to the amine and displace  CO 2 from the carbamate.82-84 Since 
+amine regeneration in EMAR is not temperature -driven, wh ere t he desorption temperature  is limited  due 
+to thermal amine degradation, it can potentially  liberate 80 to 90% of the absorbed  CO 2.  17 The success of EMAR relies on the difference between binding constants of the amine -CO 2 and amine -
+blocker complex. The amine and blocker should form a stable complex  with the equilibrium constant that 
+is much larger than that of the amine with the CO 2. The standard blocker and amine used in EMAR are 
+copper  and ethylenediamine (EDA) . These species both fit the designated requirements, such that once 
+Cu2+ is present in solution t he amine will release CO 2 in favor of binding to copper. The equilibrium 
+constants for EDA with CO 2 and Cu2+ are given below 82, 84 
+ 2EDA(aq)+Cu2+   𝐾𝐶𝑢   
+⇌Cu(EDA)22+  𝐾Cu = 2.10 x 1018 (Eq. 7) 
+ EDA(aq)+CO2(aq)   𝐾𝐶𝑂2   
+⇌EDA(CO2)(aq) 𝐾CO2 = 4.90 x 104 (Eq. 8) 
+ 
+The EMAR process is similar to the temperature driven  amine -based  solvent system , except the 
+desorber is exchanged with an electrochemical cell  (Figure 5).82 EMAR begins with contacting flue gas with 
+the amine solution in an absorber, where the CO 2 react s to form a carbamate. The carbamate solution 
+then flows to the anode of the electrochemical cell where copper (Cu0) is oxidized to Cu2+ and dissolved 
+into solution. The amine preferentiall y binds to Cu2+, liberating the CO 2, which is then collected. The 
+copper -amine complex in solution is circulated back  to the cathode of the electrochemical cell where 
+copper is reduced back to Cu0 and plated onto the electrode , effectively regenerating the  amine so the 
+cycle can begin  anew.82-84  
+4.2 Demonstrations  
+Figure 5 . EMAR cycle in which  an 
+amine -based solvent is brought into 
+contact with simulated flue gas to 
+form carbamate. The carbamate -rich 
+amine -based solvent is pumped to 
+the anodic compartment. Upon 
+electrochemical oxidation, Cu2+ is 
+introduced to the solution, and the 
+Cu–amine com plex forms, releasing 
+CO 2. The gas phase is separated, and 
+the Cu –amine solution is pumped 
+back to the cathodic compartment 
+where Cu2+ ions are 
+electrochemically plated onto the 
+electrode, releasing —and, hence, 
+regenerating —the amine. Reprinted 
+with permis sion from the American 
+Chemical Society from ref 79.   18 In early work for the EMAR process,  Stern et al.  compared fourteen different  amines that included 
+monoamines, amino acids, and polyamines before narrowing the selection to just four polyamines  - 
+ethylenediamine (EDA), triethylenetetramine (TETA), aminoethylethanolamine (AEE A), and 
+diethylenetriamine (DETA) . Polyamines were selected as they are more likely  to chelate copper ions with 
+high binding constants to form stable copper complexes. The other ten amines had a tendency to 
+precipitate as salts, especially in the presence of CO 2, making them unsuitable candidates.85 The four 
+polyamines were analyzed for their  preference for Cu2+ in the presence of CO 2, CO 2 loading capacity,  and 
+open -circuit potential measurements. the amount of copper required to deactivate the amine was 
+examined. It was found that for EDA, AEEA, and TETA , one equivalent of Cu2+ binds to each amine ; 
+however, this ratio for DETA depended on  the copper loading  (which is proportional to  Cu2+ 
+concentration ). At higher copper concentrations,  one DETA molecule binds to each Cu2+, and at  lower 
+copper loading , two DETA molecules bind to each Cu2+. meaning that more copper is required to 
+deactivate the molecule and release  CO 2. Commonly used amines theoretically have a CO 2 capacity of 0.5 
+as carbamate formation results in a zwitterion, where two amines are required for every molecule of 
+captured CO 2 (See Section 4.4). TETA, AEEA, and DETA all showed loading below 0.5, which could be 
+caused by unreacted secondary amine groups present in these three polyamines. EDA, which has no 
+secondary amine group, possessed a loading slightly over 0.5 likely due to the formation of bicarbonate, 
+a common side reaction for primary amines.83 Lastly, the difference in the open -circuit potentials for a 
+copper electrode under anodic and cathodic conditions was used to estimate the minimum energy 
+needed for releasing and removing Cu2+ into solution . Here, the concentration of EDA and Cu2+ was 
+identical at the two electrodes, and thus open -circuit potential differences arise from differences in CO 2 
+concentrations at the electrodes. After these initial tests, EDA was selected  as the standard amine for use 
+in EMAR due to its high CO 2 loading capacity  (likely due to a lack of secondary amine groups ). EDA has also 
+been identified as a desirable candidate in the thermal -swing CO 2 capture systems ; however, the heat 
+required for CO 2 desorption from EDA is too high to be economically practical .83 
+Early bench -scale demonstrations of the EMAR system capture d and concentrat ed CO 2 from a pure 
+feed stream (100%) of CO 2 with an energy requirement  of ≤ 100 kJ/mol CO 2 and Faradaic efficienc ies up 
+to 80% .85, 86 Separation from streams with lower CO 2 concentrations was not performed  in this early 
+system , as the copper swing of their benchtop system (i.e., conversion between Cu0 and Cu2+ in the 
+electrochemical cell) was not high enough  compared to the concentration of CO 2 physically dissolved in 
+solution. Advances in the EMAR cell design have resulted in significant performance improvements, as 
+described in the following section. Additionally, more recent EMAR demonstrations have operated at an  19 elevated fluid temperature (55  °C), which enhanced electron transfer kinetics at each electrode and 
+reduce CO 2 solubilities during desorption.87, 88 ,82 The current bench -scale process can capture CO 2 from a 
+15% CO 2 feed stream  (N2 balance) , while operating at 40 –80 kJ/mol CO 2.87 The system has also 
+demonstrated stable operation for 50 hours.  
+Liu et al. studied the use of MEA rather than EDA in a thermal -electrochemical co -driven system 
+(TECS),  where they essentially  combin ed the more commonly used amine from thermally driven CO 2 
+capture and EMAR .62 This system  parallel s the EMAR scheme described above (Figure 5) , with MEA binding 
+to CO 2 and then Cu2+ being introduced electrochemically; however, a thermal step is also used. After Cu2+ 
+ions have been stripped and dissolved , the solution is heated to 90 °C to assist in the removal of CO 2 from 
+MEA.89 The additional heat is needed in TECS likely because the solubility of copper in MEA -based 
+solutions  is moderately low, leading to insufficient Cu2+ concentrations in solution to displace CO 2 in all of 
+the MEA -CO 2 present.84 One challenge Liu et al. encountered was the reduction of Cu -MEA —and thus the 
+regeneration of Cu0 and MEA —was slow. Adjusting Cu2+ concentration , CO 2 loading, temperature, and 
+KNO 3 concentration of the system decrease d the charge transfer resistance and improved kinetic s. 
+Further, i ncreasing the Cu2+ concentration and temperature  improved mass transfer and thus reduced the 
+associated overpotential . A combination of data from experimental techniques (cyclic voltammetry, 
+potentiodynamic polarization, and electrochemical im pedance spectroscopy) and a regression analysis  
+found  that the optimum operating conditions for this TECS system are a Cu2+ molality of 0.25 mol/kg, CO 2 
+loading of 0.37 mol CO2 /mol amine, a temperature of 90 °C, and KNO 3 molality of 1 mol/kg. Under these 
+conditions, the regeneration energy consumption is predicted to drop to 1.3 GJ /t CO 2 (63 kJ / mol CO 2).89 
+These conditions  can enable higher energetic efficiencies  than traditional amine regeneration process es, 
+which typically require >2.3 GJ / ton CO 2 (>110 kJ / mol CO 2).24-27 These efficiencies are  also comparable 
+to estimated energy requirements of Wang et al. for their lower temperature EMAR system (with EDA) of  
+40 – 80 kJ / mol CO 2.87 
+4.3 Cell and System Desig n 
+The EMAR process , pioneered by Hatton and co -workers,  is arguably the most developed redox -
+mediator -based method  for eCCC in the peer -reviewed  literature , as there have been several bench -top, 
+flow -cell level demonstrations , as well as engineering assessments regarding cell design metrics . 66 70 83 85, 
+86, 87 90 91 84 90   In an ea rly embodiment, the EMAR cell consisted of copper plate electrodes and a porous 
+polypropylene separator (Celgard 3501) to physically separate the cathodic and anodic electrolyte 
+solutions while maintaining an ionic connection. Liquid -phase reactants were f ed to the cathode and 
+anode using parallel flow channels  with  a rectangular cross -section.  As described above, early  20 demonstrations with this flow cell captured CO 2 at ≤ 100 kJ/mol CO 2.85, 86 This prototype cell had a  
+relatively  low operating current density (5 mA cm-2) and was limited by low swings in copper loading (i.e., 
+conversions) , resulting in less than  1% of bound CO 2 being released per pass  in the electrochemical cell .85, 
+86,90 
+Analysis of the EMAR cell using two -dimensional (2D), convection -diffusion modeling of the planar 
+electrodes has suggested large mass transport limitations emerge with increased conversion per pass. 
+Specifically, the model predict s the development of a thick boundary layer in the flow direction, which , in 
+turn, leads to a n increase in the cell voltage at relative ly low current densities (<8 mA cm-2), where the 
+cell enters a mixed kinetic -mass transfer regime.90 This limitation can be overcome by increasing the 
+electrolyte flow rates , albeit at the expense of conversion pe r pass.  Wang et al. estimate that current 
+densities greater than 50 mA/cm2 could be achieved with improved mass transport properties of the cell.91 
+When tested with galvanostatic experiments (10 mA/cm2), increasing the flowrate from 75 to 225 mL/min 
+reduced cell voltage by 20%, albeit at the expense of Cu0/Cu2+ conversion  per pass  and thus CO 2 separation 
+capacity . Additionally,  large baffles (a form of turbulence promote rs) were incorporated into the flow 
+channels of an EMAR cell , which  led to a 25% reduction in cell voltage, similar to the effect of increasing 
+flow rate but without decreasing conversion  per pass . However, a consequence of such obstructions  is 
+increased  pressure drop through the cell .92 More recent  generations of  EMAR cell s have incorporated a 
+pin-type flow channel, with rubber dots arranged in a regular pattern. These cells have exhibited 
+significant performance improvements compared to earlier versions , but it is unclear if and how much the 
+flow channel has contributed to this due to concurrent changes to the cell/system design and operating 
+procedure .87 
+In addition to flow channels, optimizatio n of the electrode geometry will also play a role in improving 
+cell performance. Currently, 2D planar electrodes are used in EMAR. However, in many fields, three -
+dimensional (3D) porous electrodes have been adopted to enhance performance.93,94,95 Overall, these 
+porous electrode structures have a significantly higher reaction area per volume, which permits cell 
+operation at higher geometric current densities with reduced overpotentials compared to planar 
+electrodes.96 In modeling the EMAR system, Stern et al. estimated that a cell with porous electrodes could 
+operate with overpotentials > 50% lower than a cell with  planar electrodes.83 Whe n tested, the use of 
+porous copper foam electrodes within the EMAR cell enabled higher Faradaic efficiencies and lower cell 
+resistances, however , performance diminished over a few hours.90 They believe this failure was due to 
+bubble formation and entrapmen t within the electrochemical cell. To the best of our knowledge, no 
+further work using porous electrodes within the EMAR cell has been published  to date.   21 Issues associated with plating and stripping copper have also hindered system feasibility and cell 
+performance. During operation , the current density is not uniformly distributed across the electrode 
+leading to spatially -varying metal deposition on the cat hode and stripping from the anode. Accordingly,  
+authors reported sanding or completely replacing both electrodes  between experiments.90, 97 While less 
+of a concern for exploratory studies at the bench -scale, if unaddressed, electrode degradation has the 
+potential to become a significant maintenance challenge during practical implementation . Furthermore, 
+as current density is increased and mass transport limitations emerge, dendritic copper growths can occur 
+during plating. These deposits can become more powder -like as the cell approaches a mass transport 
+controlled regime.98 In a cell with convective flow, these more loose ly-bound deposits may be sheared 
+away from the surface,99 resulting in a permanent loss of copper electrode mass over time. Additionally, 
+dendritic copper growths from the electrode surface can puncture the membrane/separator and come 
+into contact with the opposite electrode , resulting in an internal short circuit.86 Early EMAR cell designs 
+incorporated a woven cotton  cloth (cheesecloth) between the membrane/separator and solid electrode 
+to provide support and prevent this type of contact.83, 86 Use of this material, however, significantly 
+increased the ohmic resistance of the cell. Incorporation  of a structured  flow field (as described above) 
+not only enhanced mass transport, but also better supported the membrane/separator such that 
+supporting cloth was not required to prevent contact between the electrode and membrane/separator. 
+This arrangemen t also reduced the ohmic resistance of the cell from 0.6 Ω to 0.0289 –0.14 Ω, which led to 
+concomitant  decreases in estimated energy requirements for CO 2 separation.78, 86, 87 The 
+membrane/separator itself also introduces ohmic losses, which depend on membrane/separator class 
+(ion-exchange membrane or porous, non -selective separator) and material . While earlier EMAR 
+demonstrations have mos tly used porous, non -selective separators , more recent studies have instead 
+reported using anion -exchange membranes . However, there is no indication of whether this has resulted 
+in performance enhancement.82, 87 
+The discussed studies have led to advances in EMAR cell /system  design, which have allowed for 
+significant performance improvements. The improved cell platform afforded lower cell overpotentials and 
+thus improved energetics (40 –80 kJ/mol CO 2), as well as greater copper loading swings leading to higher 
+regeneration capacities (0.12 –0.62 mol CO 2/mol EDA).  Despite these advances, cell operation is still 
+limited by relatively  low curren t densities  and challenges with copper plating/stripping.  
+4.4 Computational Insight into Amine/CO 2 Binding  
+The strength by which a particular amine binds the CO 2 molecule is a decisive factor governing the 
+efficiency of both thermal swing and EMAR technolo gies. Amines that exhibit stronger CO 2 binding can  22 enable higher removal rates of CO 2, but may require more energy to release CO 2 and regenerate the 
+solvent. However, the seemingly simple process of formation of a carbamate through the reaction of an 
+amine with CO 2 is more complicated due to intermediate reactions following the initial CO 2 uptake.   
+Computational modeling has provided insight into the stability of possible reaction intermediates  and 
+energetic barriers for their interconversion and decom position .100-102 Modeling has also been used to 
+understand how substituent effects  are correlated with binding energies, basicities, or nucleophilicities  
+of the CO 2-binding centers , and also how hydrogen -bonding  can influence these trends . However, not all 
+fundamental aspects of CO 2 absorption by amine functionalities have been resolved. There is now a clear 
+consensus that the reaction is assisted by participation of the solvent (water) molecules, which play a 
+critical role in the stabilization o f reaction intermediates, regardless of their chemic al nature. The 
+insufficient modeling of the solvent environment has thus  led to inconsistencies in the theoretical 
+models , resulting in contrasting conclusions .  
+In the pioneering work s on the MEA -CO 2 binding mechanism, Da Silva and Svendsen103 and Shim et 
+al.104 suggested  that the carbamate product is formed via a single -step, third -order reaction mechanism. 
+The CO 2 molecule is proposed to bind to one MEA molecule and concurrent deprotonation by a second 
+MEA increases its basicity ( Figure 6A). Alternatively, another base or a solvent molecule can substitute 
+the second MEA molecule in the mechanism. In another study,105 Da Silva and Svendsen recognized a 
+significant stabilization of both the zwitterioni c intermediate and the carbamate by the solvent 
+microenvironment  and suggest ed that a zwitterionic intermediate (initially thought to be a transition -
+state structure) may be present in the (two -step) mechanism ( Figure 6B), although it would likely be 
+short -lived.  
+Arstad et al. proposed another mechanism for MEA -CO 2 binding,106 in which the carbamic acid is 
+formed from the same zwitterionic intermediate through a proton -relay mechanism. In such a pathway, 
+proton transfer is assisted by a solvent (water) molecule, or an additional amine species ( cf. Figure 6C).  
+A:  
+  
+B:  
+   23 C:  
+  
+Figure 6. Three suggested reaction mechanism s for CO 2 absorption by MEA : (A) MEA binds one CO 2 
+molecule and concurrent deprotonation by a second MEA form s a carbamate ; (B) MEA binds one CO 2 
+molecule to form a short -lived zwitterionic intermediate which is followed by deprotonation by another 
+base (e.g., amine) or solvent to form a carbamate; ( C) MEA  binds one CO 2 molecule to form a short -lived 
+zwitterionic intermediate which is followed by a proton transfer from a solvent (water) or amine 
+molecule to form carbamic acid.  
+ 
+Sumon et al. advocated for the use of a more advanced semi -explicit solvation model to obtain 
+accurate energetics, and they included up to 20 water molecules in a hydrogen -bonded cluster around 
+the solutes.107 A further improved model inclu ded the dynamical behavior of the systems obtained from 
+the molecular dynamics. This approach is significantly more demanding, as the advanced evaluation of 
+the free energies along with the sampling of the solvent configurational space is required. As an exam ple 
+of this approach, both mechanisms in Figures 6a and 6b were re -evaluated by Xie et al.108 Based on ab 
+initio  calculations (at the CCSD(T) level of theory) combined with quantum mechanics/molecular 
+mechanics/molecular dynamics simulations (QM/MM/MD), the authors concluded that the two -step 
+reaction mechanism to form a carbamate throug h a zwitterionic intermediate ( Figure 6B) is the most 
+likely, contrasting with the ‘carbamic -acid’ pathway. In accordance with the barrier obtained from the 
+experiment, they observed the rate -limiting step to be associated with the MEA(CO 2) formation at ca . 12 
+kcal/mol, which was primarily attributed to the breaking of the hydrogen -bonding network around the 
+CO 2 molecule to initiate binding to MEA.  
+Employing the (DFT -based) ab initio  molecular dynamic simulations (AIMD), the stability and mutual 
+interconver sion of the reaction intermediates along the two -step CO 2 capture process from Figure  6B 
+(CO 2 + MEA → zwitterion → carbamate) was also studied.109-114 More specifically, Han et al. observed 
+rapid deprotonation of the zwitte rionic intermediate, forming a stable carbamate species,109 which was 
+recognized as the principal driving force for CO 2 absorption. Noticeably, the same zwitterion → 
+carbamate transformation was also supported by the unbiase d AIMD,110 allowing estimation of the 
+zwitterionic intermediate lifetime to be ca.  100 ps.  24 To some extent, complementary results were later acquired by Guido110 and by Hwang,109 which 
+focused on  the stability of the zwitterionic intermediate with respect not only to the zwitterion 
+deprotonation (i.e., carbamate formation) but also to CO 2 removal (i.e., MEA regeneration). A delicate 
+balance between the competing pathways was identified in both of the studies, which was deemed to 
+be further complicated by significant temperature and entropic effects  that contributed to the free 
+energies from extensive reorganization of the solvent microenvironment. The solvent participation was 
+shown to go far beyon d the first solvation shell, providing further evidence of the inadequate use of the 
+continuum (even semi -explicit) solvation models.  
+The tight balance between zwitterion → carbamate and zwitterion → CO 2 + MEA competition was 
+also acknowledged  in investig ating CO 2 release from carbamate.113 Since the calculations revealed that 
+the process is too energetically demanding, the authors made use of the reversibility of the reactions, 
+proposing that CO 2 release is accomplished by (i) regeneration of the zwitterionic intermediate by 
+carbamate protonation by MEA(H+), and (ii) CO 2 release from the zwitterionic intermediate (i.e., reverse 
+of the reaction  pathway  B in Figure 6). 
+Finally, Matsuzaki et al. investigated the mechanism for the formation of the bicarbonate product.115 
+Based on the ab initio  calculations along with the PCM solvation model, they suggested that the 
+formation of the carbamate intermediate ( Figure 6B) is followed by its protonation in the next step, 
+yielding the carbamic acid. The carbamic acid is then speculated to further undergo an attack by OH‒, 
+releasing the bicarbonate and free MEA.  
+Other studies – not directly focused on the mechanism of the CO 2-amine interaction – were carried 
+out to scr een the additional effects of molecular structure (e.g., amine substitutions), solvent 
+environment, temperature, and other experimental conditions. A few examples include the calculations 
+of various amines’ basicities and their correlation with the CO 2 interaction energies (stability of the 
+carbamate intermediate) and/or the reaction kinetics.105, 116 -119 Naturally, the electron -withdrawing 
+groups weaken ed CO 2 binding efficiency as their basicity decreased , and vice versa . In addition, Orestes 
+et al. proposed that higher basicity implies greater stability of the zwitterionic intermediate, and 
+therefore, suggested that highly basic amines (such as guanidines) may provide relatively stable 
+zwitterions with prolonged lifetime s.116 This greater st ability indicates a stronger bond with CO 2 to form 
+the carbamate  through hydrogen atom transfer of the hydrogen atom bound to the amino nitrogen. Jhon 
+et al. tried to evaluate steric effects to explain the contrasting patterns in the nucleophilicity of var ious 
+amines and their reactivity , but further evaluation is needed to predict better CO 2-amine reactivities .120   25 Finally, Li et al. evaluated the performance of various exchange -correlation functionals for predicting 
+the MEA -CO 2 interaction.121 The authors observed somewhat inconsistent results on  the optimized 
+geometries and the corresponding energies based on the method that was utilized. In particular, the 
+energetic minima seem to differ significantly when the MP2 or DFT optimizations were performed, which 
+raises concerns as to the accuracy of t he ab initio single -point calculations carried out on top of the DFT 
+optimized geometries. However, it seems that the ωB97XD functional can be recommended for both 
+optimization and energetic purposes.  
+In summary, the described theoretical studies have foc used on understanding  the binding 
+mechanism between amines and CO 2. The primary/secondary amines are believed to react with CO 2 
+molecules to provide carbamate species through the short -lived zwitterionic intermediate. The strength 
+of the amine -CO 2 interact ion is regulated by the basicity (nucleophilicity) of the amines that can, in turn, 
+be controlled by the introduction of the electron -donating/withdrawing substituents.  Theoretical studies 
+have also indicate d the close participation of the solvent (water) molecules, as these species  can stabilize 
+the free reactants (by forming a concise hydrogen -bonding network around them) or particular reaction 
+intermediates (such as zwitterionic intermediate or carbamate) , or can function as proton relays to 
+accept /donat e protons. Therefore, it comes as no surprise that solvent models that treat  water 
+molecules explicitly (or semi -explicitly) exhibit more reliable results than simple continuum -based 
+approaches. On the other hand, the mechanism of CO 2 release is still rela tively underexplored, as several 
+contrasting reaction pathways have been  suggested.  
+ 
+5. Redox -Active Capture Molecules  
+5.1 Introduction  
+Another  popular  approach to eCCC is the use of redox -active capture molecules , or redox carriers,  
+that direct ly bind and release CO 2 upon oxidation or reduction  (i.e., direct eCCC methods) . Scheme  4 
+illustrates  a generalized  direct eCCC cycle featuring a redox carrier .122 In the cycle, the molecule in the 
+restin g state (R) is reduced to form the active state carrier species ( R𝑛−), where 𝑛 is the number of 
+electrons transferred . The reduced species has a high affinity for CO 2 (𝐾1(𝑅𝑛−)), which allows for capture 
+from a dilute inlet stream to form the CO 2-bound adduct, R(CO2)𝑞𝑛−. Here, 𝑞 represents the number of 
+CO 2 molecules that bind to each capture molecule.  Release is triggered by  the oxidation of R(CO2)𝑞𝑛− to 
+form  R(CO2)𝑞, which has a much lower affinity for CO 2 (𝐾2(R)), result ing in liberation of CO 2 to reform 
+the resting -state carrier ( R) to complete the cycle. This approach takes advantage of the difference  26 between the binding affinity of the oxidized ( 𝐾2(R)) and reduced (𝐾1(𝑅𝑛−)) states of the carrier ( R and 
+R𝑛−, respectively).  
+ 
+Scheme 4. Redox -active capture molecules  for electrochemically -mediated CO 2 separation , adapted 
+from Ref. 41.   
+ 
+DuBois and coworkers were the first to publish  the use of redox -active capture molecules  for eCCC 
+applications. Several classes of redox -active capture molecules were assessed using spectroscopic, 
+voltammetric, and controlled potential electrolysis approaches to determine both the electrochemical  
+reversibility of CO 2 binding and the  CO 2 equil ibrium constants of the oxidized and reduced forms.123,124 In 
+these works , they outline desirable molecular properties of efficient CO 2 capture molecules. They 
+propose that a capture molecule for direct eCCC must  have a site capable of CO 2 binding  and must also 
+be able to undergo chemically reversible oxidation and reduction in the presence and absence of CO 2. 
+Regarding these two points, they identified the importance of proximity of the redox center to the CO 2 
+binding site. Shorter distances between the two sites resulted in large r changes in the binding affinity 
+between oxidized and reduced states of the capture molecule. This is important because the difference 
+in CO 2 binding affinity between the oxidized and reduced forms must be sufficiently large to enable  
+sufficient CO 2 captu re from a given feed gas . One metric that can be utilized to evaluate if sufficient CO 2 
+is captured from the feed gas is the Faradaic efficiency, or the moles of CO 2 separated per mole of 
+electron transferred . Assuming complete activation/deactivation of a redox -active capture molecule 
+(with total concentration [R]T), the upper bound on  𝜂faradaic  for a redox -active carrier / solvent system 
+can be determined as follows:  
+ 𝜂faradaic=𝑞
+𝑛(𝐾1(R2−)(𝐾H𝑃i)𝑞
+1 + 𝐾1(R2−)(𝐾H𝑃i)𝑞−𝐾2(R)(𝐾H𝑃0)𝑞
+1 + 𝐾2(R)(𝐾H𝑃0)𝑞)−𝐾H
+𝑛[R]T(𝑃0−𝑃i)  Eq. 9  
+ 27 where 𝐾H is the Henry’s law constant for CO 2 in the solvent of choice, 𝑃i is the initial CO 2 partial pressure 
+before separation, and 𝑃f is the final CO 2 partial pressure after separation and recovery (typically 1 atm). 
+This expression for the Faradaic efficiency upper bound aligns with several previous works.124, 125, 126 
+Considering an exampl e system with a 1 0% CO 2 stream (typical concentration from a coal -fired power 
+plant flue gas)23, 28  and the following constant parameters ( [R]T = 1 M, KH = 0.175 M/atm, 𝐾2(R)≪1,𝑞 = 
+1), a 𝐾1(R𝑛−) value of at least 6.3 x 102 is required to obtain ≥ 90% of the maximum Faradaic efficiency 
+predicted with eq. 9 . Using the same equation, a 𝐾1(R𝑛−)  value of at least 1.6 x 105 is necessary to capture 
+from atmospheric CO 2 sources (𝑃i = 410 ppm) with the same efficiency.  
+In addition to impacting the Faradaic efficiency,  binding coefficients can also influence  system energy 
+requirements due to their direct relation to the difference in standard potentials for the binding and 
+release steps (ΔE = E°cathodic  - E°anodic ). More specifically, the ratio between the activated and deactivated 
+capture molecule binding affinities , i.e., 𝐾1(R𝑛−)/ 𝐾2(R), is intrinsically proportional to ΔE according to 
+eq. 10. 
+−𝑅𝑇ln(𝐾1(R𝑛−)
+𝐾2(R))=𝑛𝐹(∆𝐸)     Eq. 10 
+Therefore , a higher binding affinity ratio, 𝐾1(R𝑛−)/ 𝐾2(R), will lead to higher cell voltages and thus greater 
+energy requirements.  To further assess this tradeoff between system energy requirements and Faradaic 
+efficiency, Clarke et al. defined a combined efficiency metric to highlight molecular properties (such as 
+𝐾1(R𝑛−)) that may be effective to adequately balance this tradeoff.126 Their work also explores how these 
+effective properties are dependent upon other system properties, such as system configuration.   
+Beyond having ade quate CO 2 binding affinities while maintaining a minimal potential difference 
+between binding and release steps, additional desirable characteristics  of capture molecules  include : 
+rapid electron transfer kinetics, high solubility , stability of the carrier species towards other compounds 
+present in a given feed gas composition  (e.g., oxygen, water vapor) , among others.42, 43, 125 Overall, several 
+different classes of molecules have been identified and assessed as capture molecule candidates . 
+Quinones are the most studied group of molecules, 110, 113, 127-131 but other redox -active capture species 
+have been assessed as well, including transition -metal  complexes ,132 bipyridines,133-135 and thiols.136 In 
+the following sections, several demonstrations involving different capture molecules  and solvents  will be 
+discussed. Thes e demonstrations include primarily cyclic voltammetry and bulk electrolysis experiments 
+to assess CO 2 binding/release capabilities, as well as a few engineered flow -cell systems.  
+5.2 Mechanistic Insights  and Demonstrations   28 5.2.1 Quinones. In addition to acting as reversible PCET pH -mediators (as discussed  in Section 3 ), 
+ortho - and para -benzo quinones can bind  CO 2 directly under aprotic conditions . CO 2 reacts with reduced  
+quinone s at one or more anionic oxygen ato ms via an ECEC or EEC mechanism .128 An ECEC mechanism 
+may be desirable  because the  quinone  capture s two CO 2 molecules, increasing the sorbent capacity. 
+Additionally, capturing two CO 2 molecules per two electron transfers theoretically allows for Faradaic 
+efficiencies of 100%.  ECEC or EEC mechanisms d epend on whether  CO 2 molecules  bind to the reduced 
+species  in its radical anion ( QRA) and/or dianion ( QDA) forms  (Scheme 5).127-129 In general, quinones have 
+displayed a wide range of affinity for CO 2; reported CO 2 binding constants for  quinone dianion s (𝐾CO2(DA)) 
+have been report ed between ca. 10 – 1020,124, 128, 137 -141 which is summarized in Table 1. Numerous 
+quinones  also bind CO 2 in their radical anion state ( QRA). However to date, 𝐾CO2(RA) values have only been 
+reported for 9,10 -phenanthrenequinone and 2,6 -di-tert-butyl -1,4-benzoquinone.124, 137 The binding 
+constants for both radical anions ( 𝐾CO2(RA)) were several orders of magnitude smaller than the 
+corresponding values for the dianions ( 𝐾CO2(DA)). Although no other values of 𝐾CO2(RA) have been 
+quantitatively determined, cyclic voltammetry suggests that 𝐾CO2(RA) is always much smaller than 
+𝐾CO2(DA),124, 128, 129, 137, 138, 140 likely due to increased nucleophilicity o f the oxygen atoms in the dianion. The 
+specific  value  for 𝐾CO2(RA), which represent s the thermodynamic favorability of CO 2 binding to a quinone 
+radical anion species,  causes the disparity in  reported  mechanism s (EEC or ECEC) . A complication to this 
+assessment, however, is if disproportionation of two QRA molecules transpires to create Q and QDA, which 
+then reacts with CO 2; this may result in inflated values for 𝐾CO2(RA) and falsely suggest an ECEC 
+mechanism if not properly consi dered .124, 142, 143   29  
+Scheme 5. Direct electrochemical capture by quinones  by EEC mechanism (top) and ECEC mechanism 
+(bottom) . 
+ 
+Table 1. Reported r eduction p otentials for various quinone radical anion / dianion redox pairs ( E21/2) and 
+associated  CO 2 binding constants  of the dianion species ( KCO2(DA) ). 
+Quinone  Solvent  E21/2(N2)a E21/2(CO2) a ΔE1/2b Log(KCO2(DA) ) Ref. 
+Tetrachloro -1,4-benzoquinone  DMF  –0.72  N/A N/A 3.8 120 
+2,6-di-tert-butyl -1,4-benzoquinone  DMF  –1.46  N/A N/A 15.0  120 
+9,10 -phenanthrenequinone  DMF  –1.19  N/A N/A 11.8  120 
+2,3-dicyano -1,4-benzoquinonec DMF  –0.47  N/A N/A 3.8 121 
+tetrafluoro -1,4-benzoquinone  DMF  –0.80  –0.50  0.30  4.3 135 
+tetrabromo -1,4-benzoquinone  DMF  –0.88  N/A N/A 3.3 136 
+2,3-dichloro -1,4-naphthoquinone  DMF  –1.21  N/A N/A 5.7 136 
+2,5-bis(dimethylamino) -3,6-difluoro -1,4-
+benzoquinone  DMF  –1.47  N/A N/A 11.6  136 
+1,4-benzoquinonec DMSO  –1.05  0.00  1.05  16.9e 137 
+anthraquinone  (AQ)  DMSO  –1.40  –0.65  0.75  11.8 e 137 
+duroquinone  DMSO  –1.55  –0.33  1.22  19.9 e 137 
+naphthoquinone  (NQ)  DMSO  –1.25  –0.40  0.85  13.5 e 137 
+2,6-dimethyl -1,4-benzoquinone  DMSO  –1.40  –0.23  1.17  19.0 e 137 
+O
+OO
+OO
+O
+O
+OO
+OE11/2 E21/2
+E2’1/2KCO2(RA)R
+RR
+RR
+RR
+RR R
+R R
+R R
+R RR
+R RRO
+O
+O
+OKCO2(DA)
+K ’CO2(DA)R R
+R R
+R R
+R ROOOO
+OO
+OO
+O
+OQ QRA
+QRA(CO2)QDA
+QDA(CO2) QDA(CO2)2QDA(CO2) 30 2, 6- dichloro - 1, 4-benzoquinone  MeCN  –0.94  –0.60  0.34  6.0 125 
+2- chloro - 1, 4-benzoquinone  MeCN  –1.07  –0.58  0.49  10.0  125 
+tetrafluoro -1, 4-benzoquinone  MeCN  –0.80  –0.62  0.18  3.8 125 
+tetrachloro -1,4-benzoquinone  MeCN  –0.74  –0.63  0.11  2.5 125 
+5-hydroxy - NQd** MeCN  –0.94  –0.71  0.23  3.3 125 
+1, 8- dihydroxy - AQd** MeCN  –1.20  –0.94  0.26  5.4 125 
+1, 2- dihydroxy - AQd** MeCN  –1.29  –1.08  0.21  4.6 125 
+5, 8- dihydroxy - NQd** MeCN  –0.98  –0.91  0.07  2.1 125 
+anthraquinone  MeCN  –1.56 –0.62  0.46  9.0 138 
+1-hydroxy -AQ MeCN  –1.30  –1.18  0.20  5.1 138 
+1,4-dihydroxy -AQ MeCN  –1.15  –1.14  0.01  1.1 138 
+1-amino -AQ MeCN  –1.58  N/A N/A 8.3 138 
+1,4-diamino -AQ MeCN  –1.63  N/A N/A 9.7 138 
+1-amino -4-hydroxy -AQ MeCN  –1.41  –1.20  0.21  4.8 138 
+2,3-dicyano -1,4-naphthoquinone  MeCN  –0.62  N/A N/A 1.7 136 
+2,5-bis(dimethylamino) -1,4-benozquinone  MeCN  –1.23  N/A N/A 12.1  136 
+tetra(dimethylamino) -1,4-benzoquinone  MeCN  –1.68  N/A N/A 11.6  136 
+tetramethylester -1,4-benzoquinone  CHCl 3 –0.65  N/A N/A 2.5 136 
+aPotentials are reported as V vs. SCE. Potentials recorded in MeCN were converted to SCE using Ref. 144  
+b Reported in uni ts of volts and equal to the shift in half -wave potential in the presence and absence of 
+CO 2 (ΔE1/2 =𝐸𝑜′ - 𝐸1/2 in eq. 11) .                           
+cUndergoes Kolbe -Schmidt reaction with CO 2 as a decomposition pathway.                                                           
+dFeatures intramolecular hydrogen -bonding interactions.                                                                                    
+e Calculated using eq . 11 from  reported reduction potentials under N 2 and CO 2 atmospher e. 
+ 
+Among the  multiple  classes of redox -active molecules first considered by DuBois and coworkers , 
+quinones were the  most promising.  137   A wide variety of quinone candidates were screened in acetonitrile 
+(MeCN) and dimethylformamide (DMF)  using both cyclic voltammetry and bulk e lectrolysis technique s. 
+Of the large number investigated, only five showed reversible CO 2 binding and release with sufficient  CO 2 
+binding affinities : 2,6-di-tert-butyl -1,4-benzoquinone ( DtBBQ ), 9,10 -phenanthrenequinone (PAQ), 
+tetrachloro -1,4-benzoquinone ( TCQ), 2,3 -dicyano -1,4-benzoquinone, and 2,3 -dicyano -5,6-dichloro -1,4-
+benzoquinone (DDQ) . Reduction potentials and values of 𝐾CO2(DA) (and some values of 𝐾CO2(RA)) were 
+reported for each of the five quinones, however little mechanistic information was determined beyond 
+the number of CO 2 molecules bound per quinone dianion.  
+In 1989, Mizen and Wrighton reported the first mechanistic study of CO 2 binding to quinone 
+dianions.127 Chemical reduction of PAQ by one or two el ectrons with cobaltocene or sodium metal  (to 
+form PAQ●– or PAQ2–, respectively) , followed by addition of CO 2 resulted in the formation of a new species.  31 This species featured a 13C NMR peak between 156 -158 ppm in CD 3CN or DMSO -d6, suggesting formation 
+of an alkyl carbonate. Infrared spectroscopy further confirmed this assessment, exhibiting carbonyl 
+stretches at 1646 and 1686 cm-1 when cobaltocene was used as the reductant. Spectroelectrochemical 
+infrared (SEC -IR) spectroscopy indicates the formation of a single carbonyl stretch at 1646 cm-1 upon 
+reduction of PAQ to PAQ2–. The stretch observed at 1686 cm-1 was attributed to interactions with 
+cobaltocenium cation, which is more likely to interact and stabilize the CO 2 adduct than the 
+tetrabutyla mmonium cations present in SEC -IR studies. When the same experiments were repeated in 
+the absence of CO 2, the 13C NMR and IR signals were not observed, which indicated CO 2 binding occurs at 
+one or both anionic oxygen atoms upon reduction of PAQ to PAQ2–. With this information, along with the 
+experimentally determined 2:1 ratio of CO 2:PAQ2–, Mizen and Wrighton proposed an ECEC mechanism for 
+the reaction , whereby two molecules of CO 2 are bound through the two oxygen atoms of PAQ2–. 
+Shortly thereafter , Ogura a nd coworkers reported a mechanistic study with several other quinones 
+and CO 2 in MeCN.128 This study expanded upon the work of Mizen and Wrighton by includ ing 11 different 
+quinones of varying electron density. Like PAQ, the quinones with more nucleophilic oxygen atoms bind 
+two molecules of CO 2 via an ECEC mechanism. In contrast, t he less electron dense quinones did not  bind 
+CO 2 in the radical anionic state and thus undergo an EEC to bind one molecule of CO 2 upon reduction to 
+the dianion. Interestingly, the authors observed that there appeared to be a specific threshold potential 
+for the first reduction (to form the radical anion) where the quinones switched between EEC and ECEC 
+mechanisms . The proposed ECEC mechanism for 1,4 -anthraquinone (AQ), 1,4 -napthoquinone (NQ), 
+duroquinone (DQ), and 2 ,6-dimethylbenzoquinone (DMQ) in MeCN by O gura  and coworkers contrasts 
+with  the mechanism previously reported in dimethylsulfoxide by Simpson and Durand.140 Simpson and 
+Durand propose d an ECE mechanism for each of the se quinones based on cyclic voltammetry; however 
+the authors did not determine how many CO 2 molecules were  bound to the reduced quinone species. Due 
+to the difficulty of differentiating ECE and ECEC mechanisms by cyclic voltammetry and without knowledge 
+of either reaction stoichiometry or products formed,145 it is likely that the mechanism was incorrectly 
+assigned and is in fact ECEC for these quinones.  In more recent work, naphthoquinone s have been 
+determined to undergo ECEC or EEC mechanisms in ionic liquid solvents, similar to what has been 
+previously observed in aprotic organic solvents .129  
+To study the redox behavior and the reactivity toward CO 2 capture of p-benzoquinone (BQ) and 
+tetrafluoro -p-benzoquinone (TFBQ), Namazian et al. employed  both experiments (cyclic voltammetry) 
+and theory (ab initio calculations with the  G3MP2//B3LYP composite method with the CPCM solvation 
+model ).138 Their cycli c voltammetry results  in DMF solvent  indicated  that BQ is likely to capture CO 2 after  32 the first reduction to BQ semiquinone  (BQ●–), whereas the TFBQ was proposed to react with CO 2 only 
+after the two -electron reduction  (TFBQ2-) is accomplished (note that th is corresponds to the ECE and EEC  
+mechanisms for BQ and TFBQ, respectively). In the article, the lower reactivity of the TFBQ semiquinone 
+was explained based on the lower nucleophilicity of the quinone ’s oxygen atoms due to the presence of 
+the electron -withdrawing fluorine atoms. The calculation of the lower charge on the oxygen  atoms in 
+TFBQ●– was performed as a confirmation. The BQ and TFBQ w ere also compared in the regioselectivity 
+of CO 2 binding. Both  theory and experimental work indicate that TFBQ2- binds CO 2 at the oxygen atom, 
+forming a carbonate product (note that the carbonate was calculated to be favored by ~  88 kJ/mol over 
+the carboxylate) . Comparatively, theory predicts that BQ prefers carboxyl ate (carbon -bound CO 2) over 
+the carbonate product by ~  10 kJ/mol. However, these findings conflict with previous experimental 
+observation s, and they speculated that this difference may be due to kinetic s, as the  formation of the 
+carbonate product may be a faster reaction  than the that to form the more stable carboxylate product . 
+While formation of a carboxylate versus a carbonate does not affect the overall mechanism (i.e., EEC or 
+ECE) in theory, it is unclear if and how the resulting product  would impact o verall performance of a redox 
+active capture molecule. Fan et al. revisited the BQ reactivity by comparing the properties of the most 
+stable carboxylate species obtained from the calculations with the experimental infrared absorption , and 
+notably, the auth ors’ findings were in agreement .146 
+Naphthoquinones undergo ECEC or EEC mechanisms in ionic liquid solvents, similar to what has been 
+observed in aprotic organic solvents.129 Jin and coworkers used a spectroelectrochemical approach to 
+elucidate the mechanism and site of binding for CO 2 capture with NQ, 2 -chloro -1,4-napthoquinone (CNQ), 
+and 2,3 -dichloro -1, 4-napthoquinone (DCNQ). Upon two electron reductions of NQ to the dianion (NQ2–) 
+under CO 2, a ca rbonyl stretch is observed at 1634 cm-1 via spectroelectrochemical infrared spectroscopy 
+(SEC -IR). The IR band is consistent with a carbonate species and is not present when the experiment is 
+repeated in an inert N2 atmosphere. This result suggests that CO 2 binds to NQ2- through the anionic oxygen 
+atoms, similar to what was previously observed with PAQ2- in MeCN.127 Using cyclic voltabsorptometry 
+(CVA) and derivative cyclic voltabsorptometry (DCVA) , the authors concluded  that reaction of CO 2 with 
+NQ follows an ECEC mechanism using. Monitoring the IR spectrum during CVA and DCVA experiments, it 
+was observed that the CO 2 binds to the radical anion (NQ●–) prior to being reduced to the dianion, where 
+it could  then bind a seco nd molecule of CO 2. The overall reaction stoichiometry of NQ with CO 2 was further 
+confirmed using a similar method used by Ogura and coworkers.128 When the solution was oxidized, the 
+carbonate stretch at 1634 cm-1 disappear ed, with the growth of a peak at 1671 cm-1 corresponding to NQ. 
+This pattern was observed across multiple consecutive scans, indicating that binding and release is  33 reversible. When these experiments were repeated for CNQ and DCNQ, similar results were observed; 
+however, both quinones only bind one mole cule of CO 2 through a  proposed  EEC mechanism.  
+While thermodynamic data exists for CO 2 binding with various quinone dianion species and some 
+anion species, much less kinetic information has been reported. Yet, CO 2 reaction kinetics will play an 
+important r ole in overall system performance  as they will  influenc e the rate of CO 2 binding/release and , 
+consequently, the  design and performance of associated process units (e.g., absorption column). In early 
+work, Wrighton and Dubois investigated the kinetics of bi nding between quinones ( PAQ and DTBBQ, 
+respectively) and CO 2 following reduction. Using chronoamperometric techniques, they obtained second 
+order rate constants of 96 and 19.1 M-1s-1 for PAQ●– in MeCN and DtBBQ●– in DMF, respectively.124, 127 
+Durand and coworkers performed a kinetic investigation of CO 2 binding with a series of quinones in a 
+single solvent.140 Using rotating disk voltammetric methods, the second order rate cons tants for five 
+quinones were determined, ranging between 46 to 350 M-1s-1 in DMSO. The second order rate constants 
+were derived using digital simulations based on data obtained under pseudo -first order conditions , 
+instead of by varying the concentrations o f CO 2 as was done in prior studies . Results from the five quinones 
+indicate that there may be a relationship between the first (more oxidative) reduction potential and CO 2 
+binding rate constant, such that more negative reduction potentials (more nucleophil ic quinones) 
+correspond with faster binding. However, relatively large errors in the rate constants and the small data 
+set prevents analysis of any observed trends. While it is currently unclear what rate constant values will 
+be required or optimal, there are indications for how rate constants could impact CO 2 binding selectivity. 
+From the limited data reported for quinone CO 2 reactivity, protonation is confirmed to be kinetically 
+favored.140, 143 For example, protonation of anthraquinone has been observed to be twice as fast as CO 2 
+binding in DMSO.140 If an electrochemical se paration process requires CO 2 removal from a mixture with 
+high water vapor concentrations, relatively slow CO 2 binding kinetics (as compared to protonation) could 
+significantly reduce capture molecule effectiveness. Thus, careful matching of solvent and qu inone p Ka 
+values and/or preclusion of acidic proton sources are necessary to prevent kinetic inhibition of eCCC due 
+to protonation.  
+In addition to these mechanistic studies, quinones have also been cycled  over longer time scales  using 
+controlled potential electrolysis  or other electrochemical  cells to quantitatively demonstrate CO 2 capture 
+and release. Scovazzo et al . first report ed a successful proof -of-concept CO 2 capture -release system for 
+direct eCCC, which used solutions of DtBBQ in either propylene carbonate or 1 -butyl -3-methylimidazolium 
+hexaflurophosphate ionic liquid ([bmim][PF 6]).125 Using a closed -system bulk electrolysis  set-up, t he 
+authors demonstrated that direct eCCC  from very dilute (< 1%) inlet streams was plausible  and that the  34 overall CO 2 concentration could be increased to near 100% upon oxidation in a single pass. Using 30 mL 
+of the propylene carbonate solution (0.30 M DtBBQ and 0.75 M tetrabutylammonium tetraflu oroborate 
+supporting electrolyte), 120 mL of pure CO 2 was captured and then released from an incoming 0.5% CO 2 
+inlet stream. Successful capture, release, and concentration was also performed  using [bmim][PF 6] as the 
+solvent and electrolyte . However , the low concentration  of DtBBQ compared to  the solubility of  CO 2 in 
+[bmim][PF 6] (0.05 M versus 0.08 M/atm , respectively) resulted in a less impressive concentration swing, 
+which ranged between 7% to 33% initial and final concentrations.  In the two  demonstrations , 0.427 and 
+0.454 moles of CO 2 were released per mole of e lectron  in PC and [bmi m][PF 6], respectively , resulting in 
+Faradaic efficiencies of ~43%  and ~45% . These Faradaic efficiencies  compare well to the maximum 
+Faradaic efficiency of 50% for DtBBQ,  as it requires two -electron processes for binding and release, but 
+only  one molecule of CO 2 is bound to the dianion.  The estimated energetic efficiency of the system is 
+unclear , as no electrode potential difference between the capture and release steps  was reported. 
+However, typical bulk electrolysis cells  (often referred to as “H -cells”) , as such, are non -optimized for high 
+performance operation, and thus , any reported energetic efficiency would likely not be representative of 
+this system’s potential.  
+Hatton and coworkers developed a more engineered cell architecture by using polymeric quinone -
+based electrodes for eCCC processes  (Figure 6) .147 Their approach, coined “electro -swing reactive 
+adsorption” (ESA), u ses a carbon fiber cathode coated in a suspension of carbon nanotubes (CNT s) and a 
+polymeric anthraquinone ( p-AQ) that adsorbs CO 2 directly to the electrode surface upon reduction. To 
+complete the cell, a carbon fiber anode coated in CNT and polyvinyl ferrocene was used . In their first 
+demonstration, the ionic liquid 1 -butyl -3-methylimidazolium bis(trifluorosulfonyl)imide ([bmim][Tf 2N]) 
+served as both the solvent and supporting electrolyte. The Faradaic efficiency of the system was 90% 
+based on cycling experiments performed in a sealed container under 100% CO 2 atmosphere. In th is 
+demonstration , the cell potential was controlled and switched  between -1.3 and 0.5 V while the 
+headspace pressure was monitored to track CO 2 uptake and release by the p-AQ electrode. In addition to 
+sealed cell measurements, an open cell setup was used where a dilute CO 2 stream was passed through an 
+adsorption bed composed of multiple cells. In this setup, the p-AQ electrodes performed  quantitative 
+capture from 10% CO 2 inlet streams, with  over 80% capture was observed with inlet stream 
+concentrations a s low as 0.6%. Additionally, the system was quite robust, with only  ~30% degradation 
+after 7000 capture/release cycles.  Based on the applied potential difference and Faradaic efficiency (90%), 
+the reported system energy requirements were 90 kJ/mol CO 2 for CO 2 removal and recovery from a 10%  35 concentration . Based on the reported 
+values, t he experimental energetic 
+efficiency of the system is estimated to 
+be ca. 6% (given that a 10% to 100% 
+swing for a case o f “skimming” requires 
+5.7 kJ/mol CO 2).  The authors also 
+hypothesize that after several cycles, Δ E 
+can be dropped to 500 mV where ~60% 
+of the quinone species are  activated for 
+capture . Although it was never evaluated 
+experimentally, dropping Δ E to 500 mV i s 
+estimated to lower the energetic 
+requirement to ~43 kJ/mol CO 2 (~13% energy efficiency).  
+More recently, Hatton and coworkers have used their p-AQ electrodes with “water -in-salt” electrolyte 
+mixtures in place of ionic liquids.148 Large concentrations of lithium bis(trifluoromethylsufonyl)imide 
+(LiTFSI) in water result s in a significant extension of the electrochemical window, such that  p-AQ could be  
+reduced and oxidized while minimizing solvent or electrolyte side reactions. Due to the reduced 
+concentration of “free -state” water present in 20m LiTFSI at pH 4, protonation of the reduced p-AQ 
+species was suppressed  (where m is molality) . Due to high su pporting salt concentrations, t his reactivity  
+runs counter to what has been observed with other quinones in aqueous media74, 75 as well as what was 
+observed with p-AQ electrodes in 1m NH 4NO 3 at the same pH. Limited proton availability also result s in a 
+more anodic potential for the oxygen reduction reaction, decreasing the sensitivity of p-AQ to O 2. 
+Additionally, u nlike other reported examples of quinones in the presenc e of alkali metals ,149-154 the 
+reduction potential of p-AQ does not shift anodically with increasing concentration of LiTFSI (from 1 to 
+20m) under an inert N2 atmosphere . When CO 2 was introduced, the reduction peak did shift  anodically, 
+indicating the formation of the CO 2 adduct, quinone bis(carbonate) , which is oxidized at more positive 
+potentials than the p -AQ dianion.  Increasing concentrations of LiTFSI under CO 2 resulted in increased 
+separation between the reduction and oxidation potentials , which was attributed to sta bilization of p-AQ 
+CO 2 adducts by LiTFSI , as confirmed by DFT.147 Using their electro -swing operation strategy with a custom 
+“zero -gap” flow cell, CO 2 binding and release cycles were performed at currents up to 2 mA cm-2 (2 A g-1). 
+While operating under constant current conditions of 0.5 mA cm-2, the authors report an energetic 
+requirement of ~56 kJ/mol CO 2 for their system in 20m LiTFSI, an improvement over the demonstration  
+Figure 6.  Faradaic electro -swing system with a polymeric 
+anthraquinone electrodes for direct eCCC  developed by Voskian 
+and Hatton. Figure used from ref. 144 under the CC BY 3.0 
+license.  
+ 36 in [bmim][PF 6], as described above.  Based on the reported energy requirement for capture from an initial 
+CO 2 concentration of 15%, an estimated overall efficiency of at least ~8% is calculated (given that a 15 -
+100% swing requires a minimum of 4.7 kJ/ mol CO 2 for the case of “skimming”).  The system displayed the 
+same excellent stability that was previously observed in [bmim][PF 6], while also operating in the presence 
+of oxygen . A faradaic efficiency of o ver 95% was averaged over 75 cycles in 20m LiTFSI under a gas 
+composition of 15:3:82 CO 2:O2:N2. Hatton and coworkers continued to add alkali metals , albeit at lower 
+concentrations (1 M NaTFSI),  in their work with 2,3 -Di-(2-(2-methoxyethoxy)ethoxy) -1,4-
+naphthoquinone , also referred to as a liquid quinone .{Diederichsen, 2022 #1289}  Here, they 
+demonstrated capture from a 15% CO 2 mixture  (85% N 2), operating at ca. 70% Faradaic efficiency (defined 
+as CO 2 capacity  utilization  efficiency) while maintaining relatively low levels of efficiency decay over 10 
+cycles. When 5% O 2 was added to the mixture, efficiency  losses were increased, and thus the  authors  
+emphasized that understanding O 2 reduction rates in this system will be a focus of future work. They also 
+developed a continuous flow lab -scale test system and demonstrated CO 2 capture and release from a pure 
+CO 2 stream (due to limitations on quinone conversion) and estimated that cell energy requirements could 
+be in the range of 35 –220 kJ/mol CO 2.  
+Recently, to address the observed instability of quinone carriers in the presence of O 2, Zito et al.  
+investigated the validity of the proposed linear relationship between the second reduction potential and 
+CO 2 binding constant of quinones .139 In their work, they synthesized and tested the ability of seven  new 
+quinones to capture CO 2 in their dianion states. The measured 𝐾CO2(DA) were in the range of ca. 50‒1012 
+and followed the trend of decreasing reduction potentials  with increasing 𝐾CO2(DA). The experimental 
+investigation was complemented by large -scale DFT calculations oriented on u nderstanding how the 
+substituent effects  on the quinone scaffold  influence  the key thermodynamic properties ( such as 
+reduction potentials and CO 2 binding  constants ) through steric and electronic effects. Overall, Zito et al.  
+found that the linear trend hol ds relatively well over a large range of reduction potentials, suggesting that 
+additional  secondary interactions might be required to shift the reduction potentials more positive than 
+the O 2 reduction reaction . This could be achieved, e.g.,  via auxiliary binding charged groups  or hydrogen 
+bond donors .  
+The effects of hydrogen bond donors  was probed b y Barlow et al. who demonstrated that use such  
+additives indeed shift s the reduction potential of the redox -active capture molecule to more posi tive 
+potentials .155 Different alcohols were add ed to tetrachloroquinone (TCQ)  in DMF to study the effect  of 
+these hydrogen -bond donors on the reduction potential and the CO 2 binding affinity. Although  all alcohol 
+additives resulted in a positive shift of the reduction potential, s tronger  hydrogen -bonding interactions  37 inhibited  CO 2 binding, leading to smaller CO 2 binding affinities, while moderate interactions  resulted in 
+larger CO 2 binding affinities. Ethanol was identified as a hydrogen -bond donor that did not have 
+deleterious effects  on the CO 2 binding affinity but enabl ed a favorable  shift in the reduction potential to 
+values greater than that of O2 reduction . TCQ was tested via controlled potential electrolysis with the 
+presence and absence of ethanol in the electrolyte mixture, where the reduced form of TCQ (TCQ2-) was 
+oxidized and re -reduced in the presence of a simulated flue gas mixture (87:10:3 N 2:CO 2:O2). With ethanol 
+as an additive, Barlow  et al.  showed improvements in the extent of electrochemica l CO 2 capture and 
+concentration from flue gas concentrations in the presence of O 2. More specifically, with the addition of 
+ethanol, the  estimated  Faradaic efficiencies during both oxidation/release and reduction/recapture step s 
+were improved from  84% to 95% and 27% to 73%, respectively. The TCQ/ethanol pair was not tested over 
+multiple cycles, so long term stability of this specific chemistry is unclear. However, this work 
+demonstrates that hydrogen -bond donors can be added to an electrolyte to anodically shift  the reduction 
+potentials of the quinone (or another redox active capture agent)  and improve  O2 stability.  
+5.2.2 Transition Metals . Redox -active transition metal (TM) centers paired with specific ligands can 
+also serve as CO 2 capture agents in direct eCCC systems . DuBois and coworkers  suggested that TM 
+complexes with ligands that contain a CO 2 binding site  (i.e., a nucleophilic nitrogen or oxygen ) could 
+achieve CO 2 pumping .124 The metal center as the active redox site would alter the electron density of th e 
+compound and thus the CO 2 binding affinity. Their study found that the distance between the redox 
+metal center to CO 2 binding site significantly impacts  the electronic communication of the compound. 
+The assayed compounds contained one, two , or five atoms separating the binding site to the redox active 
+metal center of Co, Fe, o r Ru. CO 2 capture activity was only observed in the Co3+ cyclopentadienyl indenyl 
+complex with a one -atom separation of metal from the binding site.  
+A few b inuclear TM complexes explored in other works were demonstrated  to trap the CO 2 dissolved 
+in aqueous media as a bound carbonate ion.156-159 In 
+these, specific bridging ligands orient two metals (Zn, Co, 
+Ni, or Cu) to issue strong carbonate binding interactions. 
+However, st udies examining the electrochemical behavior 
+of these compounds and their application to reversibly 
+pumping CO 2 are limited.   
+DuBois and coworkers examined binuclear Ni and Cu complexes with vari ed bridging ligands  for the 
+reversible capture and release of bicarbonate , and found that more flexible ligands resulted in enhanced 
+binding .132, 159 However, t he reduction potential s of the nickel complexes were  too negative for 
+ 
+Figure 7. Carbonate adduct, [Cu 2(tpmc)(μ-
+CO 3)]2+ formed from [Cu 2(tpmc)(μ-OH)]3+.  38 electrochemical pumping. Of the copper complexes surveyed, the [Cu 2(tpmc)(μ-OH)]3+ complex  (tpmc = 
+bridging  N,N’,N’’,N’’’ -tetrakis(2 -pyridylmethyl) -1,4,8,11 -tetraazacyclotetradecane ligand) , demonstrated 
+a viable reduction potential for CO 2 pumping  and successful  electrochemical  CO 2 capture and 
+concentration from 10% to  75%  (Figure 7) in the presence of oxygen . Cycling resul ted in  partial 
+precipitation of the Cu+ complex , an outcome  which could potentially be improved upon  with  variation of 
+supporting electrolytes or ligand.  Contrary to typical increased CO 2 binding affinity upon reduction, these 
+systems bind carbonate upon oxidation , and reduction  results in  CO 2 release.  
+5.2.3 Bipyridine s. Bipyridine s also become more nucleophilic upon reduction, making them suitable 
+candidates as CO 2 capture  redox carrier s. A study by Hitoshi  et al. described the reversible capture and 
+release of CO 2 by N-propyl -4,4’-bipyridinium (Prbipy+).133 More recently, Buttry and coworkers explor ed 
+the reactivity of the related N-methyl -4,4’-bipyridinium (Mebipy+) with experimental data and theoretical 
+calculations.134 The electrochemical behavior and DFT calculations indicate the following  mechanism of 
+CO 2 binding for Mebipy+ and the related Prbipy+ (Scheme 6). First, the Mebipy+ is reduced by one electron 
+to form a neutral Mebipy*. In the presence of CO 2, Mebipy• species undergoes disproportionat ion to 
+form Mebipy+ and Mebipy–. The latter reacts with CO 2 to form Mebipy –CO 2–, which results in a 
+disappearance of the more cathodic r edox event. The CO 2 adduct can then be electrochemically oxidized 
+by two electrons to return the parent Mebipy+ cation . For these monoalkylated bipyridinium species, the 
+stoichiometry thus requires  two electrons  due to the disproportionation event  that occ urs to capture  
+one molecule of  CO 2. 
+Buttry  and coworkers also studied the 
+related non -alkylated compound, 4 -,4’-
+bipyridin e (bipy).160 The one electron reduction 
+of bipy produces the radical anion, bipy•–, 
+which quickly bind s to CO 2. Following oxidation 
+of th e bipy–CO 2•– adduct , CO 2 is released and 
+bipy is regenerat ed. This mechanism differs 
+from the monoalkylated bipyridinium compounds. One equivalent of electrons is sufficient for capturing 
+a single equivalent of CO 2 due to the more nucleophilic radical anion , which readily binds to CO 2 after a 
+single reduction.  In the ionic liquid BMF TFSI u nder a N 2 atmosphere, reduction of bipy to  bipy•– is a one 
+electron reversible couple at -2.25 V vs ferrocene. In a solution saturated with CO 2, the reduction peak for 
+bipy•– shifts from -2.3 V to -2.05 V vs ferrocene displaying strong binding between bipy•– CO 2. The bipy–
+CO 2•– is oxidized at -1.35 V vs ferrocene , a substantial positive shift  due to  the very stable N –C bond formed Scheme 6. Reduction of MeBipy+, disproportionation of 
+Mebipy•, and CO 2 binding to Mebipy- 
+  39 in the adduct. The large potential difference between reduction and oxidation  of this adduct is a crucia l 
+component as it can impact the total energy for the bipy–CO 2 capture release cycle.  
+Computation s were also carried out  to elucidate the reaction mechanism of CO 2 capture by 
+4,4’-bipyridine .160 Utilizing DFT (B3LYP and M062X) with the implicit continuum solvation model, the 
+computations revealed that a stable adduct is formed between the 4,4’ -bipyridine anion radical and the 
+CO 2 molecule, with the Δ G0 = ‒43.9 kJ/mol.160 The release of the CO 2 molecule was then accomplished by 
+re-oxidation of the adduct, presumably yielding a zwitterionic intermediate, which is susceptible to a 
+facile decarboxylation.  
+5.2.4 Dithiol s. Buttry and coworkers also 
+described the use of  thiolates  as redox 
+carriers .136 Prior to this study, there were  few 
+reports of S -bound terminal thiocarbonates , 
+and no description of the electrochemical 
+behavior of thiocarbonate .161, 162 Buttry  and 
+coworkers  specifically  looked at benzyldisulfide (BDS) for direct eCCC  where they observed that f rom one 
+equivalent of BDS, a two -electron reduction results in two equiv alents of nucleophilic benzylthiolate that 
+can react with one CO 2 molecule forming a S-benzylthiocarbonate ( Scheme 7). Using DFT (B3LYP), CO 2 
+capture is estimated to have a  binding energy of -66 kJ mol-1. Computation s were also used to elucidate 
+the CO 2 release  step. The authors proposed that CO 2 release should follow the oxidation of thiocarbonate 
+due to a significant electron density localized at the S‒C bond of thiol and CO 2 in the redox -active 
+molecular orbital (RAMO). Removing the electron from RAMO upon oxidation should thus lead to the 
+bond destabilization and  the rapid CO 2 release. From the  overall  mechanism , a stoichiometry of one CO 2 
+captured per one electron transferred  to BDS was found, which theoretically allows for capture of two 
+CO 2 molecule s per each BDS.  
+Harris and Bushnell  added to the BDS study from Buttry and coworkers  using  DFT to  assess solvent 
+effects while  also explor ing the use of other benzyldichalcogenide  compounds.163 Pursuant to the 
+dielectric constant of different solvents, the absolute reduction potenti al and the interaction energy for 
+benzylthiolate -CO 2 binding were exhibited to range between 2.7 to 3.4 V and  ‒30 to ‒40 kJ/mol, 
+respectively.  They also found that chalcogenide atom significantly impacted the oxidation/CO 2 release 
+step. The CO 2 adducts f ormed in systems involving benzyldiselenide and benzylditelluride had less 
+positive absolute reduction potentials compared to benzyldisulfide (BDS). Thus, the authors suggested 
+using benzyl telluride and benzyl selenide as the potential eCCC agents, as the y should have a better 
+ 
+Scheme 7. Mechanism of CO 2 capture via reduction of 
+benzyldisulfide.   40 peak -to-peak separation between the CO 2 capture and CO 2 release potentials.  However, other factors, 
+such as toxicity and availability, must also be considered.  
+5.3 Cell and System Design  
+To date,  most studies employing redox -active capture molecules for direct eCCC have consisted of 
+proof -of-concept, cyclic voltammetry and/or bulk electrolysis experiments focused on characterizing 
+capture species -electrolyte pairs in well -defined and controlled en vironments. Only a few studies have 
+incorporated these molecules into a n engineered  cell design  with flowing gas streams . In the electro -
+swing absorption ( ESA) system previously introduced , the redox -active capture agent is immobilized on 
+the electrode sur face and activated via polarization to capture CO 2.147,148 A counter electrode, which is  the 
+positive electrode  during the absorption phase, is used to complete the flow of electrons  (Figure 6 ). Once 
+the negative electrode is saturated with CO 2 the polarity of the cell is deliberately reversed, deactivating 
+the capture agent at the now positive electrode in order t o release CO 2 by desorption. Systems with the 
+capture agent immobilized on the solid electrode require the feed gas stream, containing CO 2, to be fed 
+directly to the electrode. Between both electrodes is a membrane/separator imbibed with the liquid 
+electro lyte, which allows the porous electrode to become wetted with a liquid film.  This architecture 
+facilitates the flow of ionic current throughout the 3D electrode structure to the electrochemical reaction 
+sites. In a flowing gas operation scheme, the feed ga s containing CO 2 is fed through a parallel flow -field, 
+and thus CO 2 must diffuse laterally through both the porous media and the liquid film to react with the 
+activated quinone species.147, 148 In these ESA systems, which employ electrodes that require three -phase 
+contact, utilization of the carrier species is lik ely to be controlled by the CO 2 mass transfer rate through 
+the porous electrode and liquid film, which may be orders of magnitude lower than both the 
+electrochemical and chemical (absorption and desorption) reaction rates. Accordingly, demonstrations 
+for ESA systems have been limited to low current density operation  (≤ 2 mA cm-2).148 Additionally, it has 
+been shown both experimentally and computationally that quinone utilization in a given cycle length is 
+strongly dependent on the CO 2 concentration in the feed gas, which affects the driving force for film 
+diffusion.147 
+More recently, use of a liquid quinone for direct eCCC was demonstrated  in a redox flow bat tery type 
+system , similar to what was described for some of the pH -swing setups in Section 3.3 (and depicted in 
+Figure 4).  By employing two electrochemical cells , continuous, rather than cyclic, CO 2 capture was 
+performed in one system. More specifically, one cell was used for sorbent activation and the other for 
+deactivation  with the  absorption/desorption steps carried out in external units.  
+5.4 Experimental Methods for Measuring CO 2 Binding Affinities   41 Determination of  𝐾1(R𝑛−) and  𝐾2(R) values for the active and resting states of redox carriers can be 
+determined utilizing numerous methods. Unique to redox carriers however, electrochemical methods can 
+be emplo yed dependent on the mechanism. For a system that employs an EC mechanism (elect ron 
+transfer followed by chemical step), or EEC mechanism, carrier CO 2 binding constants ( 𝐾1(R𝑛−) values 
+between 100 and 1015) can be measured using the observed shift in  the half -wave potential,  𝐸1/2, 
+recorded in the presence and absence of a known concentration of CO 2 by applying eq. 11 .131, 164   
+𝐸1/2=𝐸𝑜′+𝑅u𝑇
+𝑛𝐹ln(𝐾1(R𝑛−))+𝑞𝑅𝑇
+𝑛𝐹ln [CO2]                                           Eq. 11  
+Where 𝑅u is the universal gas constant, 𝑇 is temperature, 𝐹 is Faraday’s constant, and 𝑛 is the number 
+of electrons being passed in the redox event. The number of CO 2 molecules that a re bound during the 
+chemical step is represented by the term 𝑞 (typically, 𝑞 = 1 for most carriers, but can be determined via 
+other spectroscopic or voltammetric techniques124, 137, 165). 𝐸𝑜′ is the half -wave potential in the absence 
+of CO 2, while 𝐸1/2 represents the half -wave potential in the presence of a known CO 2 concentration in 
+solution ( [CO2]). This approach can be highly beneficial as it does not require isolation of the active state 
+carrier, which can often be unstable or difficult to isolate c leanly. For  an EC mechanism where  𝐾1(R𝑛−) 
+values are larger than 1015, the change in potential can be measured using the open circuit potential, with 
+a varied range of CO 2 concentrations. In this case, the active state carrier must be formed chemically o r 
+electrochemically. The 𝐸1/2 value from eq. 11  would refer to the open circuit potential under a known 
+concentration of CO 2. The 𝐸𝑜′ value would refer to the open circuit potential in the absence of CO 2. The 
+y-intercept of the linear relationship of th e change in open circuit potential versus the natural log of the 
+concentration of CO 2 in solution can be used to find the binding constant.  
+Values of KCO2 for redox -carriers can be also be determined using more common spectroscopic or 
+physical techniques, depending on the magnitude of 𝐾1(R𝑛−) and solubility of the carrier. These 
+techniques include, but are not limited to: NMR and electronic absorption spectroscopy, gravimetry, and 
+gas uptake experiments.124, 137, 166, 167  
+For a system that does not utilize an EC or EEC mechanism, the binding constant can be estimated 
+using the electronic absorpt ion spectra at various CO 2 concentrations.124 The carrier must be in the active 
+state in order to use t his method. In previous work, t he electronic absorption spectra were studied as a 
+function of CO 2 concentration, and analyzed by the Benesi -Hildebrand method to find the equilibrium 
+constant.168 
+ 
+6. Concluding Remarks  and Outlook   42 The use of electrochemical CO 2 capture and concentration was initia lly reported in literature in the 
+1960’s . In the intervening time frame, several different concepts and architectures have been propose d, 
+with significant advancements occurring over the last decade. Some of these systems already operate 
+with estimated energetic efficienc ies rivaling state -of-the-art systems in the laboratory setting.  These 
+results have demonstrated the promise of eCCC, but also outline scientific challenges that , if addressed,  
+would accelerate implementation and widespread use. Long term s tability still r epresents a challenge in 
+most eCCC systems. Most pH swing, EMAR, and redox carrier systems are specifically sensitive to oxyg en, 
+which is commonly present in dilute  CO 2 streams.  Modifying these systems to work at milder 
+electrochemical potentials would lik ely be beneficial for oxygen stability, as well as engineering design  
+approaches (e.g., implementation of oxygen separation) . Stability of current chemistries towards water 
+vapor (for non -aqueous systems) and other components in a CO 2-containing stream s is also not clear.  
+Most studies have focused on improving the chemistry of eCCC systems, such as the carrier species 
+and electr olyte, for proof -of-concept experiments. However, design and operation of the electrochemical 
+cell will also greatly impact performance of the system , including optimizing for high separation capacity 
+and balancing overall energetics versus Faradaic effici encies. Other considerations that will be required 
+for overall operation include selection of cell components (electrodes, membrane/separator, flow 
+channels) and operating conditions , and the costs associated with these . The ideal properties and 
+materials are not well understood and will likely depend on the specific application.  
+Interest in more efficient and scalable eCCC has been motivated by the  urgency to decarbonize 
+current industries to operate with minimal or no carbon emissions , and direct air capt ure to achieve 
+carbon negative technologies.  With continued research investment to synergistically address the 
+chemistry and engineering challenge s, eCCC can more quickly become a realit y. 
+Acknowledgements  
+We would like to thank the Sl oan Foundation for funding the authors of this review.  
+Conflicts of Interest  
+There are no conflicts of interest to declare . 
+Citations  
+(1) IPCC. Climate Change 2022: Mitigation of Climate Change. Con tribution of Working Group III to the 
+Sixth Assessment Report of the Intergovernmental Panel on Climate Change ; 10.1017/9781009157926; 
+Cambridge, UK and New York, NY, 2022.  
+(2) IEA. Global Energy Review: CO2 Emissions in 2021 ; Paris, 2022. https://www.iea. org/reports/global -
+energy -review -co2-emissions -in-2021 -2.  43 (3) Friedlingstein, P.; Jones, M. W.; O'Sullivan, M.; Andrew, R. M.; Bakker, D. C. E.; Hauck, J.; Le Quéré, C.; 
+Peters, G. P.; Peters, W.; Pongratz, J.; et al. Global Carbon Budget 2021. Earth Syst.  Sci. Data 2022 , 14 
+(4), 1917 -2005. DOI: 10.5194/essd -14-1917 -2022.  
+(4) Huebscher, R. G. B., A. D. Electrochemical Concentration and Separation of Carbon Dioxide for 
+Advanced Life Supprot Systems - Carbonation Cell System. SAE Technical Papers 1969 , 2164 - 2170.  
+(5) Rogelj, J.; den Elzen, M.; Höhne, N.; Fransen, T.; Fekete, H.; Winkler, H.; Schaeffer, R.; Sha, F.; Riahi, 
+K.; Meinshausen, M. Paris Agreement climate proposals need a boost to keep warming well below 2 °C. 
+Nature 2016 , 534 (7609), 631 -639. DOI:  10.1038/nature18307.  
+(6) CO2 and Greenhouse Gas Emissions. https://ourworldindata.org/co2 -and-other -greenhouse -gas-
+emissions  (accessed September 2022).  
+(7) Metz, B.; Davidson, O.; de Coninck, H.; Loos, M.; Meyer, L. IPCC Special Report on Carbon dioxide 
+Capture and Storage. Policy Stud. 2005 . 
+(8) https://ourworldindata.org/emissions -by-sector#co2 -emissions -by-sector  (accessed.  
+(9) IEA. Net Zero by 2050 ; Paris, 2021. https://www.iea.org/reports/net -zero -by-2050 . 
+(10) Rogelj, J.; Popp, A.; Calvin, K. V.; Lud erer, G.; Emmerling, J.; Gernaat, D.; Fujimori, S.; Strefler, J.; 
+Hasegawa, T.; Marangoni, G.; et al. Scenarios towards limiting global mean temperature increase below 
+1.5 °C. Nature Climate Change 2018 , 8 (4), 325 -332. DOI: 10.1038/s41558 -018-0091 -3. 
+(11) Institute, G. C. Global Status of CCS 2021 ; 2021. 
+https://www.globalccsinstitute.com/resources/global -status -report/ . 
+(12) Institute, G. C. https://co2re.co/FacilityData  (accessed.  
+(13) Tavoni, M.; van der Zwaan, B. Nuclear Versus Coal plus CCS: a Com parison of Two Competitive Base -
+Load Climate Control Options. Environmental Modeling & Assessment 2011 , 16 (5), 431 -440. DOI: 
+10.1007/s10666 -011-9259 -1. 
+(14) Chu, S.; Majumdar, A. Opportunities and challenges for a sustainable energy future. Nature 2012 , 
+488 (7411), 294 -303, 10.1038/nature11475.  
+(15) Lackner, K. S.; Brennan, S.; Matter, J. M.; Park, A. -H. A.; Wright, A.; van der Zwaan, B. The urgency of 
+the development of CO<sub>2</sub> capture from ambient air. Proceedings of the National Academy of 
+Scienc es 2012 , 109 (33), 13156 -13162. DOI: 10.1073/pnas.1108765109.  
+(16) IEA. Direct Air Capture ; Paris, 2021. https://www.iea.org/reports/direct -air-capture . 
+(17) Hammond, G. P.; Akwe, S. S. O.; Williams, S. Techno -economic appraisal of fossil -fuelled power 
+generation systems with carbon dioxide capture and storage. Energy 2011 , 36 (2), 975 -984. DOI: 
+https://doi.org/10.1016/j.energy.2010.12.012 . 
+(18) House, K. Z.; Baclig, A. C.; Ranjan, M.; van Nierop, E. A.; Wilcox, J.; Herzog, H. J. Economic and 
+energetic anal ysis of capturing CO<sub>2</sub> from ambient air. Proceedings of the National Academy 
+of Sciences 2011 , 108 (51), 20428 -20433. DOI: doi:10.1073/pnas.1012253108.  
+(19) Chao, C.; Deng, Y.; Dewil, R.; Baeyens, J.; Fan, X. Post -combustion carbon capture. Renew able and 
+Sustainable Energy Reviews 2021 , 138, 110490. DOI: https://doi.org/10.1016/j.rser.2020.110490 . 
+(20) Raza, A.; Gholami, R.; Rezaee, R.; Rasouli, V.; Rabiei, M. Significant aspects of carbon capture and 
+storage – A review. Petroleum 2019 , 5 (4), 335 -340. DOI: https://doi.org/10.1016/j.petlm.2018.12.007 . 
+(21) Wang, X.; Song, C. Carbon Capture From Flue Gas and the Atmosphere: A Perspective. Frontiers in 
+Energy Research 2020 , 8, Review. DOI: 10.3389/fenrg.2020.560849.  
+(22) Yu, C. -H.; Huang, C. -H.; Tan,  C.-S. A Review of CO2 Capture by Absorption and Adsorption. Aerosol 
+and Air Quality Research 2012 , 12 (5), 745 -769. DOI: 10.4209/aaqr.2012.05.0132.  
+(23) House, K. Z.; Harvey, C. F.; Aziz, M. J.; Schrag, D. P. The energy penalty of post -combustion CO2 
+capt ure & storage and its implications for retrofitting the U.S. installed base. Energy & Environmental 
+Science 2009 , 2 (2), 193 -205. DOI: 10.1039/B811608C.  
+(24) Abu -Zahra, M. R. M.; Schneiders, L. H. J.; Niederer, J. P. M.; Feron, P. H. M.; Versteeg, G. F. CO 2 
+capture from power plants: Part I. A parametric study of the technical performance based on  44 monoethanolamine. International Journal of Greenhouse Gas Control 2007 , 1 (1), 37 -46. DOI: 
+https://doi.org/10.1016/S1750 -5836(06)00007 -7. 
+(25) Goto, K.; Kodama, S .; Okabe, H.; Fujioka, Y. Energy Performance of New Amine -Based Solvents for 
+CO<sub>2</sub> Capture from Blast Furnace Gas. In Recent Advances in Post -Combustion 
+CO<sub>2</sub> Capture Chemistry , ACS Symposium Series, Vol. 1097; American Chemical Society, 
+2012; pp 317 -331.  
+(26) Singh, A.; Stéphenne, K. Shell Cansolv CO2 capture technology: Achievement from First Commercial 
+Plant. Energy Procedia 2014 , 63, 1678 -1685. DOI: https://doi.org/10.1016/j.egypro.2014.11.177 . 
+(27) Yulia, F.; Sofianita, R.; Prayogo, K .; Nasruddin, N. Optimization of post combustion CO2 absorption 
+system monoethanolamine (MEA) based for 320  MW coal -fired power plant application – Exergy and 
+exergoenvironmental analysis. Case Studies in Thermal Engineering 2021 , 26, 101093. DOI: 
+https:// doi.org/10.1016/j.csite.2021.101093 . 
+(28) Rochelle, G.; Chen, E.; Freeman, S.; Van Wagener, D.; Xu, Q.; Voice, A. Aqueous piperazine as the 
+new standard for CO2 capture technology. Chemical Engineering Journal 2011 , 171 (3), 725 -733. DOI: 
+https://doi.org/1 0.1016/j.cej.2011.02.011 . 
+(29) Boot -Handford, M. E.; Abanades, J. C.; Anthony, E. J.; Blunt, M. J.; Brandani, S.; Mac Dowell, N.; 
+Fernández, J. R.; Ferrari, M. -C.; Gross, R.; Hallett, J. P.; et al. Carbon capture and storage update. Energy 
+& Environmental Science 2014 , 7 (1), 130 -189, 10.1039/C3EE42350F. DOI: 10.1039/C3EE42350F.  
+(30) Rochelle, G. T. Amine Scrubbing for CO<sub>2</sub> Capture. Science 2009 , 325 (5948), 1652 -1654. 
+DOI: 10.1126/science.1176731.  
+(31) Wilcox, J. Carbon Capture ; Springer, 2012.  
+(32) Institute, G. C. State of the Art: CCS Technologies 2022 ; 2022. 
+https://www.globalccsinstitute.com/wp -content/uploads/2022/05/State -of-the-Art-CCS-Technologies -
+2022.pdf . 
+(33) Baylin -Stern, A. B., N. Is carbon capture too expensive? ; Paris, 2021. 
+https: //www.iea.org/commentaries/is -carbon -capture -too-expensive . 
+(34) Fasihi, M.; Efimova, O.; Breyer, C. Techno -economic assessment of CO2 direct air capture plants. 
+Journal of Cleaner Production 2019 , 224, 957 -980. DOI: https://doi.org/10.1016/j.jclepro.2019. 03.086 . 
+(35) McQueen, N.; Psarras, P.; Pilorgé, H.; Liguori, S.; He, J.; Yuan, M.; Woodall, C. M.; Kian, K.; Pierpoint, 
+L.; Jurewicz, J.; et al. Cost Analysis of Direct Air Capture and Sequestration Coupled to Low -Carbon 
+Thermal Energy in the United States . Environmental Science & Technology 2020 , 54 (12), 7542 -7551. 
+DOI: 10.1021/acs.est.0c00476.  
+(36) Lackner, K. S.; Azarabadi, H. Buying down the Cost of Direct Air Capture. Ind. Eng. Chem. Res. 2021 , 
+60 (22), 8196 -8208. DOI: 10.1021/acs.iecr.0c04839.  
+(37) Global Status of CCS: 2019 ; Global CCS Institute, Australia, 2019.  
+(38) Lackner, K. S. The thermodynamics of direct air capture of carbon dioxide. Energy 2013 , 50, 38-46. 
+DOI: https://doi.org/10.1016/j.energy.2012.09.012 . 
+(39) Stern, M. C.; Simeon, F.; Herzog, H.; Hatton, T. A. Post -combustion carbon dioxide capture using  
+electrochemically mediated amine regeneration. Energy & Environ. Sci. 2013 , 6 (8), 2505 -2517, 
+10.1039/C3EE41165F. DOI: 10.1039/C3EE41165F.  
+(40) Stern, M. C.; Simeon, F.; Hammer, T.; Landes, H.; Herzog, H. J.; Alan Hatton, T. Electrochemically 
+mediated sep aration for carbon capture. Energy Procedia 2011 , 4, 860 -867. DOI: 
+https://doi.org/10.1016/j.egypro.2011.01.130 . 
+(41) Shaw, R. A.; Hatton, T. A. Electrochemical CO2 capture thermodynamics. International Journal of 
+Greenhouse Gas Control 2020 , 95, 102878. D OI: https://doi.org/10.1016/j.ijggc.2019.102878 . 
+(42) Rheinhardt, J. H.; Singh, P.; Tarakeshwar, P.; Buttry, D. A. Electrochemical capture and release of 
+carbon dioxide. ACS Energy Letters 2017 , 2 (2), 454 -461. DOI: 10.1021/acsenergylett.6b00608.   45 (43) Barl ow, J. M.; Clarke, L. E.; Zhang, Z.; Bím, D.; Ripley, K. M.; Zito, A.; Brushett, F. R.; Alexandrova, A. 
+N.; Yang, J. Y. Molecular design of redox carriers for electrochemical CO2 capture and concentration. 
+Chem. Soc. Rev. 2022 , 10.1039/D2CS00367H. DOI: 10. 1039/D2CS00367H.  
+(44) Dell'Osso, L.; Ruder, J. M.; Winnick, J. Mixed -Gas Adsorption and Vacuum Desorption of Carbon 
+Dioxide on Molecular Sieve. Bed Performance and Data Analysis. Industrial & Engineering Chemistry 
+Process Design and Development 1969 , 8 (4), 477 -482. DOI: 10.1021/i260032a007.  
+(45) Martin, R. B. Carbon dioxide control for manned spacecraft. Aerospace medicine 1968 , 39 9 , 937 -
+941.  
+(46) Wynveen, R. A. Q., P. D. Electrochemical carbon dioxide concentrating system. In ASME Life Support 
+Conference , San Francisco, CA, 1971.  
+(47) Wynveen, R. A. S., F. H.; Powell, J. D. One-man self -contained CO concentrator system ; NASA CR -
+114426; 1972.  
+(48) Winnick, J.; Marshall, R. D.; Schubert, F. H. An Electrochemical Device for Carbon Dioxide 
+Concentration. I. S ystem Design and Performance. Industrial & Engineering Chemistry Process Design 
+and Development 1974 , 13 (1), 59 -63. DOI: 10.1021/i260049a011.  
+(49) Eisaman, M. D. S., D. E.; Amic, S.; Larner, D.; Zesch, J.; Torrest, F.; Littau, K. Energy -efficient 
+electroc hemical CO2 capture from the atmosphere. Clean Technology 2009 , 175 -178.  
+(50) Winnick, J.; Toghiani, H.; Quattrone, P. D. Carbon dioxide concentration for manned spacecraft 
+using a molten carbonate electrochemical cell. AIChE J. 1982 , 28 (1), 103 -111. DOI:  
+https://doi.org/10.1002/aic.690280115 . 
+(51) Weaver, J. L.; Winnick, J. The Molten Carbonate Carbon Dioxide Concentrator: Cathode 
+Performance at High  CO 2 Utilization. J. Electrochem. Soc. 1983 , 130 (1), 20 -28. DOI: 
+10.1149/1.2119661.  
+(52) Kang, M. P.; Wi nnick, J. Concentration of carbon dioxide by a high -temperature electrochemical 
+membrane cell. J. Appl. Electrochem. 1985 , 15 (3), 431 -439. DOI: 10.1007/BF00615996.  
+(53) Sharifian, R.; Wagterveld, R. M.; Digdaya, I. A.; Xiang, C.; Vermaas, D. A. Electroche mical carbon 
+dioxide capture to close the carbon cycle. Energy & Environmental Science 2021 , 14 (2), 781 -814, 
+10.1039/D0EE03382K. DOI: 10.1039/D0EE03382K.  
+(54) Ye, W.; Huang, J.; Lin, J.; Zhang, X.; Shen, J.; Luis, P.; Van der Bruggen, B. Environmental eva luation 
+of bipolar membrane electrodialysis for NaOH production from wastewater: Conditioning NaOH as a 
+CO2 absorbent. Sep. Purif. Technol. 2015 , 144, 206 -214. DOI: 
+https://doi.org/10.1016/j.seppur.2015.02.031 . 
+(55) Eisaman, M. D.; Alvarado, L.; Larner, D. ; Wang, P.; Garg, B.; Littau, K. A. CO2 separation using bipolar 
+membrane electrodialysis. Energy & Environmental Science 2011 , 4 (4), 1319 -1328, 
+10.1039/C0EE00303D. DOI: 10.1039/C0EE00303D.  
+(56) Eisaman, M. D.; Alvarado, L.; Larner, D.; Wang, P.; Littau, K. A. CO2 desorption using high -pressure 
+bipolar membrane electrodialysis. Energy & Environmental Science 2011 , 4 (10), 4031 -4037, 
+10.1039/C1EE01336J. DOI: 10.1039/C1EE01336J.  
+(57) Sabatino, F.; Mehta, M.; Grimm, A.; Gazzani, M.; Gallucci, F.; Kramer, G. J .; van Sint Annaland, M. 
+Evaluation of a Direct Air Capture Process Combining Wet Scrubbing and Bipolar Membrane 
+Electrodialysis. Ind. Eng. Chem. Res. 2020 , 59 (15), 7007 -7020. DOI: 10.1021/acs.iecr.9b05641.  
+(58) Eisaman, M. D.; Parajuly, K.; Tuganov, A.; Eldershaw, C.; Chang, N.; Littau, K. A. CO2 extraction from 
+seawater using bipolar membrane electrodialysis. Energy & Environmental Science 2012 , 5 (6), 7346 -
+7352, 10.1039/C2EE03393C. DOI: 10.1039/C2EE03393C.  
+(59) Datta, S.; Henry, M. P.; Lin, Y. J.; Fraca ro, A. T.; Millard, C. S.; Snyder, S. W.; Stiles, R. L.; Shah, J.; 
+Yuan, J.; Wesoloski, L.; et al. Electrochemical CO2 Capture Using Resin -Wafer Electrodeionization. Ind. 
+Eng. Chem. Res. 2013 , 52 (43), 15177 -15186. DOI: 10.1021/ie402538d.   46 (60) Warren, J. J .; Tronic, T. A.; Mayer, J. M. Thermochemistry of Proton -Coupled Electron Transfer 
+Reagents and its Implications. Chemical Reviews 2010 , 110 (12), 6961 -7001. DOI: 10.1021/cr100085k.  
+(61) Winsberg, J.; Hagemann, T.; Janoschka, T.; Hager, M. D.; Schubert, U.  S. Redox -Flow Batteries: From 
+Metals to Organic Redox -Active Materials. Angewandte Chemie International Edition 2017 , 56 (3), 686 -
+711. DOI: 10.1002/anie.201604925.  
+(62) Huang, C.; Liu, C.; Wu, K.; Yue, H.; Tang, S.; Lu, H.; Liang, B. CO2 Capture from Flue  Gas Using an 
+Electrochemically Reversible Hydroquinone/Quinone Solution. Energy Fuels 2019 , 33 (4), 3380 -3389. 
+DOI: 10.1021/acs.energyfuels.8b04419.  
+(63) Huynh, M. T.; Anson, C. W.; Cavell, A. C.; Stahl, S. S.; Hammes -Schiffer, S. Quinone 1 e – and 2 e –/2 
+H+ Reduction Potentials: Identification and Analysis of Deviations from Systematic Scaling Relationships. 
+J. Am. Chem. Soc. 2016 , 138 (49), 15903 -15910. DOI: 10.1021/jacs.6b05797.  
+(64) Yang, B.; Hoober -Burkhardt, L.; Krishnamoorthy, S.; Murali, A.; Prakash , G. K. S.; Narayanan, S. R. 
+High -Performance Aqueous Organic Flow Battery with Quinone -Based Redox Couples at Both 
+Electrodes. J. Electrochem. Soc. 2016 , 163 (7), A1442 -A1449. DOI: 10.1149/2.1371607jes.  
+(65) Lin, K.; Gómez -Bombarelli, R.; Beh, E. S.; Tong, L.; Chen, Q.; Valle, A.; Aspuru -Guzik, A.; Aziz, M. J.; 
+Gordon, R. G. A redox -flow battery with an alloxazine -based organic electrolyte. Nature Energy 2016 , 1 
+(9), 16102. DOI: 10.1038/nenergy.2016.102.  
+(66) Lin, K.; Chen, Q.; Gerhardt, M. R.; Tong, L.; Kim, S. B.; Eisenach, L.; Valle, A. W.; Hardee, D.; Gordon, 
+R. G.; Aziz, M. J.; et al. Alkaline quinone flow battery. Science 2015 , 349 (6255), 1529 -1532. DOI: 
+10.1126/science.aab3033.  
+(67) Er, S.; Suh, C. ; Marshak, M. P.; Aspuru -Guzik, A. Computational design of molecules for an all -
+quinone redox flow battery. Chemical Science 2015 , 6 (2), 885 -893, 10.1039/C4SC03030C. DOI: 
+10.1039/C4SC03030C.  
+(68) Watkins, J. D.; Siefert, N. S.; Zhou, X.; Myers, C. R.; Kit chin, J. R.; Hopkinson, D. P.; Nulwala, H. B. 
+Redox -Mediated Separation of Carbon Dioxide from Flue Gas. Energy Fuels 2015 , 29 (11), 7508 -7515. 
+DOI: 10.1021/acs.energyfuels.5b01807.  
+(69) Jin, S.; Wu, M.; Gordon, R. G.; Aziz, M. J.; Kwabi, D. G. pH swing cy cle for CO2 capture 
+electrochemically driven through proton -coupled electron transfer. Energy & Environmental Science 
+2020 , 13 (10), 3706 -3722, 10.1039/D0EE01834A. DOI: 10.1039/D0EE01834A.  
+(70) Xie, H.; Wu, Y.; Liu, T.; Wang, F.; Chen, B.; Liang, B. Low -energy -consumption electrochemical CO2 
+capture driven by biomimetic phenazine derivatives redox medium. Applied Energy 2020 , 259, 114119. 
+DOI: https://doi.org/10.1016/j.apenergy.2019.114119 . 
+(71) Seo, H.; Rahimi, M.; Hatton, T. A. Electrochemical Carbon Diox ide Capture and Release with a 
+Redox -Active Amine. J. Am. Chem. Soc. 2022 , 144 (5), 2164 -2170. DOI: 10.1021/jacs.1c10656.  
+(72) Yamaguchi, A.; Inuzuka, R.; Takashima, T.; Hayashi, T.; Hashimoto, K.; Nakamura, R. Regulating 
+proton -coupled electron transfer f or efficient water splitting by manganese oxides at neutral pH. Nature 
+Communications 2014 , 5 (1), 4256. DOI: 10.1038/ncomms5256.  
+(73) Xie, H.; Jiang, W.; Liu, T.; Wu, Y.; Wang, Y.; Chen, B.; Niu, D.; Liang, B. Low -Energy Electrochemical 
+Carbon Dioxide Cap ture Based on a Biological Redox Proton Carrier. Cell Reports Physical Science 2020 , 1 
+(5), 100046. DOI: https://doi.org/10.1016/j.xcrp.2020.100046 . 
+(74) Costentin, C. Electrochemical Approach to the Mechanistic Study of Proton -Coupled Electron 
+Transfer. Chemical Reviews 2008 , 108 (7), 2145 -2179. DOI: 10.1021/cr068065t.  
+(75) Song, N.; Gagliardi, C. J.; Binstead, R. A.; Zhang, M. -T.; Thorp, H.; Meyer, T. J. Role of Proton -Coupled 
+Electron Transfer in the Redox Interconversion between Benzoquinone and Hydroqu inone. J. Am. Chem. 
+Soc. 2012 , 134 (45), 18538 -18541. DOI: 10.1021/ja308700t.  
+(76) Michael, A.; David G., K. pH Swing Cycle for CO2 Capture Electrochemically Driven through Proton -
+Coupled Electron Transfer ; 2019. DOI: 10.26434/chemrxiv.7853414.v1.   47 (77) Hol las, A.; Wei, X.; Murugesan, V.; Nie, Z.; Li, B.; Reed, D.; Liu, J.; Sprenkle, V.; Wang, W. A 
+biomimetic high -capacity phenazine -based anolyte for aqueous organic redox flow batteries. Nature 
+Energy 2018 , 3 (6), 508 -514. DOI: 10.1038/s41560 -018-0167 -3. 
+(78) Leitz, F. B.; Marinčić, L. Enhanced mass transfer in electrochemical cells using turbulence promoters. 
+J. Appl. Electrochem. 1977 , 7 (6), 473 -484. DOI: 10.1007/BF00616758.  
+(79) Rahimi, M.; Catalini, G.; Hariharan, S.; Wang, M.; Puccini, M.; Hatton, T. A.  Carbon Dioxide Capture 
+Using an Electrochemically Driven Proton Concentration Process. Cell Reports Physical Science 2020 , 1 
+(4), 100033. DOI: https://doi.org/10.1016/j.xcrp.2020.100033 . 
+(80) Rahimi, M.; Catalini, G.; Puccini, M.; Hatton, T. A. Bench -scale demonstration of CO2 capture with 
+an electrochemically driven proton concentration process. RSC Advances 2020 , 10 (29), 16832 -16843. 
+DOI: 10.1039/D0RA02450C.  
+(81) Mondal, M. K.; Balsora, H. K.; Varshney, P. Progress and trends in CO2 capture/separation 
+technologies: A review. Energy 2012 , 46 (1), 431 -441. DOI: 
+https://doi.org/10.1016/j.energy.2012.08.006 . 
+(82) Wang, M.; Herzog, H. J.; Hatton, T. A. CO2 Capture Using Electrochemically Mediated Amine 
+Regeneration. Ind. Eng. Chem. Res. 2020 , 59 (15), 7087 -7096. DOI: 10.1021/acs.iecr.9b05307.  
+(83) Stern, M. C. Electrochemically -mediated amine regeneration for carbon dioxide separations. 
+Masschusetts Institute of Technology, 2013.  
+(84) Wang, M.; Hariharan, S.; Shaw, R. A.; Hatton, T. A. Energetics of electroche mically mediated amine 
+regeneration process for flue gas CO2 capture. International Journal of Greenhouse Gas Control 2019 , 
+82, 48-58. DOI: https://doi.org/10.1016/j.ijggc.2018.12.028 . 
+(85) Stern, M. C.; Simeon, F.; Herzog, H.; Hatton, T. A. Post -combustio n carbon dioxide capture using 
+electrochemically mediated amine regeneration. Energy & Environmental Science 2013 , 6 (8), 2505 -
+2517. DOI: 10.1039/C3EE41165F.  
+(86) Stern, M. C.; Hatton, T. A. Bench -scale demonstration of CO2 capture with electrochemically -
+mediated amine regeneration. RSC Advances 2014 , 4 (12), 5906 -5914. DOI: 10.1039/C3RA46774K.  
+(87) Wang, M.; Rahimi, M.; Kumar, A.; Hariharan, S.; Choi, W.; Hatton, T. A. Flue gas CO2 capture via 
+electrochemically mediated amine regeneration: System design an d performance. Applied Energy 2019 , 
+255, 113879. DOI: https://doi.org/10.1016/j.apenergy.2019.113879 . 
+(88) Eltayeb, A. O.; Stern, M. C.; Herzog, H.; Hatton, T. A. Energetics of Electrochemically -mediated 
+Amine Regeneration. Energy Procedia 2014 , 63, 595 -604. DOI: 
+https://doi.org/10.1016/j.egypro.2014.11.064 . 
+(89) Liu, G. X.; Yu, Y. S.; Hong, Y. T.; Zhang, Z. X.; Wei, J. J.; Wang, G. G. X. Identifying electrochemical 
+effects in a thermal –electrochemical co -driven system for CO2 capture. Phys. Chem. Chem. Phy s. 2017 , 
+19 (20), 13230 -13244. DOI: 10.1039/C7CP01035D.  
+(90) Eltayeb, A. E. Analysis and Design of Electrochemically -Mediated Carbon Dioxide Separation. 
+Massachusetts Institute of Technology, Cambridge, MA, 2017.  
+(91) Wang, M.; Hatton, T. A. Flue Gas CO2 C apture via Electrochemically Mediated Amine Regeneration: 
+Desorption Unit Design and Analysis. Ind. Eng. Chem. Res. 2020 , 59 (21), 10120 -10129. DOI: 
+10.1021/acs.iecr.0c00790.  
+(92) Colli, A. N.; Toelzer, R.; Bergmann, M. E. H.; Bisang, J. M. Mass -transfer studies in an electrochemical 
+reactor with a small interelectrode gap. Electrochim. Acta 2013 , 100, 78-84. DOI: 
+https://doi.org/10.1016/j.electacta.2013.03.134 . 
+(93) Castañeda,  L. F.; Walsh, F. C.; Nava, J. L.; Ponce de León, C. Graphite felt as a versatile electrode 
+material: Properties, reaction environment, performance and applications. Electrochim. Acta 2017 , 258, 
+1115 -1139. DOI: https://doi.org/10.1016/j.electacta.2017.11.1 65.  48 (94) Babic, U.; Suermann, M.; Büchi, F. N.; Gubler, L.; Schmidt, T. J. Critical Review —Identifying Critical 
+Gaps for Polymer Electrolyte Water Electrolysis Development. J. Electrochem. Soc. 2017 , 164 (4), F387 -
+F399. DOI: 10.1149/2.1441704jes.  
+(95) Mous sallem, I.; Jörissen, J.; Kunz, U.; Pinnow, S.; Turek, T. Chlor -alkali electrolysis with oxygen 
+depolarized cathodes: history, present status and future prospects. J. Appl. Electrochem. 2008 , 38 (9), 
+1177 -1194. DOI: 10.1007/s10800 -008-9556 -9. 
+(96) Pollard,  R.; Newman, J. Transient behaviour of porous electrodes with high exchange current 
+densities. Electrochim. Acta 1980 , 25 (3), 315 -321. DOI: https://doi.org/10.1016/0013 -4686(80)90012 -2. 
+(97) Shaw, R. A. Modeling and Design for Electrochemical Carbon Dioxi de Capture Systems. 
+Massachusetts Institute of Technology, Cambridge, MA, 2019.  
+(98) Pletcher, D.; Walsh, F. C. Industrial Electrochemistry ; Springer Netherlands, 1990.  
+(99) Yang, H. S.; Park, J. H.; Ra, H. W.; Jin, C. -S.; Yang, J. H. Critical rate of elec trolyte circulation for 
+preventing zinc dendrite formation in a zinc –bromine redox flow battery. J. Power Sources 2016 , 325, 
+446-452. DOI: https://doi.org/10.1016/j.jpowsour.2016.06.038 . 
+(100) Stowe, H. M.; Hwang, G. S. Fundamental Understanding of CO2 Cap ture and Regeneration in 
+Aqueous Amines from First -Principles Studies: Recent Progress and Remaining Challenges. Ind. Eng. 
+Chem. Res. 2017 , 56 (24), 6887 -6899. DOI: 10.1021/acs.iecr.7b00213.  
+(101) Yang, X.; Rees, R. J.; Conway, W.; Puxty, G.; Yang, Q.; Win kler, D. A. Computational Modeling and 
+Simulation of CO2 Capture by Aqueous Amines. Chemical Reviews 2017 , 117 (14), 9524 -9593. DOI: 
+10.1021/acs.chemrev.6b00662.  
+(102) Tian, Z.; Dai, S.; Jiang, D. -e. What can molecular simulation do for global warming? WIREs 
+Computational Molecular Science 2016 , 6 (2), 173 -197, https://doi.org/10.1002/wcms.1241 . DOI: 
+https://doi.org/10.1002/wcms.1241  (acccessed 2020/12/12).  
+(103) da Silva, E. F.; Svendsen, H. F. Ab Initio Study of the Reaction of Carbamate Formation from CO 2 
+and Alkanolamines. Ind. Eng. Chem. Res. 2004 , 43 (13), 3413 -3418. DOI: 10.1021/ie030619k.  
+(104) Shim, J. -G.; Kim, J. -H.; Jhon, Y. H.; Kim, J.; Cho, K. -H. DFT Calculations on the Role of Base in the 
+Reaction between CO2 and Monoethanolamine. Ind. Eng. Che m. Res. 2009 , 48 (4), 2172 -2178. DOI: 
+10.1021/ie800684a.  
+(105) da Silva, E. F.; Svendsen, H. F. Computational chemistry study of reactions, equilibrium and kinetics 
+of chemical CO2 absorption. International Journal of Greenhouse Gas Control 2007 , 1 (2), 15 1-157. DOI: 
+https://doi.org/10.1016/S1750 -5836(07)00022 -9. 
+(106) Arstad, B.; Blom, R.; Swang, O. CO2 Absorption in Aqueous Solutions of Alkanolamines:  
+Mechanistic Insight from Quantum Chemical Calculations. The Journal of Physical Chemistry A 2007 , 111 
+(7), 1222 -1228. DOI: 10.1021/jp065301v.  
+(107) Sumon, K. Z.; Bains, C. H.; Markewich, D. J.; Henni, A.; East, A. L. L. Semicontinuum Solvation 
+Modeling Improves Predictions of Carbamate Stability in the CO2 + Aqueous Amine Reaction. The 
+Journal of Physical Ch emistry B 2015 , 119 (37), 12256 -12264. DOI: 10.1021/acs.jpcb.5b06076.  
+(108) Xie, H. -B.; Zhou, Y.; Zhang, Y.; Johnson, J. K. Reaction Mechanism of Monoethanolamine with CO2 
+in Aqueous Solution from Molecular Modeling. The Journal of Physical Chemistry A 2010, 114 (43), 
+11844 -11852. DOI: 10.1021/jp107516k.  
+(109) Hwang, G. S.; Stowe, H. M.; Paek, E.; Manogaran, D. Reaction mechanisms of aqueous 
+monoethanolamine with carbon dioxide: a combined quantum chemical and molecular dynamics study. 
+Phys. Chem. Chem. Phy s. 2015 , 17 (2), 831 -839, 10.1039/C4CP04518A. DOI: 10.1039/C4CP04518A.  
+(110) Guido, C. A.; Pietrucci, F.; Gallet, G. A.; Andreoni, W. The Fate of a Zwitterion in Water from ab 
+Initio Molecular Dynamics: Monoethanolamine (MEA) -CO2. J. Chem. Theory Comput. 2013, 9 (1), 28 -32. 
+DOI: 10.1021/ct301071b.   49 (111) Han, B.; Zhou, C.; Wu, J.; Tempel, D. J.; Cheng, H. Understanding CO2 Capture Mechanisms in 
+Aqueous Monoethanolamine via First Principles Simulations. The Journal of Physical Chemistry Letters 
+2011 , 2 (6), 5 22-526. DOI: 10.1021/jz200037s.  
+(112) Sumon, K. Z.; Henni, A.; East, A. L. L. Molecular Dynamics Simulations of Proposed Intermediates in 
+the CO2 + Aqueous Amine Reaction. The Journal of Physical Chemistry Letters 2014 , 5 (7), 1151 -1156. 
+DOI: 10.1021/jz500 237v.  
+(113) Ma, C.; Pietrucci, F.; Andreoni, W. Capture and Release of CO2 in Monoethanolamine Aqueous 
+Solutions: New Insights from First -Principles Reaction Dynamics. J. Chem. Theory Comput. 2015 , 11 (7), 
+3189 -3198. DOI: 10.1021/acs.jctc.5b00379.  
+(114) Ma , C.; Pietrucci, F.; Andreoni, W. Capturing CO2 in Monoethanolamine (MEA) Aqueous Solutions: 
+Fingerprints of Carbamate Formation Assessed with First -Principles Simulations. The Journal of Physical 
+Chemistry Letters 2014 , 5 (10), 1672 -1677. DOI: 10.1021/jz5 006253.  
+(115) Matsuzaki, Y.; Yamada, H.; Chowdhury, F. A.; Higashii, T.; Onoda, M. Ab Initio Study of CO2 Capture 
+Mechanisms in Aqueous Monoethanolamine: Reaction Pathways for the Direct Interconversion of 
+Carbamate and Bicarbonate. The Journal of Physical  Chemistry A 2013 , 117 (38), 9274 -9281. DOI: 
+10.1021/jp406636a.  
+(116) Orestes, E.; Machado Ronconi, C.; Carneiro, J. W. d. M. Insights into the interactions of CO2 with 
+amines: a DFT benchmark study. Phys. Chem. Chem. Phys. 2014 , 16 (32), 17213 -17219, 
+10.1 039/C4CP02254H. DOI: 10.1039/C4CP02254H.  
+(117) Mindrup, E. M.; Schneider, W. F. Computational Comparison of the Reactions of Substituted 
+Amines with CO2. ChemSusChem 2010 , 3 (8), 931 -938. DOI: https://doi.org/10.1002/cssc.201000060 . 
+(118) Gangarapu, S.; Wi erda, G. J.; Marcelis, A. T. M.; Zuilhof, H. Quantum Chemical Studies on Solvents 
+for Post -Combustion Carbon Dioxide Capture: Calculation of pKa and Carbamate Stability of 
+Disubstituted Piperazines. ChemPhysChem 2014 , 15 (9), 1880 -1886. DOI: 
+https://doi.or g/10.1002/cphc.201301217 . 
+(119) Gangarapu, S.; Marcelis, A. T. M.; Zuilhof, H. Improving the Capture of CO2 by Substituted 
+Monoethanolamines: Electronic Effects of Fluorine and Methyl Substituents. ChemPhysChem 2012 , 13 
+(17), 3973 -3980, https://doi.org/10.1002/cphc.201200471 . DOI: 
+https://doi.org/10.1002/cphc.201200471  (acccessed 2020/12/12).  
+(120) Jhon, Y. H.; Shim, J. -G.; Kim, J. -H.; Lee, J. H.; Jang, K. -R.; Kim, J. Nucleophilicity and Accessibility 
+Calculations of Alkanolamines: Applications to Carbon Dioxide Absorption Reactions . The Journal of 
+Physical Chemistry A 2010 , 114 (49), 12907 -12913. DOI: 10.1021/jp105914c.  
+(121) Li, H. -C.; Chai, J. -D.; Tsai, M. -K. Assessment of dispersion -improved exchange -correlation 
+functionals for the simulation of CO2 binding by alcoholamines. Int. J. Quantum Chem. 2014 , 114 (12), 
+805-812. DOI: https://doi.org/10.1002/qua.24670 . 
+(122) Barlow, J. M. C., Lauren; Zhang, Zisheng; Bim, Daniel; Ripley, Katelyn; Zito, Alessandra; Brushett, 
+Fikile; Alexandrova, Anastassia; Yang, Jenny Y. Molecular Design of  Redox Carriers for Electrochemical 
+CO2 Capture and Concentration. Chem. Soc. Rev. 2022 , accepted . 
+(123) Bell, W. L. M., A.; Smart, J. C.; DuBois, D. L. . Synthesis and Evaluation of CO2 Carriers. SAE 
+Technical Papers 1988 , 881078. DOI: 10.4271/881078.  
+(124) DuBois, D. L.; Miedaner, A.; Bell, W.; Smart, J. C. Chapter 4 - Electrochemical Concentration of 
+Carbon Dioxide. In Electrochemical and Electrocatalytic Reactions of Carbon Dioxide , Sullivan, B. P. Ed.; 
+Elsevier, 1993; pp 94 -117.  
+(125) Scovazzo, P.; Pos husta, J.; DuBois, D.; Koval, C.; Noble, R. Electrochemical Separation and 
+Concentration of <1% Carbon Dioxide from Nitrogen. J. Electrochem. Soc. 2003 , 150 (5), D91 -D98. DOI: 
+10.1149/1.1566962.   50 (126) Clarke, L. E.; Leonard, M. E.; Hatton, T. A.; Brushett,  F. R. Thermodynamic Modeling of CO2 
+Separation Systems with Soluble, Redox -Active Capture Species. Ind. Eng. Chem. Res. 2022 , 61 (29), 
+10531 -10546. DOI: 10.1021/acs.iecr.1c04185.  
+(127) Mizen, M. B.; Wrighton, M. S. Reductive Addition of  CO 2 to 9,10‐Phen anthrenequinone. J. 
+Electrochem. Soc. 1989 , 136 (4), 941 -946. DOI: 10.1149/1.2096891.  
+(128) Nagaoka, T.; Nishii, N.; Fujii, K.; Ogura, K. Mechanisms of reductive addition of CO2 to quinones in 
+acetonitrile. J. Electroanal. Chem. 1992 , 322 (1), 383 -389. DOI : https://doi.org/10.1016/0022 -
+0728(92)80090 -Q. 
+(129) Qiao, X.; Li, D.; Cheng, L.; Jin, B. Mechanism of electrochemical capture of CO2 via redox cycle of 
+chlorinated 1,4 -naphthoquinone in BMIMBF4: An in -situ FT -IR spectroelectrochemical approach. J. 
+Electr oanal. Chem. 2019 , 845, 126 -136. DOI: https://doi.org/10.1016/j.jelechem.2019.05.057 . 
+(130) Scovazzo, P.; Poshusta, J.; DuBois, D.; Koval, C.; Noble, R. Electrochemical Separation and 
+Concentration of <1% Carbon Dioxide from Nitrogen. J. Electrochem. Soc. 2003 , 150 (5), D91. DOI: 
+10.1149/1.1566962.  
+(131) Schmidt, M. H.; Miskelly, G. M.; Lewis, N. S. Effects of Redox Potential, Steric Configuration, 
+Solvent, and Alkali Metal Cations on the Binding of Carbon Dioxide to Cobalt(I) and Nickel(I) 
+Macrocycles. J. Am. Chem. Soc. 1990 , 112 (9), 3420 -3426. DOI: 10.1021/ja00165a027.  
+(132) Appel, A. M.; Newell, R.; DuBois, D. L.; Rakowski DuBois, M. Concentration of Carbon Dioxide by 
+Electrochemically Modulated Complexation with a Binuclear Copper Complex. Inorg. Chem. 2005 , 44 (9), 
+3046 -3056. DOI: 10.1021/ic050023k.  
+(133) Hitoshi, I.; Tomoyuki, O.; Tomohiro, Y.; Katsutoshi, O. Interaction between CO2 and 
+Electrochemically Reduced Species of N -propyl -4,4′-bipyridinium Cation. Chem. Lett. 1994 , 23 (5), 905 -
+908. DOI: 10.12 46/cl.1994.905.  
+(134) Singh, P.; Tarakeshwar, P.; Buttry, D. A. Experimental, Simulation, and Computational Study of the 
+Interaction of Reduced Forms of N -Methyl -4,4’-Bipyridinium with CO2. ChemElectroChem 2020 , 7 (2), 
+469-475. DOI: 10.1002/celc.201901884.  
+(135) Ranjan, R.; Olson, J.; Singh, P.; Lorance, E. D.; Buttry, D. A.; Gould, I. R. Reversible Electrochemical 
+Trapping of Carbon Dioxide Using 4,4′ -Bipyridine That Does Not Require Thermal Activation. Journal of 
+Physical Chemistry Letters 2015 , 6 (24), 4 943-4946. DOI: 10.1021/acs.jpclett.5b02220.  
+(136) Singh, P.; Rheinhardt, J. H.; Olson, J. Z.; Tarakeshwar, P.; Mujica, V.; Buttry, D. A. Electrochemical 
+Capture and Release of Carbon Dioxide Using a Disulfide –Thiocarbonate Redox Cycle. J. Am. Chem. Soc. 
+2017, 139 (3), 1033 -1036. DOI: 10.1021/jacs.6b10806.  
+(137) Bell, W. L.; Miedaner, A.; Smart, J. C.; DuBois, D. L.; Verostko, C. E. Synthesis and Evaluation of 
+Electroactive CO₂ Carriers. SAE Transactions 1988 , 97, 544 -552. (acccessed 2020/04/04/).JSTOR.  
+(138 ) Namazian, M.; Zare, H. R.; Yousofian -Varzaneh, H. Electrochemical behavior of tetrafluoro -p-
+benzoquinone at the presence of carbon dioxide: Experimental and theoretical studies. Electrochim. 
+Acta 2016 , 196, 692 -698. DOI: https://doi.org/10.1016/j.electac ta.2016.02.159 . 
+(139) Zito, A. M.; Bím, D.; Vargas, S.; Alexandrova, A. N.; Yang, J. Y. Computational and Experimental 
+Design of Quinones for Electrochemical CO2 Capture and Concentration. ACS Sustainable Chemistry & 
+Engineering 2022 , 10 (34), 11387 -11395.  DOI: 10.1021/acssuschemeng.2c03463.  
+(140) Comeau Simpson, T.; Durand, R. R. Reactivity of carbon dioxide with quinones. Electrochim. Acta 
+1990 , 35 (9), 1399 -1403. DOI: https://doi.org/10.1016/0013 -4686(90)85012 -C. 
+(141) Schimanofsky, C.; Wielend, D.; Kröl l, S.; Lerch, S.; Werner, D.; Gallmetzer, J. M.; Mayr, F.; 
+Neugebauer, H.; Irimia -Vladu, M.; Portenkirchner, E.; et al. Direct Electrochemical CO2 Capture Using 
+Substituted Anthraquinones in Homogeneous Solutions: A Joint Experimental and Theoretical Study . The 
+Journal of Physical Chemistry C 2022 , 126 (33), 14138 -14154. DOI: 10.1021/acs.jpcc.2c03129.  
+(142) Gupta, N.; Linschitz, H. Hydrogen -Bonding and Protonation Effects in Electrochemistry of Quinones 
+in Aprotic Solvents. J. Am. Chem. Soc. 1997 , 119 (27),  6384 -6391. DOI: 10.1021/ja970028j.   51 (143) De Sousa Bulhõesw, L. O.; Zara, A. J. The effect of carbon dioxide on the electroreduction of 1,4 -
+benzoquinone. Journal of Electroanalytical Chemistry and Interfacial Electrochemistry 1988 , 248 (1), 159 -
+165. DOI: https://doi.org/10.1016/0022 -0728(88)85158 -1. 
+(144) Aranzaes, J. R.; Daniel, M. -C.; Astruc, D. Metallocenes as references for the determination of redox 
+potentials by cyclic voltammetry — Permethylated iron and cobalt sandwich complexes, inhibition by 
+polya mine dendrimers, and the role of hydroxy -containing ferrocenes. Can. J. Chem. 2006 , 84 (2), 288 -
+299. DOI: 10.1139/v05 -262.  
+(145) Zanello, P. Inorganic Electrochemistry: Theory, Practice and Application ; 2003.  
+(146) Fan, H.; Cheng, L.; Jin, B. Investigation on electrochemical capture of CO2 in p -Benzoquinone 
+solutions by in situ FT -IR spectroelectrochemistry. Electrochim. Acta 2019 , 324, 134882. DOI: 
+https://doi.org/10.1016/j.electacta.2019.134882 . 
+(147) Voskian , S.; Hatton, T. A. Faradaic electro -swing reactive adsorption for CO2 capture. Energy & 
+Environmental Science 2019 , 12 (12), 3530 -3547. DOI: 10.1039/C9EE02412C.  
+(148) Liu, Y.; Ye, H. -Z.; Diederichsen, K. M.; Van Voorhis, T.; Hatton, T. A. Electrochemicall y mediated 
+carbon dioxide separation with quinone chemistry in salt -concentrated aqueous media. Nature 
+Communications 2020 , 11 (1), 2278. DOI: 10.1038/s41467 -020-16150 -7. 
+(149) Nagaoka, T.; Okazaki, S.; Fujinaga, T. Ion -pair effects on the electroreduction  of carbonyl 
+compounds in N, -Dimethylformamide. Journal of Electroanalytical Chemistry and Interfacial 
+Electrochemistry 1982 , 133 (1), 89 -99. DOI: https://doi.org/10.1016/0022 -0728(82)87008 -3. 
+(150) Kim, Y. -R.; Kim, R. S.; Kang, S. K.; Choi, M. G.; Kim, H.  Y.; Cho, D.; Lee, J. Y.; Chang, S. -K.; Chung, T. D. 
+Modulation of Quinone PCET Reaction by Ca2+ Ion Captured by Calix[4]quinone in Water. J. Am. Chem. 
+Soc. 2013 , 135 (50), 18957 -18967. DOI: 10.1021/ja410406e.  
+(151) Peover, M. E.; Davies, J. D. The influen ce of ion -association on the polarography of quinones in 
+dimethylformamide. Journal of Electroanalytical Chemistry (1959) 1963 , 6 (1), 46 -53. DOI: 
+https://doi.org/10.1016/0022 -0728(63)80116 -3. 
+(152) Aimoto, Y.; Koshiba, K.; Yamauchi, K.; Sakai, K. A family  of molecular nickel hydrogen evolution 
+catalysts providing tunable overpotentials using ligand -centered proton -coupled electron transfer paths. 
+Chemical Communications 2018 , 54 (91), 12820 -12823, 10.1039/C8CC07467D. DOI: 
+10.1039/C8CC07467D.  
+(153) Delgado,  M.; Wolf, R. E.; Hartman, J. R.; McCafferty, G.; Yagbasan, R.; Rawle, S. C.; Watkin, D. J.; 
+Cooper, S. R. Redox -active crown ethers. Electrochemical and electron paramagnetic resonance studies 
+on alkali metal complexes of quinone crown ethers. J. Am. Chem . Soc. 1992 , 114 (23), 8983 -8991. DOI: 
+10.1021/ja00049a032.  
+(154) Eggins, B. R. Interpretation of electrochemical reduction and oxidation waves of quinone –
+hydroquinone system in acetonitrile. Journal of the Chemical Society D: Chemical Communications 1969 ,  
+(21), 1267 -1268, 10.1039/C29690001267. DOI: 10.1039/C29690001267.  
+(155) Barlow, J. M.; Yang, J. Y. Oxygen -Stable Electrochemical CO2 Capture and Concentration with 
+Quinones Using Alcohol Additives. J. Am. Chem. Soc. 2022 , 144 (31), 14161 -14169. DOI: 
+10.1 021/jacs.2c04044.  
+(156) Kajiwara, T.; Yamaguchi, T.; Kido, H.; Kawabata, S.; Kuroda, R.; Ito, T. A dinucleating 
+bis(dimethylcyclam) ligand and its dinickel(II) and dizinc(II) complexes with the face -to-face ring 
+arrangement. Inorg. Chem. 1993 , 32 (23), 499 0-4991. DOI: 10.1021/ic00075a003.  
+(157) Murase, I.; Vuckovic, G.; Kodera, M.; Harada, H.; Matsumoto, N.; Kida, S. Synthesis and 
+characterization of copper(II), nickel(II), and cobalt(II) binuclear complexes with a new tricyclic 
+octadentate ligand, 1,5,8,12 ,15,19,22,26 -octaazatricyclo[17.9.2.25,15]dotriacontane (tcoa): trapping of 
+carbon dioxide in a neutral aqueous solution. Inorg. Chem. 1991 , 30 (4), 728 -733. DOI: 
+10.1021/ic00004a024.   52 (158) Harada, H.; Kodera, M.; Vuckovic, G.; Matsumoto, N.; Kida, S. Prep aration and redox chemistry of 
+novel carbonato -bridged cobalt(II) complexes with 1,4,8,11 -tetrakis(2 -aminoethyl) -1,4,8,11 -
+tetraazacyclotetradecane and 1,4,8,11 -tetrakis(pyridylmethyl) -1,4,8,11 -tetraazacyclotetradecane. Inorg. 
+Chem. 1991 , 30 (6), 1190 -1194.  DOI: 10.1021/ic00006a007.  
+(159) Newell, R.; Appel, A.; DuBois, D. L.; Rakowski DuBois, M. Studies of Bicarbonate Binding by 
+Dinuclear and Mononuclear Ni(II) Complexes. Inorg. Chem. 2005 , 44 (2), 365 -373. DOI: 
+10.1021/ic049202c.  
+(160) Ranjan, R.; Olson, J. ; Singh, P.; Lorance, E. D.; Buttry, D. A.; Gould, I. R. Reversible Electrochemical 
+Trapping of Carbon Dioxide Using 4,4′ -Bipyridine That Does Not Require Thermal Activation. The Journal 
+of Physical Chemistry Letters 2015 , 6 (24), 4943 -4946. DOI: 10.1021/a cs.jpclett.5b02220.  
+(161) Stueber, D.; Orendt, A. M.; Facelli, J. C.; Parry, R. W.; Grant, D. M. Carbonates, Thiocarbonates, and 
+the Corresponding Monoalkyl Derivatives: III. The 13C Chemical Shift Tensors in Potassium Carbonate, 
+Bicarbonate and Related Mo nomethyl Derivatives. Solid State Nucl. Magn. Reson. 2002 , 22 (1), 29 -49. 
+DOI: https://doi.org/10.1006/snmr.2002.0061 . 
+(162) Stueber, D.; Arif, A. M.; Grant, D. M.; Parry, R. W. Carbonates, Thiocarbonates, and the 
+Corresponding Monoalkyl Derivatives. 2. X -ray Crystal Structure of Potassium Methyltrithiocarbonate 
+(KS2CSCH3). Inorg. Chem. 2001 , 40 (8), 1912 -1914. DOI: 10.1021/ic001227y.  
+(163) Harris, D.; Bushnell, E. Density Functional Theory Study of the Capture and Release of Carbon 
+Dioxide by Benzyl –Disulf ide, −Diselenide, and −Ditelluride. The Journal of Physical Chemistry A 2019 , 123 
+(15), 3383 -3388. DOI: 10.1021/acs.jpca.9b01862.  
+(164) Gangi, D. A.; Durand, R. R. Binding of carbon dioxide to cobalt and nickel tetra -aza macrocycles. J. 
+Chem. Soc., Chem. C ommun. 1986 ,  (9), 697 -699, 10.1039/C39860000697. DOI: 10.1039/C39860000697.  
+(165) Bard, A. J.; Faulkner, L. R. Electrochemical Methods: Fundamentals and Application ; John Wiley & 
+Sons, Inc., 2001.  
+(166) Creutz, C.; Schwarz, H. A.; Wishart, J. F.; Fujita, E.; Sutin, N. Thermodynamics and kinetics of carbon 
+dioxide binding to two stereoisomers of a cobalt(I) macrocycle in aqueous solution. J. Am. Chem. Soc. 
+1991 , 113 (9), 3361 -3371. DOI: 10.1021/ja00009a022.  
+(167) Creutz, C. Chapter 2 - Carbon Dioxide Bindin g to Transition -Metal Centers. In Electrochemical and 
+Electrocatalytic Reactions of Carbon Dioxide , Sullivan, B. P. Ed.; Elsevier, 1993; pp 19 -67. 
+(168) Benesi, H. A.; Hildebrand, J. H. A Spectrophotometric Investigation of the Interaction of Iodine with 
+Aromatic Hydrocarbons. J. Am. Chem. Soc. 1949 , 71 (8), 2703 -2707. DOI: 10.1021/ja01176a030.  
+ 
+ 
