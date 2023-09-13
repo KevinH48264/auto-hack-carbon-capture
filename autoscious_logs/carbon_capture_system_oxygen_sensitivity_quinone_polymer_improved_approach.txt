@@ -1,0 +1,32 @@
+10 ways the research paper's main findings could improve the initial approach:
+
+1. The research paper's findings on using alcohol additives to anodically shift the reduction potential of a quinone redox carrier could be applied to the initial approach to enhance the stability of the system in the presence of oxygen.
+2. By incorporating the research paper's findings, the initial approach could potentially achieve higher faradaic efficiencies, leading to a more efficient carbon capture system.
+3. The use of alcohol additives could also improve the durability of the electrochemical cells in the initial approach, reducing the loss of capacity over cycles.
+4. The research paper's findings on intermolecular hydrogen-bonding interactions with the dianion and CO2-bound forms of the quinone redox carrier could be utilized to optimize the binding of CO2 in the initial approach, increasing the overall capture capacity.
+5. The research paper's approach of using ethanol as the optimal additive could be implemented in the initial approach to enhance both the reduction potential and CO2-binding constant, resulting in improved performance.
+6. The research paper's findings on the relationship between alcohol pKa and the properties of the redox carriers could be used to tailor the redox properties of the quinone polymer in the initial approach, optimizing its performance for CO2 capture.
+7. The research paper's methodology for assessing the kinetics of quinone-CO2 adduct formation could be applied to the initial approach to better understand the reaction kinetics and optimize the system accordingly.
+8. The research paper's characterization techniques, such as cyclic voltammetry, electronic absorption spectra, and NMR spectra, could be used in the initial approach to gain a deeper understanding of the electrochemical processes and improve system design.
+9. The research paper's findings on the estimated minimum energetic requirements for concentrating CO2 could be used to set performance targets for the initial approach and guide the design of more efficient systems.
+10. The research paper's general approach of using hydrogen-bond donor additives to tailor the redox properties of quinone/alcohol combinations could be extended to other redox carrier-based systems in the initial approach, expanding the range of potential solutions.
+
+New research proposal:
+
+1) Purpose:
+The purpose of this research proposal is to develop a more efficient carbon capture system by leveraging the findings from a recent research paper on oxygen-stable electrochemical CO2 capture and concentration with quinones using alcohol additives. The goal is to address the key problem of sensitivity to oxygen in the initial approach and improve the overall efficiency of the carbon capture process.
+
+2) Background and current state:
+The initial approach is a solid-state faradaic electro-swing reactive adsorption system that utilizes an electrochemical cell with a polyanthraquinone-carbon nanotube composite negative electrode for CO2 capture. However, the system is sensitive to oxygen, which reduces its efficiency. The research paper's findings demonstrate that the addition of alcohol additives can anodically shift the reduction potential of a quinone redox carrier, resulting in an oxygen-stable electrochemical CO2 capture system with improved efficiency.
+
+3) Hypothesis:
+We hypothesize that by incorporating the research paper's findings on using alcohol additives to anodically shift the reduction potential of a quinone redox carrier, we can develop an oxygen-stable electrochemical CO2 capture system that is more efficient than the initial approach in terms of GJ energy/ton of CO2 captured.
+
+4) Methodology:
+The proposed methodology involves synthesizing a quinone redox carrier and optimizing its properties through the addition of alcohol additives. The electrochemical behavior of the redox carrier will be characterized using techniques such as cyclic voltammetry and electronic absorption spectroscopy. The CO2 capture performance of the system will be evaluated using a parallel passage contactor bed setup, similar to the initial approach. The system will be tested under various conditions, including different CO2 concentrations and oxygen levels, to assess its stability and efficiency.
+
+5) Expected outcomes:
+We expect that by incorporating the research paper's findings, the proposed system will exhibit improved faradaic efficiency, higher capture capacity, and enhanced durability compared to the initial approach. The system is expected to achieve a higher GJ energy/ton of CO2 captured, making it more efficient for carbon capture applications.
+
+6) Biggest risks and ways to mitigate those risks:
+The biggest risk is the potential for the alcohol additives to negatively affect the overall performance of the system or introduce unwanted side reactions. To mitigate this risk, a thorough characterization of the redox carrier and alcohol additives will be conducted to understand their interactions and optimize their concentrations. Additionally, careful control of the experimental conditions, such as oxygen levels and CO2 concentrations, will be implemented to minimize any potential adverse effects. Regular monitoring and analysis of the system's performance will also be carried out to identify and address any issues that may arise.
