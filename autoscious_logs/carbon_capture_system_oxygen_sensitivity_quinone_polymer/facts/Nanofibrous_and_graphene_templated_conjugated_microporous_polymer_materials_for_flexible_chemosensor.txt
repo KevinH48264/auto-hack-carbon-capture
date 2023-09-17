@@ -1,0 +1,7 @@
+The tangential research paper's main findings are focused on the synthesis and properties of nanofibrous and graphene-templated conjugated microporous polymer materials. While these findings may not directly address the key problem of sensitivity to oxygen in carbon capture systems, they can still provide some useful insights.
+
+First, the research paper demonstrates the fabrication of nanofibrous films using electrospinning techniques. This could be useful in the development of carbon capture systems by providing a method to create flexible and porous materials that can be tailored for specific applications.
+
+Second, the paper discusses the use of graphene templates for growing conjugated microporous polymer sandwiches. This approach could potentially be applied to the design of carbon capture materials, allowing for the incorporation of graphene or other nanomaterials to enhance the performance and efficiency of the system.
+
+However, it is important to note that the tangential research paper does not directly address the key problem of sensitivity to oxygen in carbon capture systems. Therefore, it does not provide specific solutions or insights into how to avoid reactions with oxygen. This limitation is a drawback of using the main findings of the tangential research paper to solve the key problem.

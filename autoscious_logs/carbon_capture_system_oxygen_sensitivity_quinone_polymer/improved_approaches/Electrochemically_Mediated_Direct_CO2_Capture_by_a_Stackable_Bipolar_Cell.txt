@@ -1,0 +1,34 @@
+Research Proposal: Development of an Enhanced Carbon Capture System
+
+1) Purpose:
+The purpose of this research proposal is to develop a more efficient carbon capture system than the initial approach by leveraging the main findings of a tangential research paper. The goal is to address the key problem of sensitivity to oxygen in the carbon capture process and improve the energy efficiency of the system.
+
+2) Background and Current State:
+The initial approach is a solid-state faradaic electro-swing reactive adsorption system that captures CO2 using an electrochemical cell with a polyanthraquinone–carbon nanotube composite negative electrode. However, the system is sensitive to oxygen, which reduces its overall efficiency. The research paper discusses an electrochemically mediated direct air capture (DAC) system that utilizes redox-active quinone moieties for CO2 capture and release. This system relies solely on the electrochemical voltage for CO2 capture and release, eliminating the need for temperature or pH swing. The paper demonstrates the feasibility of the DAC system using stackable bipolar cells with nearly equal distribution of applied voltages throughout multiple pairs of electrodes.
+
+3) Hypothesis and Key Problem:
+The hypothesis is that by incorporating the electrochemically mediated DAC system and stackable bipolar cell design, we can develop a carbon capture system that is more efficient than the initial approach in terms of energy consumption per ton of CO2 captured. The key problem to address is the sensitivity to oxygen, which reduces the efficiency of the carbon capture system.
+
+To address this key problem, the hypothesis proposes careful tuning of the electron density of the quinone polymer to avoid reactions with oxygen. This can be achieved by modifying the quinone polymer structure or introducing additional functional groups to enhance its stability in the presence of oxygen.
+
+4) Methodology:
+The proposed methodology involves the following steps:
+- Synthesize and characterize modified quinone polymers with improved stability in the presence of oxygen.
+- Fabricate stackable bipolar cells using the modified quinone polymers as the negative electrode and a suitable positive electrode.
+- Evaluate the performance of the carbon capture system using the stackable bipolar cells in terms of CO2 capture capacity, faradaic efficiency, and energy consumption.
+- Optimize the operating conditions, such as voltage window and flow rate, to maximize the efficiency of the carbon capture system.
+- Compare the performance of the proposed system with the initial approach and assess its energy efficiency in terms of GJ energy per ton of CO2 captured.
+
+5) Expected Outcomes:
+The expected outcomes of this research are:
+- Development of modified quinone polymers with improved stability in the presence of oxygen.
+- Fabrication of stackable bipolar cells with enhanced carbon capture performance.
+- Demonstration of a carbon capture system that is more efficient than the initial approach in terms of energy consumption per ton of CO2 captured.
+- Quantification of the energy efficiency improvement achieved by the proposed system compared to the initial approach.
+
+6) Biggest Risks and Mitigation Strategies:
+The biggest risk in this research is the successful modification of the quinone polymers to improve their stability in the presence of oxygen. To mitigate this risk, a thorough literature review and preliminary experiments will be conducted to identify suitable modifications and synthesis methods. Collaboration with experts in polymer chemistry and electrochemistry can also help mitigate this risk.
+
+Another risk is the scalability of the stackable bipolar cell design. To mitigate this risk, the cell design will be optimized for scalability during the fabrication process. Computational modeling and simulation can also be used to assess the performance of larger-scale systems.
+
+In conclusion, this research proposal aims to develop a more efficient carbon capture system by leveraging the main findings of a tangential research paper. The proposed system will address the key problem of sensitivity to oxygen and improve the energy efficiency of the carbon capture process. The methodology involves modifying quinone polymers, fabricating stackable bipolar cells, and evaluating the performance of the system. The expected outcomes include the development of modified quinone polymers, fabrication of efficient stackable bipolar cells, and demonstration of a more energy-efficient carbon capture system.

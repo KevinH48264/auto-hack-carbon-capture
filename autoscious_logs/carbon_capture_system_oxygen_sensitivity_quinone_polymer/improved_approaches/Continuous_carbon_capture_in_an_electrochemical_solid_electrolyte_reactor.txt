@@ -1,0 +1,15 @@
+The tangential research paper's main findings are significant because they demonstrate a continuous electrochemical carbon-capture design that efficiently absorbs dilute carbon dioxide (CO2) molecules and produces a high-purity CO2 stream. The system uses an oxygen/water redox couple and a modular solid-electrolyte reactor, eliminating the need for chemical inputs or side products. The research paper also highlights the advantages of using redox-active carriers, such as quinones, for CO2 capture.
+
+Based on these findings, we propose a research proposal for a more efficient carbon capture system than the initial approach. 
+
+1) Purpose: The purpose of this research is to develop a carbon capture system that is more efficient than the state-of-the-art (SOTA) in terms of energy consumption per ton of CO2 captured.
+
+2) Background and current state: The initial approach is a solid-state faradaic electro-swing reactive adsorption system that uses an electrochemical cell with a polyanthraquinone-carbon nanotube composite negative electrode for CO2 capture. The system has demonstrated high CO2 capture efficiency and durability. However, it is sensitive to oxygen, which reduces its overall efficiency. The tangential research paper presents a continuous electrochemical carbon-capture design that overcomes the oxygen sensitivity and achieves high carbon-capture rates and efficiencies.
+
+3) Hypothesis: We hypothesize that by leveraging the findings of the tangential research paper, we can develop a carbon capture system that addresses the key problem of sensitivity to oxygen and achieves higher energy efficiency. The hypothesis is based on the use of an oxygen/water redox couple and a modular solid-electrolyte reactor, similar to the design in the research paper.
+
+4) Methodology: The research will involve designing and building a carbon capture system that incorporates the oxygen/water redox couple and the modular solid-electrolyte reactor. The system will be optimized to maximize CO2 capture efficiency and minimize energy consumption. The sensitivity to oxygen will be addressed by careful tuning of the electron density of the quinone polymer, as suggested in the initial approach.
+
+5) Expected outcomes: We expect to develop a carbon capture system that achieves higher energy efficiency than the initial approach by leveraging the findings of the tangential research paper. The system will demonstrate high CO2 capture rates, high Faradaic efficiencies, and low energy consumption. It will also address the key problem of sensitivity to oxygen.
+
+6) Biggest risks and mitigation: The biggest risk is the scalability and practical implementation of the proposed carbon capture system. To mitigate this risk, the research will involve thorough testing and optimization of the system under various conditions, including different CO2 concentrations and flow rates. The system will also be evaluated for its stability and durability over extended periods of operation. Additionally, collaboration with industry partners and experts in carbon capture technology will be sought to ensure the feasibility and practicality of the proposed system.

@@ -1,0 +1,33 @@
+The tangential research paper discusses the use of conducting polymers as electrocatalysts in various applications, including electrocatalysis at conducting polymer electrodes, modified with dispersed metals, and electrocatalysis at conducting polymers, doped with heteropolyanions and various metal complexes. These findings are significant because they provide insights into the properties and potential applications of conducting polymers in electrochemical processes.
+
+Based on the initial approach and the key problem of sensitivity to oxygen, we can propose a research project that leverages the findings from the tangential research paper to develop a more efficient carbon capture system. 
+
+Research Proposal:
+
+1) Purpose:
+The purpose of this research project is to develop a carbon capture system that is more efficient than the state-of-the-art (SOTA) approach in terms of energy consumption per ton of CO2 captured. By leveraging the findings from the tangential research paper on electrocatalysis at conducting polymers, we aim to address the key problem of sensitivity to oxygen and improve the overall efficiency of the carbon capture system.
+
+2) Background and Current State:
+The initial approach utilizes a solid-state faradaic electro-swing reactive adsorption system that captures CO2 using an electrochemical cell with a polyanthraquinone–carbon nanotube composite negative electrode. However, the system is sensitive to oxygen, which reduces its efficiency. The tangential research paper discusses the use of conducting polymers as electrocatalysts, which can enhance the performance of electrochemical processes.
+
+3) Hypothesis and Key Problem Addressed:
+We hypothesize that by incorporating conducting polymers as electrocatalysts in the carbon capture system, we can improve its efficiency and mitigate the sensitivity to oxygen. Conducting polymers have shown promising electrocatalytic properties in various applications, and by applying them in the carbon capture system, we can enhance the performance of the electrochemical cell and reduce energy losses due to oxygen reactions.
+
+4) Methodology:
+a) Synthesis of Conducting Polymer Electrodes: We will synthesize conducting polymer electrodes, such as polyaniline, polythiophene, or polypyrrole, using established methods from the literature. These conducting polymers will be doped with suitable dopants to enhance their electrocatalytic properties.
+
+b) Integration into Carbon Capture System: The synthesized conducting polymer electrodes will be integrated into the existing carbon capture system, replacing the polyanthraquinone–carbon nanotube composite negative electrode. The system will be modified to accommodate the new electrodes and ensure efficient CO2 capture and release.
+
+c) Performance Evaluation: The modified carbon capture system will be tested under various conditions, including different CO2 concentrations and oxygen levels. The performance of the system will be evaluated in terms of CO2 capture efficiency, energy consumption, and sensitivity to oxygen. Comparative studies with the initial approach will be conducted to assess the improvement in efficiency.
+
+5) Expected Outcomes:
+We expect that the incorporation of conducting polymers as electrocatalysts in the carbon capture system will lead to improved efficiency in terms of energy consumption per ton of CO2 captured. The electrocatalytic properties of conducting polymers can enhance the performance of the electrochemical cell, leading to higher faradaic efficiency and reduced energy losses due to oxygen reactions. The modified system is expected to demonstrate better durability and stability, with minimal loss of capacity over cycles.
+
+6) Biggest Risks and Mitigation:
+a) Compatibility and Integration: One of the biggest risks is the compatibility and integration of the conducting polymer electrodes into the existing carbon capture system. To mitigate this risk, thorough characterization and testing of the synthesized electrodes will be conducted before integration. Any necessary modifications to the system will be made to ensure seamless integration.
+
+b) Electrode Performance: Another risk is the performance of the conducting polymer electrodes in the carbon capture system. To mitigate this risk, extensive electrochemical characterization and optimization of the electrodes will be performed. The performance of the electrodes will be evaluated under different conditions to ensure their effectiveness in CO2 capture and release.
+
+c) Scale-up and Cost: Scaling up the modified carbon capture system and managing the associated costs can be challenging. To mitigate this risk, a cost analysis will be conducted throughout the research project to identify potential cost-saving measures. Collaboration with industry partners and stakeholders will be sought to facilitate the scale-up process and ensure the economic viability of the developed system.
+
+By leveraging the findings from the tangential research paper on electrocatalysis at conducting polymers, this research project aims to develop a more efficient carbon capture system that addresses the key problem of sensitivity to oxygen. The proposed methodology includes the synthesis of conducting polymer electrodes, integration into the carbon capture system, performance evaluation, and comparative studies with the initial approach. The expected outcomes include improved efficiency, durability, and stability of the modified system. The biggest risks, such as compatibility and integration, electrode performance, and scale-up and cost, will be mitigated through thorough characterization, optimization, and collaboration with industry partners.

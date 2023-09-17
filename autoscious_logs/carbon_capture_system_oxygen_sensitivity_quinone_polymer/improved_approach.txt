@@ -1,0 +1,39 @@
+Research Proposal: Improving Carbon Capture Efficiency through Optimized Electrochemical Cell Design and Material Selection
+
+1. Purpose:
+The purpose of this research proposal is to develop a more efficient carbon capture system than the state-of-the-art (SOTA) by leveraging the initial approach's electrochemical cell architecture and incorporating optimized design and material selection to address the key problem of sensitivity to oxygen. The goal is to achieve a higher energy efficiency in terms of GJ energy/ton of CO2 captured.
+
+2. Background and Current State:
+The initial approach utilizes a solid-state faradaic electro-swing reactive adsorption system with an electrochemical cell that captures and releases CO2 through the reductive addition of CO2 to quinones. However, the presence of oxygen in the feed stream can cause oxidation of the reduced quinones, reducing the overall efficiency of the carbon capture system. The initial approach demonstrates promising results in terms of CO2 capture capacity, faradaic efficiency, and durability. However, it lacks direct addressing of the sensitivity to oxygen and quantitative data on energy requirements and efficiency improvements.
+
+3. Hypothesis:
+By optimizing the electron density of the quinone polymer, incorporating mixed ceria-based metal oxides for oxygen stability, and exploring nanofibrous and graphene-templated conjugated microporous polymer materials, we hypothesize that the carbon capture system's efficiency can be significantly improved. Additionally, the use of electrocatalysis and pH-swing methods can enhance the efficiency of CO2 capture and release processes.
+
+To address the key problem of sensitivity to oxygen, careful tuning of the electron density of the quinone polymer will be crucial. By optimizing the electron density, we aim to minimize reactions with oxygen, thereby improving the overall efficiency of the carbon capture system.
+
+4. Methodology:
+- Conduct a comprehensive literature review to gather information on optimizing the electron density of quinone polymers, mixed ceria-based metal oxides for oxygen stability, and nanofibrous and graphene-templated conjugated microporous polymer materials.
+- Design and fabricate electrochemical cells with optimized quinone polymers and mixed ceria-based metal oxides.
+- Characterize the electrochemical cells using techniques such as cyclic voltammetry, impedance spectroscopy, and X-ray diffraction to evaluate their performance and stability.
+- Investigate the use of nanofibrous and graphene-templated conjugated microporous polymer materials for creating flexible and porous materials in the carbon capture system.
+- Explore the potential of electrocatalysis and pH-swing methods to enhance CO2 capture and release processes.
+- Quantitatively evaluate the energy requirements and efficiency improvements of the proposed system by measuring GJ energy/ton of CO2 captured.
+
+5. Expected Outcomes:
+- A carbon capture system with improved efficiency in terms of GJ energy/ton of CO2 captured compared to the SOTA.
+- Optimized quinone polymers and mixed ceria-based metal oxides for enhanced oxygen stability.
+- Insights into the use of nanofibrous and graphene-templated conjugated microporous polymer materials for flexible and porous carbon capture materials.
+- Enhanced CO2 capture and release processes through the use of electrocatalysis and pH-swing methods.
+- Quantitative data on energy requirements and efficiency improvements of the proposed system.
+
+6. Biggest Risks and Mitigation:
+- Risk: Incompatibility or limited effectiveness of optimized quinone polymers and mixed ceria-based metal oxides.
+  Mitigation: Conduct thorough characterization and testing of the materials to ensure compatibility and effectiveness before implementing them in the carbon capture system.
+
+- Risk: Limited scalability, cost-effectiveness, stability, and long-term performance of the proposed system.
+  Mitigation: Perform comprehensive scalability and cost-effectiveness analyses, as well as long-term stability testing, to identify potential challenges and develop mitigation strategies.
+
+- Risk: Inadequate improvement in energy efficiency compared to the SOTA.
+  Mitigation: Continuously monitor and evaluate the energy requirements and efficiency improvements throughout the research process. If necessary, iterate and optimize the system design and materials to achieve the desired energy efficiency.
+
+By addressing these risks and implementing appropriate mitigation strategies, the proposed research aims to overcome the limitations of the initial approach and develop a more efficient carbon capture system.

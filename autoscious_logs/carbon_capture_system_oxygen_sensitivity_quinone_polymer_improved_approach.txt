@@ -1,32 +1,35 @@
-10 ways the research paper's main findings could improve the initial approach:
+The tangential research paper's main findings are significant because they provide insights into the reduction of quinones, which is a key component of the initial approach for carbon capture. The paper explores the effects of hydrogen-bonding and protonation on the potentials and mechanisms of quinone reduction. It identifies three different types of electrochemical behavior based on the interaction between quinones and hydroxylic additives.
 
-1. The research paper's findings on using alcohol additives to anodically shift the reduction potential of a quinone redox carrier could be applied to the initial approach to enhance the stability of the system in the presence of oxygen.
-2. By incorporating the research paper's findings, the initial approach could potentially achieve higher faradaic efficiencies, leading to a more efficient carbon capture system.
-3. The use of alcohol additives could also improve the durability of the electrochemical cells in the initial approach, reducing the loss of capacity over cycles.
-4. The research paper's findings on intermolecular hydrogen-bonding interactions with the dianion and CO2-bound forms of the quinone redox carrier could be utilized to optimize the binding of CO2 in the initial approach, increasing the overall capture capacity.
-5. The research paper's approach of using ethanol as the optimal additive could be implemented in the initial approach to enhance both the reduction potential and CO2-binding constant, resulting in improved performance.
-6. The research paper's findings on the relationship between alcohol pKa and the properties of the redox carriers could be used to tailor the redox properties of the quinone polymer in the initial approach, optimizing its performance for CO2 capture.
-7. The research paper's methodology for assessing the kinetics of quinone-CO2 adduct formation could be applied to the initial approach to better understand the reaction kinetics and optimize the system accordingly.
-8. The research paper's characterization techniques, such as cyclic voltammetry, electronic absorption spectra, and NMR spectra, could be used in the initial approach to gain a deeper understanding of the electrochemical processes and improve system design.
-9. The research paper's findings on the estimated minimum energetic requirements for concentrating CO2 could be used to set performance targets for the initial approach and guide the design of more efficient systems.
-10. The research paper's general approach of using hydrogen-bond donor additives to tailor the redox properties of quinone/alcohol combinations could be extended to other redox carrier-based systems in the initial approach, expanding the range of potential solutions.
+These findings can be useful in addressing the key problem of sensitivity to oxygen in the carbon capture system. By understanding the role of hydrogen-bonding and protonation, we can potentially modify the quinone polymer to make it less reactive with oxygen. This could improve the overall efficiency of the system by reducing the oxidation of the reduced quinones.
 
-New research proposal:
+Research Proposal:
 
 1) Purpose:
-The purpose of this research proposal is to develop a more efficient carbon capture system by leveraging the findings from a recent research paper on oxygen-stable electrochemical CO2 capture and concentration with quinones using alcohol additives. The goal is to address the key problem of sensitivity to oxygen in the initial approach and improve the overall efficiency of the carbon capture process.
+The purpose of this research is to develop a more efficient carbon capture system by leveraging the findings from the tangential research paper. Specifically, we aim to address the key problem of sensitivity to oxygen by modifying the quinone polymer to reduce its reactivity with oxygen.
 
-2) Background and current state:
-The initial approach is a solid-state faradaic electro-swing reactive adsorption system that utilizes an electrochemical cell with a polyanthraquinone-carbon nanotube composite negative electrode for CO2 capture. However, the system is sensitive to oxygen, which reduces its efficiency. The research paper's findings demonstrate that the addition of alcohol additives can anodically shift the reduction potential of a quinone redox carrier, resulting in an oxygen-stable electrochemical CO2 capture system with improved efficiency.
+2) Background and Current State:
+The initial approach for carbon capture involves a solid-state faradaic electro-swing reactive adsorption system that utilizes the reductive addition of CO2 to quinones. However, the system is sensitive to oxygen, which can cause oxidation of the reduced quinones and reduce the overall efficiency. The tangential research paper's findings on the effects of hydrogen-bonding and protonation in quinone reduction provide valuable insights for addressing this key problem.
 
 3) Hypothesis:
-We hypothesize that by incorporating the research paper's findings on using alcohol additives to anodically shift the reduction potential of a quinone redox carrier, we can develop an oxygen-stable electrochemical CO2 capture system that is more efficient than the initial approach in terms of GJ energy/ton of CO2 captured.
+We hypothesize that by modifying the quinone polymer to enhance hydrogen-bonding and reduce protonation, we can reduce the reactivity of the quinones with oxygen. This will improve the overall efficiency of the carbon capture system by minimizing the oxidation of the reduced quinones.
+
+To explain this hypothesis to unfamiliar audiences, we need to introduce the concept of hydrogen-bonding and protonation. Hydrogen-bonding refers to the attractive interaction between a hydrogen atom bonded to an electronegative atom (such as oxygen) and another electronegative atom. Protonation refers to the addition of a proton (H+) to a molecule. In the context of quinone reduction, hydrogen-bonding and protonation can affect the potentials and mechanisms of the reduction process.
 
 4) Methodology:
-The proposed methodology involves synthesizing a quinone redox carrier and optimizing its properties through the addition of alcohol additives. The electrochemical behavior of the redox carrier will be characterized using techniques such as cyclic voltammetry and electronic absorption spectroscopy. The CO2 capture performance of the system will be evaluated using a parallel passage contactor bed setup, similar to the initial approach. The system will be tested under various conditions, including different CO2 concentrations and oxygen levels, to assess its stability and efficiency.
+To test our hypothesis, we will first synthesize different quinone polymers with varying degrees of hydrogen-bonding and protonation capabilities. This can be achieved by modifying the chemical structure of the quinone molecules and introducing functional groups that promote or inhibit hydrogen-bonding and protonation.
 
-5) Expected outcomes:
-We expect that by incorporating the research paper's findings, the proposed system will exhibit improved faradaic efficiency, higher capture capacity, and enhanced durability compared to the initial approach. The system is expected to achieve a higher GJ energy/ton of CO2 captured, making it more efficient for carbon capture applications.
+Next, we will evaluate the reactivity of these modified quinone polymers with oxygen. This can be done by exposing the quinone polymers to oxygen in controlled environments and monitoring the oxidation reactions using spectroscopic techniques.
 
-6) Biggest risks and ways to mitigate those risks:
-The biggest risk is the potential for the alcohol additives to negatively affect the overall performance of the system or introduce unwanted side reactions. To mitigate this risk, a thorough characterization of the redox carrier and alcohol additives will be conducted to understand their interactions and optimize their concentrations. Additionally, careful control of the experimental conditions, such as oxygen levels and CO2 concentrations, will be implemented to minimize any potential adverse effects. Regular monitoring and analysis of the system's performance will also be carried out to identify and address any issues that may arise.
+We will also assess the carbon capture performance of the modified quinone polymers. This will involve conducting experiments similar to the initial approach, where the quinone polymers are used in an electrochemical cell to capture and release CO2. We will measure the faradaic efficiency, energy consumption, and durability of the modified quinone polymers.
+
+5) Expected Outcomes:
+We expect that the modified quinone polymers with enhanced hydrogen-bonding and reduced protonation will exhibit reduced reactivity with oxygen. This will result in improved efficiency of the carbon capture system, as the oxidation of the reduced quinones will be minimized.
+
+Furthermore, we anticipate that the modified quinone polymers will maintain high faradaic efficiency, comparable or better than the initial approach. The energy consumption per ton of CO2 captured is expected to be lower, indicating a more efficient carbon capture system.
+
+6) Biggest Risks and Mitigation:
+The biggest risk in this research is the possibility that modifying the quinone polymer may negatively impact its carbon capture performance. The changes in the chemical structure could alter the electrochemical properties of the quinones, leading to reduced efficiency or stability.
+
+To mitigate this risk, we will conduct thorough characterization and testing of the modified quinone polymers before implementing them in the carbon capture system. We will assess their electrochemical properties, stability, and carbon capture performance in controlled laboratory conditions. Additionally, we will compare the performance of the modified quinone polymers with the initial approach to ensure that any modifications result in improvements rather than setbacks.
+
+By carefully addressing these risks and conducting comprehensive experiments, we aim to develop a more efficient carbon capture system that surpasses the state-of-the-art in terms of energy consumption per ton of CO2 captured.

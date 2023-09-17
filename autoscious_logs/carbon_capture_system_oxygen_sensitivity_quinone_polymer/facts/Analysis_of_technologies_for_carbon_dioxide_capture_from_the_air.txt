@@ -1,0 +1,7 @@
+The tangential research paper's main findings provide an overview of different technologies for carbon dioxide (CO2) capture from the air, including absorption and adsorption. The paper highlights the advantages and disadvantages of each technology and emphasizes the need for more efforts to develop direct air capture (DAC) at a large scale by reducing costs and improving efficiency.
+
+In terms of the key problem of sensitivity to oxygen, the paper does not specifically address this issue. However, it does mention that careful tuning of the electron density of the quinone polymer is required to avoid reactions with oxygen. This suggests that the research paper's findings may not directly address the sensitivity to oxygen in carbon capture systems.
+
+The main drawback demonstrated by the tangential research paper is the high energy requirement for the absorption process, especially for the calcination step in the Ca(OH)2-based process. The paper also mentions the low adsorption capacity of physisorbents due to the dilute concentration of CO2 in the air and the negative effect of moisture. Additionally, the high cost of metal organic frameworks (MOFs) makes their use in DAC prohibitive.
+
+In summary, while the tangential research paper provides valuable insights into different carbon capture technologies, it does not directly address the sensitivity to oxygen or propose a more efficient system in terms of GJ energy/ton of CO2 captured. Further research and development are needed to address these challenges and achieve the ultimate goal.

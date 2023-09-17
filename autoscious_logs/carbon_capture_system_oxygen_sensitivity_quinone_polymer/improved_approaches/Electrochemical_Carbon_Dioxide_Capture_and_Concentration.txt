@@ -1,0 +1,43 @@
+Significance of the tangential research paper's main findings:
+
+The tangential research paper discusses various approaches to electrochemical carbon dioxide capture and concentration (eCCC). It highlights the need for more efficient carbon capture technologies to reduce energy consumption and costs. The paper also emphasizes the potential of pH-mediated eCCC systems using redox mediators, such as quinones, phenazines, redox-active amines, and inorganic compounds.
+
+These findings are significant because they provide insights into alternative approaches for carbon capture and concentration. The use of redox mediators in pH-swing systems offers the potential for higher energetic efficiencies and lower energy requirements compared to traditional thermally-driven capture systems. The paper also highlights the importance of stability, solubility, and selectivity of the redox mediators in achieving efficient carbon capture.
+
+Research proposal for a more efficient carbon capture system:
+
+1) Purpose:
+The purpose of this research proposal is to develop a more efficient carbon capture system than the initial approach by leveraging the main findings of the tangential research paper. The proposed system will aim to improve energetic efficiency and reduce energy requirements for carbon capture and concentration.
+
+2) Background and current state:
+The initial approach described a solid-state faradaic electro-swing reactive adsorption system using an electrochemical cell with a polyanthraquinone-carbon nanotube composite negative electrode. While this approach showed promising results, it had limitations, including sensitivity to oxygen and the need for further optimization.
+
+The tangential research paper discussed various pH-mediated eCCC systems using redox mediators. These systems showed potential for higher energetic efficiencies and lower energy requirements compared to traditional capture systems. Quinones, phenazines, redox-active amines, and inorganic compounds were identified as candidate redox mediators.
+
+3) Hypothesis and addressing the key problem:
+Our hypothesis is that by incorporating a pH-mediated eCCC system using a suitable redox mediator, we can improve the energetic efficiency and reduce the energy requirements of the carbon capture system, addressing the key problem of sensitivity to oxygen.
+
+To achieve this, we will select a redox mediator from the identified classes (quinones, phenazines, redox-active amines, or inorganic compounds) based on its stability, solubility, and selectivity. The redox mediator will be incorporated into the electrochemical cell to enable pH swings for efficient CO2 capture and release. By carefully tuning the electron density of the quinone polymer or selecting an appropriate redox mediator, we can avoid reactions with oxygen and improve the overall efficiency of the carbon capture system.
+
+4) Methodology:
+The proposed methodology involves the following steps:
+- Selection of a suitable redox mediator based on stability, solubility, and selectivity criteria.
+- Design and fabrication of an electrochemical cell incorporating the redox mediator.
+- Optimization of the cell architecture to maximize surface area exposed to gas and facilitate stacking of cells in a parallel passage contactor bed.
+- Experimental testing of the cell performance using simulated flue gas streams or other relevant CO2 sources.
+- Characterization of the cell's energetic efficiency, Faradaic efficiency, and durability.
+- Iterative optimization of the cell design and redox mediator selection based on experimental results.
+
+5) Expected outcomes:
+The expected outcomes of this research are:
+- Development of a more efficient carbon capture system with higher energetic efficiency and lower energy requirements compared to the initial approach.
+- Demonstration of the feasibility and effectiveness of pH-mediated eCCC using a suitable redox mediator.
+- Identification of the optimal redox mediator and cell design for efficient CO2 capture and release.
+- Improved understanding of the factors influencing the performance and stability of pH-mediated eCCC systems.
+
+6) Biggest risks and ways to mitigate those risks:
+The biggest risks of this research include the selection of an unsuitable redox mediator, challenges in optimizing the cell architecture, and potential limitations in scalability and cost-effectiveness.
+
+To mitigate these risks, we will conduct a thorough literature review and preliminary experiments to select the most promising redox mediator. We will collaborate with experts in electrochemical engineering to optimize the cell architecture and address scalability and cost-effectiveness concerns. Additionally, we will perform rigorous testing and characterization to ensure the stability and performance of the proposed carbon capture system.
+
+By addressing these risks and implementing a comprehensive research plan, we can minimize uncertainties and maximize the chances of developing a more efficient carbon capture system.

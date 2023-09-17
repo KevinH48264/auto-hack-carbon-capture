@@ -1,0 +1,29 @@
+Based on the given information, it appears that there is no tangential research paper's main findings available. Therefore, we will proceed with the research proposal without leveraging any specific findings from another paper.
+
+Research Proposal:
+
+1) Purpose:
+The purpose of this research proposal is to develop a more efficient carbon capture system than the initial approach described. Specifically, we aim to address the key problem of sensitivity to oxygen, which reduces the overall efficiency of the carbon capture system.
+
+2) Background and Current State:
+The initial approach utilizes a solid-state faradaic electro-swing reactive adsorption system that captures CO2 through the reductive addition of CO2 to quinones. However, the system is sensitive to oxygen, which can cause oxidation of the reduced quinones and decrease the system's efficiency.
+
+3) Hypothesis:
+We hypothesize that by incorporating a selective oxygen removal step in the carbon capture system, we can mitigate the sensitivity to oxygen and improve the overall efficiency. This can be achieved by integrating a membrane-based oxygen separation unit into the system.
+
+To explain the first principles, it is important to note that oxygen is a more permeable gas compared to CO2. By utilizing a selective oxygen removal membrane, we can selectively remove oxygen from the feed stream, thereby reducing the chances of oxidation of the reduced quinones.
+
+4) Methodology:
+The proposed methodology involves the following steps:
+- Design and fabrication of a membrane-based oxygen separation unit that can selectively remove oxygen from the feed stream.
+- Integration of the oxygen separation unit into the existing solid-state faradaic electro-swing reactive adsorption system.
+- Experimental testing of the modified carbon capture system to evaluate its efficiency and performance under various operating conditions.
+- Optimization of the system parameters, such as membrane material, thickness, and operating conditions, to maximize the oxygen removal efficiency and minimize any potential impact on CO2 capture efficiency.
+
+5) Expected Outcomes:
+We expect that by incorporating the selective oxygen removal step, the modified carbon capture system will exhibit improved efficiency compared to the initial approach. The oxygen removal unit will mitigate the sensitivity to oxygen, allowing for more stable and efficient operation of the system. This will result in a higher GJ energy / ton of CO2 captured compared to the state-of-the-art (SOTA) system.
+
+6) Biggest Risks and Mitigation:
+The biggest risk in this research proposal is the potential impact of the oxygen removal unit on the CO2 capture efficiency. There is a possibility that the membrane-based oxygen separation process may also remove a small fraction of CO2 along with oxygen. To mitigate this risk, we will carefully select and optimize the membrane material and operating conditions to minimize any CO2 loss. Additionally, rigorous testing and characterization of the modified system will be conducted to ensure that the overall CO2 capture efficiency is not compromised.
+
+In conclusion, this research proposal aims to develop a more efficient carbon capture system by addressing the key problem of sensitivity to oxygen. By incorporating a selective oxygen removal step using a membrane-based separation unit, we expect to improve the overall efficiency of the system. The proposed methodology, if successful, will contribute to the advancement of carbon capture technologies and help in achieving the goal of a more efficient GJ energy / ton of CO2 captured.

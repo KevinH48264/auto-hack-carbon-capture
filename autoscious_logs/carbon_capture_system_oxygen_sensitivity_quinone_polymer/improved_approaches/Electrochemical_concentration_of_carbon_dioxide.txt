@@ -1,0 +1,33 @@
+The tangential research paper's main findings on electrochemical and electrocatalytic reactions of carbon dioxide can be useful in addressing the key problem of sensitivity to oxygen in the initial approach. The paper may provide insights into the mechanisms of oxygen reactions with the reduced quinones and offer potential strategies to mitigate this issue.
+
+Research Proposal:
+
+1) Purpose:
+The purpose of this research is to develop a more efficient carbon capture system than the initial approach by leveraging the findings from the tangential research paper on electrochemical and electrocatalytic reactions of carbon dioxide. The focus will be on addressing the key problem of sensitivity to oxygen, which reduces the overall efficiency of the carbon capture system.
+
+2) Background and Current State:
+The initial approach utilizes a solid-state faradaic electro-swing reactive adsorption system that captures CO2 through the reductive addition of CO2 to quinones. However, the presence of oxygen in the feed stream can cause oxidation of the reduced quinones, leading to a decrease in system efficiency. The research paper on electrochemical and electrocatalytic reactions of carbon dioxide provides valuable insights into potential solutions for this issue.
+
+3) Hypothesis:
+We hypothesize that by incorporating electrocatalytic materials and optimizing the electron density of the quinone polymer, we can enhance the system's resistance to oxygen and improve the overall efficiency of the carbon capture process. This hypothesis is based on the understanding that electrocatalytic materials can facilitate the desired reactions while minimizing unwanted side reactions with oxygen.
+
+4) Methodology:
+a) Material Selection: We will explore various electrocatalytic materials, such as metal oxides or metal complexes, to enhance the reactivity of the quinone polymer towards CO2 and minimize reactions with oxygen.
+b) Electrode Design: We will design and fabricate electrodes that incorporate the selected electrocatalytic materials, ensuring efficient CO2 capture and release.
+c) Electron Density Optimization: Through careful tuning of the electron density of the quinone polymer, we will aim to minimize its reactivity with oxygen while maintaining its effectiveness in capturing CO2.
+d) Performance Evaluation: We will conduct experiments to evaluate the efficiency of the developed carbon capture system, measuring parameters such as faradaic efficiency, energy consumption, and durability.
+
+5) Expected Outcomes:
+We expect that the incorporation of electrocatalytic materials and optimization of the electron density of the quinone polymer will significantly improve the system's resistance to oxygen and enhance the overall efficiency of carbon capture. This improvement will be reflected in higher faradaic efficiency, reduced energy consumption per ton of CO2 captured (GJ/ton CO2), and improved durability of the electrochemical cells.
+
+6) Biggest Risks and Mitigation:
+a) Risk: Incompatibility of electrocatalytic materials with the quinone polymer or other components of the system.
+   Mitigation: Prior to implementation, extensive compatibility tests will be conducted to ensure the selected electrocatalytic materials work synergistically with the quinone polymer and other system components.
+
+b) Risk: Difficulty in optimizing the electron density of the quinone polymer to balance reactivity with CO2 and resistance to oxygen.
+   Mitigation: The research will involve a systematic study of the electron density tuning process, utilizing computational modeling and experimental validation to find the optimal balance.
+
+c) Risk: Limited scalability of the proposed system.
+   Mitigation: Throughout the research, scalability considerations will be taken into account, and potential scalability challenges will be addressed by collaborating with experts in process engineering and system design.
+
+By leveraging the findings from the tangential research paper and addressing the key problem of sensitivity to oxygen, we aim to develop a more efficient carbon capture system that surpasses the state-of-the-art in terms of energy consumption per ton of CO2 captured (GJ/ton CO2).

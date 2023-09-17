@@ -1,0 +1,30 @@
+Research Proposal: Development of an Enhanced Carbon Capture System Using Salt-Concentrated Aqueous Electrolytes
+
+1) Purpose:
+The purpose of this research proposal is to develop a more efficient carbon capture system than the initial approach by leveraging the use of salt-concentrated aqueous electrolytes. The goal is to address the key problem of sensitivity to oxygen, which reduces the overall efficiency of the carbon capture system.
+
+2) Background and Current State:
+The initial approach utilizes a solid-state faradaic electro-swing reactive adsorption system that captures CO2 using an electrochemical cell with a polyanthraquinone-carbon nanotube composite negative electrode. However, the presence of oxygen in the feed stream can cause oxidation of the reduced quinones, reducing the efficiency of the system.
+
+A tangential research paper has demonstrated that rationally designed aqueous electrolytes with high salt concentration can effectively resolve the incompatibility between aqueous environments and quinone electrochemistry for carbon capture. These salt-concentrated aqueous media offer advantages such as extended electrochemical stability window, high CO2 activity, reduced evaporative loss, and suppressed competing reactions.
+
+3) Hypothesis and Key Problem Addressed:
+The hypothesis of this research proposal is that by using salt-concentrated aqueous electrolytes, the sensitivity to oxygen in the carbon capture system can be minimized, leading to a more efficient system. The key problem of sensitivity to oxygen can be addressed by utilizing the physicochemical advantages of salt-concentrated electrolytes, such as enhanced resistance to evaporative loss and reduced dissolution of electroactive compounds.
+
+4) Methodology:
+The research will involve the following steps:
+- Design and synthesis of rationally designed aqueous electrolytes with high salt concentration, such as LiTFSI.
+- Characterization of the electrochemical behavior of quinones in salt-concentrated aqueous electrolytes, including the study of competing reactions and the stability of reduced quinones in the presence of oxygen.
+- Development of a carbon capture system using salt-concentrated aqueous electrolytes, including the optimization of electrode materials and cell architecture.
+- Evaluation of the efficiency and stability of the carbon capture system through electrochemical testing, including cyclic voltammetry, capacity measurements, and long-term cycling experiments.
+
+5) Expected Outcomes:
+The expected outcomes of this research are:
+- Development of a carbon capture system that is more efficient than the initial approach in terms of GJ energy/ton of CO2 captured.
+- Demonstration of the effectiveness of salt-concentrated aqueous electrolytes in minimizing the sensitivity to oxygen and improving the overall efficiency of the carbon capture system.
+- Validation of the proposed hypothesis and the potential of salt-concentrated aqueous electrolytes for carbon capture applications.
+
+6) Biggest Risks and Mitigation Strategies:
+The biggest risks of this research include the potential challenges in designing and synthesizing rationally designed aqueous electrolytes with high salt concentration, as well as the optimization of electrode materials and cell architecture. To mitigate these risks, the research will involve collaboration with experts in electrolyte design and materials science. Additionally, thorough characterization and testing will be conducted to ensure the reliability and reproducibility of the results.
+
+Overall, this research proposal aims to leverage the findings of the tangential research paper on salt-concentrated aqueous electrolytes to develop a more efficient carbon capture system. By addressing the key problem of sensitivity to oxygen, this research has the potential to contribute to the advancement of carbon capture technologies.

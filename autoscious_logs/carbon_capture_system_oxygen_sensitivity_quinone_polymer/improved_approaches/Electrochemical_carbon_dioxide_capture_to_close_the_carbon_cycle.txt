@@ -1,0 +1,34 @@
+Research Proposal: Development of an Enhanced Carbon Capture System Using Electrochemical pH-Swing and BPMED
+
+1) Purpose:
+The purpose of this research proposal is to develop a more efficient carbon capture system than the initial approach by leveraging the main findings of the tangential research paper. The proposed system will utilize electrochemical pH-swing and bipolar membrane electrodialysis (BPMED) to address the key problem of sensitivity to oxygen in the initial approach.
+
+2) Background and Current State:
+The initial approach utilizes a solid-state faradaic electro-swing reactive adsorption system for carbon capture. However, it is sensitive to oxygen, which reduces its overall efficiency. The tangential research paper discusses the use of electrochemical CO2 capture technologies, specifically pH-swing processes, and their potential for decentralized emissions and integration with renewable energy sources.
+
+3) Hypothesis and Key Problem Addressed:
+The hypothesis is that by combining electrochemical pH-swing and BPMED, the carbon capture system can overcome the sensitivity to oxygen and achieve higher efficiency. The key problem of sensitivity to oxygen can be addressed by utilizing BPMED, which allows for precise control of pH and minimizes the contact between the reduced quinones and oxygen.
+
+4) Methodology:
+The proposed methodology involves the following steps:
+- Design and construction of an electrochemical cell with a bipolar membrane for pH-swing and BPMED.
+- Optimization of the pH-swing process to maximize CO2 capture efficiency and minimize energy consumption.
+- Evaluation of different electrode materials and configurations to enhance the electrochemical reactions and minimize oxygen sensitivity.
+- Testing the system with different CO2 concentrations and oxygen levels to assess its performance and durability.
+
+5) Expected Outcomes:
+The expected outcomes of this research are:
+- Development of a carbon capture system that is more efficient than the initial approach in terms of GJ energy/ton of CO2 captured.
+- Demonstration of the system's ability to capture CO2 from low concentration streams and withstand oxygen exposure.
+- Quantification of the system's energy consumption and capture efficiency under various operating conditions.
+- Identification of potential improvements and scalability of the system for industrial applications.
+
+6) Biggest Risks and Mitigation Strategies:
+The biggest risks in this research include:
+- Technical challenges in designing and optimizing the electrochemical cell with BPMED.
+- Limited availability of suitable electrode materials and membranes for the desired pH-swing and BPMED processes.
+- Potential limitations in the scalability and cost-effectiveness of the proposed system.
+
+To mitigate these risks, the research will involve collaboration with experts in electrochemical engineering and materials science. Extensive characterization and testing of different electrode materials and membranes will be conducted to identify the most suitable options. The research will also include a thorough economic analysis to assess the feasibility and cost-effectiveness of the proposed system.
+
+By leveraging the main findings of the tangential research paper, this research proposal aims to develop a more efficient carbon capture system using electrochemical pH-swing and BPMED. The proposed system will address the key problem of sensitivity to oxygen and provide a promising solution for achieving higher efficiency in carbon capture.

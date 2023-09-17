@@ -1,0 +1,37 @@
+The tangential research paper's main findings are not directly related to the initial approach or the key problem of sensitivity to oxygen in the carbon capture system. Therefore, these findings may not be directly applicable to solving the key problem. However, it is important to note that the research paper provides insights into the biochemistry and enzymatic reactions involved in methanogenesis, which is a process that converts carbon dioxide into methane. This understanding of enzymatic reactions and metabolic pathways could potentially be leveraged to design more efficient carbon capture systems.
+
+Research Proposal:
+
+1) Purpose:
+The purpose of this research proposal is to develop a more efficient carbon capture system by addressing the key problem of sensitivity to oxygen in the initial approach. We aim to leverage insights from the biochemistry and enzymatic reactions involved in methanogenesis to design a system that can capture carbon dioxide with higher efficiency and lower sensitivity to oxygen.
+
+2) Background and Current State:
+The initial approach is a solid-state faradaic electro-swing reactive adsorption system that captures CO2 using an electrochemical cell with a polyanthraquinone–carbon nanotube composite negative electrode. However, the system is sensitive to oxygen, which reduces its overall efficiency. The key problem is to find a solution to this sensitivity to oxygen.
+
+The tangential research paper provides insights into the biochemistry and enzymatic reactions involved in methanogenesis, a process that converts carbon dioxide into methane. While not directly related to the initial approach, these findings can inform our understanding of enzymatic reactions and metabolic pathways that could be relevant to designing a more efficient carbon capture system.
+
+3) Hypothesis and Addressing the Key Problem:
+Our hypothesis is that by incorporating enzymes or enzyme-like catalysts involved in methanogenesis, we can develop a carbon capture system that is less sensitive to oxygen and more efficient in capturing CO2.
+
+To address the key problem of sensitivity to oxygen, we propose to design a system that utilizes enzymes or enzyme-like catalysts that are naturally tolerant to oxygen. These enzymes can be engineered or modified to enhance their catalytic activity and stability under oxygen-rich conditions. By incorporating these enzymes into the electrochemical cell, we can mitigate the negative effects of oxygen on the reduced quinones, thereby improving the overall efficiency of the carbon capture system.
+
+4) Methodology:
+- Identify enzymes or enzyme-like catalysts involved in methanogenesis that are naturally tolerant to oxygen.
+- Engineer or modify these enzymes to enhance their catalytic activity and stability under oxygen-rich conditions.
+- Incorporate the engineered enzymes into the electrochemical cell of the carbon capture system.
+- Characterize the performance of the modified carbon capture system in terms of CO2 capture efficiency, sensitivity to oxygen, and energy consumption.
+
+5) Expected Outcomes:
+We expect that the modified carbon capture system, incorporating enzymes or enzyme-like catalysts that are naturally tolerant to oxygen, will demonstrate improved CO2 capture efficiency and reduced sensitivity to oxygen compared to the initial approach. This will result in a more efficient carbon capture system in terms of GJ energy/ton of CO2 captured.
+
+6) Biggest Risks and Mitigation:
+- Risk: Limited availability of enzymes or enzyme-like catalysts that are naturally tolerant to oxygen.
+  Mitigation: Conduct a thorough literature review and collaborate with experts in the field to identify and access suitable enzymes or catalysts. Explore the possibility of engineering or modifying existing enzymes to enhance their oxygen tolerance.
+
+- Risk: Challenges in incorporating the enzymes into the electrochemical cell and maintaining their stability and activity.
+  Mitigation: Optimize the design and materials of the electrochemical cell to ensure compatibility with the enzymes. Conduct rigorous testing and characterization to evaluate the stability and activity of the enzymes in the cell. Explore encapsulation or immobilization techniques to enhance enzyme stability.
+
+- Risk: Potential trade-offs between oxygen tolerance and catalytic activity of the enzymes.
+  Mitigation: Conduct systematic optimization and characterization studies to balance oxygen tolerance and catalytic activity. Explore enzyme engineering approaches to enhance both properties simultaneously.
+
+By addressing these risks and implementing appropriate mitigation strategies, we can minimize potential setbacks and increase the likelihood of success in developing a more efficient carbon capture system.

@@ -1,0 +1,17 @@
+The tangential research paper's main findings are related to the use of mixed ceria-based metal oxides for biosensing applications in oxygen restrictive environments. The paper demonstrates the enhanced analytical performance and possibilities for operation in oxygen-free conditions of an oxidase enzyme biosensor using tyrosinase as a model example. The research paper's findings are significant because they provide insights into the use of ceria-based metal oxides for biosensing applications in environments with limited oxygen availability.
+
+Based on the initial approach and the tangential research paper's findings, we can propose a research proposal for a more efficient carbon capture system. 
+
+1) Purpose: The purpose of this research is to develop a carbon capture system that is more efficient than the state-of-the-art (SOTA) in terms of GJ energy/ton of CO2 captured. 
+
+2) Background and current state: The initial approach is a solid-state faradaic electro-swing reactive adsorption system that captures CO2 using an electrochemical cell with a polyanthraquinone-carbon nanotube composite negative electrode. However, the key problem is the sensitivity to oxygen, which reduces the overall efficiency of the system. The tangential research paper's findings on mixed ceria-based metal oxides in oxygen restrictive environments can be useful to address this key problem.
+
+3) Hypothesis: We hypothesize that by incorporating mixed ceria-based metal oxides into the electrochemical cell of the initial approach, we can mitigate the sensitivity to oxygen and improve the overall efficiency of the carbon capture system. The mixed ceria-based metal oxides will provide enhanced oxygen storage properties and catalytic activity, allowing for efficient CO2 capture and release.
+
+4) Methodology: The research will involve synthesizing mixed ceria-based metal oxides and integrating them into the electrochemical cell of the initial approach. The performance of the modified carbon capture system will be evaluated through experiments, including CO2 capture and release tests, faradaic efficiency measurements, and durability testing. The oxygen sensitivity of the system will be assessed by exposing it to oxygen-rich environments and monitoring its performance.
+
+5) Expected outcomes: We expect that the incorporation of mixed ceria-based metal oxides into the carbon capture system will improve its efficiency in terms of GJ energy/ton of CO2 captured. The modified system should exhibit reduced sensitivity to oxygen, leading to higher faradaic efficiency and improved durability.
+
+6) Biggest risks and mitigation: The biggest risk is the potential challenges in synthesizing and integrating the mixed ceria-based metal oxides into the electrochemical cell. To mitigate this risk, we will collaborate with experts in materials synthesis and electrochemistry to ensure the successful development and integration of the modified system. Additionally, thorough characterization and testing of the modified system will be conducted to identify any potential limitations or issues and address them accordingly.
+
+By leveraging the findings of the tangential research paper on mixed ceria-based metal oxides, we aim to develop a more efficient carbon capture system that overcomes the key problem of sensitivity to oxygen. This research has the potential to contribute to the advancement of carbon capture technologies and help mitigate the impact of CO2 emissions on climate change.

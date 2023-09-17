@@ -1,0 +1,38 @@
+Research Proposal: Development of a Novel Chemisorbent for Efficient Carbon Capture
+
+1) Purpose:
+The purpose of this research proposal is to develop a novel chemisorbent for carbon capture that is more efficient than the current state-of-the-art (SOTA) technology in terms of energy consumption per ton of CO2 captured. By leveraging the main findings of a tangential research paper, we aim to address the key problem of sensitivity to oxygen in the initial approach and develop a more efficient carbon capture system.
+
+2) Background and Current State:
+The initial approach described in the problem statement is a solid-state faradaic electro-swing reactive adsorption system that uses an electrochemical cell with a polyanthraquinone-carbon nanotube composite negative electrode to capture and release CO2. While this approach has shown promising results in terms of CO2 capture efficiency and durability, it is sensitive to oxygen in the feed stream, which reduces its overall efficiency.
+
+The tangential research paper by Leonzio et al. (2022) provides an analysis of technologies for carbon dioxide capture from the air, with a focus on direct air capture (DAC). The paper discusses various DAC technologies, including absorption and adsorption, and highlights the need for more efforts to develop DAC at a large scale by reducing costs and improving efficiency. The paper also addresses the social concerns associated with DAC.
+
+3) Hypothesis and Key Problem:
+Our hypothesis is that by developing a novel chemisorbent that addresses the sensitivity to oxygen in the initial approach, we can improve the efficiency of the carbon capture system. The key problem is the presence of oxygen in the feed stream, which can cause oxidation of the reduced quinones in the electrochemical cell and reduce the overall efficiency of carbon capture.
+
+To address this key problem, we will leverage the main findings of the tangential research paper, which provides an overview of DAC technologies and suggests the need for reducing costs and improving efficiency. By developing a chemisorbent that is more resistant to oxidation by oxygen, we can mitigate the negative impact of oxygen on the carbon capture system and improve its overall efficiency.
+
+4) Methodology:
+The methodology for this research proposal will involve the following steps:
+- Literature review: Conduct a comprehensive literature review to gather information on existing chemisorbents, their properties, and their performance in carbon capture.
+- Material selection: Based on the literature review, select a suitable material or combination of materials for the development of the novel chemisorbent. Consider factors such as adsorption capacity, selectivity, stability, and cost.
+- Synthesis and characterization: Synthesize the selected material or combination of materials and characterize its properties, including surface area, pore size distribution, and chemical composition.
+- Performance evaluation: Evaluate the performance of the synthesized chemisorbent in terms of CO2 adsorption capacity, selectivity, and stability under different conditions, including the presence of oxygen.
+- Optimization: Optimize the synthesis and formulation of the chemisorbent to maximize its CO2 adsorption capacity and minimize its sensitivity to oxygen.
+- Cost analysis: Conduct a cost analysis to assess the economic feasibility of the developed chemisorbent compared to the SOTA technology.
+
+5) Expected Outcomes:
+The expected outcomes of this research proposal are:
+- Development of a novel chemisorbent that is more efficient than the SOTA technology in terms of energy consumption per ton of CO2 captured.
+- Improved resistance to oxidation by oxygen, addressing the key problem of sensitivity to oxygen in the initial approach.
+- Increased CO2 adsorption capacity and selectivity of the developed chemisorbent.
+- Cost analysis demonstrating the economic feasibility of the developed chemisorbent.
+
+6) Biggest Risks and Mitigation Strategies:
+The biggest risks in this research proposal are:
+- Failure to develop a chemisorbent with improved resistance to oxidation by oxygen: To mitigate this risk, we will conduct thorough material selection and characterization to identify materials with high stability and resistance to oxidation.
+- Inadequate CO2 adsorption capacity and selectivity of the developed chemisorbent: To mitigate this risk, we will optimize the synthesis and formulation of the chemisorbent based on performance evaluation results and feedback from the literature review.
+- High cost of the developed chemisorbent: To mitigate this risk, we will conduct a cost analysis throughout the research process to identify cost-effective materials and synthesis methods.
+
+By addressing these risks and implementing appropriate mitigation strategies, we aim to successfully develop a novel chemisorbent that is more efficient than the SOTA technology in terms of energy consumption per ton of CO2 captured.
