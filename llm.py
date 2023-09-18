@@ -11,8 +11,8 @@ dotenv.load_dotenv()
 # openai.api_key = os.getenv("OPENAI_GPT4_API_KEY")
 openai.api_type = "azure"
 openai.api_version = "2023-05-15" 
-openai.api_base = "https://americasopenai.azure-api.net/"  # Your Azure OpenAI resource's endpoint value.
-openai.api_key = "74d96cceffae45ddbeb8934844f6a371"
+openai.api_base = # Your Azure OpenAI resource's endpoint value.
+openai.api_key = # Your Azure OpenAI key
 
 # models
 EMBEDDING_MODEL = "text-embedding-ada-003"

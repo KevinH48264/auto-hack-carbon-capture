@@ -1,2 +1,4 @@
 .env
 venv/
+autoscious_logs/
+__pycache__/
