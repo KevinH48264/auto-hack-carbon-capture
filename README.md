@@ -1,7 +1,7 @@
 # auto-hack-carbon-capture
 Microsoft Hackathon 2023
 
-https://youtu.be/ptYHkwRP9-g
+Demo: https://youtu.be/ptYHkwRP9-g
 
 # How to run
 1. Ensure that you have Python installed
